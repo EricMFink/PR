@@ -31,11 +31,13 @@ This course is intended to acquaint students with the organization and regulatio
 
 ### Required 
 
-[Professional Responsibility: An Open-Source Casebook](../casebook) (Fink 2023). Available at [emfink.net/ProfessionalResponsibility/book](http://www.emfink.net/ProfessionalResponsbility/book).
+_Casebook:_ [Professional Responsibility: An Open-Source Casebook]({{ site.baseurl }}/casebook) (v.2.1 2023). Available on the course website. 
+
+_Course website:_ [emfink.net/PR]({{ site.baseurl }}). The website has the casebook (ebook and PDF formats), review questions, and links to other resources. 
 
 ### Suggested 
 
-Grace M. Giesel, [Mastering Professional Responsibility](https://cap-press.com/books/isbn/9781611636208/Mastering-Professional-Responsibility-Second-Edition) (2d ed., Carolina Academic Press 2015). 
+_Hornbook:_ Grace M. Giesel, [Mastering Professional Responsibility](https://cap-press.com/books/isbn/9781611636208/Mastering-Professional-Responsibility-Second-Edition) (2d ed., Carolina Academic Press 2015). 
 
 ## Policies
 

@@ -4,23 +4,23 @@ title: Questions
 permalink: /questions/
 ---
 
-[Bar Admission & Discipline](http://www.emfink.net/ProfessionalResponsibility/questions/Gatekeeping)
+[Bar Admission & Discipline]({{ site.baseurl }}/questions/Gatekeeping)
 
-[Duties Within Law Firms](http://www.emfink.net/ProfessionalResponsibility/questions/Firms)
+[Duties Within Law Firms]({{ site.baseurl }}/questions/Firms)
 
 
-[Advertising & Solicitation](http://www.emfink.net/ProfessionalResponsibility/questions/Advertising)
+[Advertising & Solicitation]({{ site.baseurl }}/questions/Advertising)
 
-[Attorney-Client Relationship](http://www.emfink.net/ProfessionalResponsibility/questions/Attorney-Client)
+[Attorney-Client Relationship]({{ site.baseurl }}/questions/Attorney-Client)
 
-[Competence](http://www.emfink.net/ProfessionalResponsibility/questions/Competence)
+[Competence]({{ site.baseurl }}/questions/Competence)
 
-[Fees & Client Property](http://www.emfink.net/ProfessionalResponsibility/questions/Fees)
+[Fees & Client Property]({{ site.baseurl }}/questions/Fees)
 
-[Confidentiality & Evidentiary Privileges](http://www.emfink.net/ProfessionalResponsibility/questions/Confidentiality)
+[Confidentiality & Evidentiary Privileges]({{ site.baseurl }}/questions/Confidentiality)
 
-[Conflicts of Interest](http://www.emfink.net/ProfessionalResponsibility/questions/Conflicts)
+[Conflicts of Interest]({{ site.baseurl }}/questions/Conflicts)
 
-[Duties in Litigation](http://www.emfink.net/ProfessionalResponsibility/questions/Advocacy)
+[Duties in Litigation]({{ site.baseurl }}/questions/Advocacy)
 
-[Dealing with Non-Clients](http://www.emfink.net/ProfessionalResponsibility/questions/Nonclients)
+[Dealing with Non-Clients]({{ site.baseurl }}/questions/Nonclients)
