@@ -1,7 +1,6 @@
 ---
 layout: casebook
 title: Interactions with Non-Clients
-permalink: /chap8/
 ---
 
 # Interactions with Non-Clients 

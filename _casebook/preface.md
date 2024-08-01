@@ -1,7 +1,6 @@
 ---
 layout: casebook
 title: Preface
-permalink: /preface/
 ---
 
 # Preface
@@ -14,7 +13,7 @@ Most of the materials reproduced here are in the public domain; excerpts from co
 
 <p class="case-h4">Page Navigation</p>
 
-At the top of the page for each chapter, there is a drop-down "Page Navigation" menu. Hovering over this will reveal a list of the page contents, and clicking on an item will scroll to the appropriate location on the page. On mobile devices, click on the menu icon (<img src="../img/menu.png" width="16">) to reveal the Page Navigation menu.
+At the top of the page for each chapter, there is a drop-down "Page Navigation" menu. Hovering over this will reveal a list of the page contents, and clicking on an item will scroll to the appropriate location on the page. On mobile devices, click on the menu icon (<img src="{{ site.baseurl }}/assets/img/menu.png" width="16">) to reveal the Page Navigation menu.
 
 <p class="large-italic">Sidenotes & Margin Notes</p>
 
@@ -31,7 +30,7 @@ Links to cross-referenced pages or external online material are indicated by red
 
 <p class="case-h4">PDF Version </p>
 
-A PDF version of this casebook is available for downloading from the [Table of Contents](../contents) page. The PDF file includes embedded links as described above. 
+A PDF version of this casebook is available for downloading from the [Table of Contents]({{ site.baseurl }}/casebook/) page. The PDF file includes embedded links as described above. 
 
 <div class="colophon">
 

@@ -1,7 +1,6 @@
 ---
 layout: casebook
 title: The Attorney-Client Relationship
-permalink: /chap3/
 ---
 
 # The Attorney-Client Relationship

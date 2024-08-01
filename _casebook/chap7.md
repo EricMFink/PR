@@ -1,7 +1,6 @@
 ---
 layout: casebook
 title: Duties in Litigation
-permalink: /chap7/
 ---
 
 # Duties in Litigation 
@@ -377,7 +376,7 @@ A lawyer shall not:
 
 > (3) disqualification of the lawyer would work substantial hardship on the client.
 
-(b) A lawyer may act as advocate in a trial in which another lawyer in the lawyer's firm is likely to be called as a witness unless precluded from doing so by Rule 1.7 or Rule 1.9.)
+(b) A lawyer may act as advocate in a trial in which another lawyer in the lawyer's firm is likely to be called as a witness unless precluded from doing so by Rule 1.7 or Rule 1.9.
 
 </div>
 

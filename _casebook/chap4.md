@@ -1,7 +1,6 @@
 ---
 layout: casebook
 title: Duty of Care
-permalink: /chap4/
 ---
 
 # The Duty of Care

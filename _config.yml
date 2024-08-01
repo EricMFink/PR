@@ -2,7 +2,7 @@ url: https://www.emfink.net
 baseurl: /PR
 title: Professional Responsibility
 
-last_updated: 17 May 2024  # leave blank if you don't want to display last updated
+last_updated: 1 August 2024  # leave blank if you don't want to display last updated
 
 author:
   name: Eric M. Fink
@@ -22,7 +22,7 @@ author:
 
 course: 
   subject: Professional Responsibility
-  term: Fall 2023
+  term: Fall 2024
   room: Room 207 
   meets: "Monday & Wednesday 9:45–10:45 am"
   repository: ProfessionalResponsibility
@@ -30,12 +30,15 @@ course:
 coursebook:
   title: Professional Responsibility
   subtitle: An Open-Source Casebook
-  version: '2.1'
-  date: August 2023
+  version: '3.0'
+  date: August 2024
 
 collections:
   questions:
     output: true
+  casebook:
+    output: true
+    permalink: /:collection/:name
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

@@ -1,7 +1,6 @@
 ---
 layout: casebook
 title: Advertising & Solicitation
-permalink: /chap2/
 ---
 
 # Advertising & Solicitation 
@@ -196,7 +195,7 @@ On January 12, 2004, The Florida Bar filed complaints against the attorneys, all
 >
 > [^pitbull]:: 
 
-  {-} ![Pitbull ad]({{ site.baseurl }}/assets/img/Pitbull.jpg)
+  {-} ![Pitbull ad]({{ site.baseurl }}/assets/casebook/img/Pitbull.jpg)
 
 The referee found that the attorneys did not violate rule 4-7.2(b)(3), relying on the distinction that the logo and telephone number "describe qualities of the respondent attorneys" but do not describe or characterize "the quality of the lawyer services." The referee also rejected the Bar's assertion that the ad violated rule 4-7.2(b)(4). After noting that pit bulls are perceived as "loyal, persistent, tenacious, and aggressive," the referee found these qualities
 
@@ -264,7 +263,7 @@ We disapprove the referee's finding that the television commercial at issue is c
 
 The Florida Bar revisted the "pit bull" issue in 2021. [Florida Bar v. Robert Laurence Pelltier]({{ site.baseurl }}/assets/materials/Advertising/Pelletier-Complaint.pdf), No. 2021-00,159(4A) (March 2, 2021). 
 
-![Pelletier ad]({{ site.baseurl }}/assets/img/Pitbull2.jpg)
+![Pelletier ad]({{ site.baseurl }}/assets/casebook/img/Pitbull2.jpg)
 
 In his [answer]({{ site.baseurl }}/assets/materialsAdvertising/Pelletier-Answer.pdf) to the Bar complaint, Pelletier to the Bar complaint, Pelletier asserted that he "was unaware of said case law until recently. Furthermore, Respondent was unaware that using a nickname such as “Pitbull” was a violation of The Florida Bar Rules." He also contended that "The Florida Bar rule(s) sited [sic] violate the first amendment freedom of speech section." He ultimately entered a [guilty plea]({{ site.baseurl }}/assets/materials/Advertising/Pelletier-GuiltyPlea.pdf) and received a [reprimand]({{ site.baseurl }}/assets/materials/Advertising/Pelletier-RefereeReport.pdf).
 

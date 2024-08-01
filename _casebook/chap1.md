@@ -1,7 +1,6 @@
 ---
 layout: casebook
 title: Law as a Regulated Profession
-permalink: /chap1/
 ---
 
 # Law as a Regulated Profession 
@@ -100,72 +99,6 @@ permalink: /chap1/
 
 ### Misconduct & Discipline
 
-<div class="legal-code"> 
-
-#### Model Rules of Professional Conduct, Rule 8.2
-
-<p class="case-h1">Judicial & Legal Officials</p>
-
-(a) A lawyer shall not make a statement that the lawyer knows to be false or with reckless disregard as to its truth or falsity concerning the qualifications or integrity of a judge, adjudicatory officer or public legal officer, or of a candidate for election or appointment to judicial or legal office.
-
-(b) A lawyer who is a candidate for judicial office shall comply with the applicable provisions of the Code of Judicial Conduct.
-
-</div>
-
-<div class="legal-code"> 
-
-#### Model Rules of Professional Conduct, Rule 8.3
-
-<p class="case-h1">Reporting Professional Misconduct</p>
-
-(a) A lawyer who knows that another lawyer has committed a violation of the Rules of Professional Conduct that raises a substantial question as to that lawyer's honesty, trustworthiness or fitness as a lawyer in other respects, shall inform the appropriate professional authority.
-
-(b) A lawyer who knows that a judge has committed a violation of applicable rules of judicial conduct that raises a substantial question as to the judge's fitness for office shall inform the appropriate authority.
-
-(c) This Rule does not require disclosure of information otherwise protected by Rule 1.6 or information gained by a lawyer or judge while participating in an approved lawyers assistance program.
-
-</div>
-
-<div class="legal-code"> 
-
-#### Model Rules of Professional Conduct, Rule 8.4
-
-<p class="case-h1">Misconduct</p>
-
-It is professional misconduct for a lawyer to:
-
-(a) violate or attempt to violate the Rules of Professional Conduct, knowingly assist or induce another to do so, or do so through the acts of another;
-
-(b) commit a criminal act that reflects adversely on the lawyer's honesty, trustworthiness or fitness as a lawyer in other respects;
-
-(c) engage in conduct involving dishonesty, fraud, deceit or misrepresentation;
-
-(d) engage in conduct that is prejudicial to the administration of justice;
-
-(e) state or imply an ability to influence improperly a government agency or official or to achieve results by means that violate the Rules of Professional Conduct or other law;
-
-(f) knowingly assist a judge or judicial officer in conduct that is a violation of applicable rules of judicial conduct or other law; or
-
-(g) engage in conduct that the lawyer knows or reasonably should know is harassment or discrimination on the basis of race, sex, religion, national origin, ethnicity, disability, age, sexual orientation, gender identity, marital status or socioeconomic status in conduct related to the practice of law. This paragraph does not limit the ability of a lawyer to accept, decline or withdraw from a representation in accordance with Rule 1.16. This paragraph does not preclude legitimate advice or advocacy consistent with these Rules.
-
-</div>
-
-<div class="legal-code"> 
-
-#### Model Rules of Professional Conduct, Rule 8.5
-
-<p class="case-h1">Disciplinary Authority; Choice of Law</p>
-
-(a) Disciplinary Authority. A lawyer admitted to practice in this jurisdiction is subject to the disciplinary authority of this jurisdiction, regardless of where the lawyer's conduct occurs. A lawyer not admitted in this jurisdiction is also subject to the disciplinary authority of this jurisdiction if the lawyer provides or offers to provide any legal services in this jurisdiction. A lawyer may be subject to the disciplinary authority of both this jurisdiction and another jurisdiction for the same conduct.
-
-(b) Choice of Law. In any exercise of the disciplinary authority of this jurisdiction, the rules of professional conduct to be applied shall be as follows:
-
-> (1) for conduct in connection with a matter pending before a tribunal, the rules of the jurisdiction in which the tribunal sits, unless the rules of the tribunal provide otherwise; and
-
-> (2) for any other conduct, the rules of the jurisdiction in which the lawyer’s conduct occurred, or, if the predominant effect of the conduct is in a different jurisdiction, the rules of that jurisdiction shall be applied to the conduct. A lawyer shall not be subject to discipline if the lawyer’s conduct conforms to the rules of a jurisdiction in which the lawyer reasonably believes the predominant effect of the lawyer’s conduct will occur.
-
-</div>
-
 <div class="legal-code">
 
 #### N.C. Gen. Stat. § 84-28
@@ -216,199 +149,31 @@ The senior regular resident judge of the superior court of any district wherein 
 
 </div>
 
-#### Neal v. Clinton, No. CIV 2000–5677 (Ark. Cir. Ct. Jan. 19, 2001)
+<div class="legal-code"> 
 
-<p class="case-h1">Agreed Order of Discipline</p>
+#### Model Rules of Professional Conduct, Rule 8.2
 
-Come now the parties hereto and agree to the following Order of this Court in settlement of the pending action:
+<p class="case-h1">Judicial & Legal Officials</p>
 
-The formal charges of misconduct upon which this Order is based arose out of information referred to the Committee on Professional Conduct ("the Committee") by the Honorable Susan Webber Wright, Chief United States District Judge for the Eastern District of Arkansas. The information pertained to William Jefferson Clinton's deposition testimony in a civil case brought by Ms. Paula Jones in which he was a defendant, _Jones v. Clinton_.
+(a) A lawyer shall not make a statement that the lawyer knows to be false or with reckless disregard as to its truth or falsity concerning the qualifications or integrity of a judge, adjudicatory officer or public legal officer, or of a candidate for election or appointment to judicial or legal office.
 
-Mr. Clinton was admitted to the Arkansas bar on September 7, 1973. On June 30, 1990, he requested that his Arkansas license be placed on inactive status for continuing legal education purposes, and this request was granted. The conduct at issue here does not arise out of Mr. Clinton's practice of law. At all times material to this case, Mr. Clinton resided in Washington, D.C., but he remained subject to the Model Rules of Professional Conduct for the State of Arkansas.
+(b) A lawyer who is a candidate for judicial office shall comply with the applicable provisions of the Code of Judicial Conduct.
 
-On April 1, 1998, Judge Wright granted summary judgment to Mr. Clinton, but she subsequently found him in Civil contempt in a 32–page Memorandum Opinion and Order (the "Order") issued on April 12, 1999, ruling that he had "deliberately violated this Court's discovery orders and thereby undermined the integrity of the judicial system." Judge Wright found that Mr. Clinton had "responded to plaintiff's questions by giving false, misleading and evasive answers that were designed to obstruct the judicial process concerning whether he and Ms. Monica Lewinsky had ever been alone together and whether he had ever engaged in sexual relations with Ms. Lewinsky." Judge Wright offered Mr. Clinton a hearing, which he declined by a letter from his counsel, dated May 7, 1999. Mr. Clinton was subsequently ordered to pay, and did pay, over $90,000, pursuant to the Court's contempt findings. Judge Wright also referred the matter to the Committee "for review and any action it deems appropriate."
+</div>
 
-Mr. Clinton's actions which are the subject of this Agreed Order have subjected him to a great deal of public criticism. Twice elected President of the United States, he became only the second President ever impeached and tried by the Senate, where he was acquitted. After Ms. Jones took an appeal of the dismissal of her case, Mr. Clinton settled with her for $850,000, a sum greater than her initial ad damnum in her complaint. As already indicated, Mr. Clinton was held in civil contempt and fined over $90,000.
+<div class="legal-code"> 
 
-Prior to Judge Wright's referral, Mr. Clinton had no prior disciplinary record with the Committee, including any private warnings. He had been a member in good standing of the Arkansas Bar for over twenty-five years. He has cooperated fully with the Committee in its investigation of this matter and has furnished information to the Committee in a timely fashion.
+#### Model Rules of Professional Conduct, Rule 8.3
 
-Mr. Clinton's conduct, as described in the Order, caused the court and counsel for the parties to expend unnecessary time, effort, and resources. It set a poor example for other litigants, and this damaging effect was magnified by the fact that at the time of his deposition testimony, Mr. Clinton was serving as President of the United States.
+<p class="case-h1">Reporting Professional Misconduct</p>
 
-Judge Wright ruled that the testimony concerning Ms. Lewinsky "was not essential to the core issues in this case and, in fact, that some of this evidence might even be inadmissible." Judge Wright dismissed the case on the merits by granting Mr. Clinton summary judgment, declaring that the case was "lacking in merit—a decision that would not have changed even had the President been truthful with respect to his relationship with Ms. Lewinsky." As Judge Wright also observed, as a result of Mr. Clinton's paying $850,000 in settlement, "plaintiff was made whole, having agreed to a settlement in excess of that prayed for in the complaint." Clinton also paid to plaintiff $89,484 as the "reasonable expenses, including attorney's fees, caused by his willful failure to obey the Court's discovery orders."
+(a) A lawyer who knows that another lawyer has committed a violation of the Rules of Professional Conduct that raises a substantial question as to that lawyer's honesty, trustworthiness or fitness as a lawyer in other respects, shall inform the appropriate professional authority.
 
-On May 22, 2000, after receiving complaints from Judge Wright and the Southeastern Legal Foundation, the Committee voted to initiate disbarment proceedings against Mr. Clinton. On June 30, 2000, counsel for the Committee filed a complaint seeking disbarment. Mr. Clinton filed an answer on August 29, 2000, and the case is in the early stages of discovery.
+(b) A lawyer who knows that a judge has committed a violation of applicable rules of judicial conduct that raises a substantial question as to the judge's fitness for office shall inform the appropriate authority.
 
-In this Agreed Order Mr. Clinton admits and acknowledges, and the Court, therefore, finds that:
+(c) This Rule does not require disclosure of information otherwise protected by Rule 1.6 or information gained by a lawyer or judge while participating in an approved lawyers assistance program.
 
-A. That he knowingly gave evasive and misleading answers, in violation of Judge Wright's discovery orders, concerning his relationship with Ms. Lewinsky, in an attempt to conceal from plaintiff Jones' lawyers the true facts about his improper relationship with Ms. Lewinsky, which had ended almost a year earlier.
-
-B. That by knowingly giving evasive and misleading answers, in violation of Judge Wright's discovery orders, he engaged in conduct that is prejudicial to the administration of justice in that his discovery responses interfered with the conduct of the Jones case by causing the court and counsel for the parties to expend unnecessary time, effort, and resources, setting a poor example for other litigants, and causing the court to issue a thirty-two page Order civilly sanctioning Mr. Clinton.
-
-Upon consideration of the proposed Agreed Order, the entire record before the Court, the advice of counsel, and the Arkansas Model Rules of Professional Conduct (the "Model Rules"), the Court finds:
-
-1. That Mr. Clinton's conduct, heretofore set forth, in the Jones case violated Model Rule 8.4(d), when he gave knowingly evasive and misleading discovery responses concerning his relationship with Ms. Lewinsky, in violation of Judge Wright's discovery orders. Model Rule 8.4(d) states that it is professional misconduct for a lawyer to "engage in conduct that is prejudicial to the administration of justice."
-
-WHEREFORE, it is the decision and order of this Court that William Jefferson Clinton, Arkansas Bar ID # 73019, be, and hereby is, SUSPENDED for FIVE YEARS for his conduct in this matter, and the payment of fine in the amount of $ 25,000. The suspension shall become effective as of the date of January 19, 2001.
-
-
-
-
-#### Matter of Giuliani, No. 2021-00506 (N.Y. App. Div. June 24, 2021).
-
-The Attorney Grievance Committee moves for an order immediately suspending respondent from the practice of law based upon claimed violations of rules 3.3(a); 4.1; 8.4(c) and 8.4(h) of the Rules of Professional Conduct. Respondent was admitted to practice as an attorney and counselor at law in the State of New York on June 25, 1969, under the name Rudolph William Giuliani. He maintains a law office within the First Judicial Department.
-
-For the reasons that follow, we conclude that there is uncontroverted evidence that respondent communicated demonstrably false and misleading statements to courts, lawmakers and the public at large in his capacity as lawyer for former President Donald J. Trump and the Trump campaign in connection with Trump's failed effort at reelection in 2020. These false statements were made to improperly bolster respondent's narrative that due to widespread voter fraud, victory in the 2020 United States presidential election was stolen from his client. We conclude that respondent's conduct immediately threatens the public interest and warrants interim suspension from the practice of law, pending further proceedings before the Attorney Grievance Committee (sometimes AGC or Committee).
-
-<p class="case-h1">The Nature of this Proceeding</p>
-
-During the course of this ongoing investigation into numerous complaints of respondent's alleged professional misconduct, the AGC seeks respondent's immediate suspension from the practice law in the State of New York. Under certain circumstances, such serious interim relief is available, pending a full formal disciplinary proceeding. Interim suspension is available even where formal charges have not yet been filed.
-
-All attorneys who are licensed to practice law in New York are subject to the Rules of Conduct, which establish a framework for the ethical practice of the law and a lawyer's duties as an officer of the legal system. Violation of these rules may lead to professional discipline. The ultimate purpose of any disciplinary proceeding, however, is not to impose punishment for breaches of the Rules of Conduct, but rather "to protect the public in its reliance upon the integrity and responsibility of the legal profession".
-
-Each Judicial Department of theAppellate Divisions of the New York Supreme Court is responsible for the enforcement of the Rules of Professional Conduct within its departmental jurisdiction. Attorney Grievance Committees, either upon receipt of a written complaint, or acting sua sponte, are charged with investigating misconduct through various means, including interviewing witnesses, directing the attorney under investigation to submit written responses or appear for a formal interview, and other actions necessary to investigate the complaint. Once the investigation is complete, the Committee may commence a formal proceeding in which the attorney has the right to be heard. If the Committee concludes that the attorney may face public discipline, then, consistent with the objective of "protecting the public, maintaining the integrity and honor of the profession, or detering others from committing similar misconduct," the matter is brought before the Appellate Division. The Court is tasked with the responsibility of reviewing the record and deciding whether there has been any misconduct and if so, what the appropriate discipline would be.
-
-In certain cases, the Committee may, during the pendency of its investigation, make a motion to the Court for an attorney's interim suspension. Interim suspension is a serious remedy, available only in situations where it is immediately necessary to protect the public from the respondent's violation of the Rules. At bar, the AGC is proceeding on the basis that there is uncontroverted evidence of professional misconduct. Importantly, when an attorney is suspended on an interim basis, he or she nonetheless has an opportunity for a post-suspension hearing.
-
-<p class="case-h1">Uncontroverted Claims of Misconduct</p>
-
-Only uncontroverted claims of professional misconduct may serve as a basis for interim suspension on this motion. In connection with its claim that uncontroverted attorney misconduct has occurred, the AGC relies upon the following provisions of the New York Rules of Professional Conduct: rule 3.3 which provides that: "(a) A lawyer shall not knowingly: (1) make a false statement of fact or law to a tribunal." rule 4.1 which provides that: "In the course of representing a client, a lawyer shall not knowingly make a false statement of fact or law to a third person," and rule 8.4 "A lawyer or law firm shall not: (c) engage in conduct involving dishonesty, fraud, deceit or misrepresentation, or (h) engage in any other conduct that adversely reflects on the lawyer's fitness as a lawyer."
-
-Under the Rules of Professional Conduct, the prohibition against false statements is broad and includes misleading statements as well as affirmatively false statements. In addition, the Rules concern conduct both inside and outside of the courtroom.
-
-In general, the AGC relies upon statements that respondent made following the 2020 election at press conferences, state legislative hearings, radio broadcasts (as both a guest and host), podcasts, television appearances and one court appearance. Respondent concedes that the statements attributed to him in this motion were all made in the context of his representation of Donald J. Trump and/or the Trump campaign.
-
-<p class="case-h1">Preliminary Issues</p>
-
-Respondent raises an overarching argument that the AGC's investigation into his conduct violates his First Amendment right of free speech. He does not attack the constitutionality of the particular disciplinary rules; he seemingly claims that they are unconstitutional as applied to him. We reject respondent's argument. This disciplinary proceeding concerns the professional restrictions imposed on respondent as an attorney to not knowingly misrepresent facts and make false statements in connection with his representation of a client. It is long recognized that "speech by an attorney is subject to greater regulation than speech by others". Unlike lay persons, an attorney is "a professional trained in the art of persuasion". As officers of the court, attorneys are "an intimate and trusted and essential part of the machinery of justice". In other words, they are perceived by the public to be in a position of knowledge, and therefore, "a crucial source of information and opinion". This weighty responsibility is reflected in the "ultimate purpose of disciplinary proceedings which is to protect the public in its reliance upon the integrity and responsibility of the legal profession". While there are limits on the extent to which a lawyer's right of free speech may be circumscribed, these limits are not implicated by the circumstances of the knowing misconduct that this Court relies upon in granting interim suspension in this case.
-
-Respondent also raises lack or absence of knowledge as a general defense, stating that even if his statements were false or misleading, he did not make the statements knowing they were false when he made them. We agree that the Rules of Professional Conduct only proscribe false and misleading statements that are knowingly made. Both rules 3.3 and 4.1, expressly provide for an element of knowingness. Rule 8.4(c), however, contains no such express element. In New York there are no cases which directly hold that a violation of rule 8.4(c) must be knowing, although there is authority that implies it. In a Federal case applying New York's Rules, the court found that there was a violation of rule 8.4(c) where false statements made by the offending attorney were not inadvertent, but were knowing. This Court thereafter imposed reciprocal discipline based on that finding. Sister state jurisdictions have held that knowledge is a required element of misconduct in violation of rules identical to RPC 8.4(c). We, therefore, hold that in order to find a violation of RPC 8.4(c), the AGC is required to satisfy a knowing standard. Knowingness is expressly defined in the Rules of Professional Conduct. Rule 1.0(k) provides that "knowingly," "known," "know" or "knows" "denotes actual knowledge of the fact in question. A person's knowledge may be inferred from circumstances." Thus, the element of knowingness must be considered in connection with each particular claim of misconduct.
-
-On this motion, whenever the AGC has sustained its burden of proving that respondent made knowing false and misleading factual statements to support his claim that the presidential election was stolen from his client, respondent must then demonstrate that there is some legitimate dispute about whether the statement is false or whether the statement was made by him without knowledge it was false. Conclusory or vague arguments will not create a controverted issue as to whether there has been misconduct. Consequently, once the AGC has established its prima facie case, respondent's references to affidavits he has not provided, or sources of information he has not disclosed or other nebulous unspecified information, will not prevent the Court from concluding that misconduct has occurred. Respondent cannot create a controverted issue of misconduct based upon what he does not submit to this Court. Nor will offers to provide information at a later time, or only if the Court requests it, suffice.
-
-<p class="case-h1">Instances of Attorney Misconduct</p>
-
-In making this motion, the AGC primarily relies on claims that respondent made false and misleading factual statements to cast doubt on the reliability of the results of the 2020 presidential election, in which Joseph R. Biden was constitutionally certified and then inaugurated as the 46th President of the United States. We find that the following false statements made by respondent constitute uncontroverted proof of respondent's professional misconduct.
-
-Respondent repeatedly stated that in the Commonwealth of Pennsylvania more absentee ballots came in during the election than were sent out before the election. The factual "proof" he claimed supported his conclusion was that although Pennsylvania sent out only 1,823,148 absentee ballots before the election, 2,589,242 million absentee ballots were then counted in the election. This factual statement regarding the number of ballots mailed out before the election was simply untrue. The true facts are that 3.08 million absentee ballots were mailed out before the general election, which more than accounted for the over 2.5 million mail-in ballots that were actually tallied. Notwithstanding the true facts, respondent repeatedly advanced false statements that there were 600,000 to 700,000 fabricated mail-in ballots, which were never sent to voters in advance of the election. Respondent made these false claims during his November 8, 2020 radio program, _Uncovering the Truth with Rudy Giuliani & Dr. Maria Ryan_, during a November 25, 2020 meeting of the Republican State Senate Majority Policy Committee in Gettysburg, Pennsylvania, during a December 2, 2020 meeting of the Michigan House Oversight Committee, during his December 17, 2020 broadcast of the radio show _Chat with the Mayor_, and he repeated it during an episode of Steve Bannon's the _War Room: Pandemic_ podcast on December 24, 2020.
-
-Respondent does not deny that his factual statement, that only 1.8 million mail-in ballots were requested, was untrue. His defense is that he did not make this misstatement knowingly. Respondent claims that he relied on some unidentified member of his "team" who "inadvertently" took the information from the Pennsylvania website, which had the information mistakenly listed. There is simply no proof to support this explanation. For instance, there is no affidavit from this supposed team member who is not identified by name or otherwise, nor is there any copy of the web page that purportedly listed the allegedly incorrect data. In fact, the only proof in this record is the official data on the Pennsylvania open data portal correctly listing the ballots requested as 3.08 million.
-
-_The above identified misstatements violate Rules of Professional Conduct 4.1 and 8.4(c)._
-
-On November 17, 2020 respondent appeared as the attorney for plaintiff on a matter captioned _Donald J. Trump for President, Inc. v Boockvar_, in the United States District Court for the Middle District of Pennsylvania. He was admitted pro hac vice based on his New York law license.
-
-Respondent repeatedly represented to the court that his client, the plaintiff, was pursuing a fraud claim, when indisputably it was not. Respondent's client had filed an amended complaint before the November 17, 2020 appearance in which the only remaining claim asserted was an equal protection claim, not based on fraud at all. The claim concerned the experience of two voters having their mail-in ballots rejected and challenged the notice and cure practices concerning mail-in ballots in different counties.
-
-The plaintiff's original complaint had included claims about canvassing practices. The plaintiff, however, voluntarily withdrew those claims when it served the amended complaint. Notwithstanding, respondent insisted on extensively arguing a fraud case based on the withdrawn canvassing claims.
-
-Respondent's mischaracterization of the case was not simply a passing mistake or inadvertent reference. Fraud was the crown of his personal argument before the court that day. In his opening remarks, respondent claimed that the allegations in the complaint concerned "widespread, nationwide voter fraud of which this is a part." He persisted in making wide ranging conclusory claims of fraud in Pennsylvania elections and other jurisdictions allegedly occurring over a period of many years. Respondent argued that the plaintiff's fraud arguments pertained to the canvassing claim, notwithstanding that there was neither a fraud nor a canvassing claim before the court.
-
-After opposing counsel pointed out, and respondent's own co-counsel agreed, that the plaintiff had asserted no claims of fraud the court made the following inquiries and received the following answers from respondent:
-
-> "THE COURT: So it's correct to say then that you're not alleging fraud in the amended complaint?
-
-> "RESPONDENT: No, Your Honor, it is not, because we incorporate by reference in 150 all of the allegations that precede it, which include a long explanation of a fraudulent, fraudulent process, a planned fraudulent process.
-
-> "THE COURT: So you are alleging fraud?
-
-> RESPONDENT: Yes, Your Honor."
-
-Later in the transcript, after the court pointed respondent to the amended complaint, the following further court inquiries and responses occurred:
-
-> "THE COURT: So the amended complaint—does the amended complaint plead fraud with particularity?
-
-> "RESPONDENT: No, Your Honor. And it doesn't plead fraud. It pleads the---it pleads the plan or scheme that we lay out in 132 to 149 without characterizing it."
-
-These proceedings were open by phone line to as many as 8,000 journalists and other members of the public. At the outset of the argument it was reported that at least 3,700 people had already dialed in.
-
-It is considered a false and misleading statement under the Rules of Professional Conduct to mispresent the status of a pending proceeding, whether in or out of court. Stating that a case presents a fraud claim when it does not, is a false and misleading statement about the status of a pending proceeding.
-
-Respondent argues that there was no misconduct because he truthfully told the court that day that there were no fraud claims. This defense rings hollow. Respondent's original position, that there was a fraud claim, was made despite an amended complaint in which his very own client withdrew any fraud related claim. Respondent's own co-counsel represented, in respondent's presence, that the plaintiff was not asserting a fraud claim and there was extensive argument by opposing counsel. It is indisputable that respondent had to be aware that there were no fraud claims in the case. Significant time and effort were expended on respondent's false misrepresentations to the court regarding the nature of the proceedings. This resulted in respondent's arguments in support of fraud appearing to be seemingly unanswered on the record and misleading the listening public, because fraud was not a part of the case. Respondent's so-called admission of the true status of the case did not occur until he was pressed by the court to concede the point at page 118 of the transcript.
-
-The confusion respondent created by falsely insisting that there was a fraud/canvassing claim before the court persisted beyond that court appearance. The parties were given leave to submit briefs. Plaintiff's brief included argument about the canvassers' claim, even though it had been withdrawn. Consequently, the court addressed the claim in its subsequent decision and dismissed it on the merits. In footnote 127 the court stated "Count I makes no mention of the poll-watching allegations, nor does it seek relief for any violation of law on the basis of those allegations. Out of an abundance of caution, however, the Court considers whether these allegations state a claim".
-
-_The above identified misstatements violate RPC 8.4(c). These misstatements violate RPC 3.3 because they were made before a tribunal. These misstatements violate RPC 4.1 because they were made to third parties consisting of over 3,700 members of the press and the public._
-
-Respondent repeatedly stated that dead people "voted" in Philadelphia in order to discredit the results of the vote in that city. He quantified the amount of dead people who voted at various times as 8,021; while also reporting the number as 30,000.
-
-As the anecdotal poster child to prove this point, he repeatedly stated that famous heavyweight boxer Joe Frazier continued to vote years after he was dead and stated on November 7, 2020 "he is still voting here." The public records submitted on this motion unequivocally show that respondent's statement is false. Public records show that Pennsylvania formally cancelled Mr. Frazier's eligibility to vote on February 8, 2012, three months after he died.
-
-As for respondent's argument that his misstatements were unknowing, respondent fails to provide a scintilla of evidence for any of the varying and wildly inconsistent numbers of dead people he factually represented voted in Philadelphia during the 2020 presidential election. Although respondent assured the public that he was investigating this claim, respondent has not provided this tribunal with any report or the results of any investigation which supports his statements about how many dead voters he claims voted in Philadelphia in the 2020 presidential election. Respondent claims his statements were justified because the state of Pennsylvania subsequently agreed to purge 21,000 dead voters from its rolls in 2021. This fact, even if true, is beside the point. This statistic concerns the whole state. Purging voter rolls does not prove that the purged voters actually voted in 2020 and per force it does not prove they voted in Philadelphia. It does not even prove that they were dead in November 2020. Moreover, the number of statewide purged voters (21,000) bears no correlation to the numbers of dead voters respondent factually asserted voted in Philadelphia alone (either 8,000 or 30,000). Clearly any statewide purging of voters from the voting rolls in 2021 could not have provided a basis for statements made by respondent in 2020, because the information did not exist. Regarding Mr. Frazier, respondent claims he reasonably relied on the reporting of a "blogger." The blog article provided on this motion, however, never claims that Mr. Frazier voted in the 2020 election. Nor could it, because the claims made in the article (in which respondent was quoted) are based upon an alleged review of public records from 2017 and 2018.
-
-Respondent made these false statements at least twice before the AGC brought this motion; first at a November 7, 2020 press conference at Four Seasons Total Landscaping and again during the November 25, 2020 meeting of the Republican State Senate Majority Policy Committee in Gettysburg, Pennsylvania. Despite the unequivocal evidence provided in this very motion, that Mr. Frazier is not on the Pennsylvania voting rolls, respondent continued to endorse this fictionalized account in the March 4, March 11 and March 14, 2021 episodes of his broadcast radio show _Chat with the Mayor_, all of which aired after this motion was brought.
-
-_The above identified misstatements violate RPC 4.1 and RPC 8.4(c)._
-
-Respondent repeated to lawmakers and the public at large numerous false and misleading statements regarding the Georgia presidential election results. These statements, as particularized below, were all knowingly made with the object of casting doubt on the accuracy of the vote. Respondent's general claim, without providing this Court with any documentary support, that he relied on "hundreds of pages of affidavits and declarations in [respondent's] possession that document gross irregularities "will not suffice to controvert the specific findings that he knowingly made the false statements that are particularized below.
-
-Respondent made extensive and wide-ranging claims about Dominion Voting Systems Inc.'s voting machines manipulating the vote tallies to support his narrative that votes were incorrectly reported. Georgia, however, had completed a hand count of all ballots cast in the presidential audit. The hand audit, which relied exclusively on the printed text on the ballot-marking device, or bubbled-in the choice of the absentee ballot, confirmed the results of the election with a zero percent risk limit. Respondent's statement that the vote count was inaccurate, without referencing the hand audits, was misleading. By law, this audit was required to take place following the election and be completed no later than December 31, 2020. Respondent's statements were made while the hand audit was proceeding and after it concluded. We understand that Dominion has sued respondent for defamation in connection with his claims about their voting machines. Consequently, we do not reach the issue of whether respondent's claims about the Dominion voting machines were false, nor do we need to.
-
-In view of the hand counts conducted in Georgia, we find that respondent's statements about the results of the Georgia election count are false. Respondent provides no basis in this record for disputing the hand count audit. Respondent made these statements at least on December 3, 2020 when appearing before the Georgia Legislature's Senate Judiciary Committee, during a December 6, 2020 episode of the radio show _Uncovering the Truth_, during a December 22, 2020 episode of his radio show _Chat with the Mayor_, he alluded to it in a December 27, 2020 episode of _Uncovering the Truth_, and then again during a January 5, 2021 episode of the _War Room_ podcast.
-
-_The above identified misstatements violate RPC 4.1 and RPC 8.4(c)._
-
-At various times, respondent claimed that 65,000 or 66,000 or 165,00 underage voters illegally voted in the Georgia 2020 election. The Georgia Office of the Secretary of State undertook an investigation of this claim. It compared the list of all of the people who voted in Georgia to their full birthdays. The audit revealed that there were zero (0) underage voters in the 2020 election. While a small number of voters (four) had requested a ballot prior to turning 18, they all turned 18 by the time the election was held in November 2020. Respondent does not expressly deny the truth of this information. Instead respondent claims that he reasonably relied on "expert" affidavits, including one by Bryan Geels, in believing the facts he stated were true. None of these affidavits were provided to the Court. Respondent claims that Mr. Geels opined that there were "more than 65,000 individuals who voted had registered to vote prior to their 17th birthday" At a bare minimum, the statement attributed to Mr. Geels does not support respondent's claim that the number of underage teenage voters was 165,000. But respondent's statement about what was said to him is insufficient as to all of respondent's statements on underage voters for other reasons. We do not have the affidavit that respondent claims Mr. Geels prepared and he relied on. We do not know when the affidavit was provided to respondent. We do not know what data or source information Mr. Geels relied on in reaching his conclusion, nor do we know what methodology Mr. Geels used for his analysis. Other than respondent calling him an "expert," we do not know Mr. Geels' actual area of expertise or what qualifies him as such. Merely providing names and conclusory assertions that respondent had a basis for what he said, does not raise any disputed issue about whether misconduct has occurred.
-
-Respondent made statements regarding underage voters in Georgia on his radio show, _Chat with the Mayor_, at least on January 5, January 7, and January 22, 2021. He then repeated this statement on the April 27th episode of his radio show, after this motion for interim suspension was brought.
-
-_The above identified misstatements violate RPC 4.1 and RPC 8.4(c)._
-
-Respondent stated to lawmakers, and the public at large, that more than 2,500 Georgia felons voted illegally. The Georgia Secretary of State also investigated this claim. By comparing lists from the Departments of Corrections and Community Supervision, with the list of people who actually voted in November 2020, the Secretary of State identified a universe of 74 potential felony voters, who were then investigated. Even if all 74 identified persons actually voted illegally, the number is nowhere near the 2,500 that respondent claimed and the number would, in any event, be statically irrelevant in supporting a claim that the election was stolen. Respondent's statements that there were 2,500 voting felons is false.
-
-Respondent claims to have relied on the unproduced affidavit of Mr. Geels for this information as well. Respondent states that Mr. Geels opined that "there could have been" more than 2,500 incarcerated felons who voted. This opinion, as phrased and as reported by respondent, is wholly speculative. It is also conclusory, rendering it insufficient for the same reasons as is Mr. Geels' reported opinion regarding underage voters.
-
-On January 5, 2021, during a _War Room_ podcast respondent stated that at least 2,500 felons voted in the Georgia election.
-
-_The above identified misstatements violate RPC 4.1 and RPC 8.4(c)._
-
-Respondent stated that dead people voted in Georgia during the 2020 presidential election. He claimed that he had the names of 800 dead people who voted based upon the number of people who had passed away in 2020. Respondent further stated that this number was really in the thousands. At another point he claimed that 6,000 dead people had voted. This claim was refuted by the Georgia Secretary of State. After reviewing public records, the Secretary of State concluded that potentially two votes may have been improperly cast in the name of dead voters in the 2020 election and those instances were being investigated. Respondent's claim of thousands of dead voters is false. So is respondent's claim of 800 dead voters. The two potentially dead voters discovered by the Secretary of State during its investigation is not statistically relevant to affect election results and does not support any narrative of fraud. Respondent does not claim that either of the identified experts he relied upon for information about the Georgia election made any statement to him whatsoever regarding the number of dead people in whose names votes were allegedly cast in the 2020 election and he does not provide any other source for the false numerical information he disseminated.
-
-On December 22, 2020, during a _War Room_ podcast, respondent stated that 6,000 dead people voted. On January 3, 2021, during an episode of _Uncovering the Truth_, respondent stated that 10,515 dead people voted. On January 5, 2021, during a _War Room_ podcast, respondent stated that 800 or more dead people voted in the Georgia election. On the April 7, 2021 episode of his radio show _Chat with the Mayor_, respondent challenged the Georgia Secretary of State's finding that only potentially two votes were cast in the name of dead voters, despite having no evidence to refute the facts developed after investigation of public records. The April 7th false statement was made after this motion for interim suspension was brought.
-
-_The above identified misstatements violate RPC 4.1 and RPC 8.4(c)._
-
-Respondent represented that video evidence from security cameras depicted Georgia election officials engaging in the illegal counting of mail-in ballots. Although respondent acknowledged that he had viewed the surveillance videos in their entirety, the version of the videos shown to the public was comprised only of snippets. The gist of his claim was that illegal ballots were being surreptitiously retrieved from suitcases hidden under a table and then tabulated. In fact, the entirety of the videos shows the "disputed" ballots were among those in a room filled with people, including election monitors, until about 10:00 pm. At about 10:00 p.m., the boxes---not suitcases---containing the ballots were placed under a table in preparation for the poll watchers to leave for the evening. Those boxes were reopened and their contents retrieved and scanned when the state official monitor intervened, instructing the workers that they should remain to tabulate the votes until 10:30 p.m. that evening. When viewed in full context and not as snippets, the videos do not show secreting and counting of illegal ballots. Based upon the claim, however, the Georgia Secretary of State conducted an investigation. The video tapes were viewed in their entirety by the Secretary's office, law enforcement, and fact checkers who, according to Secretary of State Brad Raffensperger, all concluded that there was no improper activity.
-
-Respondent's argument with respect to the video is that a reasonable observer could conclude that there was an illegal counting of the mail-in ballots. If, as respondent claims, he reviewed the entire video, he could not have reasonably reached a conclusion that illegal votes were being counted. We disagree that the video can be viewed as evidence of illegal conduct during the vote tabulation process or that it provided a reasonable basis for respondent's conclusions.
-
-Respondent showed the snippets of video and/or made false statements regarding its content on at least the following occasions: the podcast _Rudy Giuliani's Common Sense_ on December 4, 2020, the radio show _Uncovering the Truth_ on December 6, 2020 and then again on the same radio show on December 27, 2020 and January 3, 2021; on December 3, 2020 at a hearing before the Georgia State Legislature; and yet again on December 8, 2020 and December 10, 2020 on respondent's _Chat with the Mayor_ radio program, and on December 19, 2020, and January 5, 2021 as a guest on the _War Room_ podcast.
-
-_The above identified misstatements violate RPC 4.1 and RPC 8.4(c)._
-
-Respondent made false and misleading statements that "illegal aliens" had voted in Arizona during the 2020 presidential election. These false facts were made by respondent to perpetuate his overall narrative that the election had been stolen from his client.
-
-On November 30, 2020, respondent appeared before a group of Arizona legislators at the Hyatt Regency Hotel in Phoenix. It was acknowledged during that session that no statewide check on undocumented noncitizens had been performed. In other words, there was no data available from which to draw any conclusion about undocumented noncitizens. Nonetheless, respondent persisted in stating, during that same session, that there were "say" five million "illegal aliens" in Arizona and that "it is beyond credulity that a few hundred thousand didn't vote." Undeterred by the lack of any empirical evidence, in a December 17, 2020 episode of _Chat with the Mayor_, respondent queried "Do you think more than 10,000 illegal aliens voted in Arizona?. We know that way more than 10,000 illegal immigrants voted." During an appearance on the _War Room_ podcast on December 24, 2020 respondent once again claimed with respect to the number of undocumented noncitizens who voted in Arizona that "the bare minimum is 40 or 50,000, the reality is probably about 250,000." He then used these unsubstantiated figures to support a claim that Trump won Arizona by about 50,000 votes. After the New Year, in another episode of the _War Room_ podcast, the number of "illegal immigrants" respondent was claiming had voted illegally changed yet again. This time respondent claimed there were 32,000 of such illegal votes. Respondent admitted in the podcast that he did not have the "best sources" to justify this estimate, but stated that he was relying on "newspaper and records" for his claims. Respondent later either reiterated and/or agreed with statements made by others, that undocumented noncitizens had voted in Arizona in the 2020 election; he made these statements during the March 9th, 11th, and April 27, 2021 broadcasts of his _Chat with the Mayor_ radio show and on April 21, 2021 during an appearance on the _War Room_ podcast. Respondent made these misstatements most recently after the AGC brought this motion for his interim suspension.
-
-On their face, these numerical claims are so wildly divergent and irreconcilable, that they all cannot be true at the same time. Some of the wild divergences were even stated by respondent in the very same sentence. Moreover, at the November 30, 2020 hearing, when it was brought to respondent's attention that no study to support the conclusions had been done, respondent persisted in making these false factual statements. In January 2021, respondent even admitted that he did not have the "best sources" to justify the numbers he was stating as fact. Nonetheless, respondent has failed to produce any sources, whether "best" or marginal, to support any of the figures he has presented to the public with authority. He has not identified, let alone produced the "newspaper and records" he claimed were the bases for his assertions when he made them.
-
-Respondent argues that he reasonably relied on Arizona State Senator Kelly Townsend, who respondent claims collected information on noncitizen voters. Respondent does not tell us what Senator Townsend actually said to him or when she said it. We do not have an affidavit or any statement from Senator Townsend. We simply have none of the information Senator Townsend is claimed to have collected. Saying that Senator Townsend collected information does not explain any of respondent's numbers, let alone why they are wildly divergent. Respondent's claim, that he also relied on "other witnesses" who testified that thousands of individuals voted despite any proof of citizenship, lacks detail and is not specific enough to be considered by this Court as probative. Not one of those witnesses is identified, none of their testimony is provided, nor has respondent provided an affidavit from any of them. Respondent cannot rely on this "evidence" to controvert that he knowingly made false statements to the public about the number of "illegal aliens" or "illegal immigrants" voting in the Arizona 2020 presidential election.
-
-_The above identified misstatements violate RPC 4.1 and RPC 8.4(c)._
-
-_We find that all of these acts of misconduct, when considered separately or taken together, also establish that respondent violated RPC 8.4(h) because his conduct adversely reflects on his fitness as a lawyer._
-
-We recognize that the AGC has identified other instances of respondent's misconduct. We make no substantive decision on those additional claims at this time because the record is insufficiently developed on those claims in this motion for interim relief. The additional claims may be part of any formal charges that the AGC will interpose in the full disciplinary proceeding that will follow this interim suspension. We find, nonetheless, that the incidents we have identified in this decision satisfy the requirement of uncontroverted misconduct required for an interim suspension.
-
-<p class="case-h1">Immediate Threat to the Public Interest</p>
-
-Uncontroverted claims of misconduct alone will not provide a basis for interim suspension, unless there is a concomitant showing of an immediate threat to the public interest. We recognize that this case presents unique circumstances. Nonetheless, there are certain factors we generally consider in connection with whether an immediate threat of harm to the public has been established.
-
-Violation of the Rules of Professional Conduct in and of themselves necessarily means that there is harm to the public. One obvious factor to consider on an interim suspension application is whether the misconduct is continuing. Even where there are no actual incidents of continuing misconduct, immediate harm threatening the public can be based on the risk of potential harm when considered in light of the seriousness of the underlying offense. Many cases where the seriousness of the offending conduct alone satisfies the immediate threat requirement for an interim suspension concern the mishandling of money. The broader principle to be drawn from these cases is that when the underlying uncontroverted evidence of professional misconduct is very serious, the continued risk of immediate harm to the public during the pendency of the underlying disciplinary proceeding is unacceptable. For example, we have ordered interim suspensions where the offense is serious, although the risk of recurrence is slight, because the attorney intends to resign from the practice of law. Another consideration, related to the seriousness factor, is whether the underlying misconduct is likely to result in a substantial sanction at the conclusion of the formal disciplinary hearing proceeding. We adopt this factor in reliance on sister state authority on the same issue.
-
-Consideration of these factors in this case leads us to conclude that the AGC has made a showing of an immediate threat to the public, justifying respondent's interim suspension. We find that there is evidence of continuing misconduct, the underlying offense is incredibly serious, and the uncontroverted misconduct in itself will likely result in substantial permanent sanctions at the conclusion of these disciplinary proceedings.
-
-Respondent argues that there is no immediate threat of future harm, because he has and will continue to exercise personal discipline to forbear from discussing these matters in public anymore. He also claims that because legal matters following the 2020 election have concluded, he will no longer be making any statements about the election under the authority of being an attorney.
-
-Notwithstanding respondent's claim that he has exercised self-restraint by not publicly commenting on the election, there are numerous instances demonstrating the opposite. Focusing only on the false statements that support our conclusion of uncontroverted misconduct (and not his statements about 2020 election matters generally), respondent has made or condoned the following false statements just since the AGC brought this application for his interim suspension: On his March 4, 2021 radio show _Chat with the Mayor_, respondent reprised his claim that Joe Frazier had voted from the grave. On the March 9th episode of his radio show _Chat with the Mayor_, respondent stated in substance that immigrants voted illegally in the 2020 presidential election. On the March 11th episode of his radio show _Chat with the Mayor_ he again referred to Joe Frazier and "illegals" voting in Arizona. On the March 14th episode of _Chat with the Mayor_, respondent recounted the tale of Joe Frazier voting after he died and joked with his co-host about the Philadelphia cemeteries emptying on election day. On his April 8th episode of _Chat with the Mayor_, respondent disputed the fact that in Georgia only two dead people had voted, even though, as previously indicated, respondent had no informational basis for making that statement and disputing the results of Georgia's investigation. On the April 27th episode respondent once again falsely stated that there were 65,000 underage teenage voters who had voted in Georgia. Respondent also stated that there were 38,000 "illegal immigrants" voting in Arizona, while at the same time estimating the number at maybe 5,000 or maybe 100,000. Imminent threat to the public is established by this continuing pattern of respondent's offending conduct and behavior. We cannot rely on respondent's representations that he will exercise restraint while these proceedings are pending.
-
-Contrary to respondent's assertion, there are many ongoing legal matters all over the United States that arise from the narrative of a stolen election. Respondent himself points to an ongoing audit of the 2020 ballots presently occurring in Maricopa County, Arizona. Another audit of the 2020 ballots has just been authorized in Fulton County, Georgia by Chief Judge Brian Amero of the Henry County Superior Court. The Federal government and many state legislators are actively engaged in enacting competing laws concerning voting in this country. Many of the state laws are facing serious court challenges.
-
-The risk that respondent will continue to engage in future misconduct while this disciplinary proceeding is pending is further borne out by his past, persistent and pervasive dissemination of these false statements in the media. This is not a situation where the uncontroverted misconduct consisted of only a few isolated incidents. Rather, each of the false statements identified and analyzed herein were made multiple times on multiple platforms, reaching countless members of the public. They continued after this motion was brought, and despite respondent facing imminent suspension from the practice of law.
-
-The seriousness of respondent's uncontroverted misconduct cannot be overstated. This country is being torn apart by continued attacks on the legitimacy of the 2020 election and of our current president, Joseph R. Biden. The hallmark of our democracy is predicated on free and fair elections. False statements intended to foment a loss of confidence in our elections and resulting loss of confidence in government generally damage the proper functioning of a free society. When those false statements are made by an attorney, it also erodes the public's confidence in the integrity of attorneys admitted to our bar and damages the profession's role as a crucial source of reliable information. It tarnishes the reputation of the entire legal profession and its mandate to act as a trusted and essential part of the machinery of justice. Where, as here, the false statements are being made by respondent, acting with the authority of being an attorney, and using his large megaphone, the harm is magnified. One only has to look at the ongoing present public discord over the 2020 election, which erupted into violence, insurrection and death on January 6, 2021 at the U.S. Capitol, to understand the extent of the damage that can be done when the public is misled by false information about the elections. The AGC contends that respondent's misconduct directly inflamed tensions that bubbled over into the events of January 6, 2021 in this nation's Capitol. Respondent's response is that no causal nexus can be shown between his conduct and those events. We need not decide any issue of "causal nexus" to understand that the falsehoods themselves cause harm. This event only emphasizes the larger point that the broad dissemination of false statements, casting doubt on the legitimacy of thousands of validly cast votes, is corrosive to the public's trust in our most important democratic institutions.
-
-Before Judge Brann in the _Boockvar_ case, respondent himself stated: "I don't know what's more serious than being denied your right to vote in a democracy." We agree. It is the very reason why espousing false factual information to large segments of the public as a means of discrediting the rights of legitimate voters is so immediately harmful to it and warrants interim suspension from the practice of law.
-
+</div>
 
 #### In re Riehlmann, 891 So.2d 1239 (La. 2005)
 
@@ -518,7 +283,121 @@ The only aggravating factor present in this case is respondent's substantial exp
 
 Accordingly, we will reprimand respondent for his actions.
 
-<p class="case-h1">Conclusion</p>
+<div class="legal-code"> 
+
+#### Model Rules of Professional Conduct, Rule 8.4
+
+<p class="case-h1">Misconduct</p>
+
+It is professional misconduct for a lawyer to:
+
+(a) violate or attempt to violate the Rules of Professional Conduct, knowingly assist or induce another to do so, or do so through the acts of another;
+
+(b) commit a criminal act that reflects adversely on the lawyer's honesty, trustworthiness or fitness as a lawyer in other respects;
+
+(c) engage in conduct involving dishonesty, fraud, deceit or misrepresentation;
+
+(d) engage in conduct that is prejudicial to the administration of justice;
+
+(e) state or imply an ability to influence improperly a government agency or official or to achieve results by means that violate the Rules of Professional Conduct or other law;
+
+(f) knowingly assist a judge or judicial officer in conduct that is a violation of applicable rules of judicial conduct or other law; or
+
+(g) engage in conduct that the lawyer knows or reasonably should know is harassment or discrimination on the basis of race, sex, religion, national origin, ethnicity, disability, age, sexual orientation, gender identity, marital status or socioeconomic status in conduct related to the practice of law. This paragraph does not limit the ability of a lawyer to accept, decline or withdraw from a representation in accordance with Rule 1.16. This paragraph does not preclude legitimate advice or advocacy consistent with these Rules.
+
+</div>
+
+#### Disciplinary Counsel v. Blakeslee, 2023 Ohio 4202 (2023)
+
+Respondent, Jack Allen Blakeslee, of Caldwell, Ohio, was admitted to the practice of law in Ohio in 1976. In a November 2022 complaint, relator, disciplinary counsel, charged Blakeslee with professional misconduct for throwing a feces-filled Pringles can into the parking lot of a victim-advocacy center involved in a capital-murder case in which Blakeslee was representing the defendant. Blakeslee waived a probable-cause determination and, in his answer, admitted many of relator's factual allegations and the single alleged rule violation. The parties also submitted joint stipulations of fact, misconduct, and aggravating and mitigating factors.
+
+After conducting a hearing, a panel of the Board of Professional Conduct issued a report finding by clear and convincing evidence that Blakeslee had committed the charged misconduct and recommending that we publicly reprimand him for that misconduct. The board adopted the panel's findings and recommendation. For the reasons that follow, we adopt the board's finding of misconduct but suspend Blakeslee from the practice of law for one year with six months stayed on the condition that he engage in no further misconduct.
+
+<p class="case-h1">MISCONDUCT</p>
+
+On June 1, 2021, Alexander Wells was indicted in the Guernsey County Court of Common Pleas for various offenses, including aggravated murder. The aggravated-murder offense included a specification that the victim was under the age of 13, making it a capital offense.
+
+On June 7, 2021, Blakeslee appeared at Wells's arraignment and was formally appointed by the court to represent him. Victim advocate Michelle Carpenter Wilkinson, whom had known Blakeslee professionally for many years, also attended Wells's arraignment. Blakeslee and Carpenter Wilkinson, who serves as chief executive officer of Haven of Hope, a victim-advocacy center in Cambridge, attended several additional court proceedings in the Wells case between June 11 and September 30, 2021.
+
+The trial court scheduled another pretrial hearing in Wells's case for November 30, 2021, at 8:30 a.m. Before leaving his home on the morning of that hearing, Blakeslee deposited his feces into an empty Pringles can. He then drove approximately 20 minutes from his home in Coal Ridge to Cambridge with the open can of feces. Between 8:10 and 8:15 a.m., Blakeslee turned his vehicle down an alley where the Haven of Hope parking lot is located, approximately two-tenths of a mile from the Guernsey County Common Pleas courthouse. A sign on the building at the entrance to the alley indicated "Haven of Hope Administrative Offices" above a bold arrow pointing down the alley. Surveillance video shows that Blakeslee slowed his vehicle as he initially passed Haven of Hope's parking lot. He continued driving further down the alley, passing several other parking lots, before turning around. He slowed again as he passed Haven of Hope's parking lot a second time, threw the Pringles can containing his feces into the lot, and then drove to the courthouse for the 8:30 a.m. pretrial hearing in Wells's case.
+
+Carpenter Wilkinson saw Blakeslee throw the can out his vehicle toward the Haven of Hope parking lot. After Blakeslee drove away, Carpenter Wilkson approached the item and discovered that it was a Pringles can containing what appeared to be human feces. She then left for the courthouse to attend Wells's pretrial hearing. Upon arriving at the courthouse, she noticed that Blakeslee was also present for the hearing.
+
+Later that day, after discussing the matter with a prosecutor assigned to the Wells case, Carpenter Wilkinson filed a report with the Cambridge Police Department. Thereafter, Blakeslee was charged with and pleaded guilty to minor-misdemeanor charges of disorderly conduct and littering. He ultimately paid $248 in fines and court costs for those offenses.
+
+During his disciplinary hearing, Blakeslee testified that he had engaged in similar misconduct on at least ten other occasions that year and that he randomly chose the locations where he deposited the Pringles cans containing his feces. He also specifically denied having any knowledge that the parking lot in question belonged to Haven of Hope when he threw the can from his vehicle on November 30, 2021.
+
+The parties stipulated and the board found that Blakeslee's conduct violated Prof.Cond.R. 8.4(h) (prohibiting a lawyer from engaging in conduct that adversely reflects on the lawyer's fitness to practice law).
+
+We adopt that finding of misconduct and expressly find that Blakeslee's conduct adversely reflects on his fitness to practice law even though that conduct is not expressly prohibited by another rule.
+
+<p class="case-h1">RECOMMENDED SANCTION</p>
+
+When imposing sanctions for attorney misconduct, we consider all relevant factors, including the ethical duties that the lawyer violated, the aggravating and mitigating factors listed in Gov.Bar R. V(13), and the sanctions imposed in similar cases.
+
+As for aggravating factors, the parties stipulated that Blakeslee had engaged in a pattern of misconduct, presumably based on his admission that he threw feces-filled Pringles cans from his vehicle on at least ten other occasions. The board disagreed, noting that "a 'pattern of misconduct,' is typically found where a respondent engages in multiple acts of misconduct, thus forming a pattern." Finding that this case involved just one rule violation arising from a single incident of misconduct---and that there was no evidence to establish the circumstances surrounding the additional instances of misconduct that Blakeslee had admitted in his testimony---the board rejected the parties' stipulated aggravating factor. We, however, accept the parties' stipulation that Blakeslee engaged in a pattern of misconduct. Regardless of whether Blakeslee randomly deposited the additional cans of feces or targeted particular locations or individuals, he freely admitted that he had engaged in similar acts of misconduct on multiple other occasions.
+
+As for mitigating factors, the parties stipulated to the absence of a prior disciplinary record, and the board found that Blakeslee has had a distinguished criminal-defense trial practice for more than four decades with no prior discipline. In addition, the parties stipulated and the board found that Blakeslee also had made full and free disclosure to the board and demonstrated a cooperative attitude toward the disciplinary proceedings, presented evidence of his good character and reputation, and had other penalties and sanctions imposed for his misconduct—namely, the nominal fines and court costs imposed for his misdemeanor convictions. The board also found that neither Wells nor Carpenter Wilkinson had been harmed by Blakeslee's actions.
+
+In addition, the board found that Blakeslee had accepted full responsibility for his actions, expressed genuine remorse, and testified that he is no longer engaging in the misconduct. Although Blakeslee testified that he was a Vietnam veteran and that he had received psychological treatment for posttraumatic stress disorder ("PTSD") related to his military service as well as child abuse, he did not seek to establish his disorder as a mitigating factor under Gov.Bar R. V(13)(C)(7).
+
+Blakeslee has described his misconduct as a "prank" and admitted that it was "stupid." He also acknowledged that he was embarrassed by the public revelation of his misconduct and the resulting media attention.
+
+Relator took the position that Blakeslee deposited the can of feces in the Haven of Hope parking lot with the intent of targeting Haven of Hope. In support of this position, relator relied on circumstantial evidence, including Blakeslee's 20-minute drive, the sign pointing toward access to Haven of Hope's office, Blakeslee's slow drive down the alley, and the fact that he went to court immediately after he deposited the can of feces to attend a hearing in the Wells case where Carpenter Wilkinson would be present. However, Blakeslee denied having any knowledge of Haven of Hope's location on November 30, 2021, and maintained that he had chosen all the locations for his deposits at random. The hearing panel and the board found Blakeslee's testimony to be credible and concluded that relator's position was not supported by clear and convincing evidence.
+
+During closing argument, relator argued that Blakeslee's misconduct warrants a conditionally stayed six-month suspension whereas Blakeslee suggested that a public reprimand would be appropriate. Both parties acknowledged that very few, if any, prior cases offer guidance regarding the appropriate sanction for the misconduct at issue here.
+
+Relying primarily on _Columbus Bar Assn. v. Linnen,_ 2006 Ohio 5480 (2006), _Butler Cty. Bar Assn. v. Blauvelt,_ 2020 Ohio 3325 (2020), and the precept that the primary purpose of the disciplinary sanction is not to punish the offender but to protect the public, the board recommends that we publicly reprimand Blakeslee for his misconduct.
+
+Over a period of nearly two years, Linnen approached at least 30 different women throughout Franklin County wearing only athletic shoes and a stocking cap and photographed their reactions. He admitted that he would sometimes tap or pinch a victim's rear end to get her attention and that he may have masturbated in front of his first couple of victims. Linnen pleaded guilty to 53 misdemeanor offenses—two first-degree misdemeanor counts of sexual imposition, one first-degree misdemeanor count of aggravated trespass, 11 third-degree misdemeanor counts of sexual imposition, and 39 fourth-degree misdemeanor counts of public indecency. He was sentenced to 18 months of work release, fined $3,000, and ordered to continue counseling. We found that Linnen violated professional-conduct rules prohibiting attorneys from engaging in illegal conduct involving moral turpitude and conduct that adversely reflects on a lawyer's fitness to practice.
+
+In aggravation, we found that Linnen had engaged in a pattern of misconduct involving multiple offenses and that he had acted with a dishonest or selfish motive, the latter finding based on his testimony that the impetus for his crimes was "definitely an adrenaline rush or euphoria very much like a powerful drug." We also found that Linnen had failed to genuinely acknowledge the wrongful nature of his misconduct, focusing primarily on his own embarrassment and hardship rather than the harm he had caused to his victims. In mitigation, Linnen had no prior disciplinary record, had cooperated completely in the disciplinary process, and had presented evidence of his good character. We indefinitely suspended him for his misconduct.
+
+In _Blauvelt,_ the attorney was twice caught driving naked. The first time, he was stopped for a headlight violation and the officer observed he was naked but filed no charges against him. The second time, after receiving a report that a motorist was masturbating while driving, a state trooper stopped Blauvelt's vehicle and found him naked with pants covering his lap. Blauvelt was charged with public indecency and operating a vehicle while under the influence; he later pleaded guilty to public indecency and an amended charge of reckless operation of a vehicle. He was sentenced to suspended jail terms and ordered to pay fines, complete a driver-intervention program, and serve a one-year term of nonreporting probation.
+
+During Blauvelt's disciplinary proceedings, he acknowledged that he had driven while naked on other occasions without getting caught. Aggravating factors consisted of a pattern of misconduct and submitting a false statement during a psychological evaluation conducted as part of the disciplinary process. In mitigation, Blauvelt had a clean disciplinary record and had had a cooperative attitude toward the disciplinary proceedings, submitted evidence of his good character and reputation, and had other penalties imposed for some of his misconduct. And in contrast to Linnen, Blauvelt expressed sincere remorse for his conduct, established the existence of a qualifying mental disorder, and did not appear to have targeted anyone with his conduct. We imposed a two-year suspension, stayed in its entirety on conditions focused on mental-health treatment, for Blauvelt's misconduct. We later indefinitely suspended Blauvelt for continuing to engage in similar acts of misconduct.
+
+Here, the board found that Blakeslee's misconduct was less egregious than that of Blauvelt, in part because Blakeslee did not act with a sexual motivation. It also noted that the Supreme Court of Oklahoma recently disbarred an attorney who, among numerous other substantial violations, had issued to a client a refund check that was soiled with feces. _See_ _State ex rel. Oklahoma Bar Assn. v. Bailey_, 2023 OK 34 (2023). The court found that whether Bailey's delivery of a soiled check was an intentional or an unintentional act, his conduct "is contrary to prescribed standards of conduct in our society where people recognize the potential harm from exposure to fecal matter, and also view its transfer from one to another as criminal in some circumstances." The court determined that Bailey's delivery of the soiled check had been discussed in the media and brought discredit to the legal profession. It therefore concluded that Bailey violated Rule 1.3 of the Oklahoma Rules Governing Disciplinary Proceedings, which provides that an attorney should not "act contrary to prescribed standards of conduct" when the act "would reasonably be found to bring discredit upon the legal profession." 
+
+Ohio has no comparable rule. However, the evidence in this case shows that despite societal standards of cleanliness and decorum, Blakeslee failed to control his own bizarre impulses to place feces-filled cans out in public for unsuspecting people to find. His aberrant conduct has adversely reflected on his own fitness to practice law and brought discredit to the profession through significant media attention.
+
+We typically defer to a hearing panel's credibility determinations unless the record weighs heavily against those findings, inasmuch as the panel members had the opportunity to see and hear the witnesses firsthand. Although Blakeslee testified that he randomly selected all the locations in which he deposited his feces-filled cans, the circumstantial evidence in the record weighs heavily against his testimony that he randomly chose the Haven of Hope parking lot as his drop zone on November 30, 2021.
+
+The board found that Blakeslee had known Carpenter Wilkinson professionally for many years. In fact, Blakeslee testified that he had known her for 20 years and that she had been a victim's advocate at Haven of Hope for as long as he had known her. In addition to their association through Haven of Hope, Blakeslee stated that he and Carpenter Wilkinson were friends on Facebook and that he had represented her daughter in a legal matter. He also testified that he knew everyone at Haven of Hope and indicated, during his deposition testimony, that he "dealt with them on a daily basis." Despite his close and long-term working relationship with Carpenter Wilkinson and her colleagues, Blakeslee maintained that he had had no knowledge of where their administrative office was located.
+
+In his deposition testimony, Blakeslee claimed that "it was an indiscriminate choice," that he "had no plans to throw that thing in Cambridge" that morning, and that "it just so happened that he did." He also claimed, "I didn't pick the spot. It was just on the way down that alley." But at his disciplinary hearing, he testified that when he engages in this behavior, he routinely disposes of the can "on the way to work."
+
+On the day in question, Blakeslee was headed to the Guernsey County courthouse for Wells's hearing. He was likely to see Carpenter Wilkinson there because she had attended most of the previous hearings in that case. He drove for approximately 20 minutes from his home to Cambridge with the open can of feces in his car without previously disposing of the can somewhere else.
+
+Blakeslee can be seen on surveillance video turning his vehicle down the alley where Haven of Hope's administrative office is located, approximately two-tenths of a mile from the courthouse. Video from other cameras in the alley show him slow down as he passed the Haven of Hope parking lot and then speed up. The video also shows him turn around in another parking lot to take a second pass down the alley in the opposite direction. Once again, he slowed his car as he passed the Haven of Hope parking lot—only that time, he tossed the Pringles can out the window before speeding up and driving away. Another video shows Blakeslee exiting the alley at approximately 8:14 a.m. and driving toward the courthouse. Video from the courthouse shows him entering the building just a few minutes later.
+
+Although Blakeslee claimed that he had "no specific targets" and engaged in "random incidents" when previously engaging in this type of misconduct, he also stated that before this incident, he usually would throw the can in the street. He explained during his deposition and hearing testimony that he threw the feces-filled cans "to blow off steam" and that he "got a kick out of it," imagining the "look of surprise" on peoples' faces when they would find them. Blakeslee's statement that "it was kind of like a release" suggests that like Linnen, he engaged in aberrant conduct to seek an adrenaline rush or thrill.
+
+These facts weigh heavily against Blakeslee's testimony that the location of his November 30, 2021 deposit was random or coincidental. Rather, they present clear and convincing evidence not only that he intentionally selected that location but also that he escalated a preexisting pattern of conduct to seek an even greater thrill by pulling his prank on someone he knew—be it Carpenter Wilkinson or one of her colleagues—just minutes before he would see one of them in court. Although Blakeslee maintained throughout his disciplinary proceeding that his misconduct had nothing to do with his PTSD, he agreed during his deposition that the misconduct was not normal and stated, "There has to be something going on that's related to some of the things I went through in early life." And during his disciplinary hearing, he suggested that his misconduct may be a "protest of some kind." But when asked what he was protesting, he responded somewhat evasively, stating, "Well, we all protest something."
+
+In this case---as in _Blauvelt_ and _Linnen_ before it---we are dealing with admittedly bizarre behavior that falls far short of the standard of conduct expected of lawyers and tends to bring the legal profession into disrepute. Each of the three cases presents unique facts. _Linnen_ involved criminal conduct that consisted of accosting numerous female victims (sometimes touching them) and violating them by photographing their reactions to his indecent exposure. Blauvelt's conduct, while inappropriate and disreputable, did not target particular victims or cause them harm. Because we find that Blakeslee's misconduct was directed at Carpenter Wilkinson and her colleagues, we also find that it has implicated his professional life in a way that neither Blauvelt's nor Linnen's did. And for those reasons, we find that the severity of Blakeslee's misconduct falls somewhere between that of Blauvelt and Linnen.
+
+We acknowledge that Blakeslee does not appear to have harbored any animosity toward Carpenter Wilkinson, her colleagues, or their work as victim's advocates. Nor did he intend to intimidate them. While the record demonstrates that Blakeslee regrets his misconduct, it also shows that he lacks sufficient insight into the origin of and motivation for his inappropriate behavior to effectuate positive change. We therefore reject the board's assessment that there is no factual basis for concluding that the public needs to be protected from additional violations, and we conclude that the appropriate sanction for Blakeslee's misconduct is a one-year suspension with six months stayed on the condition that he engage in no further misconduct.
+
+<p class="case-h1">CONCLUSION</p>
+
+Accordingly, Jack Allen Blakeslee is suspended from the practice of law in Ohio for one year with six months stayed on the condition that he engage in no further misconduct. If Blakeslee fails to comply with the condition of the stay, the stay will be lifted and he will serve the entire one-year suspension. Costs are taxed to Blakeslee.
+
+<div class="legal-code"> 
+
+#### Model Rules of Professional Conduct, Rule 8.5
+
+<p class="case-h1">Disciplinary Authority; Choice of Law</p>
+
+(a) Disciplinary Authority. A lawyer admitted to practice in this jurisdiction is subject to the disciplinary authority of this jurisdiction, regardless of where the lawyer's conduct occurs. A lawyer not admitted in this jurisdiction is also subject to the disciplinary authority of this jurisdiction if the lawyer provides or offers to provide any legal services in this jurisdiction. A lawyer may be subject to the disciplinary authority of both this jurisdiction and another jurisdiction for the same conduct.
+
+(b) Choice of Law. In any exercise of the disciplinary authority of this jurisdiction, the rules of professional conduct to be applied shall be as follows:
+
+> (1) for conduct in connection with a matter pending before a tribunal, the rules of the jurisdiction in which the tribunal sits, unless the rules of the tribunal provide otherwise; and
+
+> (2) for any other conduct, the rules of the jurisdiction in which the lawyer’s conduct occurred, or, if the predominant effect of the conduct is in a different jurisdiction, the rules of that jurisdiction shall be applied to the conduct. A lawyer shall not be subject to discipline if the lawyer’s conduct conforms to the rules of a jurisdiction in which the lawyer reasonably believes the predominant effect of the lawyer’s conduct will occur.
+
+</div>
 
 Reporting another lawyer's misconduct to disciplinary authorities is an important duty of every lawyer. Lawyers are in the best position to observe professional misconduct and to assist the profession in sanctioning it. While a Louisiana lawyer is subject to discipline for not reporting misconduct, it is our hope that lawyers will comply with their reporting obligation primarily because they are ethical people who want to serve their clients and the public well. Moreover, the lawyer's duty to report professional misconduct is the foundation for the claim that we can be trusted to regulate ourselves as a profession. If we fail in our duty, we forfeit that trust and have no right to enjoy the privilege of self-regulation or the confidence and respect of the public.
 
@@ -548,6 +427,162 @@ For example, in Section 307 of the Sarbanes-Oxley Act of 2002, Congress directed
 ## Professional Gatekeeping 
 
 ### Bar Admission
+
+The requirements for bar admission vary by state, but typically include graduation from a law school approved by the ABA or the state bar[^BarAdmission1], passage of a bar examination[^BarAdmission2] & the MPRE[^BarAdmission3], and a character and fitness standard. 
+
+[^BarAdmission1]: California, Vermont, Virginia, and Washington permit apprenticeships with a licensed attorney as an alternative to law school. New York and Maine permit a combination of some law school (2 years in Maine, 1 year in NY) and an apprenticeship. 
+
+[^BarAdmission2]: Wisconsin's "diploma privilege" waives the bar exam requirement for graduates of in-state law schools (University of Wisconsin and Marquette University). 
+
+[^BarAdmission3]: Wisconsin and Puerto Rico do not require the MPRE for bar admission. 
+
+<div class="legal-code"> 
+
+#### Rules Governing Admission to the Practice of Law in the State of North Carolina
+
+> § .0601 Burden of Proof
+> 
+> Every applicant shall have the burden of proving that the applicant possesses the qualifications of character and general fitness requisite for an attorney and counselor-at-law and is possessed of good moral character and is entitled to the high regard and confidence of the public.
+> 
+> .0603 Failure to Disclose
+> 
+> No one shall be licensed to practice law in this state:
+> 
+> > (1) who fails to disclose fully to the Board, whether requested to do so or not, the facts relating to any disciplinary proceedings or charges as to the applicant's professional conduct, whether same have been terminated or not, in this or any other state, or any federal court or other jurisdiction, or 
+> 
+> > (2) who fails to disclose fully to the Board, whether requested to do so or not, any and all facts relating to any civil or criminal proceedings, charges or investigations involving the applicant (unless expunged under applicable state law), whether the same have been terminated or not in this or any other state or in any of the federal courts or other jurisdictions. 
+
+</div>
+
+<div class="legal-code"> 
+
+The North Carolina Board of Bar Examiners has published "[guidelines](https://www.ncble.org/character-and-fitness-guidelines)", giving examples of conduct and other information that the Board may consider in assessing an applicant's character and fitness. 
+
+#### NCBBE, Character & Fitness Guidelines
+
+> Every applicant shall have the burden of proving that the applicant possesses the qualifications of character and general fitness requisite for an attorney and counselor-at-law, and is possessed of good moral character and is entitled to the high regard and confidence of the public.
+> 
+> The term "good moral character", includes but is not limited to the qualities of honesty, fairness, candor, trustworthiness, observance of fiduciary and personal responsibility and of the laws of North Carolina and of the United States and a respect for the rights and property of other persons. The term "fitness" includes but is not limited to, the mental or emotional stability of the applicant to practice law in North Carolina.
+> 
+> In satisfying the requirements of good moral character and fitness, applicants should be persons whose record of conduct justifies the trust of clients, adversaries, courts and others with respect to the professional duties owed to them and whose record demonstrates the qualities of honesty, trustworthiness, diligence, responsibility and reliability.
+> 
+> The revelation or discovery of any of the following may be treated as cause for further inquiry before the Board decides whether the applicant possesses the requisite character and fitness to practice law. The foregoing is inclusive of but not limited to:
+> 
+> 1. Unlawful conduct
+> 
+> 2. Academic misconduct.
+> 
+> 3. Making or procuring any false or misleading statement or omission of relevant information including any false or misleading statement or omission on the application for admission to a college or university, a law school, or to the North Carolina Bar or any amendment or in any testimony or any sworn statement submitted to the Board.
+> 
+> 4. Misconduct in employment.
+> 
+> 5. Acts involving dishonesty, fraud, deceit or misrepresentation.
+> 
+> 6. Abuse of legal process.
+> 
+> 7. Neglect of financial responsibilities.
+> 
+> 8. Neglect of professional obligations.
+> 
+> 9. Violation of an order of a Court, including failure to pay child support.
+> 
+> 10. Military Misconduct. A discharge other than honorable.
+> 
+> 11. Evidence of current mental or emotional impairment.
+> 
+> 12. Evidence of drug or alcohol misuse, abuse or dependency.
+> 
+> 13. Denial of admission to the Bar in any other jurisdiction on character and fitness grounds.
+> 
+> 14. Disciplinary action by a lawyer, disciplinary agency, or other professional disciplinary agency of any jurisdiction.
+> 
+> 15. Any other conduct which reflects adversely upon the character or fitness of the applicant.
+
+> **A. Unlawful conduct:**
+> 
+> North Carolina allows an applicant to omit reference to any arrest, charge or conviction that has been expunged by a duly entered order of expunction pursuant to Article 5 of Chapter 15A of the General Statutes of North Carolina. For any offenses that have not been expunged as outlined above, the Board may inquire into arrests even if no conviction resulted. There are many reasons why arrests do not result in convictions, and many of them have no bearing on guilt or innocence.
+> 
+> Other than offenses that have been expunged as outlined above, the Board is authorized to inquire into all areas of possibly relevant applicant misconduct. The applicant is required to report such incidents, and to provide evidence of rehabilitation, if relevant, and evidence of current good character. The occurrence of an acquittal or dismissal is relevant but is not dispositive of the issue. This is not to suggest that the Board will assume that any arrest was due to guilty conduct on the part of an applicant. The applicant’s obligation is to be completely forthright regarding all matters about which the Board inquires.
+> 
+> If, at the time of the application, criminal charges are pending against the applicant, the Board will table the application until these charges are resolved. If a conviction results in probation, restitution or some other sentence, the Board will not consider the application until the sentence has been served and probation completed. The Board will then proceed to investigate the facts and circumstances that led to the criminal charges.  
+> 
+> **B. Making a false statement:**
+> 
+> Dishonesty in dealings with employers, schools (including applications for admission) and authorities, including the Board of Law Examiners, is grounds for denial of bar applications. Giving false information on the application or failing to be entirely forthcoming and completely candid in the application process is a serious error which will have negative consequences for an applicant. With respect to non-disclosure on the law school application the Board will require at a minimum evidence that the applicant has made full disclosure of the erroneous or omitted information to the law school administration together with the action if any taken by the law school.
+> 
+> **C. Neglect of financial responsibilities:**
+> 
+> The Board recognizes that mishandling of client funds is a frequent and serious cause for professional discipline. While admission to the bar does not require a perfect credit record, the Board is interested in whether applicants have dealt honestly and responsibly with their creditors, and whether they are doing so at the time of application.
+> 
+> Responsible dealings generally include but are not limited to keeping in contact with the creditor, making payment arrangements, and meeting the terms of those arrangements. If the applicant currently has unpaid collections, judgments, liens, or charged off accounts, in the absence of unusual mitigating circumstances, the Board considers it important that the applicant demonstrate several months payments as agreed to show a good faith effort to clear the debts.
+> 
+> If an applicant has defaulted student loans, the Board may in its discretion hold the application in abeyance until the applicant has made arrangements with the lender(s) for repayment of the loan(s) and has made several months of consecutive and uninterrupted monthly payments pursuant to the plan agreed to by the lender(s). Any arrearage in child support must be paid before an applicant will be certified by the Board.
+> 
+> **D. Evidence of current mental impairment:**
+> 
+> Evidence of current mental impairment, including evidence of impairment due to psychiatric conditions, is one of the factors about which the Board must inquire in determining the applicant’s fitness to practice law. Board members recognize that the stresses of law school, as well as other life factors, frequently result in applicants seeking psychiatric or psychological counseling. The Board encourages any applicant to obtain such counseling or treatment if needed. The applicant should not allow the bar application process to deter them from obtaining treatment or counseling. Applicants should be aware that the Board looks favorably on applicants’ self-recognition of their need for treatment and appropriate utilization of professional services.
+> 
+> **E. Drug or alcohol dependency:**
+> 
+> Evidence of impairment due to drug or alcohol dependence or abuse is a factor that must be considered by the Board in determining the applicant’s fitness to practice law. The applicant should be prepared to provide treatment records as well as other records of incidents which were associated with any impairment. The Board may require applicants to obtain a drug or alcohol evaluation from a licensed professional recommended by the Board.
+> 
+> An applicant who has a problem with drugs or alcohol is strongly encouraged to get the counseling or treatment needed as soon as possible. If the applicant has been impaired due to chemical dependency or abuse, the applicant’s recognition of the problem and the treatment record will be important positive evidence of rehabilitation, regardless of the seriousness of any misconduct which may have arisen from the chemical dependency.
+> 
+> **F. Evidence of Rehabilitation:**
+> 
+> The Board shall determine whether the character and fitness of an applicant qualify the applicant to take the North Carolina Bar Examination or to be admitted by comity. In making this determination, the following factors should be considered in assigning weight and significance to prior conduct: 
+> 
+> 1. The applicant's age at the time of the conduct.
+> 
+> 2. The recency of the conduct.
+> 
+> 3. The reliability of the information concerning the conduct.
+> 
+> 4. The seriousness of the conduct.
+> 
+> 5. The factors underlying the conduct.
+> 
+> 6. The cumulative effect of the conduct or information.
+> 
+> 7. The applicant's candor in the admissions process.
+> 
+> 8. The materiality of any omissions or misrepresentations.
+> 
+> 9. The evidence of rehabilitation and the applicant's positive social contributions  since the conduct.
+> 
+> Evidence of rehabilitation is one of the main factors the Board uses to determine whether past problems should lead to denial of an application. Under Rule .0601 of the Board’s Rules, every applicant has the burden of proving that the applicant possesses the qualifications of character and general fitness requisite for an attorney and counselor-at-law and is possessed of such good moral character as to be entitled to the high regard and confidence of the public.
+> 
+> An applicant who asserts rehabilitation from prior misconduct which bears adversely upon the applicant’s character and fitness shall be required to produce clear and convincing evidence of such rehabilitation, which may include but are not limited to the following elements:
+> 
+> 1. Absence of recent misconduct
+> 
+> 2. Strict compliance with the specific conditions of any disciplinary, judicial, administrative or other order, where applicable
+> 
+> 3. Impeccable character and moral standing in the community
+> 
+> 4. Good reputation for professional ability, where applicable
+> 
+> 5. Sufficiency of the punishment including payment of fines and restitution made; including the restitution of funds or property, where applicable
+> 
+> 6. Applicant's current attitude about prior offenses (acceptance of responsibility and renunciation of past wrongdoing and remorse)
+> 
+> 7. Lack of malice and ill feeling toward those who by duty were compelled to bring about the disciplinary, judicial, administrative or other proceeding
+> 
+> 8. Personal assurances, supported by corroborating evidence, of a desire and intention to conduct one's self in an exemplary fashion in the future
+> 
+> 9. Applicant's constructive activities and accomplishments subsequent to the criminal conviction
+> 
+> 10. Applicant's candor, sincerity and full disclosure in character and fitness proceedings
+> 
+> 11. Positive actions beyond those one would do for self-benefit including but not limited to working as a guardian ad litem, volunteering on a regular basis with shelters for the homeless or victims of domestic violence or maintaining substantial involvement in other charitable, community or educational organizations whose value system, overall mission and activities are directed to good deeds and humanitarian concerns impacting a broad base of citizens
+> 
+> 12. Demonstration of the applicant's understanding of the responsibility to the administration of justice and the practice of law
+> 
+> Merely showing that an individual is now living as and doing those things that this person should have done throughout life, although necessary to prove rehabilitation, does not prove that the individual has undertaken a useful and constructive place in society. The requirement of a positive action is appropriate for applicants for admission to the bar because service to one’s community is an implied obligation to members of the Bar.
+> 
+> The Board will not consider witness testimony or evidence offered by a witness in support of the applicant on any issue listed above unless the witness has been fully informed of the misconduct before offering the evidence.
+
+</div>
 
 <div class="legal-code"> 
 
@@ -769,11 +804,7 @@ For the above reasons, we conclude that Roots's application to the bar should be
 
 Accordingly, we hereby deny Roots's application without prejudice to his reapplication at some later time (no sooner than two years) when a more accurate and adequate assessment of Roots's professed rehabilitation can be undertaken.
 
-
-
 #### Matter of Anonymous, 875 N.Y.S.2d 925 (N.Y. App. Div. 2009)
-
-
 
 Applicant passed the February 2008 New York State bar exam and the State Board of Law Examiners certified him for admission to this Court. The Committee on Character and Fitness has completed its investigation of his application for admission, including an interview of applicant.
 
@@ -835,7 +866,7 @@ So much of the section of the Penal Law under which the conviction was obtained 
 
 The defendant, at the time stated in the information, was a notary public, living at 475 Park avenue, Brooklyn, in the basement of which he had a small office for the transaction of business. Over the entrance of the office was the following sign:
 
-![Alfani sign]({{ site.baseurl }}/assets/img/Alfani.png)
+![Alfani sign]({{ site.baseurl }}/assets/casebook/img/Alfani.png)
 
 On the 27th of December, 1917, one Gallo, special investigator of the state industrial commission, in company with one Geannelis, entered defendant's office and he asked them what they wanted. Gallo stated that he was selling his store, which consisted of a soda water stand, together with a stock of cigars, cigarettes, etc., to Geannelis, for a certain consideration, which was named, part of which was to be paid down and the balance in installments. Gallo also stated there was a certain amount due to the American Siphon Company on the purchase price of the soda water fountain, which Geannelis was to assume and pay. The defendant advised that Gallo give a bill of sale to Geannelis and that he give a chattel mortgage for the amount remaining unpaid. He also explained it would be necessary to file the mortgage in the county clerk's office, so that the same could be foreclosed by the city marshal in case of non-payment. His suggestions as to the bill of sale and mortgage were followed and he thereupon prepared the same, for which he was paid four dollars.
 
