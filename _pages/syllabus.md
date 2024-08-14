@@ -43,7 +43,7 @@ _Hornbook:_ Grace M. Giesel, [Mastering Professional Responsibility](https://cap
 
 ### Grading
 
-Your grade will be based on a final examination consisting of multiple choice questions, similar in format to the Multistate Professional Responsibility Examination (MPRE). You will receive a copy of the Rules of Professional Conduct to use during the exam, which will otherwise be closed-book/closed-notes. 
+Your grade will be based on a final examination consisting of multiple choice questions, similar in format to the Multistate Professional Responsibility Examination (MPRE). You will receive a copy of the Rules of Professional Conduct to use during the exam, which will otherwise be closed-book/closed-notes. The exam will take place during the Fall Term exam period (Dec. 2-9, date and time TBA)
 
 ### Attendance
 
@@ -69,38 +69,36 @@ The Law School honor code applies to all activities related to your law school s
  **Date** | **Topic**  | **Assignment**
 --|---|--
     | **Part I: The Legal Profession & Regulation of Lawyers** |   
- August 28 | Regulatory Institutions | Casebook, Chap. 1, § 1; Giesel, Chap. 1
- August 30 & September 6 | Professional Gatekeeping | Casebook, Chap. 1, § 2; Giesel, Chap. 2
+ September 4 | Regulatory Institutions | Casebook, Chap. 1, § 1; Giesel, Chap. 1
+ September 6 & 9 | Professional Gatekeeping | Casebook, Chap. 1, § 2; Giesel, Chap. 2
     |    |   
     | **Part II: Advertising & Solicitation** |   
  September 11 | Advertising; Solicitation | Casebook, Chap. 2; Giesel, Chap. 45 & 46 
     |    |   
     | **Part III: The Attorney-Client Privilege** |   
- September 13 | Establishing & Ending an Attorney-Client Relationship | Casebook, Chap. 3, § 1; Giesel, Chap. 4, 11, & 12
+ September 16 | Establishing & Ending an Attorney-Client Relationship | Casebook, Chap. 3, § 1; Giesel, Chap. 4, 11, & 12
  September 18 | Attorney as Agent, Client as Principal | Casebook, Chap. 3, § 2; Giesel, Chap. 8 & 14
- September 20 | Organizational Clients | Casebook, Chap. 3, § 3; Giesel, Chap. 13
- September 27 | Attorney Fees & Client Property | Casebook, Chap. 3, § 4; Giesel, Chap. 9 & 10
+ September 23 | Organizational Clients | Casebook, Chap. 3, § 3; Giesel, Chap. 13
+ September 25 | Attorney Fees & Client Property | Casebook, Chap. 3, § 4; Giesel, Chap. 9 & 10
     |    |   
     | **Part IV: The Duty of Care** |   
- October 2 & 4 | Competence, Malpractice, & Ineffective Assistance | Casebook, Chap. 4; Giesel, Chap. 5-7, 24
+ September 30 & October 2 | Competence, Malpractice, & Ineffective Assistance | Casebook, Chap. 4; Giesel, Chap. 5-7, 24
     |    |   
     | **Part V: Confidentiality & Privileges** |   
- October 9 & 11 | Duty of Confidentialty | Casebook, Chap. 5, § 1; Giesel, Chap. 15
- October 16 | Attorney-Client Privilege & Work-Product | Casebook, Chap. 5, § 2; Giesel, Chap. 16
+ October 7 & 9 | Duty of Confidentialty | Casebook, Chap. 5, § 1; Giesel, Chap. 15
+ October 14 & 16 | Attorney-Client Privilege & Work-Product | Casebook, Chap. 5, § 2; Giesel, Chap. 16
     |    |   
     | **Part VI: Conflicts of Interest** |   
- October 18 & 23 | Concurrent Client Conflicts | Casebook, Chap. 6, § 1; Giesel, Chap. 17 & 18
- October 25 | Conflicts Involving the Lawyer's Interests | Casebook, Chap. 6, § 2; Giesel, Chap. 21 
- October 30 & November 1| Former Client Conflicts & Imputation | Casebook, Chap. 6, §§ 3 & 4; Giesel, Chap. 19, 20, 22, & 23
+ October 21 & 23 | Concurrent Client Conflicts | Casebook, Chap. 6, § 1; Giesel, Chap. 17 & 18
+ October 28 & 30 | Conflicts Involving the Lawyer's Interests | Casebook, Chap. 6, § 2; Giesel, Chap. 21 
+ November 4 & 6| Former Client Conflicts & Imputation | Casebook, Chap. 6, §§ 3 & 4; Giesel, Chap. 19, 20, 22, & 23
     |    |   
     | **Part VII: Duties in Litigation** |   
- November 6 & 8 | Integrity of the Proceedings | Casebook, Chap. 7, § 1; Giesel, Chap. 26-32
- November 13 | Prosecutorial Misconduct | Casebook, Chap. 6, § 2; Giesel, Chap. 33
+ November 11 & 13 | Integrity of the Proceedings | Casebook, Chap. 7, § 1; Giesel, Chap. 26-32
+ November 18 | Prosecutorial Misconduct | Casebook, Chap. 6, § 2; Giesel, Chap. 33
     |    |   
     | **Part VIII: Interactions with Non-Clients** |   
- November 15| Truthfulness & Fairness; Dealing with Represented Persons; Dealing with Unrepresented Persons | Casebook, Chap. 7; Giesel, Chap. 35-37
+ November 20| Truthfulness & Fairness; Dealing with Represented Persons; Dealing with Unrepresented Persons | Casebook, Chap. 7; Giesel, Chap. 35-37
     |    |   
- November 20  | Final Review |  &nbsp;
- November 30 | Final Exam | &nbsp;
- 
-_Note: This class will not meet on Sept. 4 and 25._
+ November 25  | Final Review |  &nbsp;
+ TBA | Final Exam | &nbsp;
