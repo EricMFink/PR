@@ -31,9 +31,7 @@ This course is intended to acquaint students with the organization and regulatio
 
 ### Required 
 
-_Casebook:_ [Professional Responsibility: An Open-Source Casebook]({{ site.baseurl }}/casebook) (v.2.1 2023). Available on the course website. 
-
-_Course website:_ [emfink.net/PR]({{ site.baseurl }}). The website has the casebook, review questions, and links to other resources. 
+_Casebook:_ [Professional Responsibility: An Open-Source Casebook]({{ site.baseurl }}/casebook) (v.2.1 2023). Available on the course website: [emfink.net/PR]({{ site.baseurl }}). The website also has review questions and links to other resources. 
 
 ### Suggested 
 
