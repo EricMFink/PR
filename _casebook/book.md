@@ -16,59 +16,83 @@ preface: "This casebook presents material for use in a law school Professional R
 
 ---
 
-<!-- CHAPTER 1 -->
 
 <div class="chapter">
+
+<article class="group">
 
 {% include_relative chap1.md %}
 
+</article>
+
 </div>
 
-<!-- CHAPTER 2 -->
 <div class="chapter">
+
+<article class="group">
 
 {% include_relative chap2.md %}
 
+</article>
+
 </div>
 
-<!-- CHAPTER 3 -->
 <div class="chapter">
+
+<article class="group">
 
 {% include_relative chap3.md %}
 
+</article>
+
 </div>
 
-<!-- CHAPTER 4 -->
 <div class="chapter">
+
+<article class="group">
 
 {% include_relative chap4.md %}
 
+</article>
+
 </div>
 
-<!-- CHAPTER 5 -->
 <div class="chapter">
+
+<article class="group">
 
 {% include_relative chap5.md %}
 
+</article>
+
 </div>
 
-<!-- CHAPTER 6 -->
 <div class="chapter">
+
+<article class="group">
 
 {% include_relative chap6.md %}
 
+</article>
+
 </div>
 
-<!-- CHAPTER 7 -->
 <div class="chapter">
+
+<article class="group">
 
 {% include_relative chap7.md %}
 
+</article>
+
 </div>
 
-<!-- CHAPTER 8 -->
 <div class="chapter">
 
+<article class="group">
+
 {% include_relative chap8.md %}
+
+</article>
 
 </div>

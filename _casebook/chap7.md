@@ -79,7 +79,7 @@ Of course, this Canon did no more than articulate centuries of accepted standard
 
 These principles have been carried through to contemporary codifications of an attorney's professional responsibility. Disciplinary Rule 7-102 of the Model Code of Professional Responsibility (1980), entitled "Representing a Client Within the Bounds of the Law," provides:
 
-> (A) In his representation of a client, a lawyer shall not: (4) Knowingly use perjured testimony or false evidence. (7) Counsel or assist his client in conduct that the lawyer knows to be illegal or fraudulent.
+> (A) In his representation of a client, a lawyer shall not: (4) Knowingly use perjured testimony or false evidence. (7) Counsel or assist his client in conduct that the lawyer knows to be illegal or fraudulent.
 
 This provision has been adopted by Iowa, and is binding on all lawyers who appear in its courts.
 
@@ -774,15 +774,15 @@ Hillman contends that the Michael Morton Act required him to disclose the witnes
 
 To waive governmental immunity, a statute must use "clear and unambiguous language" expressing that intent. When deciding whether a statute clearly and unambiguously waives governmental immunity, we
 
-1. consider "whether the statutory provisions, even if not a model of clarity, waive immunity without doubt";
+1. consider "whether the statutory provisions, even if not a model of clarity, waive immunity without doubt";
 
-2. resolve any "ambiguity as to waiver in favor of retaining immunity";
+2. resolve any "ambiguity as to waiver in favor of retaining immunity";
 
-3. generally find waiver "if the Legislature requires that the governmental entity be joined in a lawsuit even though the entity would otherwise be immune from suit";
+3. generally find waiver "if the Legislature requires that the governmental entity be joined in a lawsuit even though the entity would otherwise be immune from suit";
 
-4. consider whether the legislature "provided an objective limitation on the governmental entity's potential liability"; and
+4. consider whether the legislature "provided an objective limitation on the governmental entity's potential liability"; and
 
-5. consider "whether the statutory provisions would serve any purpose absent a waiver of immunity."
+5. consider "whether the statutory provisions would serve any purpose absent a waiver of immunity."
 
 Like the _Sabine Pilot_ opinion, the Michael Morton Act does not address governmental immunity or waiver at all. None of its language waives immunity "without doubt" or even creates any ambiguity on the point. The Act does not require that the government be joined in any lawsuit or impose any limitation on the government's potential liability in such a suit. Implicating only the fifth consideration, Hillman argues that the Act necessarily must waive the County's immunity from his wrongful-termination suit because the Act's sole purpose is to require prosecutors to disclose exculpatory evidence. He contends that the Act would be "illusory" unless it waives immunity from _Sabine Pilot_ claims, and finding no waiver "would defeat the sole purpose for passing the Michael Morton Act in the first place." As Hillman puts it, "A law making it a crime for a prosecutor to withhold evidence from the defense, but at the same time allowing the prosecutor's supervisor to fire him for refusing to do so is nonsensical and cannot possibly be what the legislature intended when it enacted the Michael Morton Act."
 

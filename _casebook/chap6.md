@@ -55,17 +55,17 @@ Dresser was joined as a defendant in _Drill Bits_ on December 2, 1991. Dresser m
 
 The district court noted that Southern District local rule 4B provides that the code of professional responsibility for lawyers practicing in that district is the Code of Responsibility of the State Bar of Texas. Although the court further noted that other district courts look to other codes in deciding motions to disqualify, nevertheless, it concluded that "Dresser's motion to disqualify Susman Godfrey is governed wholly by the Texas Disciplinary Rules of Professional Conduct." The court then focused on Texas Disciplinary Rule 1.06, which provides:
 
-> (b) Except to the extent permitted in paragraph (c), a lawyer shall not represent a person if the representation of that person:
+> (b) Except to the extent permitted in paragraph (c), a lawyer shall not represent a person if the representation of that person:
 
-> > (1) involves a substantially related matter in which that person's interests are materially and directly adverse to the interests of another client of the lawyer or the lawyer's firm; or
+> > (1) involves a substantially related matter in which that person's interests are materially and directly adverse to the interests of another client of the lawyer or the lawyer's firm; or
 
-> > (2) reasonably appears to be or become adversely limited by the lawyer's or law firm's responsibilities to another client or to a third person or by the lawyer's or law firm's own interests.
+> > (2) reasonably appears to be or become adversely limited by the lawyer's or law firm's responsibilities to another client or to a third person or by the lawyer's or law firm's own interests.
 
-> (c) A lawyer may represent a client in the circumstances described in (b) if:
+> (c) A lawyer may represent a client in the circumstances described in (b) if:
 
-> > (1) the lawyer reasonably believes the representation of each client will not be materially affected; and
+> > (1) the lawyer reasonably believes the representation of each client will not be materially affected; and
 
-> > (2) each affected or potentially affected client consents to such representation after full disclosure.
+> > (2) each affected or potentially affected client consents to such representation after full disclosure.
 
 The district court described the _Drill Bits_ complaint as a civil antitrust case, thus somewhat softening Dresser's description of it as an action for fraud or criminal conduct. The court held, "as a matter of law, that there exists no relationship, legal or factual, between the _Cullen Center_ case and the _Drill Bits_ litigation," and that no similarity between _Drill Bits_ and the _CPS_ suits was material. The court concluded that "Godfrey's representation of the plaintiffs in the _Drill Bits_ litigation does not reasonably appear to be or become adversely limited by Susman Godfrey's responsibilities to Dresser in the _CPS_ and _Cullen Center_ cases," and accordingly denied the motion to disqualify. [ * * * ]
 
@@ -109,11 +109,11 @@ FedEx, a Delaware Corporation with its principal place of business in Coraopolis
  
 In 2010, FedEx began transitioning into a new negotiated agreement under which FedEx's contractors are known as Independent Service Providers ("ISPs"). According to its 10-K, FedEx expects transition to the ISP model to be completed nationwide by 2020. Under this model, FedEx contracts with ISPs, i.e., independent corporations with vehicles, drivers, and other employed personnel, that provide pickup and delivery services for FedEx. According to FedEx, the ISPs:
 
-1) Ensure that all of their drivers are treated as employees of the ISP;
+1) Ensure that all of their drivers are treated as employees of the ISP;
  
-2) Agree to comply with all federal, state, and local employment laws;
+2) Agree to comply with all federal, state, and local employment laws;
  
-3) Retain "sole and complete discretion in the staffing, selection, hiring, training, supervision, assignment, hours and days worked, discipline, compensation, benefits, and all other terms and conditions of employment" of their employees.
+3) Retain "sole and complete discretion in the staffing, selection, hiring, training, supervision, assignment, hours and days worked, discipline, compensation, benefits, and all other terms and conditions of employment" of their employees.
 
 <p class="case-h2">C. Plaintiffs' Allegations</p>
 
@@ -183,11 +183,11 @@ The plaintiffs in *Carrow* include Service Providers who assert claims against F
 
 A concurrent conflict of interest exists if: "(1) the representation of one client will be directly adverse to another client; or (2) there is a significant risk that the representation of one or more clients will be materially limited by the lawyer's responsibilities to another client, a former client or a third person or by a personal interest of the lawyer." Pa. R. Prof. Conduct 1.7(a).
 
-<p class="case-h3">1. Is LLR's representation of Plaintiffs Directly Adverse to the *Carrow* Class?</p>
+<p class="case-h3">1. Is LLR's representation of Plaintiffs Directly Adverse to the *Carrow* Class?</p>
 
 A lawyer's representation of one client is directly adverse to another client if the lawyer acts "as an advocate in one matter against a person the lawyer represents in some other matter, even when the matters are wholly unrelated." Pa. R. Prof. Conduct 1.7 cmt. 6.
 
-<p class="case-h4">a. Will this Court be Required to Find that Service Providers are Liable for FLSA Violations if it Finds FedEx Liable?</p>
+<p class="case-h4">a. Will this Court be Required to Find that Service Providers are Liable for FLSA Violations if it Finds FedEx Liable?</p>
 
 In support of its assertion that LLR's representation of Plaintiffs is directly adverse to the *Carrow* class, FedEx argues that "[a]lthough the Sullivan-Blake plaintiff-drivers name only FedEx Ground, any holding against FedEx Ground will necessarily require the court to find that the Service Providers' pay practices violate the FLSA." FedEx bases this argument on Plaintiffs' assertion that FedEx is Plaintiffs' joint employer in this case. Initially, FedEx raised the same argument in support of its Rule 19(a) Motion to Join, In her January 31, 2020 Memorandum Opinion, Judge Dodge rejected this argument in holding that Service Providers do not have a direct stake in this litigation, explaining:
 
@@ -209,7 +209,7 @@ The *Romero* court further explained that, "while the analysis of the alleged em
 
 In the present action, Plaintiffs will attempt to prove that FedEx is Plaintiffs' joint employer pursuant to the FLSA. There is no logical basis for Plaintiffs to introduce evidence which tends to establish that any other individual or entity is also a joint employer. As such, the interests of Plaintiffs and the *Carrow* class are not adverse in the present action. While some evidence regarding the nature of the relationship between Service Providers and Plaintiffs, as well as the relationship between Service Providers and FedEx, is likely to be introduced, it remains clear that Service Providers are not parties to this action. For that reason, there is no circumstance wherein this Court or a jury will be required to find that Service Providers are Plaintiffs' employers. If Plaintiffs are entitled to overtime compensation under the FLSA and the factfinder finds that FedEx is a joint employer under the FLSA, then FedEx is jointly and severally liable for the damages suffered by Plaintiffs and no finding as to any nonparty's liability is necessary. If the factfinder agrees with FedEx's assertion that it is not Plaintiffs' employer, then FedEx will not be found liable for an FLSA violation, and this case will end with no finding of liability whatsoever. For these reasons, and for those discussed below with respect to joint and several liability, the Court finds that the factfinder will not have to decide whether Service Providers qualify as employers under the FLSA in resolving Plaintiffs' claim against FedEx. Accordingly, a holding against FedEx will not require the Court to find that Service Providers' pay practices also violate the FLSA. FedEx's argument to the contrary is without merit.
 
-<p class="case-h4">b. Potential Indemnification Claims and Contract Termination</p>
+<p class="case-h4">b. Potential Indemnification Claims and Contract Termination</p>
 
 FedEx asserts that it will pursue indemnification against Service Providers and potentially terminate its contracts with Service Providers if Plaintiffs successfully establish FedEx's liability in this case. While FedEx may pursue such relief, the Court notes that Plaintiffs' success in the present litigation does not guarantee that FedEx will ultimately succeed in an action for indemnification. As discussed above, joint employers may be held jointly and severally liable for violations of the FLSA. With respect to joint and several liability, the Third Circuit has explained:
 
@@ -223,13 +223,13 @@ As discussed above, the factfinder in this action will not be required to make a
 
 For the reasons discussed above, this Court finds that it will not be required to determine that Service Providers, who are not parties to this action, are liable for FLSA violations in order for Plaintiffs to recover. The Court further finds that potential future indemnification suits or contract termination do not present a situation wherein LLR must directly advocate a position that is adverse to either of its clients in the present action. Accordingly, the Court holds that FedEx has not met its burden of clearly establishing that either of these bases supports a finding of a directly adverse relationship with respect to LLR's concurrent representation of its clients.
 
-<p class="case-h4">c. Potential Cross-Examination of Service Providers</p>
+<p class="case-h4">c. Potential Cross-Examination of Service Providers</p>
 
 The Explanatory Comment to Pennsylvania Rule of Professional Conduct 1.7 provides that "a directly adverse conflict may arise when a lawyer is required to cross-examine a client who appears as a witness in a lawsuit involving another client, *as when the testimony will be damaging to the client who is represented in the lawsuit.*" For the same reasons discussed above, FedEx's assertion regarding LLR's potential cross-examination of Service Providers also fails.
 
 While LLR may be required to ask Service Providers whether Plaintiffs were paid overtime, there is no logical basis for LLR to inquire as to whether Service Providers were *required,* as joint employers pursuant to the FLSA, to pay overtime to Plaintiffs. It is in the best interest of both Plaintiffs and the *Carrow* class that LLR's cross-examination of Service Providers be tailored toward establishing FedEx's, as opposed to nonparty Service Providers', status as a joint employer under the FLSA. As such, LLR's cross-examination of Service Providers will not be adverse to Plaintiffs. Accordingly, the Court finds that FedEx has not met its burden of clearly establishing that any potential testimony elicited from Service Providers by LLR on cross-examination will be damaging to either of LLR's clients. For all of the reasons discussed above, the Court further finds that FedEx has not clearly established that LLR's representation of Plaintiffs is directly adverse to the *Carrow* class.
 
-<p class="case-h1">2. Is there a Significant Risk that LLR's Representation of either Plaintiffs or the *Carrow* Class will limit LLR's Representation of the Other?
+<p class="case-h1">2. Is there a Significant Risk that LLR's Representation of either Plaintiffs or the *Carrow* Class will limit LLR's Representation of the Other?
 
 Pursuant to Pa. R. Prof. Conduct 1.7(a)(2), a concurrent conflict of interest also exists if "there is a significant risk that the representation of one or more clients will be materially limited by the lawyer's responsibilities to another client, a former client or a third person or by a personal interest of the lawyer." Pa. R. Prof. Conduct 1.7(a)(2). With respect to whether there exists a significant risk that representation of a client will be materially limited by the lawyer's responsibilities to another client, the comments to Pennsylvania Rule of Professional Conduct 1.7 explain:
 
@@ -265,11 +265,11 @@ For all of the reasons discussed above, the Court finds FedEx has not met its bu
 
 For the reasons discussed above, FedEx's Motion to Disqualify Plaintiffs' Counsel, Lichten & Liss-Riordan, P.C., will be denied. 
 
-[^sullivan-blake1] (n.1 in opinion) These intermediary employers are companies that entered into contracts with FedEx to provide delivery and pickup services on FedEx's behalf, and are referred to as Independent Service Providers (ISPs) and Contracted Service Providers (CSPs) in the record. The distinction between ISPs and CSPs is not relevant to this Court's consideration of Defendant's Motion to Disqualify. For ease of reference, this Court will refer to ISPs and CSPs collectively as "Service Providers," and any reference to "ISPs" or "CSPs" in language quoted by this Court may be inferred to be a reference to Service Providers generally for the purposes of this Opinion.
+[^sullivan-blake1]: (n.1 in opinion) These intermediary employers are companies that entered into contracts with FedEx to provide delivery and pickup services on FedEx's behalf, and are referred to as Independent Service Providers (ISPs) and Contracted Service Providers (CSPs) in the record. The distinction between ISPs and CSPs is not relevant to this Court's consideration of Defendant's Motion to Disqualify. For ease of reference, this Court will refer to ISPs and CSPs collectively as "Service Providers," and any reference to "ISPs" or "CSPs" in language quoted by this Court may be inferred to be a reference to Service Providers generally for the purposes of this Opinion.
 
-[^sullivan-blake5] (n.5 in opinion) The Court cites to this caselaw for its analysis regarding joint and several liability, and not to address the issue of the availability of contribution or indemnity under the FLSA. *See Berryman v. Newalta Envtl. Servs., Inc.,* No. CV 18-793, 2018 WL 5631169, at \*3 (W.D. Pa. Oct. 31, 2018) ("Although the Third Circuit has not address[d the issue, other courts have uniformly agreed that an employer found liable under the FLSA has no right to contribution or indemnity from a third party.").
+[^sullivan-blake5]: (n.5 in opinion) The Court cites to this caselaw for its analysis regarding joint and several liability, and not to address the issue of the availability of contribution or indemnity under the FLSA. *See Berryman v. Newalta Envtl. Servs., Inc.,* No. CV 18-793, 2018 WL 5631169, at \*3 (W.D. Pa. Oct. 31, 2018) ("Although the Third Circuit has not address[d the issue, other courts have uniformly agreed that an employer found liable under the FLSA has no right to contribution or indemnity from a third party.").
 
-[^sullivan-blake6] (n.6 in opinion) The Court also notes that FedEx's reliance on *Yates v. Applied Performance Techs., Inc.,* 209 F.R.D. 143 (S.D. Ohio 2002) for the proposition that a conflict exists fails in two regards. Initially, the *Yates* court's decision clearly hinged on the filing of a third-party complaint which named another client of plaintiffs' counsel as a third-party defendant. *See* *Yates v. Applied Performance Techs., Inc.,* 209 F.R.D. 143, 152 (S.D. Ohio 2002) ("In the Court's view, Lucent's third party complaint, which names Gregg McConnell as a third party defendant, places Ferron in an untenable situation."). Further, FedEx's reliance on *Yates* presupposes that this Court must find that Service Providers violated the FLSA to find that FedEx violated the FLSA, and/or that testimony elicited by LLR from Service Providers will be adverse to Plaintiffs. As discussed above, this Court does not find merit in either of these assertions.
+[^sullivan-blake6]: (n.6 in opinion) The Court also notes that FedEx's reliance on *Yates v. Applied Performance Techs., Inc.,* 209 F.R.D. 143 (S.D. Ohio 2002) for the proposition that a conflict exists fails in two regards. Initially, the *Yates* court's decision clearly hinged on the filing of a third-party complaint which named another client of plaintiffs' counsel as a third-party defendant. *See* *Yates v. Applied Performance Techs., Inc.,* 209 F.R.D. 143, 152 (S.D. Ohio 2002) ("In the Court's view, Lucent's third party complaint, which names Gregg McConnell as a third party defendant, places Ferron in an untenable situation."). Further, FedEx's reliance on *Yates* presupposes that this Court must find that Service Providers violated the FLSA to find that FedEx violated the FLSA, and/or that testimony elicited by LLR from Service Providers will be adverse to Plaintiffs. As discussed above, this Court does not find merit in either of these assertions.
 
 ### Waiving Conflicts 
 
@@ -820,11 +820,11 @@ Thereafter, starting in 2001 and continuing for almost two years, New Jersey eng
 
 > A lawyer shall not accept compensation for representing a client from one other than the client unless:
 
-> (1) the client gives informed consent;
+> (1) the client gives informed consent;
 
-> (2) there is no interference with the lawyer's independence of professional judgment or with the lawyer-client relationship; and
+> (2) there is no interference with the lawyer's independence of professional judgment or with the lawyer-client relationship; and
 
-> (3) information relating to representation of a client is protected as required by _RPC_ 1.6.
+> (3) information relating to representation of a client is protected as required by _RPC_ 1.6.
 
 <p class="case-h2">C.</p>
 
@@ -838,17 +838,17 @@ The starting point for analysis must be the _RPC_ that most specifically address
 
 A synthesis of _RPCs_ 1.7(a)(2), 1.8(f) and 5.4(c) yields a salutary, yet practical principle: a lawyer may represent a client but accept payment, directly or indirectly, from a third party provided each of the six conditions is satisfied. Those conditions are:
 
-(1) The informed consent of the client is secured. In this regard, "'informed consent' is defined as the agreement by a person to a proposed course of conduct after the lawyer has communicated adequate information and explanation about the material risks of and reasonably available alternatives to the proposed course of conduct."
+(1) The informed consent of the client is secured. In this regard, "'informed consent' is defined as the agreement by a person to a proposed course of conduct after the lawyer has communicated adequate information and explanation about the material risks of and reasonably available alternatives to the proposed course of conduct."
 
-(2) The third-party payer is prohibited from, in any way, directing, regulating or interfering with the lawyer's professional judgment in representing his client.
+(2) The third-party payer is prohibited from, in any way, directing, regulating or interfering with the lawyer's professional judgment in representing his client.
 
-(3) There cannot be any current attorney-client relationship between the lawyer and the third-party payer.
+(3) There cannot be any current attorney-client relationship between the lawyer and the third-party payer.
 
-(4) The lawyer is prohibited from communicating with the third-party payer concerning the substance of the representation of his client. _RPC_ 1.8(f)(3). The breadth of this prohibition includes, but is not limited to, the careful and conscientious redaction of all detail from any billings submitted to the third-party payer.
+(4) The lawyer is prohibited from communicating with the third-party payer concerning the substance of the representation of his client. _RPC_ 1.8(f)(3). The breadth of this prohibition includes, but is not limited to, the careful and conscientious redaction of all detail from any billings submitted to the third-party payer.
 
-(5) The third-party payer shall process and pay all such invoices within the regular course of its business, consistent with manner, speed and frequency it pays its own counsel.
+(5) The third-party payer shall process and pay all such invoices within the regular course of its business, consistent with manner, speed and frequency it pays its own counsel.
 
-(6) Once a third-party payer commits to pay for the representation of another, the third-party payer shall not be relieved of its continuing obligations to pay without leave of court brought on prior written notice to the lawyer and the client. In such an application, the third-party payer shall bear the burden of proving that its obligation to continue to pay for the representation should cease; the fact that the lawyer and the client have elected to pursue a course of conduct deemed in the client's best interests but disadvantageous to the third-party payer shall not be sufficient reason to discontinue the third-party payer's continuing obligation of payment. If a third-party payer fails to pay an employee's legal fees and expenses when due, the employee shall have the right, via a summary action, for an order to show cause why the third-party payer should not be ordered to pay those fees and expenses.
+(6) Once a third-party payer commits to pay for the representation of another, the third-party payer shall not be relieved of its continuing obligations to pay without leave of court brought on prior written notice to the lawyer and the client. In such an application, the third-party payer shall bear the burden of proving that its obligation to continue to pay for the representation should cease; the fact that the lawyer and the client have elected to pursue a course of conduct deemed in the client's best interests but disadvantageous to the third-party payer shall not be sufficient reason to discontinue the third-party payer's continuing obligation of payment. If a third-party payer fails to pay an employee's legal fees and expenses when due, the employee shall have the right, via a summary action, for an order to show cause why the third-party payer should not be ordered to pay those fees and expenses.
 
 <p class="case-h2">E.</p>
 
@@ -948,7 +948,7 @@ Stipulated mitigating factors found by the board include the absence of prior di
 
 In considering the appropriate sanction for Sarver's misconduct, the board emphasized that "compelling" mitigating factors in this case warranted a two-year suspension, with the entire suspension stayed on conditions:
 
-> (1) not only was there no harm to the client but the client leveraged her relationship with Sarver to get a better plea deal by agreeing to testify against him; (2) he received a very public reprimand of sorts from the local media because his arrest and indictment, while he was a candidate for prosecutor, were front-page news; (3) he was over-indicted with 14 felonies and four misdemeanors including bribery and sexual battery charges; (4) he was arrested twice and spent two nights in jail; and (5) he was forced to withdraw his candidacy for county prosecutor.
+> (1) not only was there no harm to the client but the client leveraged her relationship with Sarver to get a better plea deal by agreeing to testify against him; (2) he received a very public reprimand of sorts from the local media because his arrest and indictment, while he was a candidate for prosecutor, were front-page news; (3) he was over-indicted with 14 felonies and four misdemeanors including bribery and sexual battery charges; (4) he was arrested twice and spent two nights in jail; and (5) he was forced to withdraw his candidacy for county prosecutor.
 
 The board explained that "what makes these factors so significant is that they all stem from Sarver's consensual sexual relationship with his client."
 
