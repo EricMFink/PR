@@ -33,11 +33,9 @@ In the course of representing a client a lawyer shall not knowingly:
 
 ## Represented Persons
 
-#### Model Rules of Professional Conduct, 
+#### Model Rules of Professional Conduct, Rule 4.2: Communication with Person Represented by Counsel
 
 <div class="legal-code">
-
- ### Model Rules of Professional Conduct, Rule 4.2: Communication with Person Represented by Counsel
 
 In representing a client, a lawyer shall not communicate about the subject of the representation with a person the lawyer knows to be represented by another lawyer in the matter, unless the lawyer has the consent of the other lawyer or is authorized to do so by law or a court order.
 
