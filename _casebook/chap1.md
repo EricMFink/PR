@@ -1080,7 +1080,7 @@ _AFFIRMED._
 
 <p class="case-h1">Note on Unauthorized Practice Statutes</p>
 
-A pending suit, brought by "two North Carolina Certified Paralegals and the [North Carolina Justice for All Project](https://www.ncjfap.org/), a nonprofit organization founded ... to expand access to justice in North Carolina", challenges the constitutionality of asserts that the North Carolina unauthorized practice statute "as applied to pure legal advice." _Black Polaski v. Lee_, No. 7-24-cv-00004-BO-BM (E.D.N.C.). Review the [complaint in _Black Polaski_]({{ site.baseurl }}/assets.materials/BlackPolaskiComplaint.pdf}}) and consider whether the claims may be distinguishable from those in _Capital Associated Industries_. 
+A pending suit, brought by "two North Carolina Certified Paralegals and the [North Carolina Justice for All Project](https://www.ncjfap.org/), a nonprofit organization founded ... to expand access to justice in North Carolina", challenges the constitutionality of asserts that the North Carolina unauthorized practice statute "as applied to pure legal advice." _Black Polaski v. Lee_, No. 7-24-cv-00004-BO-BM (E.D.N.C.). Review the [complaint in _Black Polaski_]({{ site.baseurl }}/assets/casebook/BlackPolaskiComplaint.pdf}}) and consider whether the claims may be distinguishable from those in _Capital Associated Industries_. 
 
 </div>
 

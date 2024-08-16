@@ -1324,11 +1324,6 @@ Nothing that we have heretofore said is intended as criticism of the character a
 
 Under the circumstances, Judge Brieant's order of disqualification cannot be construed as an abuse of his discretion. We therefore affirm.
 
-
-
-
-
-
 #### Screening Lateral Hire Who Formerly Represented Adverse Organization, 2012 Formal Ethics Op. 4 (N.C. State Bar, January 25, 2013)
 
 Opinion rules that a lawyer who represented an organization while employed with another firm must be screened from participation in any matter, or any matter substantially related thereto, in which she previously represented the organization, and from any matter against the organization if she acquired confidential information of the organization that is relevant to the matter and which has not become generally known.
