@@ -13,6 +13,8 @@ address2: Greensboro, North Carolina 27401
 term: 'Fall 2024'
 days: 'Monday & Wednesday 9:45–10:45 am'
 room: 'Room 207'
+ta: Ashe Cooper
+ta-email: acooper25@elon.edu
 
 syllabus: true
 

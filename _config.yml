@@ -2,7 +2,7 @@ url: https://www.emfink.net
 baseurl: /PR
 title: Professional Responsibility
 
-last_updated: 17 August 2024  # leave blank if you don't want to display last updated
+last_updated: 28 August 2024  # leave blank if you don't want to display last updated
 
 author:
   name: Eric M. Fink
@@ -16,9 +16,9 @@ author:
   phone: 336-279-9334
   web: emfink.net/ElonLaw
 
-#ta: 
-#  name: Elizabeth Kwon
-#  email: ekwon@elon.edu
+ta: 
+  name: Ashe Cooper
+  email: acooper25@elon.edu
 
 course: 
   subject: Professional Responsibility
