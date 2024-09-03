@@ -55,7 +55,7 @@ Elon Law School has adopted the following attendance policy for all courses:
 
 ### Disability Accommodations
 
-For disability accommodation requests, contact the Elon Law [Registrar's Office](https://www.elon.edu/u/law/academics/registrar/).
+For disability accommodation requests, contact Monica Isbell, [misbell@elon.edu](mailto:misbell@elon.edu), [Director of Disability Resources](https://www.elon.edu/u/academics/koenigsberger-learning-center/disabilities-resources/).
 
 ### Honor Code
 
