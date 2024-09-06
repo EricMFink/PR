@@ -973,10 +973,6 @@ Addressing the cross-motions for summary judgment, the district court first held
 
 This appeal followed.
 
-<p class="case-h1">II.
-
-CAI framed all six of its claims as as-applied challenges, which test the constitutionality of a statute applied to the plaintiff based on the record. Thus, CAI was not required to prove that the UPL statutes are invalid in all circumstances.
-
 <p class="case-h1">III.</p>
 
 We begin with CAI's claim that the UPL statutes violate its freedom of association. CAI contends that it is an expressive association seeking to improve employment relationships in North Carolina and foster compliance with the law. By forbidding it from practicing law, CAI argues, the UPL statutes restrict its ability to carry out that expressive mission. We agree with the district court, however, that the UPL statutes do not unconstitutionally restrict CAI's associational rights.
