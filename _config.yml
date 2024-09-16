@@ -29,8 +29,8 @@ course:
 coursebook:
   title: Professional Responsibility
   subtitle: An Open-Source Casebook
-  version: '3.0'
-  date: August 2024
+  version: '3.1'
+  date: September 2024
 
 collections:
   questions:
