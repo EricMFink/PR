@@ -2,415 +2,608 @@
 layout: page
 
 course: Professional Responsibility
-title: Conflicts of Interest
+title: Conflicts 2
 
 ---
 
-## 1. Concurrent Client Conflicts
+## Concurrent Client Conflicts
 
-### Question 1.1
+### Question 1
 
-Partner, a partner in Firm, represents A in employment discrimination suit against B Corp.
+Spencer, a businessman, calls Kai, an attorney. He says he is looking for a lawyer so that he can sue his former business partner, Max, with whom he has had a falling out. He asserts that he has proof that Max was stealing money from his company and covering it up by keeping two sets of books. Spencer says he has photos of several pages from both sets of books, which he obtained by sneaking into Max's house, where he found the books in the study and photographed them with his cell phone. Kai makes an appointment to meet with Spencer the following week to discuss possible representation.
 
-- May another lawyer at Firm represent B Corp. in that case?
-- What if Firm has 1000 lawyers in offices throughout the US and abroad. Partner works in the NY office. May Associate in London office – who has never met nor communicated with Partner – represent B Corp?
+The day after the phone call, Max calls Kai to ask for representation because he thinks Spencer is going to sue him. Max offers Kai a generous flat fee for the work. Kai would like to represent Max.
 
-### Question 1.2
+May Kai represent Max without Spencer's consent?
 
-Lawyer represents A in personal injury suit against B. 
+A) No, because an attorney may not accept representation of a person where the attorney's representation has first been requested by a potential adversary of that person.
 
-- May Lawyer represent C in purchase of A's house?
-- May Lawyer represent D in formation of partnership with A?
-- May Lawyer represent E in unrelated contract suit against A?
-- May Lawyer represent B in case of A v. B?
-- Which, if any, of these conflicts are waivable?
+B) No, because Spencer has given Kai information that could be used adversely to Spencer if Kai represents Max.
 
-### Question 1.3
+C) Yes, because there is no conflict of interest, since Kai has not yet agreed to represent Spencer.
 
-A, B, & C are charged with armed robbery of a liquor store. A & B met together with Attorney and asked Attorney to represent them both. Attorney interviewed A & B separately. Each told Attorney that C had committed the robbery while A & B sat outside the store, that C told them he was going in to buy a bottle of whisky, and that they had no idea C was going to rob the store.
+D) Yes, because Spencer's actions were not lawful.
 
-- May Attorney represent both A & B?
-- One week before trial, A tells Attorney he wanted a plea bargain, and that he was willing to testify that B loaned C the gun used in the robbery. What must Attorney do?
+### Question 2
 
-### Question 1.4
+Attorney Charlie works at a law firm of 30 lawyers in a large city. He represents his friend Suma in a wrongful discharge suit against her former employer, an architecture firm. Suma and her husband, Todd, are in the process of divorcing. Suma has retained a family lawyer associated with another firm to represent her in the divorce case. Charlie just learned that one of his law partners, Angus, is representing Todd in the divorce. Charlie and Angus agreed not to communicate with one another about either of the matters. They did not speak to Suma and Todd about the conflict. May Charlie continue to represent Suma in her civil suit against her former employer?
 
-A & B decide to form a limited partnership. A will contribute 100% of the cash, and B will devote 100% of his time to the partnership. They ask Attorney to represent them both in drafting the partnership agreement and filing the necessary paperwork with the state.
+A) Yes, because Charlie and Angus agreed not to communicate with one another about either of the matters.
 
-May Attorney do so?
+B) Yes, because the conflict involves only Charlie's personal interests and does not present a significant risk of materially limiting Angus's representation of Todd.
 
-### Question 1.5
+C) No, because the firm did not obtain both clients' informed consent, confirmed in writing.
 
-Attorney represents A, who was fired as in-house counsel for 123 Corp., in an appeal of A's lawsuit against his former employer. The issue on appeal is whether an in-house lawyer may assert a claim for wrongful discharge against her employer-client. Meanwhile, XYZ Corp. has asked Attorney to represent it in a pending appeal of a suit brought against XYZ by B; that suit involves the same legal issue, but in this case Attorney would be arguing the opposite legal position.
+D) No, because law firms are not permitted to sue current clients.
 
-- May Attorney represent both A and XYZ in their respective appeals, if both cases are before the NC Court of Appeals?
-- What if A's case is before the NC Court of Appeals, and XYZ's case is before the Virginia Supreme Court?
-- Assuming Attorney is disqualified from representing XYZ, may another lawyer in Attorney's firm represent XYZ in its appeal?
+### Question 3
 
-### Question 1.6
+Attorney Pavel is a criminal defense lawyer representing Denny, who is charged with larceny. Denny, a pro bono client, is alleged to have stolen a piece of jewelry from a jewelry box during a house party. In an unrelated matter, Pavel is defending Betty, for a fee, against a criminal charge of arson. Both cases are assigned to be heard by a single judge. During Denny's trial, the prosecutor calls Betty to the stand. She testifies that she was at the party in question and saw Denny go in and out of the room where the alleged theft occurred. She further testifies that she never went into that room. Earlier, Denny had told Pavel that he saw Betty go into the room, and he suggested that she may be the thief. Pavel intends to cross-examine Betty on this point. Is there a conflict of interest?
 
-Attorney A currently represents Builder, a building contractor who is the plaintiff in a suit to recover for breach of contract to build a house. Builder also has pending before the zoning commission a petition to rezone property Builder owns. Builder is represented by Attorney B in the zoning matter. Neighbor, who owns property adjoining that of Builder, has asked Attorney A to represent Neighbor in opposing Builder's petition for rezoning.
+A) Yes, because Denny's interests are directly adverse to Betty's.
 
-- May Attorney A represent Neighbor?
-- If Attorney A is disqualified from representing Neighbor, may Attorney A refer the matter to one of her partners or associates?
+B) Yes, because Betty is a paying client.
 
-### Question 1.7
+C) No, because the representation does not involve the assertion of a claim by Denny against Betty or vice-versa.
 
-The Smith family (mother, father, three adult children, and son-in-law) visit Lawyer for estate planning advice. Each family member needs a new will. All family members are in accord with regard to the distribution of the family's assets. 
+D) No, because Pavel's cross-examination of Betty is impliedly authorized to carry out the representation.
 
-May Lawyer write wills for all of them?
+### Question 4
 
-### Question 1.8
+Attorney Roger is a solo practitioner in a small town. There are only about 70 lawyers in the town, and of those, only 20 (including Roger) handle divorce cases. One day, Roger does an intake interview with Leon, who is seeking a divorce. Leon reveals to Roger that he had several affairs during his marriage and that his wife, Reva, does not know about them. At the end of the interview, Roger tells Leon that he will let Leon know within a week whether he can accept his case.
 
-Lawyer, a partner with the Jones Law Firm, is retained by Allstate Insurance Company to represent one of its policyholders (B), who was involved in an auto accident with C. Lawyer will be paid by Allstate.
+The next day, Leon calls Roger to say that he has decided to retain another lawyer. A week later, Reva comes to Roger's office seeking representation in the divorce. Recognizing her name, and before she says anything else, he asks her if Leon is her spouse. She confirms that he is. Roger immediately tells Reva that he may not be able to represent her. Before he can finish his sentence, Reva interrupts, "Is this because he came to see you already? I have already been told by five different lawyers that they cannot represent me because of a conflict of interest! I think Leon is just trying to prevent me from hiring a lawyer in this town." A few days later, Roger is able to confirm that over the course of three days, Leon did a one-hour intake interview with every divorce lawyer in town.
 
-- Who does Lawyer represent?
-- During the representation, B admits that he was drinking just before the accident. B asks Lawyer not to disclose this information to Allstate. What are Lawyer's ethical obligations?
-- May Allstate use its in-house lawyers to represent its policyholders?
+May Roger represent Reva in the divorce?
 
-### Question 1.9
+A) Yes, because Leon is only a prospective client; therefore Roger owes no duty to him.
 
-Alice, plaintiff, is suing Bert and Charlie, defendants, for slip and fall. Bert is represented by Lawyer A. Bert intends to argue that the fall resulted from Alice's own negligence and, in any event, the staircase on which Alice fell is owned by Charlie. Recently, Charlie has asked Lawyer A to represent him as well.
+B) Yes, because Leon met with every divorce lawyer in town.
 
-May Lawyer A do so?
+C) No, because Roger received information from Leon that could be used against Leon.
 
-### Question 1.10
+D) No, unless he gets Leon's informed consent, confirmed in writing.
 
-Wanda, a partner in the Smith Law Firm, represents A in the case of A v. B. B asks Howard, who is a partner in the Jones Law Firm and Wanda's spouse, to represent B in the litigation.
+### Question 5
 
-- Absent informed consent of both clients, may Howard represent B?
-- If not, may Howard refer B to one of his partners/associates?
+Attorney Meghan represents Walter, a used-car salesman who has been criminally charged with driving while intoxicated. Before Walter's trial, a friend of Meghan's, Laurel, asks Meghan to represent her in her breach of contract suit against Walter and his company. If Meghan were to sue Walter on behalf of Laurel, another lawyer would defend Walter in that matter. Meghan has formed a close bond with Walter as a result of her work on his criminal case, and she reasonably believes that she could not represent Laurel very vigorously, because of her friendship with Walter. She explains her concern to Laurel, and Laurel states that she understands the risks and agrees to the representation anyway. She confirms her understanding in writing. Walter also gives informed consent in writing. May Meghan represent Laurel?
 
-### Question 18
+A) Yes, because the representation is not prohibited by law.
 
-Law Firm has offices in cities around the US, including Raleigh and Atlanta. Law Firm's Raleigh office represents XYZ Company in a case in NC state court against ABC Company. Law Firm's Atlanta office has been asked by ABC Company to represent it in a wholly unrelated case in Georgia state court. 
+B) Yes, because Walter's case is criminal and Laurel's case is civil.
 
-May Law Firm do so?
+C) No, because the representation would involve the assertion of a claim by one client against another client represented by the lawyer in the same litigation.
 
-### Question 19
+D) No, because Meghan does not reasonably believe that she can competently and diligently represent Walter and Laurel, even though both clients gave informed consent, confirmed in writing.
 
-Law Firm's Greensboro office is defending XYZ Company through its liability insurer, Vesuvius Insurance Company (which is neither a party to the suit nor Law Firm's client). Law Firm's Atlanta office has been asked to sue ABC Corp., which is also insured of Vesuvius Insurance Company, in a wholly unrelated case. 
+### Question 6
 
-May Law Firm do so?
+The state in which Stella practices recently enacted an animal cruelty law. Stella represents Chix, Inc., a poultry company, in a suit brought by a local animal rights group. The suit alleges that the poultry company has violated the new state law by failing to provide adequate ventilation in the chicken coops. The suit seeks punitive damages. Stella files a motion to strike the punitive damages request, urging that the new law does not allow recovery of punitive damages.
 
-## 2. Former Client Conflicts
+In an unrelated matter, Stella represents a group of students at a small Christian college, seeking to recover punitive damages against the school for allowing dissection of live animals in their school's biology classes in violation of the statute. When Stella agreed to represent the students, she explained to them that she was arguing against the availability of punitive damages in the Chix case. Stella is representing the students pro bono, so even if punitive damages were granted, she would not receive a portion of the award as a legal fee.
 
-### Question 2.1
+Which of the following factors is least relevant to determining the risk that Stella's actions on behalf of one client would materially limit Stella's effectiveness in representing the other?
 
-Ten years ago, Lawyer represented A in negotiation of employment contract with ABC Corp. During that representation, Lawyer became familiar with A's financial assets. The representation concluded nine years ago and lawyer has not represented A since then.
+A) The fact that she will represent both clients in lawsuits at the trial court level.
 
-- May Lawyer now represent C in a personal injury case against A?
-- May Lawyer now represent H in a divorce against A?
-- May Lawyer now represent ABC Corp. in an employment discrimination suit filed by A?
-- Which, if any, of these conflicts are waivable by A?
+B) The fact that the lawsuits will be litigated during the same period of time.
 
-### Question 2.2
+C) The fact that Stella would not benefit financially if the statute were interpreted to allow punitive damages.
 
-Five years ago, Attorney represented Seller in the sale of Seller's home. Attorney has not represented Seller since that time. Seller's business partner has asked Attorney to represent him in a dispute over the dissolution of the business partnership. 
+D) The fact that, when Stella agreed to represent the students, she explained to them that she was arguing against the availability of punitive damages in the Chix case.
 
-May Attorney represent Partner against Seller?
+### Question 7
 
-a. No, because the representation is directly adverse to Attorney's former client
+Chloe and Matilda are partners in a small law firm. Chloe has represented Speisler Motors, an auto manufacturer, for years. She represents Speisler in all litigation in which it is a party. At present she is defending the company in a lawsuit brought by Tom, a driver of a Speisler car who was blinded when an airbag spontaneously exploded while he was driving. When the bag exploded, Tom's car hit Anton, a pedestrian, who died some days after the accident. The executor of Anton's estate has asked Matilda to represent the estate in a lawsuit against Tom and Speisler Motors. Matilda believes that she would be able to provide competent and diligent representation to Anton's estate, and Chloe believes that she would be able to provide competent and diligent representation to Speisler Motors. They have agreed not to talk with each other or to share documents relating to the matter. Speisler, Tom, and Anton's executor all give verbal consent to the representation after full disclosure of all material risks. Is it proper for Matilda to accept representation of Anton's estate?
 
-b. No, unless at the time of the sale of Seller's home, Seller agreed that Attorney would not subsequently be precluded from representing other clients against Seller
+A) Yes, because Matilda could reasonably believe that she would be able to provide competent and diligent representation to Anton's estate, and Chloe could reasonably believe that she would be able to provide competent and diligent representation to Speisler Motors.
 
-c. Yes, because the partnership dissolution is unrelated to the sale of Seller's home
+B) Yes, because Matilda and Chloe have agreed not to talk with each other or to share documents relating to the matter.
 
-d. Yes, unless Seller sold the home while in the partnership with Partner.
+C) No, because although the conflict is consentable, neither Matilda nor Chloe confirmed her client's informed consent in writing.
 
-### Question 2.3
+D) No, because there is a conflict of interest and the conflict is not consentable.
 
-Attorney prepared a will for Client and acted as one of the subscribing witnesses to the will. The will left everything to Client's son. Later, at Client's request, Attorney prepared a new will for Client, this time leaving half of Client's estate to Son and half for Client's butler. Client died, and the Butler sought to collect half the estate under the second will. Son, who believes the second will is the product of fraud and undue influence, asks Attorney to represent him in an action challenging its validity. 
+### Question 8
 
-May Attorney do so?
+Valladia, Inc., is a small, closely held corporation. Valladia and its president, Alan, are defendants in a civil action brought by a state attorney general who accuses both of them of fraud, based on the same facts and the same law. Both of them desire to be represented by Martha, an attorney. Martha will bill each defendant for services provided on behalf of that defendant. Martha reasonably believes that she could provide competent and diligent representation to both of them. Martha advises the board of directors of Valladia of all the foreseeable risks of the corporation being represented by the same attorney who is representing Alan, and she advises Alan of all of the foreseeable risks of being represented by the lawyer who is representing the board. Valladia's board of directors votes to approve the representation, and Alan approves as well. Martha writes a letter to the corporation and to Alan noting that both have given their informed consent to her representation of both parties. May Martha represent both of them?
 
-### Question 2.4
+A) Yes, because the corporation gave informed consent to the joint representation.
 
-Ten years ago, Attorney represented Husband and Wife on three simple real estate transactions. During these matters, Wife disclosed no confidential information to Attorney. Attorney has not represented Husband or Wife since.  Husband and Wife are now getting divorced.
+B) Yes, because both defendants gave informed consent to the joint representation.
 
-- May Attorney represent Husband in the divorce?
-- Would your answer change if the divorce happened just a few weeks after the completion of the last real estate transaction?
+C) No, because a single lawyer may not represent two co-defendants in civil litigation.
 
+D) No, because even though conflicts are not foreseeable at present, they could arise in the future.
 
-### Question 2.5
+## Former Client Conflicts
 
-Lawyer is a partner at the Smith Law Firm, which represents A in the case of A v. B. Lawyer has played no role in the case and had no information about it. While the case is still pending, Lawyer leaves the Smith Firm and joins the Jones Firm, which represents B in the suit between A and B. 
+### Question 1
 
-- May Lawyer represent B in A v. B?
-- May other attorneys in the Jones Firm continue to represent B? 
+Carlos, a sole practitioner, represents Sharky Products, Inc., a property owner that disputes an adjoining owner's right of access to an alleyway between their buildings. Carlos sent a letter to the other property owner, Berry's Beauty Supply Co., to explain the problem. He received a reply from Berry's lawyer, Eleanor, requesting that Carlos withdraw from representation of Sharky. Eleanor claimed that Carlos was prohibited from handling this matter because five years ago, Carlos represented Matthew, the president and sole owner of Berry's, in a claim against the manufacturer of a lawn care product that he used at his home. The matter took three hours of Carlos' time and Matthew was satisfied with the resulting settlement. Carlos has had no contact with Matthew since then.
 
-### Question 2.6
+May Carlos continue to represent Sharky Products, Inc.?
 
-Same facts as the previous question, except that, before he left the Smith Firm, Lawyer was lead trial attorney for A in the case against B. 
+A) Yes, because there is no substantial relationship between the two matters.
 
-How (if at all) does this change your answers? 
+B) Yes, because he only worked on Matthew's case for three hours.
 
-### Question 2.7
+C) No, because his representation of Sharky is materially adverse to his former client.
 
-L is a partner in the Smith Law Firm. While at the Smith Law Firm, L represents P in a contract action against D. L leaves the Smith Law Firm and joins the Jones Law Firm. L takes P (and P's case against D) with him to the Jones Law Firm. The Smith Law Firm no longer represents P in any matter.
+D) No, because Matthew is the president and sole owner of Berry's.
 
-- May the Smith Law Firm now represent D in her action against P?
-- May the Smith Law Firm represent X in an unrelated case against P?
+### Question 2
 
+Last year, attorney Mira represented Sally, the owner of a small pizza restaurant, in a suit against Rome's Own, Inc., a supplier of shredded cheese, based on breach of contract. The parties settled the claim for $15,000. Mira and Sally remained friendly after the matter was settled, and have gone to the movies and to dinner a few times in the last year. Earlier today, Sally's next door neighbor, Jose, came in to Mira's office for a consultation and asked Mira to represent him in a civil suit against Sally. Jose alleges that Sally's pet macaw bit him, causing an infection and permanent scarring. Jose wants to get a court order against Sally requiring that the bird be euthanized pursuant to a state law. Sally already paid for his medical care. Jose does not want further damages. Must Mira obtain Sally's informed consent before she can agree to represent Jose?
 
-## 3. Conflicts Based on Attorney's Interests
+A) Yes, because Jose's interests are directly adverse to Sally's.
 
-### Question 3.1
+B) Yes, because there is a significant risk that Mira's representation of Jose will be materially limited by her loyalty to Sally.
 
-An attorney regularly represents clients in divorce cases. The attorney has fallen in love with a client in the midst of a case, and the two of them are discussing whether it would be appropriate to begin a sexual relationship. Which of the following most accurately describes the lawyer's options under the Model Rules of Professional Conduct? 
+C) No, because Jose's lawsuit is not substantially related to the breach of contract lawsuit against Rome's Own, Inc.
 
-a. The lawyer may commence a consensual sexual relationship with the client. 
-b. The lawyer may not commence a sexual relationship with the client until the representation is concluded. 
-c. The lawyer may commence a sexual relationship with the client as long as by doing so the lawyer is not unfairly exploiting the lawyer's fiduciary role and taking advantage of the client's trust.
-d. The lawyer may commence a sexual relationship with the client if the client gives informed consent, confirmed in writing. 
+D) No, because Jose's interests are not materially adverse to Sally's.
 
-### Question 3.6
+### Question 3
 
-Alexander Abrams is an associate at a multinational law firm. He has interviewed for a job with the small, boutique firm of Levarge & Monahan (L & M). His possible employment by L & M has hit a snag, however, because L & M has realized that Alexander has done work for clients of his current firm on several cases (the "Common Cases”) in which L & M represents the opposing party. L & M wants to hire Alexander but will not risk creating a conflict of interest in its representations of its clients in the Common Cases. Which of the following statements most accurately describes L & M's options under the Model Rules of Professional Conduct? 
+Use the facts from the previous question. Must Mira obtain Jose's informed consent before she can agree to represent Jose?
 
-a. L & M may hire Alexander if it screens him from any involvement in the Common Cases. 
-b. L & M may not hire Alexander because he would create a conflict of interest within L &  M. 
-c. L & M may hire Alexander.
-d. L&M may hire Alexander only if all parties to the Common Cases consent and that consent is confirmed in writing.
+A) Yes, because Jose's interests are directly adverse to Sally's.
 
-### Question 3.7
+B) Yes, because there is a significant risk that Mira's representation of Jose will be materially limited by her loyalty to Sally.
 
-George Valiant is a new associate in Peabody and Falmouth (PF), a large urban law firm. He works in the corporate department. PF has just been asked to represent a defendant in a large products liability case. A routine conflicts check alerted PF to the fact that George's wife, Nancy Valiant, is the lead counsel for the opposing party in that case. Which of the following statements most accurately reflects PF's options with respect to undertaking the new representation? 
+C) No, because Jose's lawsuit is not substantially related to the breach of contract lawsuit against Rome's Own, Inc.
 
-a. The firm may not undertake the new representation without consent of its client because  George has a conflict of interest that will be imputed to all the lawyers in the firm. 
-b. The firm may undertake the new representation because George will not be working on the  case and therefore the firm does not have a conflict of interest. 
-c. The firm may undertake the case as long as the firm formally screens George from any  involvement in the case, notifies the opposing party of the screens, and certifies to its client that George has been screened. 
-d. The firm may undertake the new representation because George's conflict will not be imputed to other lawyers in the firm.
+D) No, because Jose's interests are not materially adverse to Sally's.
 
-### Question 3.8
+### Question 4
 
-An attorney represents a class of thousands plaintiffs in a consumer credit case. He has  just been diagnosed with cancer. Which of the following statements most accurately describes the attorney's responsibilities under the Model Rules of Professional Conduct? 
+Lawyer Shawn has handled various property and business transactions for Evelyn, her adult daughter Adelaide, and Evelyn's business partner, Oliver, during the last decade. Those matters are all completed. Five years ago, Shawn wrote a will for Evelyn in which she left all of her property to Adelaide. In that work, Shawn represented and gave advice to both Evelyn and Adelaide. Adelaide, who lives with her mother, suffers from disabling epilepsy and has not been able to support herself. After Shawn finished drafting the will, he drafted a letter to Evelyn and Adelaide informing them that his office was closing their file and confirming the termination of their lawyer-client relationship. However, he failed to mail them the letter.
 
-a. The lawyer must immediately cease his activities on behalf of the class and inform the  members of the class that he has withdrawn. 
-b. The lawyer may withdraw from the representation if his physical condition materially  impairs his ability to represent the class. 
-c. The lawyer must disclose his physical condition to the named representative of the class and may continue to represent the class only with the representative's informed consent,  confirmed in writing. 
-d. The lawyer must seek to withdraw from the representation if his physical condition  materially impairs his ability to represent the class. 
+Last week, Evelyn came to Shawn to tell him that it's time for Adelaide to stand on her own two feet. She mentioned that Adelaide has become involved with a boyfriend, Felix, and has been staying out nights. She would like Shawn to write a new will for her in which she would leave all of her property to Oliver. She further asks Shawn not to reveal to Adelaide the contents of the new will.
 
-### Question 3.9
+May Shawn write the new will for Evelyn?
 
-Butch Bauman is an elderly widower who lives at the Autumn Leaves Nursing Home. Mike  Steel has been Butch's attorney for many years. Butch recently had a stroke that has impaired his thinking. Mike knows that for years Butch's step-daughter has been pestering him to sign Butch's house over to her, and on his last visit to Autumn Leaves Mike interrupted a visit by the step-daughter. As Mike walked in, he could see the step-daughter had some kind of papers in her hand and was holding Butch's hand, with a pen in it, up to the papers as if helping him to sign his name. When Mike arrived, the step-daughter abruptly left and refused to speak to Mike or tell him what she was doing. Which of the following statements most accurately reflects Mike's options under the Model Rules of Professional Conduct? 
+A) Yes, because his prior representation of Adelaide was incidental to his representation of Evelyn.
 
-a. Mike may take reasonably necessary action to protect his client if he obtains consent from  the client to reveal the confidential information that makes the action appropriate. 
-b. Mike must, as far as reasonably possible, maintain a normal lawyer-client relationship with  his client. 
-c. Mike must seek to have a guardian appointed for his client. 
-d. Mike may take reasonably necessary action to protect his client if his client cannot act  adequately in his own interest. 
+B) Yes, because he will not reveal the contents of the new will to Adelaide without authorization by Evelyn.
 
-### Question 3.10
+C) No, because he failed to inform Adelaide that he no longer represents her.
 
-Steve Katz is a lawyer and a partner in Katz & Morgan (KM), and he meets with Dana  Rogers, a prospective new client. Dana is there to discuss a dispute that she is having with her business partner, Roger Wilson, As is his custom, Steve opens the conversation with an open-ended ### Question, "What brings you here to see me today?” In response, Dana pours forth all the issues that have arisen between her and Roger, including several facts that will be significantly harmful to any attempt by Dana to obtain any legal remedy against Roger. At the end of the meeting, Steve tells Dana about his fee structure, and she tells him that he is too expensive. The next week, Roger comes to Steve and asks Steve to represent him in his dispute with Dana. Which of the following statements most accurately describes the options that Steve and KM have under the Model Rules of Professional Conduct? 
+D) No, because he did not obtain Adelaide's informed consent to his representation of Evelyn with respect to the new will.
 
-a. Steve and KM may represent Roger against Dana. 
-b. Steve may not represent Dana but KM may do so as long as Steve is screened from any  participation in the case, receives no income from the case, and Dana is given written notice. 
-c. Steve and KM may represent Roger as long as Steve does not use or reveal any of the  information he gained from his interview with Dana. 
-d. Neither Steve nor KM may represent Roger in this dispute against Dana. 
+### Question 5
 
-### Question 3.11
+Kieran, five years out of law school, accepted a job with Sato & Perlmutter, LLP. A couple of months after he started work, Miranda Perlmutter was asked to take over representation of Kasho Natural Foods in an ongoing lawsuit against the Roxbury Box Company. Kasho had fired its previous counsel after a dispute over legal fees. Miranda wants to accept Kasho as a client. However, there may be a problem.
 
-Jewel Jackson is a lawyer who routinely requires her clients pay a "retainer" of $2500 at the beginning of any new matter. Jewel places the "retainer" in her firm's trust account. The retainer is really just a deposit, and Jewel bills $250 per hour against the deposit until  it is depleted, and then Jewel routinely asks for an additional deposit. Jewel represented Greg Fox in a matter and followed her usual procedures. Jewel spent 10 hours on the matter, but before she could withdraw the retainer from the trust account, Greg notified  Jewel that he thought the $2500 should be returned to him. Which of the follov statements most accurately describes Jewel's obligations under the Model Rules of Professional Conduct? 
+Kieran came to Sato & Perlmutter from another firm, Podkrash and Associates, LLP, where he had worked for three years. The Podkrash firm has been representing the Roxbury Box Company in the Kasho litigation for the last two years. Kieran did not work on the Roxbury matter while he worked at Podkrash. While Kieran was working at Podkrash, he dated Lance, the senior paralegal at the firm. Lance oversaw all the staff work on the Roxbury matter and talked at length about the factual and strategic issues in the case with Kieran on many occasions. For example, the two men talked about a decision of the partner in charge of the litigation that a key document that might impact Roxbury's liability was not covered by the plaintiffs' discovery request. Lance disagreed with the partner's decision, but ultimately decided to keep his mouth shut.
 
-a. Jewel must keep the funds separate until the dispute is resolved. 
-b. Jewel may withdraw the funds because the fees have been earned. 
-c. Jewel must remit the funds to the client who claims them. 
-d. Jewel must interplead the funds so that a court can resolve the dispute over them.
+After consultation with her firm's ethics counsel, Miranda decides to undertake representation of Kasho. However, she does not wish to terminate Kieran's employment as a way to solve any conflicts problem. Instead, she timely screens Kieran from the lawyers working on the matter, sees to it that he receives no part of the fee from the Kasho matter, and provides appropriate written notices to Roxbury about the screening procedures.
 
-### Question 3.12
+Was Sato & Perlmutter permitted to undertake representation of Kasho in this manner?
 
-Clayton Ford is a lawyer who has been asked to represent Jimmy Bonner, a college student  who has been accused of conspiracy to distribute illegal drugs. Clayton immediately discovers, however, that his law partner has undertaken representation Jimmy's room mate, who has been charged with being part of the same conspiracy and who has offered to testify against all the other alleged co-conspirators, including Jimmy, in exchange for leniency. Which of the following statements most accurately describes Clayton's options under the Model Rules of Professional Conduct? 
+A) Yes, because Lance and Kieran's relationship was personal in nature.
 
-a. Clayton may represent Jimmy because Clayton does not personally represent Jimmy's  roommate. 
-b. Clayton may not represent Jimmy. 
-c. Clayton may represent Jimmy as long as Clayton and his law partner are each screened from any involvement in the other's case. 
-d. Clayton may represent Jimmy as long as Jimmy and his roommate each give informed  consent to the representation. 
+B) Yes, because Kieran was properly screened from the Kasho representation.
 
-### Question 3.13
+C) No, because there is a substantial risk that confidential information that Kieran would have learned at the Podkrash firm would materially advance Kasho's position in the litigation.
 
-Edward is a lawyer who routinely defends pharmaceutical companies in product liability actions. Edward is currently representing the co-defendants ABEX, Inc. (AI) and EMU Laboratories Corp. (ELC) in a case involving an alleged defect in a medicine to treat ringworm. Al has now instructed Edward to file a cross-claim agains The cross-claim would allege that ELC bears all responsibility for the loss because of a failure to properly test and/or analyze the test results for the medicine. Which of the following statements most accurately describes Edward's options under the Model Rules of Professional Conduct? 
+D) No, because this is a situation in which screening is insufficient to avoid the possibility of a conflict of interest so long as Kieran remains at the firm.
 
-a. Edward may file the cross-claim as long as both clients give informed consent. 
-b. Edward may file the cross-claim. 
-c. Edward may not file the cross-claim for one client against another client. 
-d. Edward may have the cross-claim filed by one of his partners.
+### Question 6
 
-### Question 3.14
+Five years ago, attorney Barry worked at a large law firm with offices across the country. One of the firm's partners defended Panko, Inc., an appliance manufacturer, against allegations that its toasters had a defect that would cause many of them to catch fire. Barry was not involved in that litigation and did not learn anything about it during his time at the firm. Barry has since opened up a private practice of his own. Ted comes to Barry's new office seeking legal help. Ted tells Barry that his Panko toaster recently overheated and caused a house fire. He would like to sue Panko for damages. May Barry represent him a suit against Panko without Panko's informed consent?
 
-Elsie Todsen is a lawyer who at one time represented the Bobbitt Air Conditioning  Company (BACC) in connection with negotiations arising out of an accident involving John DeGarmo. Before the negotiations were complete, BACC discharged Elsie. John has now asked Elsie to file suit on his behalf against BACC for the same accident. Which of the following statements most accurately describes Elsie's options under the Model Rules of Professional Conduct? 
+A) Yes, because there was not a substantial risk that confidential factual information as would normally have been obtained in the prior representation of Panko would materially advance Ted's position in the subsequent matter.
 
-a. Elsie may not under any circumstances sue her former client in the same matter in which  she formerly represented that client. 
-b. Elsie may not personally represent John but her firm may do so as long as Elsie is screened  from any participation in the matter and receives no part of the fee. 
-c. Elsie may not represent John without BACC's informed consent, confirmed in writing. 
-d. Elsie may represent John as long as she reasonably believes that in doing so she can protect BACC's confidential information.
+B) Yes, because Barry did not actually acquire confidential information that is material to Ted's lawsuit while he was working at his old law firm.
 
-### Question 3.15
+C) No, because the matters are the same or substantially related.
 
-Michelle DuPont is an attorney who until recently was a partner in the law firm of Dwight  & Richards (D & R). Because of a dispute over her share of D & R's profits, Michelle recently left the firm and started her own firm. Michelle took her biggest client, Tom's Technology Services, Inc. (TTS), with her, including all the matters on which D & R was working for TTS at the time of Michelle's departure. One of those matters was a suit against TTS for installation of a defective set of computer servers at Goliad Enterprises (GE). When Michelle left the firm, she took with her as employees of her new firm all of the lawyers who had confidential information about any of TTS's matters except Joey Oberlin, a young associate who had helped with the GE v. TTS litigation. Now, GE has asked D & R to represent GE in its litigation against TTS. It is clear that TTS will not consent to this. Which of the following statements most accurately states D & R's options under the Model Rules of Professional Conduct? 
+D) No, because Ted's interests are materially adverse to those of Panko.
 
-a. D & R may undertake the representation of GE as long as Oberlin is screened from any  participation in the case and receives no part of the fee from it. 
-b. D&R may not undertake the new representation because it would be switching sides in the  GE v. TTS litigation. 
-c. D & R may not undertake the new representation because Oberlin is still with the firm.
-d. D&R may undertake the new representation because TTS is no longer a client of the firm.
+### Question 7
 
-### Question 3.16
+Armand, a lawyer, represented Walter, a plastic surgeon, during Walter's contested divorce from his wife five years ago. Armand no longer has any contact with Walter, and he does not remember anything about Walter's case. Recently, one of Walter's patients, Celia, developed serious complications and nearly died as the result of the extensive cosmetic surgery that Walter performed on her. She wants to sue him for punitive damages based on gross negligence. She has asked Armand to represent her. May he do so without Walter's consent?
 
-Lawyer Carleton McAllister represents criminal defendants. As a favor to an old friend,  Carleton agrees to represent the friend's indigent nephew on murder charges in a notorious case. Carleton agrees to waive his usual fee but needs to expend considerable sums to conduct investigations regarding both the guilt and the sentencing phases. The client does not have the money to pay these expenses. Which of the following best states Carleton's options under the Model Rules of Professional Conduct? 
+A) Yes, because he no longer represents Walter and the medical malpractice matter is unrelated to the divorce.
 
-a. Carleton may pay the expenses himself. 
-b. Carleton may acquire the literary rights to the nephew's story and pay the expenses from the  royalties earned later on the use of those rights. 
-c. Carleton may advance the costs of the expenses himself but must obtain the client's  agreement to repay the sums advanced. 
-d. Carleton may not pay or advance the expenses because that is prohibited financial assistance to a client.
+B) Yes, because he does not remember anything about Walter's case.
 
-### Question 3.17
+C) No, because a lawyer may not sue a former client without the former client's consent.
 
-Jenna Weatherby was an attorney with the State Department of Transportation (SDOT). As a junior lawyer for SDOT, she helped her superiors to brief various issues that came before the courts related to the controversial expansion of Arbor Road in Capitol City. Her work supported the expansion. Now that she is in private practice, Jenna has been asked by the Chamber of Commerce of Capitol City to represent it as an intervenor in litigation brought against SDOT by Citizen Opposed to Arbor Road Expansion (COARE) to stop the expansion. The Chamber would be intervening to argue in favor of the expansion of Arbor Road. Which of the following most accurately states Jenna's options under the Model Rules of Professional Conduct? 
+D) No, because Armand would normally have obtained information in the divorce case that could be helpful to Celia.
 
-a. Jenna may represent the Chamber because her new client is on the same side of this  controversy as her former client. 
-b. Jenna may represent the Chamber because she was not lead counsel for SDOT. 
-c. Jenna may not represent the Chamber without the informed consent of SDOT.
-d. Jenna may not represent the Chamber.
+### Question 8
 
-### Question 3.18
+Attorney Ash is a solo practitioner specializing in serving small businesses. Ten years ago, Ash handled a routine health department license application for Sprinkles, a newly founded small family-owned bakery. Sprinkles is now known for its cupcakes. Death by Cupcake (DBC) is a bakery across town from Sprinkles that also specializes in cupcakes. DBC would like to hire Ash to represent them in negotiating a commercial lease to open a new bakery. As it happens, the property it wants to lease is across across the street from Sprinkles. The increased competition would significantly hurt Sprinkles' business. May Ash accept the representation without obtaining Sprinkles' informed consent?
 
-Pamela Harper is an attorney who recently had the misfortune to be a defendant in a legal malpractice case. Because that experience was so terrible, she would like to obtain routinely from her clients advance waivers of claims against her for malpractice. Which of the following statements most accurately describes Pamela's options under the Model Rules of Professional Conduct? 
+A) Yes, because informed consent is not required when a prospective client and a former client are merely economic competitors.
 
-a. Pamela may obtain an enforceable advance waiver of claims against her for malpractice if  she provides sufficient information to enable the client to give informed consent. 
-b. Pamela may obtain an enforceable advance waiver of claims against her for malpractice  only if her client is independently represented in making the agreement. 
-c. Pamela may obtain an enforceable advance waiver of claims against her for malpractice as  long as the client is informed in writing of the desirability of seeking, and is given a reasonable opportunity to seek, the advice of independent legal counsel. 
-d. Pamela cannot obtain an enforceable advance waiver of claims against her for malpractice.
+B) Yes, because the two matters are not substantially related.
 
-### Question 3.19
+C) No, because DBC and Sprinkles are economic competitors.
 
-Kara Brown is a new attorney at the Law Offices of Nagy & Nagy (NN). The firm  specializes in criminal defense but typically does not represent those accused of violence  en. To her surprise, one day Kara comes to work and discovers that the firm has assigned her to work on the defense of Grover Wellington III, a young man who has been accused in a brutal sexual assault at the local college. Because of personal experiences, Kara is unable to render competent and diligent representation to anyone accused of such a crime. Which of the following statements most accurately describes the firm's options with respect to its representation of Wellington? 
+D) No, because DBC's interests are materially adverse to Sprinkles'.
 
-a. The firm may represent Wellington as long as Kara does not participate in the case. 
-b. The firm may not represent Wellington because Kara has a conflict of interest that will be  imputed to all the lawyers in the firm. 
-c. The firm may represent Wellington as long as Kara is screened from participation in the case and receives no part of the fee therefrom. 
-d. Kara and the firm may represent Wellington as long as the client gives informed consent to  Kara's conflict. 
+## Conflicts in Particular Practice Settings
 
-### Question 3.20
+### Question 1
 
-Leah Peterson is an attorney who specializes in estate planning. Her long-time client, Jacob Daniels, who is not related to Leah, has come to her and asked her to revise his will, now that Jacob's wife and children have all predeceased him. Jacob tells Leah that he would like to make a substantial bequest to Leah's daughter for purposes of her education. Which of the following most accurately describes Leah's obligations under the Model Rules of Professional Conduct? 
+Attorney Darla represents the plaintiffs in a class action lawsuit against Nutrisnax, a granola bar company, alleging false advertising. The plaintiffs allege that Nutrisnax falsely advertised its granola bars as a healthy alternative to candy bars when, in fact, the granola bars contained just as much fat, sugar, and sodium as the average candy bar. The class includes anyone who purchased a Nutrisnax granola bar in the last three years. Last week, a potential client named Samuel came into Darla's office and asked her to represent him in his claim for child support against his former husband, Franklin. Darla learned that Franklin purchased hundreds of Nutrisnax granola bars during the relevant period, making him one of the unnamed members of the class in the granola bar suit. Must Darla obtain Franklin's informed consent before agreeing to represent Samuel?
 
-a. Leah may prepare Jacob's revised will to provide the bequest as long as Jacob gives his  informed consent to the gift to Leah's daughter and as long as Leah reasonably believes that Jacob has the mental capacity to give that consent. 
-b. Leah may not prepare the new will if it contains a substantial bequest to her daughter. 
-c. Leah may prepare the new will as long as it does not contain a substantial bequest to Leah. 
-d. Leah must not permit Jacob to make a substantial bequest to her daughter.
+A) Yes, because Samuel's interests are directly adverse to Franklin's.
 
-### Question 3.21
+B) Yes, because Darla cannot reasonably believe that she can competently and diligently represent both Franklin and Samuel.
 
-Nancy Hall is an attorney who formerly represented Lisa Logan in connection with  Logan's plans to develop a shopping center. Logan terminated Hall's representation when Logan decided to delay, but not cancel, the plans for the shopping center. The plans for the shopping center are still secret. Hall now has the opportunity to purchase land next to the proposed site of the center at an advantageous price, and she is tempted to do so because she knows that Logan will need the land for parking when she develops the shopping center. Which of the following statements most accurately describes Hall's options under the Model Rules of Professional Conduct? 
+C) No, because the child support claim is unrelated to the class action lawsuit.
 
-a. Hall may not purchase the land unless she obtains the informed consent of her former client. 
-b. Hall may purchase the land because Logan terminated her services and forfeited any right  to confidentiality of her plans. 
-c. Hall may purchase the land as long as she first informs the seller of her former client's plans  to develop the shopping center. 
-d. Hall may purchase the land because Logan is a former client.
+D) No, because unnamed members of a class are ordinarily not considered to be clients of the lawyer for conflicts purposes.
 
+### Question 2
 
-### Question 3.22
+Chris and Bobby are accused of burglarizing a house. They want Meyer to represent both of them in the criminal matter because they prefer not to have to pay two lawyers. Also, they believe that if they coordinate their stories and refuse to cooperate with the police, the state won't have enough evidence to convict either of them. No state statute prohibits lawyers from representing criminal co-defendants. Meyer obtains the police reports and charging documents. He also obtains the criminal records of both Chris and Bobby. From his investigation, Meyer learns that Chris may have been the instigator. Chris is 26 years old and Bobby is 19. Chris has three prior felony convictions, while Bobby has a prior conviction for possession of a small amount of marijuana, for which he received a suspended sentence that could be revoked if he is again convicted. Meyer's law clerk recommends that Meyer obtain a court order permitting the joint representation, but Meyer declines to seek such an order because he believes that he can provide competent and diligent representation to both defendants. May Meyer represent both defendants if each gives informed consent to the joint representation, confirmed in writing?
 
-Randall Young is an attorney who specializes in commercial real estate transactions. One of Young's regular clients is about to close a sale of a property to an out-of-state buyer. Young is assisting his client with the transaction. The client now tells Young that, unbeknownst to the buyer, the property has been "flipped” several times in order to bring a higher sale price. Under the applicable law, the practice of "flipping” property without disclosing that it has occurred is fraud. Which of the following statements most accurately describes Young's options? 
+A) Yes, because both clients have provided consent confirmed in writing.
 
-a. The lawyer must not assist with the transaction but must not reveal the fraud to the buyer. 
-b. The lawyer may assist with the transaction but has the option to tell the buyer about the  fraud. 
-c. The lawyer may assist with the transaction and may not tell the buyer about the fraud. 
-d. The lawyer must not assist with the transaction. 
+B) Yes, because the charges arise out of a single incident.
 
-### Question 3.23
+C) No, because Meyer did not seek an order from the judge allowing the joint representation.
 
-A lawyer regularly represents plaintiffs in automobile accident cases. She represents Jeremiah McFarland and obtains a sizeable judgment for him, despite the assertion of a comparative negligence defense based upon allegations that Jeremiah habitually sends text messages while he drives. A year later, the lawyer is asked to represent a new plaintiff, this time for a car accident allegedly caused by Jeremiah, who will be the defendant. May the lawyer undertake the new representation? 
+D) No, because the joint representation presents a non-consentable conflict.
 
-### Question 3.24
+### Question 3
 
-A lawyer agrees to represent an elderly husband (who has three children from an earlier marriage) and his new young wife in the creation of their wills and other documents related to their estate plans. The lawyer perceives that there is a significant risk of a material limitation in his representation of the wife because of the lawyer's duties to the husband, and vice versa (for example, the husband and wife may differ over disposition of any of his assets to his children). The lawyer reasonably believes that he can nevertheless provide competent and diligent representation to both clients. What must the lawyer do in order to proceed for both of them? 
+Larry, the father of Linda, Abby, and Carl, died at age 87. His property was to be divided equally among his children. Louise, Larry's partner, is executor of the estate. Most of his property is in cash and stocks, but Larry also left his children a lakeside cabin. The three adult children decide that Carl should take the cabin and should pay his sisters one-third of its value each out of his share of the cash and stocks. The appraised value of the cabin is $225,000, but Carl urges that, for the purpose of the transfer, the cabin should be valued at $150,000, because he believes the appraised value is unrealistic and that he will soon have to replace the water and septic systems for the cabin, at considerable cost. After some discussion, Linda and Abby are willing to go along with their brother's suggestion as to the valuation of the cabin because they care more about their brother than they do about the money. The three siblings need to hire legal assistance to prepare and file the documents relating to the transfer of the cabin. Carl proposes that they hire Morton, a lawyer he has used for other legal matters over the last ten years. Morton reasonably believes that he could competently represent all three siblings. He explains the potential problems and the advantages and risks of joint representation and obtains their consent to the joint representation. None of the siblings has any questions or new proposals, and he does not provide any legal advice to them. Morton then prepares a document valuing the cabin at $150,000 for purposes of the transfer, just as the siblings agreed. Each sibling confirms that all of them still want him to be their attorney. May he represent all three siblings in the transaction?
 
-### Question 3.25
+A) Yes, because Morton merely prepared documents per their joint instructions, so he did not even need their informed consent.
 
-Matt Hollis is an attorney who works as in-house counsel for a company that provides technical  support for on-line video gaming. In the ordinary course of its business, the company acquires the credit card numbers of the players who use the company's services. Matt has just learned that one division of the company has been inflating its profitability figures by illegally selling the credit card numbers. When Matt confronted the manager of this division, the manager told Matt that she was not going to stop the practice and that Matt was instructed to keep it quiet. What is Matt's obligation under the Model Rules of Professional Conduct?  Nina Majors is an attorney who has been representing five families who own lots on the same "resort lake.” Nina has filed suit on behalf of each homeowner against the seller of the lots because, as it turns out, the lots flood on a regular basis. The seller has made a settlement offer to settle all five claims for a total of $250,000, with the amounts allocated to each plaintiff to be proportional to the size of the lot owned by that plaintiff. Under the Model Rules of Professional Conduct, what steps must Nina take with respect to the settlement? 
+B) Yes, because there is no apparent conflict between the interests of the three siblings and he obtained their informed consent.
 
-### Question 3.26
+C) No, because Carl would benefit by the cabin being assigned a lesser value, while Abby and Linda would be paid more if the assigned value is higher, so the conflict is non-consentable.
 
-Sylvia Greco is an attorney who has been representing Millbank Food Stores, Inc. on a variety of matters, off and on, for many years. Sylvia has just completed her only pending matter for Millbank, and Sylvia has decided that she will not represent Millbank on any future matters. Is it necessary or advisable for Sylvia to affirmatively terminate her relationship with Millbank even though she no longer has any open files for the company? Why or why not? 
+D) No, because Morton's prior representation of Carl creates a significant risk that his representation of Linda and Abby would be materially limited by his felt loyalty to Carl.
 
-### Question 3.27
+### Question 4
 
-Donder, English, and Fredrickson (D E & F) is a large law firm that regularly seeks and obtains  advance waivers of conflicts of interest from new clients. The firm recently obtained such an advance waiver from Stardust, Inc., when the firm agreed to represent Stardust in a multi-party lawsuit. Stardust is a sophisticated consumer of legal services and was independently represented  entered into the advance waiver. Now a distant branch office of D E & F has been retained by a different client to assert a claim against Stardust in the same case for which Stardust initially hired D E & F. Is the advance waiver effective such that this representation by the branch office  will be permitted?
+In answering this question, use the facts of the previous question and assume that Morton has properly undertaken the representation of the three siblings.
 
-### Question 3.28
+In the course of his research before preparing the property transfer documents for Larry's summer cabin, Morton discovers that Carl could obtain a reduction in tax liability for the cabin if the transfer of the cabin is postponed until next year. Morton knows that Linda and Abby are eager to conclude the transaction and that they will be able to earn more interest on funds paid to them by Carl if the payment is made this year instead of next year. Carl asks Morton whether he could postpone the transfer of the cabin until next year, slowing things down without revealing any reasons for the delay.
 
-A lawyer specializes in defending cases in which the defendant is charged with driving under the influence. The lawyer receives a call from Osgood Slater, who asks the lawyer to represent  Osgood's son, who has just been charged with that crime. Osgood tells the lawyer that Osgood will pay for the representation. Under what circumstances, if any, may the lawyer undertake the  representation of Osgood's son? 
+May Morton delay the transaction without disclosing the reasons to Carl's sisters?
 
-### Question 3.29
+A) Yes, because the adverse consequence to them from the delay will not be as significant as the resulting benefit to Carl.
 
-Rene Hotchkiss is an attorney who currently represents the Allgood Insurance Company (AIC). She has been asked to represent a plaintiff in a lawsuit involving an automobile accident. The defendant's insurer is AIC, and this is not a “direct action” state. Rene's partner has told her that she absolutely cannot take this new case because she “cannot sue his own client.” Rene thinks that maybe she can undertake this new representation. Who is right, Rene or her partner? 
+B) Yes, because this will allow him to avoid the clients' potentially adverse interests and to focus on their common interests.
 
-### Question 3.30
+C) No, because each client is entitled to be told information relating to the representation that might affect the client's interests.
 
-Abby Peters is an attorney who regularly represents Herman Maris. Abby has now been asked by Herman's mother Nancy to re-draft Nancy's will to disinherit Herman. Such a step would be legal in their state, and Nancy does not want advice about whether to disinherit Herman — she just wants Abby to "draw it up." Does Abby have a conflict of interest? 
+D) No, because Carl's suggestion would involve Morton in a fraud against Linda and Abby, requiring Morton's immediate withdrawal from representation of Carl.
 
+### Question 5
 
-### Question 3.31
+Jaiden, an assistant general counsel of Plenum, Inc., a pharmaceutical manufacturer, was asked to investigate whether the research division of Plenum was concealing reports of adverse reactions to the company's best-selling product, Somalox, an anti-depressant. Two users of Somalox had contacted the general counsel's office, reporting that they had submitted adverse reaction reports to the research division, as directed on the package insert, but that they had received no response from the company. One of these two users alleged that he had suffered hallucinations and suicidal ideation after taking Somalox, and that he had described these reactions in his earlier report. The other user reported that she was hospitalized for depression after having taken Somalox for several weeks. She also had reported this to the research division. The non-response is worrisome. The company policy is to acknowledge receipt of any adverse reaction reports and to assure users that the company will report adverse reactions to the Food and Drug Administration as required by law. The research division would route any adverse reaction reports through the general counsel's office to the FDA, but none have been received or sent for Somalox.
 
-Lawyer represented Client in a criminal matter. The case went to trial, and Client decided he wanted to testify. Client also wanted to call his girlfriend as an alibi witness. Lawyer did not want to call either Client or the girlfriend as witnesses, believing that the testimony would hurt Client's case more than help it. Which response most accurately describes Lawyer's professional responsibility in deciding whether to call Client and his girlfriend as trial witnesses? 
+Jaiden schedules a meeting with Bertha, the chief of the research division. Jaiden shows her the correspondence sent to the general counsel's office by the two users and asks her to show him these and any other adverse reaction reports that the company has received. Bertha flushes and stammers in response to Jaiden's query. "I am afraid that I have let a few of these slip through the cracks. Since you are the company's lawyer, I can speak to you in confidence, right? Am I in trouble here?"
 
-a. Lawyer may decide, after consultation with Client, whether to call Client and his girlfriend as witnesses. 
-b. Lawyer may decide, after consultation with Client, whether to call Client's girlfriend, but Lawyer must call Client as a trial witness.
-c. Client must decide whether he and his girlfriend will testify, because both decisions qualify as objectives of representation.  
-d. Lawyer must defer to Client's wishes, because Lawyer worked as an agent to Client, who was the principal in this relationship. 
+In answering Bertha's questions, which of the following statements would Jaiden be best advised to make?
 
-### Question 3.32
+A) "Our conversation is protected by attorney-client privilege, so you can talk with me in confidence."
 
-Lawyer represented Client in a criminal drug case. The prosecutor telephoned Lawyer and communicated a "now or never" two-year plea offer for Client. Lawyer did not tell Client about the offer, because Lawyer thought the offer was a lousy deal and Client should go to trial. Several months later as trial was about to begin, the prosecutor mentioned the previous plea offer in court. Client turned to Lawyer and said, "Why didn't you tell me? I might take that offer." The prosecutor indicated that the offer actually remained available if Client accepted it before the trial began. Lawyer consulted with Client, and advised Client, "I have investigated this case thoroughly. We have a strong defense. You face only three years if convicted after trial. I think you should go to trial and reject this offer." Client followed Lawyer's advice and went to trial. Is Lawyer subject to discipline for not telling Client about the plea offer for several months? 
+B) "You can speak to me in confidence, because you are an employee of Plenum, and therefore your interests are aligned with those of the company."
 
-a. No, because Client learned of the plea offer ultimately at a time when he still could accept it, so Client was not prejudiced.  
-b. No, if Lawyer reasonably believed the plea offer was a bad deal. 
-c. Yes, because Lawyer had a duty timely to notify Client of a plea offer in his case.
-d. Yes, but only if Client requested this information.
-E. No, because Client ultimately rejected the plea offer.
+C) "I represent Plenum, so I cannot give you any legal advice except the advice to get a lawyer."
 
+D) "I have to report anything that you tell me to the company's leadership, because I represent the company, but I can assure you that the information won't be shared outside of the company—for example, with law enforcement agencies."
 
-### Question 3.33
+### Question 6
 
-Client was injured when a physician's assistant improperly treated Client when he was in the hospital for a heart condition. Client consulted with Lawyer about suing the hospital. Lawyer never had handled a medical malpractice case previously, but was confident in her abilities because she had experience in plaintiff's work and in trying civil cases, and planned to educate herself about medical malpractice claims. Accordingly, Lawyer accepted the representation. The case ultimately went to trial, and Lawyer lost the case. Client sued Lawyer for malpractice. Which of the following circumstances likely would demonstrate Lawyer's breach of her duty of competence to Client? Select all that apply: 
+Nathan is a partner in the law firm of Pace and Gillespie, which represents Bostwick Corp., which is not publicly traded. The corporation manufactures boots. Nathan is a friend of David Bostwick, the chairman of his client's board of directors, who owns 12 percent of the stock of the company. Nathan himself owns 3 percent of the stock, which he acquired long before Pace and Gillespie began representing Bostwick. Whenever there is a vacancy on the board, the board selects a replacement director. No directors are elected by the shareholders. On David's recommendation, the board takes a formal vote and offers Nathan the opportunity to join the board. Nathan would like to accept, and neither he nor anyone on the board knows of any actual or apparent conflict of interest. Nathan is not willing to divest himself of his stock in the company. May Nathan accept the offer to join the board?
 
-a. Lawyer accepting a medical malpractice for the first time.
-b. Lawyer decided to call only one of expert medical witnesses with whom she had consulted as trial witnesses, when Client believed that the jury would be more impressed if Lawyer called multiple experts.
-c. Lawyer did not investigate whether any other staff at the hospital witnessed the alleged improper treatment of Client. 
-d. Lawyer did not discover a published regulation governing required staff-to-patient ratios at the hospital. 
-e. Lawyer did not consult with an available expert about staff-patient ratios necessary to ensure reasonably safe medical treatment.
+A) Yes, because there is no law or ethical rule barring his joining the board.
 
+B) Yes, because although Nathan is a friend of David, the board took a formal vote to appoint him.
 
-### Question 3.34
+C) No, because he is a friend of David and therefore there is at least the appearance of a conflict of interest, regardless of the opinion of Nathan or board members.
 
-Lawyer represented Client in a divorce matter. Client told Lawyer, "I plan to hide some of my assets so I don't have to pay my ex-spouse as much money. You work for me, so just do what I say. I'll take care of the books, you just argue the assets I report to you." Lawyer responded by explaining why Client's proposed course of action was improper and the consequences of this course of action. After giving this advice, Lawyer said, "You sleep on this decision. Call me tomorrow and let me know whether you have changed your mind." Is Lawyer subject to discipline? 
+D) No, because Nathan refuses to divest himself of stock in the company.
 
-a. Yes, because Lawyer advised Client regarding a crime or fraud proposed by Client.  
-b. Yes, because Lawyer was required to withdraw from the representation once Client requested that Lawyer assist Client in a crime or fraud.
-c. No, because Client controlled the objectives of representation and Lawyer acted merely as an agent to Client's wishes.
-d. No, because Client did not propose that Lawyer directly engage in a crime of fraud.
-e. No, because Lawyer properly advised Client and awaited a final decision from Client before deciding whether to withdraw. 
+## Conflicts Based on Lawyers' Interests
 
-### Question 3.35[^note]
+### Question 1
 
-[^note]: Based on [Javier Cercas, _The Motive_](https://www.bloomsbury.com/uk/the-tenant-and-the-motive-9780747578970/).
+Lucille, a criminal defense lawyer, receives a frantic call from Sylvia, who states that her sister, Basia, who recently immigrated from Poland, has been arrested by state police for a drug violation, and that the bail hearing will be held in less than two hours. She asks Lucille to represent Basia at the bail hearing and in her criminal case. Lucille hires Magda, a Polish-speaking interpreter, and rushes to the courthouse, where she is able to briefly meet with Basia and represent her at the bail hearing. The judge sets the bail at $2,000. Sylvia is able to pay the bail amount, and Basia is released from prison that night. The next day, Lucille meets with Basia, with Magda interpreting, and informs her that her rate for legal services is $300 per hour. She states that that rate will be used to calculate the bill for the work that Lucille did on the bail hearing, and for future work that she will do on the criminal case. Basia agrees to the rate and Lucille begins work on her case. There is no other discussion of how much Basia will have to pay. At Basia's hearing five months later, the arresting officer fails to appear, and the charges against Basia are dropped. The next month, Lucille sends Basia a bill for $1,800, including five hours of her work, plus $300 for Magda's services. Is Lucille subject to discipline?
 
-Álvaro is a lawyer and writer. He is working on a new novel about a young couple who decide to kill their elderly neighbor and steal the money he keeps in a safe in his apartment. The characters are based on Álvaro's neighbors, the young couple Enrique & Irene Cesares and the elderly Señor Montero. For inspiration, Álvaro has been listening in on his neighbors' conversations, which he can overhear from the bathroom of his apartment. 
+A) Yes, because she did not communicate the rate in writing or give Basia an estimate of the total fee.
 
-Meanwhile, Enrique Cesares is laid off from his job, and he asks Álvaro whether he has any legal grounds to contest the layoff. Seeing an opportunity to get more insight into his characters, Álvaro agrees to help. The following excerpt from _The Motive_ discusses Álvaro's work on the case and his subsequent discussion with Enrique Cesares:
+B) Yes, because she did not communicate the expenses for which Basia will be responsible within a reasonable time after commencing the representation.
 
-> For some time, the writing of the novel was put on hold. Álvaro spared no effort in studying Enrique Cesares' case. He obtained all the relevant information, examined it carefully, studied it, revised it several times, checked the case against other analogous ones. He arrived at the conclusion that, in effect, it would be possible to appeal against the [layoff], with a virtual guarantee of success. In the worst case, the severance pay the company should be obliged to provide if the dismissal was carried out was almost double the paltry sum his neighbor had been offered. 
->   
-> Once the situation was clarified, he reflected cautiously. He considered two options:
->   
-> a) If he appealed the dismissal it was very likely Cesares would manage to keep his job or, at least, that the damage would be far less—on the hypothesis that the company might choose to resort to a paragraph of the law which stated that they had no obligation to readmit a dismissed employee to his post. In this case—Álvaro continues—I will have won Cesares' gratitude, but I will also have lost time and money, since I have no intention of sinking so low as to charge him a fee.
->   
-> b) If he allowed events to take their natural course, without intervening in them, he would still gain his neighbor's friendship and appreciation, given that he would understand and respect all the disinterested attention Álvaro had devoted to his problem. Besides, Álvaro wouldn't charge him a cent for all the time generously spent on it. On the other hand, it was certain that the loss of his job—their only source of sustenance—would have repercussions on the couple's relationship, which might deteriorate in such a way as to make possible that he, Álvaro, might be able to expect to hear, from his surveillance post by the ventilation window, the vicissitudes of that process of deterioration, which he'd undoubtedly be able to use in his novel. This would facilitate his work enormously as he would enjoy the possibility, so long nurtured, of obtaining from the couple the material he needed to proceed with and conclude his work.
->   
-> He arranged to see Cesares. He explained the steps he'd taken, his investigations at the ministry and the union, illustrated the situation with analogous examples, clarified the various juridical details, added data the factory had supplied. Finally, he invented interviews and lied coldly.
->   
-> He concluded, “I don't think there's the slightest chance they'll accept the appeal."
+C) No, because a lawyer's rate need not be communicated in writing.
 
-_Was Álvaro's conduct proper under Rules 1.7 & 1.8?_
+D) No, because Lucille was hired on such short notice that she could not discuss compensation in advance.
 
-_Does Álvaro's conduct breach any other obligations under the Model Rules?_
+### Question 2
+
+Spencer desires to represent his golfing partner Craig, who was injured on a ski slope that was apparently negligently maintained. Spencer tells Craig on the phone that he is willing to work on a contingent fee basis, under which Craig will be charged nothing unless Spencer obtains a settlement or wins a judgment. In either case, Spencer would charge 33 percent of any recovery after the deduction of the expenses of litigation. Spencer explains that Craig will not be responsible for any litigation expenses unless there is a recovery that exceeds the amount of the expenses. They discuss these points, and Craig agrees to the fee arrangement. Spencer contacts the ski slope's insurer, and within three weeks, with Craig's approval, the case is settled for $21,000. Spencer transmits $14,000 of that settlement to Craig. Spencer spent only four hours on the case. Was Spencer's conduct proper?
+
+A) Yes, because he disclosed all the details of the fee arrangement.
+
+B) Yes, because a lawyer's rate need not be disclosed in writing.
+
+C) No, because he did not disclose all the details of the fee arrangement in a writing signed by Craig.
+
+D) No, because a rate of 33 percent is unreasonable for a matter that required so little of the lawyer's time and attention.
+
+### Question 3
+
+Joseph is an immigrant who was recently denied asylum by the administrative appeals body that handles immigration cases. He hires Cyrus to appeal the decision to the U.S. Court of Appeals. Joseph knows that there is a $500 filing fee that he will have to pay. The appeal and fee are due tomorrow. Cyrus called Joseph and left a message, but Joseph did not call him back. He knows from prior conversations, however, that Joseph wants to appeal the decision. If he misses the filing deadline, Joseph will be barred from appealing. May Cyrus go ahead and file the appeal, paying the filing fee, with the expectation that Joseph would reimburse him?
+
+A) Yes, because lawyers are permitted to advance court costs.
+
+B) Yes, because $500 is not excessive.
+
+C) No, because lawyers are not permitted to provide financial assistance to clients.
+
+D) No, because Joseph did not exercise reasonable diligence in communicating with Cyrus before advancing the fee.
+
+### Question 4
+
+Attorney Cherie represents Patience in a suit against her landlord for failure to do adequate remediation after a flood caused mold growth in the attic. Patience is an anthropologist who is writing a novel about a forensic anthropologist who solves murder mysteries. Patience is low on cash, but her upcoming book is expected to be a bestseller. Cherie proposes a fee arrangement in which Patience will pay Cherie a percentage of the royalties from her book as the fee for the landlord-tenant dispute. She discusses the advantages and disadvantages of this arrangement. Patience agrees to pay the legal fee in this manner. Cherie then sends Patience a letter that includes a clear explanation of the terms of the arrangement, which are fair and reasonable. The letter also advises Patience that it is desirable for her to seek independent legal advice before signing this agreement. A few weeks later, Patience signs the letter to indicate her consent.
+
+May Cherie and Patience agree that the legal fee will consist of a percentage of Patience's royalties from the book?
+
+A) Yes, because Cherie complied with the disclosure and other requirements that govern business transactions between lawyers and clients.
+
+B) Yes, because Patience's payment of the royalties to Cherie is not contingent upon her winning the case.
+
+C) No, because a lawyer may not enter into a fee agreement with a client that gives the lawyer media or literary rights.
+
+D) No, because the litigation is ongoing. Once the litigation has ended, Cherie and Patience may make an agreement to give Patience a share of the royalties.
+
+### Question 5
+
+Barbara approaches attorney Morgan to ask for representation in a landlord/ tenant suit. Morgan has not handled this type of case before. She is willing to take it on and will charge a much lower hourly rate than her normal rate, but only if Barbara agrees not to sue her for any mistake she might make. Morgan has accordingly drafted a retainer agreement with Barbara that Barbara waives any potential claims for malpractice against Morgan. Morgan has read Barbara this provision and explained it to her, and she has encouraged her orally to seek the advice of another lawyer about whether to hire Morgan on these terms. Barbara says that she fully understands the provision, that she does not need to consult another lawyer, and that she wants to sign the retainer agreement. May Morgan represent Barbara pursuant to this agreement?
+
+A) Yes, because Morgan obtained Barbara's informed consent.
+
+B) Yes, because Morgan advised Barbara of the desirability to seek the advice of an independent lawyer.
+
+C) No, because Morgan did not advise Barbara in writing of the desirability to seek the advice of an independent lawyer.
+
+D) No, because Barbara was not independently represented in making this agreement.
+
+### Question 6
+
+Use the facts from the previous question. Suppose Morgan decides not to include the malpractice language in the retainer agreement, and both she and Barbara sign the agreement. Suppose further that Morgan indeed makes a serious mistake in the course of representation. Morgan and Barbara estimate that the mistake cost Barbara $9,500. Morgan would like to settle any malpractice claim that Barbara may have against her for $12,000 without litigation. Morgan does not wish to notify her malpractice insurer of the mistake, because then her rates would go up. She advises Barbara in writing to seek independent counsel, and she tells her she can take her time finding another lawyer. Barbara declines, saying she does not need another lawyer and that she agrees with the $12,000 settlement. May Morgan go forward with the settlement?
+
+A) Yes, because Morgan's mistake cost Barbara less than $12,000.
+
+B) Yes, because Morgan advised Barbara in writing regarding the desirability of seeking independent counsel.
+
+C) No, because Barbara was not represented by another lawyer in the settlement negotiations.
+
+D) No, because the ethics code requires lawyers to report professional errors to their malpractice insurers before settling malpractice claims based on those errors.
+
+### Question 7
+
+Attorney Eli has represented Jacques, an elderly but lucid man, in his legal matters for the past eight years. He continues to do so from time to time. The legal matters with which Eli has assisted Jacques have been minor; the most Jacques ever paid Eli was $1,500. One day, Jacques tells Eli that as a token of his appreciation for his years of service and friendship, he would like to give Eli his mint condition 1970 Chevrolet Chevelle, a car Eli knows to be worth over $70,000. Eli refers Jacques to another lawyer who can prepare the documents transferring the title to the vehicle to Eli. May Eli accept the gift?
+
+A) Yes, because there are no restrictions with respect to receiving unsolicited gifts from clients.
+
+B) Yes, because Eli referred Jacques to another lawyer who will prepare the documentation to effectuate the transfer of the title to the vehicle.
+
+C) No, because Eli did not first arrange for a guardian ad litem to be appointed for Jacques.
+
+D) No, because a lawyer may not accept a substantial gift from a current client, and the car would be considered a "substantial" gift.
+
+### Question 8
+
+Attorney Maria is a divorce lawyer. Several months ago, Maria represented Jillian in her divorce from her husband, Jack. At that time, Maria charged her an hourly fee of $400 per hour. The judge granted the divorce and ordered Jack to pay her $1,000 per month child support. Recently, Jillian came to Maria seeking help, because Jack has not been paying the child support for the past 6 months. She would like Maria to help her get the $6,000 that Jack owes her. Maria wishes to charge Jillian a contingent fee of 30 percent of the recovery. She discloses the fee and expense terms and receives Jillian's informed consent in writing.
+
+May Maria charge the contingent fee?
+
+A) Yes, because Jillian is Maria's former client.
+
+B) Yes, because she obtained Jillian's consent in writing.
+
+C) No, because contingent fees are not permitted in domestic relations cases.
+
+D) No, because 30 percent is excessive because it will drain resources needed to support the couple's children.
+
+### Question 9
+
+Ellen wants to hire Donna, an attorney, to handle her divorce case. Ellen works as a saleswoman in a department store, earning $26,000 a year. Donna proposes to charge a fee of $300 per hour, which is not an unusual hourly rate for divorce work in Ellen's community, although some lawyers charge less. Donna discloses her fee and all expenses for which Ellen will be responsible in writing, and Ellen signs the writing. May Donna charge this fee?
+
+A) Yes, because Donna informed Ellen, before starting to work, that her fee will be $300 per hour and listed the expenses for which Donna will be responsible.
+
+B) Yes, because the notice of the fee arrangement was in writing.
+
+C) No, because Donna did not give Ellen a good faith estimate of the likely total fee.
+
+D) No, because some other lawyers in the community charge less than $300 per hour for divorce work.
+
+### Question 10
+
+Laila was a pedestrian who was hit by a car. Her best friend Joan, who is a nurse, visited her in the hospital. Neither Joan nor Laila knew the driver of the car. Joan later discussed the accident with her friend Craig, who is an attorney. Craig would like to represent Laila, on a contingent fee basis, in a claim against the driver of the car. Craig tells Joan that if she recommends him to Laila, and Laila retains him, Craig will pay Joan 10 percent of his share of any recovery that Laila collects. He does not tell Laila about this part of the arrangement. Is Craig subject to discipline?
+
+A) Yes, because he did not disclose the arrangement to Laila.
+
+B) Yes, because Joan is not a lawyer.
+
+C) No, because Joan has no connection with the driver of the car and there is therefore no conflict of interest.
+
+D) No, because he offered Joan 10 percent of his own fee, rather than 10 percent of the recovery.
+
+### Question 11
+
+Cindy, an indigent single mother of four, sought the help of Rona, an attorney, in filing an application for emergency food stamps. Rona agreed to help Cindy for a very low, fixed fee, which Cindy paid immediately. While the application is pending, Rona realizes that even if the application is approved, Cindy's family will go hungry, because the state's welfare benefits are so low. She wants to help Cindy by giving her $100 a month, for six months, out of her own funds. May she do so?
+
+A) Yes, because Cindy is indigent.
+
+B) Yes, because the financial assistance is not being offered in connection with litigation.
+
+C) No, because Cindy did not waive any potential conflict of interest in writing.
+
+D) No, because she did not terminate the representation before providing the assistance.
+
+### Question 12
+
+Geraldine, an attorney in a legal aid program, provides pro bono representation to Amber, who is indigent, disabled, and homeless, in litigation against Mike's Job Counseling Service. Amber had paid $300 to Mike's, which did not give her any job leads or help. Mike's has recently been exposed in the local paper for not actually having helped anyone to get a job. Winter is approaching, and it has become increasingly difficult for Amber to live on the streets. She is in danger of freezing to death. All of the homeless shelters in the area are full. Geraldine cares about Amber and wants to keep her from freezing. Which of the following statements is correct?
+
+A) Geraldine may loan Amber $500 so that she can rent a modest room.
+
+B) Geraldine may give Amber $500 so that she can rent a modest room.
+
+C) Both A and B are correct.
+
+D) Neither A nor B is correct.
+
+### Question 13
+
+Eduardo is a sole practitioner. He wants to handle the following matters and to make agreements with clients under which he would receive 20 percent of any recovery awarded to the client. In which of these cases would Eduardo be subject to discipline if he undertook the representation under those terms?
+
+A) Eduardo previously represented Atticus in a criminal matter. Atticus pleaded guilty and was incarcerated for a year. During that year, he reports, prison officials deprived him of medication that he needed, resulting in his having a mild stroke. Atticus wants to sue the prison for damages.
+
+B) Byron and his ex-wife are each half-owners of a mini-golf business. Byron has asked Eduardo to seek a partition (court-ordered division) of the property.
+
+C) Celeste has asked Eduardo to file an action seeking an order requiring her ex-boyfriend, who is the father of her daughter, to pay child support.
+
+D) In a fit of rage, Dana's former husband smashed her new sports car, requiring $12,000 worth of repairs. She wants to sue him for damages.
+
+### Question 14
+
+Sol practices tax law, but his expertise is in giving tax advice rather than handling litigation. Recently, Sol provided personal tax advice to businessman Bill. Bill then asked Sol to look at another tax matter involving a deduction denied by the Internal Revenue Service. Bill wants Sol to litigate the matter in the tax court. Sol mentioned to his friend Al, a litigator in a different firm, that one of his clients wants him to take on a litigation matter. Al responded, "Great! Just tell your client that you will do it with co-counsel. I will charge Bill 33 percent of the recovery, and I'll give you half of what he pays us. We'll both enter appearances and sign the papers, but you can leave everything to me. It will be as if we were in a law partnership together!" Sol believes that Al is an excellent litigator capable of doing a good job for Bill. Sol and Al agree to accept any liability for mistakes. The overall fee they intend to charge is reasonable. Bill gives his informed consent to Al's association with Sol and to the proposed fee and to how Sol and Al will split it, and he signs a writing to that effect.
+
+May Sol and Al enter into this split-fee arrangement?
+
+A) Yes, because the arrangement complies with all of the relevant rules.
+
+B) Yes, because there are no restrictions on lawyers sharing fees.
+
+C) No, because Sol is not competent to litigate the matter.
+
+D) No, because the division is not in proportion to the actual work performed by each lawyer.
+
+### Question 15
+
+Johann, a lawyer, is has recently taken Carly's products liability case. They have agreed to a fee of $250/ hour. Because he has only handled a few such cases, he wants to avoid being sued for malpractice. He would like Carly to sign a retainer agreement that provides that any malpractice claim that she wants to make against him has to be resolved by an arbitration rather than in a court. He drafts the retainer agreement and explains it to her but does not tell her that she may have a different lawyer advise her about the desirability of agreeing to the arbitration. Arbitration agreements between professional persons and their patients or clients are not prohibited by state law. She signs the agreement. Is Johann subject to discipline?
+
+A) Yes, because Carly was not independently represented in signing the agreement.
+
+B) Yes, because Johann did not advise Carly of the desirability of seeking independent counsel before she signed the agreement.
+
+C) No, because the matter is not a contingent fee case.
+
+D) No, because Johann explained the effect of the arbitration term to Carly.
+
+### Question 16
+
+Milan graduated from law school, took the bar exam in state A, passed the exam, and was admitted to the bar in state A) He maintains active membership even though he is neither practicing law, nor living in state A) Milan bought a small computer consulting firm in neighboring state B and ran it successfully for a few years, earning a good living. Then Milan decided to sell the business. He found a buyer who purchased the business. In the course of their discussions about the business, Milan represented that the business had been twice as profitable as it actually was. After a few months of operating the business, the buyer sued Milan for damages for fraud and to rescind the contract. That lawsuit is pending. Is Milan subject to discipline in state A?
+
+A) Yes, because Milan lied to the buyer about the value of the business, even though his dishonesty took place in state B.
+
+B) Yes, because the terms of the agreement (including the value of the business) were not fair and fully disclosed to the buyer, as required by Rule 1.8(a), nor did the buyer give informed consent.
+
+C) No, because Milan was not practicing law and this deal was not related to law practice.
+
+D) No, because Milan's acts have not yet been found to be fraudulent by a court.
+
+### Question 17
+
+Danielle is a lawyer. Ted, the son of her brother Matthew, is very ill with a life-threatening condition. Ted must get a certain medication that costs $1,400 in the next 24 hours or else he will go into kidney failure. Matthew has no cash, but he will receive a large sum from the sale of his home in one week. Matthew has no other possible source of funds until then unless Danielle gives him a short-term loan. Danielle is flat broke (in fact, she is deeply in debt), but there is $120,000 in Danielle's trust account. This amount is the proceeds of a personal injury settlement that Danielle will distribute to her client Van. She represented him on a pro bono basis, so she is not owed a fee from the settlement. Van is in prison for the next few years. Danielle has agreed to hold the funds for Van in the interim and to make mortgage payments on his house as they become due. Danielle lends Matthew $1,400 from this account for Ted's medication. She is unable to ask for Van's approval because he is in solitary confinement because he talked back to a prison guard and is not allowed to receive phone calls. Danielle, confident that Van would approve, sends him a letter explaining her intention to make the loan to her brother. A week later, Matthew receives the proceeds from the sale of his house. He repays Danielle, who replenishes the client trust account. Van later writes Danielle that he is glad that she was able to make the loan to her brother. There is no resulting delay in the distribution of the settlement funds to Van or in the making of mortgage payments. Is Danielle subject to discipline?
+
+A) Yes, even though she promptly informed Van that she borrowed the money and he ratified her prior action.
+
+B) No, because she promptly informed Van that she loaned out a chunk of his money and he ratified her prior action.
+
+C) No, because there was no delay either in making the payments on Van's mortgage or in the distribution of the settlement funds to Van.
+
+D) No, because she did this to prevent reasonably certain death or substantial bodily harm to a child.
+
+## Conflicts for Government Lawyers
+
+### Question 1
+
+Pablo, a lawyer who used to work at the U.S. Department of Justice, now works at a private law firm. Which of the following rules does NOT apply to potential conflicts between Pablo's duties to the U.S. government and his duties to any current clients?
+
+A) 1.7
+
+B) 1.9(a)
+
+C) 1.9(c)
+
+D) 1.11
+
+### Question 2
+
+Abdul, a lawyer, is employed by the United States Department of Labor and works in its Office of Civil Rights. He is also an experienced litigator. His neighbor, Blaine, has been having a dispute with the Internal Revenue Service, which claims that Blaine's deduction for home office expenses is not valid and has withheld part of his claimed tax refund. Abdul wants to represent Blaine in a suit against the United States in the federal Tax Court to try to obtain the withheld portion of Blaine's refund. He would not charge Blaine any fee. Also, Abdul has spoken to his supervisor in the Department of Labor, who has confirmed that the Department would have no objection to Abdul providing legal assistance to Blaine in his dispute with the Internal Revenue Service and will confirm this in writing. As a result, Abdul is confident that there is no conflict of interest, and he does not intend to advise Blaine that he should get a different lawyer, because any other lawyer would charge a substantial fee to Blaine. May Abdul represent Blaine in this litigation?
+
+A) Yes, because he is not going to charge a fee.
+
+B) Yes, because he is obtaining written approval from the Department of Labor.
+
+C) No, because he does not plan to advise Blaine about the possibility of obtaining a different lawyer.
+
+D) No, because a federal employee may not represent an unrelated client in a claim against the United States.
+
+### Question 3
+
+After she graduated from law school, Dania worked for the Securities and Exchange Commission (SEC) for three years. During that time, she worked on securing an indictment in a large securities case involving seven defendants who collaborated on an insider trading scheme. At the end of three years, she moved on to a position at one office of a large private law firm whose practice includes defense of securities fraud cases. A month after she started work at the firm, Dania learned that a partner in the firm was representing one of the defendants in the securities case that Dania had worked on while she was at the SEC) This did not emerge in the preliminary conflicts screening before she was hired because Dania's work focused on three of the other defendants in the suit. The basic facts were the same, but the targets were different. What should the firm do to enable it to represent the defendant in the securities fraud case?
+
+A) Instruct Dania not to reveal to anyone in the law firm anything she learned about the case while she was at the SEC.
+
+B) Screen Dania from any participation in the matter, prevent her from receiving any extra pay related to the matter, and give written notice of the potential conflict to the SEC.
+
+C) Transfer Dania, while the litigation is pending, to a different office of the firm, in another city.
+
+D) Discharge Dania, because that is the only way in which the firm could both comply with the ethics rules and continue to represent its client.
+
+### Question 4
+
+Paul, an associate justice of the United States Supreme Court owns a substantial amount of stock in a publicly traded corporation called Exrix, LLC) The Court grants certiorari to decide a class action suit brought by shareholders of Exrix. Paul has disclosed his stock ownership but is not planning to sell his stock. No party has made a recusal motion. Must Paul recuse himself pursuant to a code of judicial conduct?
+
+A) Yes, because he owns some stock in a corporation whose case he must decide.
+
+B) Yes, because the amount of stock that he owns is substantial.
+
+C) No, because no party has made a recusal motion.
+
+D) No, because no ethics rule requires him to recuse himself.
+
+### Question 5
+
+In a state in which judges are elected, Damian Garner, the President of Garner Industries, a manufacturer of firearms, has donated $3,000 to the successful campaign of Ambrose Zoltan, who was elected as a judge of the state's highest court. That contribution represented 2 percent of the campaign contributions that the judge received. All contributions were disclosed pursuant to the state's campaign finance disclosure law.
+
+A gun control group sued Garner Industries for violating the state's gun control laws by manufacturing and selling guns with built-in silencers. The court ruled against Garner and it has appealed to the state supreme court, arguing that the gun control law is inconsistent with the Second Amendment. The gun control group filed a motion asking Judge Zoltan to recuse himself, but he denied the motion. Would Judge Zoltan's participation in the adjudication of this case be unconstitutional?
+
+A) Yes, because Garner made a substantial contribution to his campaign.
+
+B) Yes, because not all parties have consented to his participation.
+
+C) No, because the contribution was only a small part of his campaign treasury.
+
+D) No, because the contribution was disclosed.
+
+### Question 6
+
+Evelyn, a recently admitted attorney, is serving as a law clerk to Judge Leopold Osterman on the state court of appeals. The judge has heard the appeal in a contract dispute in which IGL Corp. has sued Mountain Hardware, Inc., for damages. Mountain Hardware was represented by the law firm of Westerfield & Pilson, which Evelyn worked for during her second summer in law school. She did not work on that dispute while she was at the firm, because the firm accepted it after she left the job, but Judge Osterman has asked her to write the opinion in the case. While she was working on the opinion, Margaret Pilson from Westerfield & Pilson emailed Evelyn, on her private email account, asking whether she would like to discuss joining the firm as an associate after she finished her clerkship. Evelyn wanted to take that job, so she told Judge Osterman about the email, and he said that it was fine to discuss a possible job with the firm. Evelyn and the firm then agreed on a starting salary of $95,000, and that she would begin work two weeks after her clerkship ended. A week later, Evelyn completed the opinion, which the judge adopted. It dismissed the case against Mountain Hardware. Is Evelyn subject to discipline?
+
+A) Yes, because she entered into negotiations and a future employment agreement with a firm while participating personally and substantially as a judicial law clerk writing an opinion that would affect a present client of that firm.
+
+B) Yes, because her opinion favored the firm that was offering her a job.
+
+C) No, because she notified her employer of the overture from the law firm and her intent to pursue it.
+
+D) No, because she did not submit the opinion to the judge until after she had accepted the firm's offer, so she could not have been helping a client of the firm in order to procure a job offer.
+
+### Question 7
+
+Erin, a lawyer, had a motion that was scheduled to be argued on November 5. Another attorney, Manfred, represented her adversary. On October 31, Erin learned that her son's surgery had been scheduled for November 5, and she wanted to be with her son on the day of the surgery. She tried to call Manfred to discuss rescheduling, but he was out of town and could not be reached that day. So without first notifying Manfred, she telephoned the judge's clerk to find out whether the argument on the motion could be heard the following week. To her surprise, the judge picked up the phone and explained that he had answered because his clerk was at lunch. Erin explained the situation and asked the judge whether the argument could be scheduled for November 12. The judge checked his computer and advised that he could fit in the argument on that date, and he advised Erin to notify Manfred of her request and if Manfred had no objection, to telephone his clerk in a few hours. He said that his clerk would also send a notice to her and to Manfred, describing his conversation with Erin and notifying that in the absence of any objection, the hearing would be rescheduled as requested. Is Erin subject to discipline?
+
+A) Yes, because she didn't notify Manfred that she was going to telephone the judge's chambers about rescheduling the hearing.
+
+B) Yes, because she spoke directly to the judge rather than to his clerk.
+
+C) No, because it was not her fault that the judge picked up the telephone.
+
+D) No, because she only discussed a procedural issue with the judge.
