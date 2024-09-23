@@ -2,7 +2,7 @@
 layout: page
 
 course: Professional Responsibility
-title: Conflicts 2
+title: Conflicts 
 
 ---
 
