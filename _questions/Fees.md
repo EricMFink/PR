@@ -149,11 +149,4 @@ b. Leave it in the law firm's closet.
 
 c. Wear it to dinner Saturday night.
 
-d. Sell it. 
-
-### Question 17
-
-Attorney is a partner in the Charlotte office of a national law firm. The firm is headquartered in Chicago and maintains its client trust fund account at a Chicago bank. Attorney agrees to represent Client, a North Carolina resident. Client pays Attorney a $5,000 retainer fee, which Attorney wishes to deposit in the Chicago-based trust account. 
-
-May Attorney do so? 
-
+d. Sell it.
