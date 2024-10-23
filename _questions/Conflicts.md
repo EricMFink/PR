@@ -26,18 +26,6 @@ D) Yes, because Spencer's actions were not lawful.
 
 ### Question 2
 
-Attorney Charlie works at a law firm of 30 lawyers in a large city. He represents his friend Suma in a wrongful discharge suit against her former employer, an architecture firm. Suma and her husband, Todd, are in the process of divorcing. Suma has retained a family lawyer associated with another firm to represent her in the divorce case. Charlie just learned that one of his law partners, Angus, is representing Todd in the divorce. Charlie and Angus agreed not to communicate with one another about either of the matters. They did not speak to Suma and Todd about the conflict. May Charlie continue to represent Suma in her civil suit against her former employer?
-
-A) Yes, because Charlie and Angus agreed not to communicate with one another about either of the matters.
-
-B) Yes, because the conflict involves only Charlie's personal interests and does not present a significant risk of materially limiting Angus's representation of Todd.
-
-C) No, because the firm did not obtain both clients' informed consent, confirmed in writing.
-
-D) No, because law firms are not permitted to sue current clients.
-
-### Question 3
-
 Attorney Pavel is a criminal defense lawyer representing Denny, who is charged with larceny. Denny, a pro bono client, is alleged to have stolen a piece of jewelry from a jewelry box during a house party. In an unrelated matter, Pavel is defending Betty, for a fee, against a criminal charge of arson. Both cases are assigned to be heard by a single judge. During Denny's trial, the prosecutor calls Betty to the stand. She testifies that she was at the party in question and saw Denny go in and out of the room where the alleged theft occurred. She further testifies that she never went into that room. Earlier, Denny had told Pavel that he saw Betty go into the room, and he suggested that she may be the thief. Pavel intends to cross-examine Betty on this point. Is there a conflict of interest?
 
 A) Yes, because Denny's interests are directly adverse to Betty's.
@@ -48,7 +36,7 @@ C) No, because the representation does not involve the assertion of a claim by D
 
 D) No, because Pavel's cross-examination of Betty is impliedly authorized to carry out the representation.
 
-### Question 4
+### Question 3
 
 Attorney Roger is a solo practitioner in a small town. There are only about 70 lawyers in the town, and of those, only 20 (including Roger) handle divorce cases. One day, Roger does an intake interview with Leon, who is seeking a divorce. Leon reveals to Roger that he had several affairs during his marriage and that his wife, Reva, does not know about them. At the end of the interview, Roger tells Leon that he will let Leon know within a week whether he can accept his case.
 
@@ -64,7 +52,7 @@ C) No, because Roger received information from Leon that could be used against L
 
 D) No, unless he gets Leon's informed consent, confirmed in writing.
 
-### Question 5
+### Question 4
 
 Attorney Meghan represents Walter, a used-car salesman who has been criminally charged with driving while intoxicated. Before Walter's trial, a friend of Meghan's, Laurel, asks Meghan to represent her in her breach of contract suit against Walter and his company. If Meghan were to sue Walter on behalf of Laurel, another lawyer would defend Walter in that matter. Meghan has formed a close bond with Walter as a result of her work on his criminal case, and she reasonably believes that she could not represent Laurel very vigorously, because of her friendship with Walter. She explains her concern to Laurel, and Laurel states that she understands the risks and agrees to the representation anyway. She confirms her understanding in writing. Walter also gives informed consent in writing. May Meghan represent Laurel?
 
@@ -76,21 +64,21 @@ C) No, because the representation would involve the assertion of a claim by one 
 
 D) No, because Meghan does not reasonably believe that she can competently and diligently represent Walter and Laurel, even though both clients gave informed consent, confirmed in writing.
 
-### Question 6
+### Question 5
 
 The state in which Stella practices recently enacted an animal cruelty law. Stella represents Chix, Inc., a poultry company, in a suit brought by a local animal rights group. The suit alleges that the poultry company has violated the new state law by failing to provide adequate ventilation in the chicken coops. The suit seeks punitive damages. Stella files a motion to strike the punitive damages request, urging that the new law does not allow recovery of punitive damages.
 
-In an unrelated matter, Stella represents a group of students at a small Christian college, seeking to recover punitive damages against the school for allowing dissection of live animals in their school's biology classes in violation of the statute. When Stella agreed to represent the students, she explained to them that she was arguing against the availability of punitive damages in the Chix case. Stella is representing the students pro bono, so even if punitive damages were granted, she would not receive a portion of the award as a legal fee.
+In an unrelated matter, Stella represents a group of college students seeking to recover punitive damages against the school for allowing dissection of live animals in their school's biology classes in violation of the statute. When Stella agreed to represent the students, she explained to them that she was arguing against the availability of punitive damages in the Chix case. Stella is representing the students pro bono, so even if punitive damages were granted, she would not receive a portion of the award as a legal fee.
 
-Which of the following factors is least relevant to determining the risk that Stella's actions on behalf of one client would materially limit Stella's effectiveness in representing the other?
+Assess the relevance of these factors in determining the risk that Stella's actions on behalf of one client would materially limit Stella's effectiveness in representing the other:
 
-A) The fact that she will represent both clients in lawsuits at the trial court level.
+- The fact that Stella will represent both clients in lawsuits at the trial court level.
 
-B) The fact that the lawsuits will be litigated during the same period of time.
+- The fact that the lawsuits will be litigated during the same period of time.
 
-C) The fact that Stella would not benefit financially if the statute were interpreted to allow punitive damages.
+- The fact that Stella would not benefit financially if the statute were interpreted to allow punitive damages.
 
-D) The fact that, when Stella agreed to represent the students, she explained to them that she was arguing against the availability of punitive damages in the Chix case.
+- The fact that, when Stella agreed to represent the students, she explained to them that she was arguing against the availability of punitive damages in the Chix case.
 
 ### Question 7
 
@@ -607,3 +595,17 @@ B) Yes, because she spoke directly to the judge rather than to his clerk.
 C) No, because it was not her fault that the judge picked up the telephone.
 
 D) No, because she only discussed a procedural issue with the judge.
+
+## Imputed Conflicts 
+
+### Question 2
+
+Attorney Charlie works at a law firm of 30 lawyers in a large city. He represents his friend Suma in a wrongful discharge suit against her former employer, an architecture firm. Suma and her husband, Todd, are in the process of divorcing. Suma has retained a family lawyer associated with another firm to represent her in the divorce case. Charlie just learned that one of his law partners, Angus, is representing Todd in the divorce. Charlie and Angus agreed not to communicate with one another about either of the matters. They did not speak to Suma and Todd about the conflict. May Charlie continue to represent Suma in her civil suit against her former employer?
+
+A) Yes, because Charlie and Angus agreed not to communicate with one another about either of the matters.
+
+B) Yes, because the conflict involves only Charlie's personal interests and does not present a significant risk of materially limiting Angus's representation of Todd.
+
+C) No, because the firm did not obtain both clients' informed consent, confirmed in writing.
+
+D) No, because law firms are not permitted to sue current clients.
