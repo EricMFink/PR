@@ -80,19 +80,8 @@ Assess the relevance of these factors in determining the risk that Stella's acti
 
 - The fact that, when Stella agreed to represent the students, she explained to them that she was arguing against the availability of punitive damages in the Chix case.
 
-### Question 7
 
-Chloe and Matilda are partners in a small law firm. Chloe has represented Speisler Motors, an auto manufacturer, for years. She represents Speisler in all litigation in which it is a party. At present she is defending the company in a lawsuit brought by Tom, a driver of a Speisler car who was blinded when an airbag spontaneously exploded while he was driving. When the bag exploded, Tom's car hit Anton, a pedestrian, who died some days after the accident. The executor of Anton's estate has asked Matilda to represent the estate in a lawsuit against Tom and Speisler Motors. Matilda believes that she would be able to provide competent and diligent representation to Anton's estate, and Chloe believes that she would be able to provide competent and diligent representation to Speisler Motors. They have agreed not to talk with each other or to share documents relating to the matter. Speisler, Tom, and Anton's executor all give verbal consent to the representation after full disclosure of all material risks. Is it proper for Matilda to accept representation of Anton's estate?
-
-A) Yes, because Matilda could reasonably believe that she would be able to provide competent and diligent representation to Anton's estate, and Chloe could reasonably believe that she would be able to provide competent and diligent representation to Speisler Motors.
-
-B) Yes, because Matilda and Chloe have agreed not to talk with each other or to share documents relating to the matter.
-
-C) No, because although the conflict is consentable, neither Matilda nor Chloe confirmed her client's informed consent in writing.
-
-D) No, because there is a conflict of interest and the conflict is not consentable.
-
-### Question 8
+### Question 6
 
 Valladia, Inc., is a small, closely held corporation. Valladia and its president, Alan, are defendants in a civil action brought by a state attorney general who accuses both of them of fraud, based on the same facts and the same law. Both of them desire to be represented by Martha, an attorney. Martha will bill each defendant for services provided on behalf of that defendant. Martha reasonably believes that she could provide competent and diligent representation to both of them. Martha advises the board of directors of Valladia of all the foreseeable risks of the corporation being represented by the same attorney who is representing Alan, and she advises Alan of all of the foreseeable risks of being represented by the lawyer who is representing the board. Valladia's board of directors votes to approve the representation, and Alan approves as well. Martha writes a letter to the corporation and to Alan noting that both have given their informed consent to her representation of both parties. May Martha represent both of them?
 
@@ -162,36 +151,6 @@ D) No, because he did not obtain Adelaide's informed consent to his representati
 
 ### Question 5
 
-Kieran, five years out of law school, accepted a job with Sato & Perlmutter, LLP. A couple of months after he started work, Miranda Perlmutter was asked to take over representation of Kasho Natural Foods in an ongoing lawsuit against the Roxbury Box Company. Kasho had fired its previous counsel after a dispute over legal fees. Miranda wants to accept Kasho as a client. However, there may be a problem.
-
-Kieran came to Sato & Perlmutter from another firm, Podkrash and Associates, LLP, where he had worked for three years. The Podkrash firm has been representing the Roxbury Box Company in the Kasho litigation for the last two years. Kieran did not work on the Roxbury matter while he worked at Podkrash. While Kieran was working at Podkrash, he dated Lance, the senior paralegal at the firm. Lance oversaw all the staff work on the Roxbury matter and talked at length about the factual and strategic issues in the case with Kieran on many occasions. For example, the two men talked about a decision of the partner in charge of the litigation that a key document that might impact Roxbury's liability was not covered by the plaintiffs' discovery request. Lance disagreed with the partner's decision, but ultimately decided to keep his mouth shut.
-
-After consultation with her firm's ethics counsel, Miranda decides to undertake representation of Kasho. However, she does not wish to terminate Kieran's employment as a way to solve any conflicts problem. Instead, she timely screens Kieran from the lawyers working on the matter, sees to it that he receives no part of the fee from the Kasho matter, and provides appropriate written notices to Roxbury about the screening procedures.
-
-Was Sato & Perlmutter permitted to undertake representation of Kasho in this manner?
-
-A) Yes, because Lance and Kieran's relationship was personal in nature.
-
-B) Yes, because Kieran was properly screened from the Kasho representation.
-
-C) No, because there is a substantial risk that confidential information that Kieran would have learned at the Podkrash firm would materially advance Kasho's position in the litigation.
-
-D) No, because this is a situation in which screening is insufficient to avoid the possibility of a conflict of interest so long as Kieran remains at the firm.
-
-### Question 6
-
-Five years ago, attorney Barry worked at a large law firm with offices across the country. One of the firm's partners defended Panko, Inc., an appliance manufacturer, against allegations that its toasters had a defect that would cause many of them to catch fire. Barry was not involved in that litigation and did not learn anything about it during his time at the firm. Barry has since opened up a private practice of his own. Ted comes to Barry's new office seeking legal help. Ted tells Barry that his Panko toaster recently overheated and caused a house fire. He would like to sue Panko for damages. May Barry represent him a suit against Panko without Panko's informed consent?
-
-A) Yes, because there was not a substantial risk that confidential factual information as would normally have been obtained in the prior representation of Panko would materially advance Ted's position in the subsequent matter.
-
-B) Yes, because Barry did not actually acquire confidential information that is material to Ted's lawsuit while he was working at his old law firm.
-
-C) No, because the matters are the same or substantially related.
-
-D) No, because Ted's interests are materially adverse to those of Panko.
-
-### Question 7
-
 Armand, a lawyer, represented Walter, a plastic surgeon, during Walter's contested divorce from his wife five years ago. Armand no longer has any contact with Walter, and he does not remember anything about Walter's case. Recently, one of Walter's patients, Celia, developed serious complications and nearly died as the result of the extensive cosmetic surgery that Walter performed on her. She wants to sue him for punitive damages based on gross negligence. She has asked Armand to represent her. May he do so without Walter's consent?
 
 A) Yes, because he no longer represents Walter and the medical malpractice matter is unrelated to the divorce.
@@ -202,7 +161,7 @@ C) No, because a lawyer may not sue a former client without the former client's 
 
 D) No, because Armand would normally have obtained information in the divorce case that could be helpful to Celia.
 
-### Question 8
+### Question 6
 
 Attorney Ash is a solo practitioner specializing in serving small businesses. Ten years ago, Ash handled a routine health department license application for Sprinkles, a newly founded small family-owned bakery. Sprinkles is now known for its cupcakes. Death by Cupcake (DBC) is a bakery across town from Sprinkles that also specializes in cupcakes. DBC would like to hire Ash to represent them in negotiating a commercial lease to open a new bakery. As it happens, the property it wants to lease is across across the street from Sprinkles. The increased competition would significantly hurt Sprinkles' business. May Ash accept the representation without obtaining Sprinkles' informed consent?
 
@@ -598,7 +557,7 @@ D) No, because she only discussed a procedural issue with the judge.
 
 ## Imputed Conflicts 
 
-### Question 2
+### Question 1
 
 Attorney Charlie works at a law firm of 30 lawyers in a large city. He represents his friend Suma in a wrongful discharge suit against her former employer, an architecture firm. Suma and her husband, Todd, are in the process of divorcing. Suma has retained a family lawyer associated with another firm to represent her in the divorce case. Charlie just learned that one of his law partners, Angus, is representing Todd in the divorce. Charlie and Angus agreed not to communicate with one another about either of the matters. They did not speak to Suma and Todd about the conflict. May Charlie continue to represent Suma in her civil suit against her former employer?
 
@@ -609,3 +568,46 @@ B) Yes, because the conflict involves only Charlie's personal interests and does
 C) No, because the firm did not obtain both clients' informed consent, confirmed in writing.
 
 D) No, because law firms are not permitted to sue current clients.
+
+### Question 2
+
+Chloe and Matilda are partners in a small law firm. Chloe has represented Speisler Motors, an auto manufacturer, for years. She represents Speisler in all litigation in which it is a party. At present she is defending the company in a lawsuit brought by Tom, a driver of a Speisler car who was blinded when an airbag spontaneously exploded while he was driving. When the bag exploded, Tom's car hit Anton, a pedestrian, who died some days after the accident. The executor of Anton's estate has asked Matilda to represent the estate in a lawsuit against Tom and Speisler Motors. Matilda believes that she would be able to provide competent and diligent representation to Anton's estate, and Chloe believes that she would be able to provide competent and diligent representation to Speisler Motors. They have agreed not to talk with each other or to share documents relating to the matter. Speisler, Tom, and Anton's executor all give verbal consent to the representation after full disclosure of all material risks. Is it proper for Matilda to accept representation of Anton's estate?
+
+A) Yes, because Matilda could reasonably believe that she would be able to provide competent and diligent representation to Anton's estate, and Chloe could reasonably believe that she would be able to provide competent and diligent representation to Speisler Motors.
+
+B) Yes, because Matilda and Chloe have agreed not to talk with each other or to share documents relating to the matter.
+
+C) No, because although the conflict is consentable, neither Matilda nor Chloe confirmed her client's informed consent in writing.
+
+D) No, because there is a conflict of interest and the conflict is not consentable.
+
+### Question 3
+
+Kieran, five years out of law school, accepted a job with Sato & Perlmutter, LLP. A couple of months after he started work, Miranda Perlmutter was asked to take over representation of Kasho Natural Foods in an ongoing lawsuit against the Roxbury Box Company. Kasho had fired its previous counsel after a dispute over legal fees. Miranda wants to accept Kasho as a client. However, there may be a problem.
+
+Kieran came to Sato & Perlmutter from another firm, Podkrash and Associates, LLP, where he had worked for three years. The Podkrash firm has been representing the Roxbury Box Company in the Kasho litigation for the last two years. Kieran did not work on the Roxbury matter while he worked at Podkrash. While Kieran was working at Podkrash, he dated Lance, the senior paralegal at the firm. Lance oversaw all the staff work on the Roxbury matter and talked at length about the factual and strategic issues in the case with Kieran on many occasions. For example, the two men talked about a decision of the partner in charge of the litigation that a key document that might impact Roxbury's liability was not covered by the plaintiffs' discovery request. Lance disagreed with the partner's decision, but ultimately decided to keep his mouth shut.
+
+After consultation with her firm's ethics counsel, Miranda decides to undertake representation of Kasho. However, she does not wish to terminate Kieran's employment as a way to solve any conflicts problem. Instead, she timely screens Kieran from the lawyers working on the matter, sees to it that he receives no part of the fee from the Kasho matter, and provides appropriate written notices to Roxbury about the screening procedures.
+
+Was Sato & Perlmutter permitted to undertake representation of Kasho in this manner?
+
+A) Yes, because Lance and Kieran's relationship was personal in nature.
+
+B) Yes, because Kieran was properly screened from the Kasho representation.
+
+C) No, because there is a substantial risk that confidential information that Kieran would have learned at the Podkrash firm would materially advance Kasho's position in the litigation.
+
+D) No, because this is a situation in which screening is insufficient to avoid the possibility of a conflict of interest so long as Kieran remains at the firm.
+
+
+### Question 4
+
+Five years ago, attorney Barry worked at a large law firm with offices across the country. One of the firm's partners defended Panko, Inc., an appliance manufacturer, against allegations that its toasters had a defect that would cause many of them to catch fire. Barry was not involved in that litigation and did not learn anything about it during his time at the firm. Barry has since opened up a private practice of his own. Ted comes to Barry's new office seeking legal help. Ted tells Barry that his Panko toaster recently overheated and caused a house fire. He would like to sue Panko for damages. May Barry represent him a suit against Panko without Panko's informed consent?
+
+A) Yes, because there was not a substantial risk that confidential factual information as would normally have been obtained in the prior representation of Panko would materially advance Ted's position in the subsequent matter.
+
+B) Yes, because Barry did not actually acquire confidential information that is material to Ted's lawsuit while he was working at his old law firm.
+
+C) No, because the matters are the same or substantially related.
+
+D) No, because Ted's interests are materially adverse to those of Panko.
