@@ -712,7 +712,7 @@ D is incorrect. Contingent fee rates of 33 percent are not unusual. Some scholar
 
 ### Question 9c.
 
-A is correct. Under Rule 1.8(e), "[a] lawyer shall not provide financial assistance to a client in connection with pending or contemplated litigation, except that . . . a lawyer may advance court costs and expenses of litigation, the repayment of which may be contingent .VST .pagebreak epub:type="pagebreak" on the outcome of the matter." Joseph had told Cyrus that he wanted to appeal, so Cyrus was authorized to act without further consent from Joseph. Accordingly, the other answers are not correct.
+A is correct. Under Rule 1.8(e), "[a] lawyer shall not provide financial assistance to a client in connection with pending or contemplated litigation, except that . . . a lawyer may advance court costs and expenses of litigation, the repayment of which may be contingent on the outcome of the matter." Joseph had told Cyrus that he wanted to appeal, so Cyrus was authorized to act without further consent from Joseph. Accordingly, the other answers are not correct.
 
 ### Question 9d.
 
@@ -840,7 +840,7 @@ B is incorrect because for a lawyer to borrow money from a client would require 
 
 C is incorrect. Actual harm to the client is not relevant in determining disciplinary liability.
 
-D is incorrect. Although the circumstances present a genuine medical emergency, the use of client funds for this purpose is not justifiable. "A lawyer cannot use a client's funds, no matter how noble the purpose." *In re Lenz*, 484 N.E.2d 1093 (Ill. 1985) See also *In re: Kevin R. Peters*, [https://www.iardc.org/HB_RB_Disp_Html.asp?id=11372](https://www.iardc.org/HB_RB_Disp_Html.asp?id=11372) (Ill. IARDC Review Bd., 2014) (lawyer suspended for thirty days for borrowing funds from client trust account).
+D is incorrect. Although the circumstances present a genuine medical emergency, the use of client funds for this purpose is not justifiable. "A lawyer cannot use a client's funds, no matter how noble the purpose." *In re Lenz*, 484 N.E.2d 1093 (Ill. 1985) See also *In re: Kevin R. Peters*, (Ill. IARDC Review Bd., 2014) (lawyer suspended for thirty days for borrowing funds from client trust account).
 
 ## Conflicts Issues for Government Lawyers and Judges 
 

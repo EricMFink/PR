@@ -1050,9 +1050,7 @@ D. No, because a lawyer may not accept a substantial gift from a current client,
 
 ### Question 9h. 
 
-Attorney Sebastian graduates from law school and starts his own criminal defense practice. He establishes an LLC for his practice and sets up a bank account for the office expenses. He also has a personal bank account. He decides to charge the relatively low fee of $200 per hour for his work. Within the first month of opening his practice, five different clients retain him in connection with their criminal matters. Pursuant to the retainer agreements, each client gives Sebastian a check for $4,000. Sebastian will earn $200 for each hour that 
-
-he works. After 20 hours, he will bill each client for additional sums. At a minimum, how many additional bank accounts must Sebastian open? 
+Attorney Sebastian graduates from law school and starts his own criminal defense practice. He establishes an LLC for his practice and sets up a bank account for the office expenses. He also has a personal bank account. He decides to charge the relatively low fee of $200 per hour for his work. Within the first month of opening his practice, five different clients retain him in connection with their criminal matters. Pursuant to the retainer agreements, each client gives Sebastian a check for $4,000. Sebastian will earn $200 for each hour that he works. After 20 hours, he will bill each client for additional sums. At a minimum, how many additional bank accounts must Sebastian open? 
 
 A. 0 
 
@@ -1170,7 +1168,9 @@ B. Yes, because the terms of the agreement (including the value of the business)
 
 C. No, because Milan was not practicing law and this deal was not related to law practice. 
 
-D. No, because Milan's acts have not yet been found to be fraudulent by a court. ### Question 9r. 
+D. No, because Milan's acts have not yet been found to be fraudulent by a court. 
+
+### Question 9r. 
 
 Danielle is a lawyer. Ted, the son of her brother Matthew, is very ill with a life-threatening condition. Ted must get a certain medication that costs $1,400 in the next 24 hours or else he will go into kidney failure. Matthew has no cash, but he will receive a large sum from the sale of his home in one week. Matthew has no other possible source of funds until then unless Danielle gives him a short-term loan. Danielle is flat broke (in fact, she is deeply in debt), but there is $120,000 in Danielle's trust account. This amount is the proceeds of a personal injury settlement that Danielle will distribute to her client Van. She represented him on a pro bono basis, so she is not owed a fee from the settlement. Van is in prison for the next few years. Danielle has agreed to hold the funds for Van in the interim and to make mortgage payments on his house as they become due. Danielle lends Matthew $1,400 from this account for Ted's medication. She is unable to ask for Van's approval because he is in solitary confinement because he talked back to a prison guard and is not allowed to receive phone calls. Danielle, confident that Van would approve, sends him a letter explaining her intention to make the loan to her brother. A week later, Matthew receives the proceeds from the sale of his house. He repays Danielle, who replenishes the client trust account. Van later writes Danielle that he is glad that she was able to make the loan to her brother. There is no resulting delay in the distribution of the settlement funds to Van or in the making of mortgage payments. Is Danielle subject to discipline? 
 
