@@ -561,6 +561,158 @@ It is fair to say that the average jury, in a greater or less degree, has confid
 
 In these circumstances prejudice to the cause of the accused is so highly probable that we are not justified in assuming its non-existence. If the case against Berger had been strong, or, as some courts have said, the evidence of his guilt "overwhelming," a different conclusion might be reached. Moreover, we have not here a case where the misconduct of the prosecuting attorney was slight or confined to a single instance, but one where such misconduct was pronounced and persistent, with a probable cumulative effect upon the jury which cannot be disregarded as inconsequential. A new trial must be awarded.
 
+#### State v. Lensgrav, No. S-1-SC-39542 (N.M. Feb. 20, 2025)
+
+<p class="case-h1">MICHAEL E. VIGIL, Justice.</p>
+
+In this case of severe and pervasive prosecutorial misconduct, exacerbated by a lackluster defense, we hold that an Assistant District Attorney who uses opening statements to expose the jury to incriminating allegations from a non-testifying codefendant, repeatedly accuses a defendant of witchcraft, and relies on inflammatory and inadmissible evidence throughout the case, has knowingly committed misconduct so unfairly prejudicial and with such willful disregard for a reversal on appeal that retrial is barred by double jeopardy under Article II, Section 15 of the New Mexico Constitution.
+
+<p class="case-h1">I. BACKGROUND</p>
+
+Joseph Morgas (Morgas) went missing in Taos, New Mexico, in August 2019. Police had no leads on the case for over a year. Then, in August 2020, police uncovered two suspects, Aram Montoya (Montoya) and his wife, Desiree Lensegrav (Defendant), after Montoya barricaded Defendant in their Taos home before repeatedly stabbing her in the neck and back with a paring knife. Montoya took Defendant to the hospital and he was thereafter arrested and jailed for the attempted murder of Defendant. Defendant was airlifted to the University of New Mexico Hospital in Albuquerque, New Mexico, and placed in a medically induced coma in the intensive care unit.
+
+<p class="case-h2">A. Defendant's Pretrial Statements to Police</p>
+
+When Defendant regained consciousness, two New Mexico State Police officers were waiting at her bedside to speak with her. She was immediately _Mirandized_ and asked questions about what happened to her. She denied that Montoya had ever hit or threatened her in the past, denied any form of domestic violence, and told the officers that she and Montoya had "never even argued." The officers confronted her with allegations that after Montoya's arrest, he confessed to killing Morgas and that Montoya had thrown her "under the bus."
+
+During the interview, Defendant's account of what happened on the day that Morgas went missing was that Montoya sent her to a drug house to trade a mistakenly purchased bag of methamphetamine for their target drug, cocaine. While making the trade, she encountered Morgas. Morgas was a relative of the man who had raped and impregnated Defendant when she was a teenager. According to Defendant, Morgas laughed at her, called her a drug whore, told her that she deserved to be raped, said that he had video of her at the drug house, and that he would share the video with his family so that they could get custody of Defendant's child.
+
+Defendant returned home in tears and told Montoya what had happened. She told police that she wanted Montoya to "kick Morgas's ass." She drove Montoya back to the drug house. Defendant stayed in the truck while Montoya went inside. Morgas was there along with the owner of the house, Nate Rodriguez (Rodriguez), and several other people. Defendant stated that Montoya and Morgas fought outside the house while everyone else looked on. Montoya overpowered Morgas, put him in a headlock, and "choked him out." Montoya dragged Morgas's limp body back to the truck. Defendant kicked open the passenger side door, and Montoya got in, dragging Morgas, who was still in the headlock, into the truck with him. Defendant said that Morgas was purple and never moved or breathed after Montoya put him in the truck. Additionally, she checked his pulse, and there was none.
+
+Defendant admitted that she spent the next several hours assisting Montoya in disposing of Morgas's body and attempting to cover up the homicide. She supplied grim details about the process—including burning, burial, exhumation, decapitation, reburial, crushing the skull, and throwing it into a river—all of which were done, as she described, while she was in shock and afraid that Montoya would kill her too if she did not assist.
+
+After giving her statement to police, Defendant was cuffed to her bed. Two days later, she was transported to the Taos County Sheriff's office where she was interviewed for a second time by two different police officers. Defendant provided the same account in all meaningful respects: she wanted Montoya to beat Morgas up but did not want him killed; Montoya choked Morgas out during the fight outside, at which point Morgas went limp and never showed any further sign of life; and she assisted Montoya in covering up the homicide in fear for her own life.
+
+<p class="case-h2">B. Pretrial Proceedings</p>
+
+Defendant was charged with first-degree willful and deliberate murder, first-degree felony murder, first-degree kidnapping, three counts of tampering with evidence, and conspiracy to commit first-degree murder.
+
+The State was represented by Assistant District Attorney Cosme Ripol (ADA Ripol) and a secondary prosecutor. The State built its pretrial case around Montoya's statements. It included him on all witness lists, filed multiple subpoenas for his presence, submitted transport orders to have him brought to district court, and moved in limine to enter Montoya's statements to law enforcement into evidence as statements in furtherance of a conspiracy, noting the State's intent to call Montoya as the State's final witness. The State also filed a separate motion in limine to treat Montoya as a hostile witness because Montoya had given conflicting statements about whether he or Defendant had killed Morgas, and Montoya had stated in a defense interview that he implicated Defendant "because he was mad at her." ADA Ripol argued that "because of Montoya's tortured conscience, confused and tangled emotions and feelings toward Defendant—and the honor code of the institutionalized criminal mind—Montoya is a hostile witness who will lie to protect Defendant."
+
+The State changed its strategy at the last minute. Montoya was omitted from the State's second amended final witness list the day voir dire began. ADA Ripol announced to the district court that he and the secondary prosecutor had worked over the weekend to "totally reorganize  how we're going to prosecute...this case," and they had concluded "that we do _not_—this is over the weekend—need Montoya and will _not_ be calling him in our case in chief." As a result, ADA Ripol informed the district court that he had released Montoya from his subpoena. The district court judge then announced the witness list for the defense to the prospective jurors from the bench, which did include Montoya.
+
+<p class="case-h3">C. Trial</p>
+
+Despite the State having removed Montoya from the witness list, ADA Ripol nevertheless used his opening statement to expose the jury to Montoya's incriminating allegations against Defendant. Bolstered with copious amounts of other inflammatory and inadmissible evidence, including allegations that Defendant was a "witch" and a "bruja" (a term for "witch" in Spanish) who controlled Montoya through her menstrual blood, ADA Ripol embarked on a three-day-long exercise in pathos and character assassination that utterly deprived Defendant of a fair trial that is guaranteed by the New Mexico Constitution.
+
+_1\. Opening statement_
+
+In his opening statement, and over no objection by the defense, ADA Ripol told the jury that they were about to hear "a story," as he phrased it,
+
+> of a strong, smart, determined, manipulative, vengeful, capable, controlling, resilient, cunning, human being with a profound drug problem—Defendant—who used a needy, insecure, physically strong, and potentially violent human being—Montoya—with a soul—he had a soul and a conscience—that he could not control, no matter how much cocaine and meth he used with her, to disguise the agony and the pain of the horrific homicide that she told him and assisted him to commit.
+
+ADA Ripol then began his witchcraft accusations. He told the jury that the first witness would be Rodriguez, the owner of the drug house, who would testify that he watched Defendant's eyes turn "black. With fury. And rage. And it was like a Hollywood movie. He could feel the wind coming out of her." ADA Ripol stated that "in addition to her eyes turning black and the wind," Rodriguez would also testify "that Montoya was like a zombie when he was around her. And that Defendant suggested to...Rodriguez on several occasions that she was a witch and that she would put menstrual blood concoctions into Montoya's food to control him." After a dramatic pause, ADA Ripol continued: "Joseph Morgas—the son of that grieving family back there—had to be eliminated by this wanna-be witch magic woman," whom he also called "this Cersei—right out of Game of Thrones." Defense never objected.
+
+Even though ADA Ripol knew he would not call Montoya, he told the jury that "the State anticipates that you're going to hear from Montoya who manned up, pled guilty to murder one and other crimes, and took responsibility for these depraved actions that he did because he loved this woman," exclaiming that "this story is right out of the Bible!" At that point, and without objection from the defense, the district court judge asked both counsel to approach the bench to ensure ADA Ripol's opening statement reflected what he "believed the evidence will show." ADA Ripol assured the district court judge that he understood but then, standing in the shoes of Montoya, exposed the jury to Montoya's incriminating allegations and would-be testimony. ADA Ripol said that Montoya
+
+> felt so guilty about this homicide and was so anesthesizing himself with cocaine and methamphetamine from the horror of what he did at her instigation, that...in his sense of betrayal and horror and fear and anger and more horror about what he did—planned and wanted to kill her after he thought that she'd squealed on him, and kill himself. You're going to learn that he intentionally, he meaning Montoya bought an 8 ball of heroin to commit suicide with heroin. You will learn that Montoya was stripping his soul clean of the horrors of what he did for this wanna-be bruja, witch!
+
+ADA Ripol continued to expound on Montoya's state of mind and potential motivations for taking a plea, opining that "unlike Defendant, Montoya, for all his faults, could not live with himself. And had to come clean. But he's conflicted. Because he thinks, or believes, he still loves her." Defense never objected.
+
+The remainder of the opening statement was similarly rife with hyperbole, grotesqueries, name-calling, and outlandish misstatements of what the evidence would show. ADA Ripol called Defendant "a worthless mother" and "a drug ho— not my words!" Additionally, without evidence, ADA Ripol said that Defendant "had some boyfriends on the side over at the Taos County Sheriff's Office." ADA Ripol recounted florid details of an alleged confession—"Defendant's own admissions," as he called them—that Defendant personally strangled Morgas to death using twine. He told the jury that Defendant admitted to directing Montoya to burn the body and that "her own words" were, "take this shovel and cut off his head. Bash in his teeth so no one can identify the body!" ADA Ripol also told the jury that Defendant threw the shovel and head into the river. None of these allegations would conform to the evidence.
+
+ADA Ripol repeatedly told the jury to speculate about the time and manner of death, stating that the jury could not know whether Morgas was "just knocked out" when they "threw him into the grave, poured gasoline on him, and cooked him!" He questioned the jury: "Did...Morgas die while he was in the truck?...Did he die burning to death in agony? Did he die? When they cut off his head after he was burned and cooked? We don't know!" Defense remained silent and did not object.
+
+Finally, ADA Ripol ended on a note of insinuation: "You will hear out of her own voice that prior to the night where Montoya tried to kill Defendant, in his. . . indescribable pain and agony...that Montoya always treated her well....But that's gonna change here at trial, to be sure. You all know what you're dealing with. So folks, I appreciate your attention to this matter. This is the real deal."
+
+_2\. The State's case in chief_
+
+The State's first witness was Rodriguez, the owner of the drug house, who introduced witchcraft evidence. Rodriguez testified that when Defendant walked into his drug house, Rodriguez was getting high with Morgas and discussing "supernatural incidents," such as "little dwarfs or men...in his house at night peeping out from the vents" and "moving things around." Morgas said something to Defendant that caused her to become angry. ADA Ripol asked Rodriguez to "describe for the jury her eyes." Rodriguez testified that "her eyes turned black....Almost kind of like you see in a movie, you know, where the eyes are black. Wind. It felt almost like the wind was throwing back her hair. And the room became very heavy." ADA Ripol then elicited the following testimony:
+
+> ADA Ripol: Describe how Montoya would act around her.
+
+> Rodriguez: It was, it seemed to me like he was on autopilot. He was a different person when he was around her than he was by himself. He wasn't joking, he wasn't usually how people are with their friends—you joke around a little bit, they're smiling, a little bit of banter. He was not like that whenever he was with her.
+
+> ADA Ripol: Did you have conversations with Defendant about magic?
+
+> Rodriguez: Something about her practicing some magic and doing some spells about, her family had been into magic. But, I didn't really pay that much attention to it but I do recall having that conversation.
+
+> ADA Ripol: And specifically, was there any conversation about menstrual blood? What she would do with it?
+
+> Rodriguez: She did tell me a story once, um, to my recollection she said something about putting some menstrual blood in some food.
+
+> ADA Ripol: In _whose_ food?
+
+> Rodriguez: Montoya's.
+
+> ADA Ripol: And did she indicate to you why she would put her menstrual blood in Montoya's food?
+
+> Rodriguez: Um, she didn't really indicate clearly. I didn't really ask clearly. It was a little bit out of my sphere of wanting to know, actually. It really grossed me out a little bit.
+
+Following a brief cross-examination by defense counsel, in which Rodriguez described another of his supernatural encounters with Defendant, ADA Ripol asked if Rodriguez remembered telling a police officer that Defendant's eyes had turned black. Rodriguez testified that "it kind of was that kind of mood, like in a movie, you know, the eyes went black and then the room got heavy and it was like, the whole mood changed." ADA Ripol bolstered the witness by saying, "just so that the jury's clear, your testimony is as honest as it can be, as you can be today, correct?" Rodriguez agreed.
+
+Finally, the State introduced foul-smelling physical evidence taken from the river and Morgas's remains, the smell of which caused the district court to adjourn early on the second day of trial. During direct examination, one of the police officers unwrapped a shovel that was found in the river, which was assumed to be the shovel that Montoya used to decapitate Morgas, and walked it in front of the jury. The officer also displayed physical evidence that was taken directly off of Morgas's body, all of which had been burnt and buried for over a year. This physical evidence—including two shoes, multiple items of clothing, and other items taken from the body—was opened one by one, walked in front of the jury, displayed on an ELMO (a courtroom document camera), and left out on a table in open court. During this process, the secondary prosecutor asked the officer, "is there an odor? Are you okay?" To which the officer responded, "Yes."
+
+Approximately two-and-a-half hours after the shovel was unwrapped and half an hour after the burnt and buried clothing was displayed, the secondary prosecutor asked to approach the bench. Before anyone spoke, the district court asked, "are we talking about the same issue?" And the secondary prosecutor said, "yeah, what, I'm so sorry." Defense counsel stated, "there's a significant odor over there," and the district court replied, "yeah...I'm thinking I just need to stop for the day." The district court sent the jury home half an hour early.
+
+The following day, the secondary prosecutor introduced more foul-smelling evidence recovered from Morgas's body. Before the jury was called into the courtroom, the secondary prosecutor alerted the district court that she intended to introduce a partial shirt, pants, and a partial belt even though, as she admitted, "I'm cognizant that they—will smell." The district court judge allowed them to be opened, displayed on the ELMO, and placed in bags. The judge noted that there were "some odors in the courtroom," and the solution was to have the officer "perform the duties of Vanna White and...walk them around," and then rebag the evidence.
+
+When the jury returned, the district court judge explained that the officer would walk past them with the partial shirt, pants, and partial belt and admonished the jury that this would "likely be your only opportunity to see" this evidence. The judge "apologized...with the mechanism that we're having to display these items."
+
+When the officer returned to the stand, the secondary prosecutor asked the officer why he had to rebag the evidence. The officer stated, "because of the smell. Partially, the biohazard nature of some of it." The officer noted that all of the evidence he had displayed came "from the gravesite, specifically attached to the body."
+
+_3\. Closing argument_
+
+In closing argument, ADA Ripol again raised the specter of Defendant's eyes "turning black with rage" and "like a movie, the wind...blowing through her hair in her fury" as supposed evidence of her intent to kill. ADA Ripol argued that the State had proven deliberate intention through evidence "that beating up Morgas was not enough. Because beating him up would make it worse for her and her continual legal problems"—evidence that was admitted only through an officer's description of Montoya's unconfronted hearsay statements to the police.
+
+On rebuttal argument, ADA Ripol reminded the jury that Montoya "pled guilty to all his charges and is gonna die in" the penitentiary. The district court judge then asked the parties to approach the bench and questioned ADA Ripol about whether that had been admitted into evidence, to which ADA Ripol acquiesced by stating that he would "move forward." Starting back, ADA Ripol stated "we're not here, we don't need to prosecute Montoya." ADA Ripol's parting words to the jury immediately before they retired to deliberate was an admonishment to convict based upon the foul-smelling evidence the State displayed. He stated:
+
+> You know, folks. Back in the 60s there was a saying: 'karma is a bitch.' The choices that we make influence who and what we are. One of the poignant elements in this trial is that each and every one of us literally smelled the stench of death, caused by this woman, and that she took responsibility for.
+
+> The stench of death that each and every one of us could smell, so that the court had to adjourn early because of the biohazard and the reek. We just didn't see and hear about death: we smelled it.
+
+> And do you know who admitted? You do know who admitted to being responsible for the stench! Of death! That permeated this courtroom. Defendant. She owned up to responsibility. And when she had a chance to deny responsibility, was before you was left speechless.
+
+> Ladies and gentlemen of the jury, the State demands, asks, requires that you go back and deliberate and find Defendant guilty for the stench of death that permeated this courtroom.
+
+Two hours later, the jury returned guilty verdicts as to all counts.
+
+<p class="case-h1">II. DISCUSSION</p>
+
+<p class="case-h2">A. Fundamental Error</p>
+
+Inexplicably, defense counsel did not object to the vast majority of instances of prosecutorial misconduct that Defendant identifies on appeal. This lack of action is profoundly troubling. Defense counsel's neglect to confront ADA Ripol's outrageous behavior allowed the disturbing trend of misconduct to continue, undermining the fundamental protections that ensure justice in a fair trial. Without an objection, the district "court had no opportunity to rule on any claim of prosecutorial misconduct," and we must now review any such claim for fundamental error.
+
+"Prosecutorial misconduct rises to the level of fundamental error when it is so egregious and had such a persuasive and prejudicial effect on the jury's verdict that the defendant was deprived of a fair trial." In our analysis, we consider "(1) whether the statement invades some distinct constitutional protection; (2) whether the statement is isolated and brief, or repeated and pervasive; and (3) whether the statement is invited by defense." In doing so, we evaluate the statements "objectively in the context of the prosecutor's broader argument and the trial as a whole." Under these standards, the prosecutorial misconduct rises to the level of reversible, fundamental error.
+
+At every stage of trial—from opening statement through rebuttal argument— the prosecution grounded its case in inadmissible evidence. ADA Ripol used opening statements to expose the jury to incriminating allegations from a non-testifying codefendant, repeatedly accused Defendant of witchcraft, unnecessarily displayed foul-smelling physical evidence that had been attached to the remains of a burnt and buried body, and told the jury that the State "demands" and "requires" the jury to convict Defendant "for the stench of death that permeated this courtroom." The entire trial was filled with theatrics, hyperbole, and disparaging inflammatory statements, such that the extent of the misconduct cannot be fully conveyed in this opinion. In this analysis, we examine only the most egregious and dispositive misconduct.
+
+"It is improper for counsel, in an opening statement, to make statements that will not or cannot be supported by proof, to claim that it will produce evidence that is never submitted to the jury, or ... to comment about evidence that counsel does not intend to prove." In this case, ADA Ripol used the opening statement to stand in the shoes of Montoya —a codefendant whom the State had released from subpoena and told the district court it would not call—exposing the jury to Montoya's incriminating allegations without calling him as a witness. This was a blatant violation of Defendant's Sixth Amendment right to confront the witnesses against her. 
+
+That fact alone, without more, is egregious misconduct. "_Bruton_ _v. United States,_ 391 U.S. 123 (1968) determined that a curative or limiting jury instruction is ineffective to remove the prejudice that a defendant suffers when the state introduces at a joint trial with one jury a statement by a non-testifying codefendant that incriminates the other defendant." Although Montoya was not tried as a codefendant at the same trial, we agree with the _Bruton_ Court that "the powerfully incriminating extrajudicial statements of a codefendant" are not only "devastating to the defendant but their credibility is inevitably suspect," and "the effect of such a nonadmissible declaration cannot be wiped from the brains of the jurors." As that Court explained, "the unreliability of such evidence is intolerably compounded when the alleged accomplice...does not testify and cannot be tested by cross-examination. It was against such threats to a fair trial that the Confrontation Clause was directed." 
+
+The State argues that ADA Ripol acted reasonably to introduce Montoya's unconfronted hearsay statements in the opening statement because the defense included Montoya on its witness list and, by all indications, the defense intended to call Montoya. However, that argument ignores the inescapable fact that the State bears the entire burden of production and proof in a criminal trial, and the defense has no duty to put on any case. Therefore, "the prosecutor's opening statement in a criminal trial should contain a capsulized version of the evidence that the prosecutor expects to present and the claim that the prosecutor will make with reference to the evidence."
+
+The prosecution has no right to use an opening statement to expound upon presumptive details of a defense case over which the prosecution has no control, which has yet to be presented, and which need not be presented at all. Moreover, it is highly improper for the State to describe the anticipated testimony of a defense witness when the State has rejected that very witness as unnecessary to its own case in chief.
+
+Simply put, it was egregious misconduct for ADA Ripol to expose the jury to Montoya's incriminating allegations without calling him as a witness in any manner. "The Government should not have the windfall of having the jury be influenced by evidence against a defendant which, as a matter of law, they should not consider but which they cannot put out of their minds." ADA Ripol's misconduct in exposing the jury to Montoya's incriminating statements in his opening statement while knowing that the State would not call him as a witness was so unfairly prejudicial and unreversible that it alone resulted in fundamental error. When the other instances of misconduct are added, the conclusion that fundamental error occurred is inescapable.
+
+Having concluded that fundamental, reversible error resulted from prosecutorial misconduct, we now address whether retrial is barred under Article II, Section 15 of the New Mexico Constitution.
+
+<p class="case-h2">B. Legal Standard for Double Jeopardy Bar</p>
+
+In _State v. Breit_ we established the test for whether official misconduct presents a double jeopardy bar to a retrial under Article II, Section 15 of the New Mexico Constitution. In _Breit,_ we held that official misconduct at trial will result in a double jeopardy bar to retrial when the misconduct (1) "is so unfairly prejudicial to the defendant that it cannot be cured by means short of a mistrial or a motion for new trial," (2) "the official knows that the conduct is improper and prejudicial," and (3) "the official either intends to provoke a mistrial or acts in willful disregard of the resulting mistrial, retrial, or reversal." In this case, we focus on official misconduct on ADA Ripol's part.
+
+We examine these factors "in light of the totality of the circumstances of the trial." If, under the totality of the circumstances, "the prosecutor's conduct demonstrates willful disregard of the defendant's right to a fair trial, then a second trial is barred." 
+
+<p class="case-h2">C. The Extreme Prosecutorial Misconduct in This Case Satisfies the _Breit_ Test</p>
+
+We begin with the first prong of _Breit:_ whether the prosecutor's misconduct was "so unfairly prejudicial to Defendant that it cannot be cured by means short of a mistrial or a motion for a new trial." For the reasons set forth in our discussion of fundamental error, the record leaves no doubt that ADA Ripol's misconduct satisfies the first prong of _Breit. 
+
+Having concluded that the first prong of _Breit_ is satisfied, we need not belabor the other instances of misconduct. However, we pause to note the outrageous impropriety of the prosecutor's reliance on allegations of witchcraft. This Court has long recognized that witchcraft accusations are entirely outside the bounds of legality: as early as 1891, we recognized that the belief in witchcraft was archaic and unacceptable.
+
+The second prong of _Breit_ is also satisfied: the prosecutor knew that his conduct was improper and prejudicial. ADA Ripol clearly understood that he was presenting the jury with Montoya's incriminating allegations without calling him as a witness. However, a prosecutor's knowledge "is an objective standard, not a subjective one. A prosecutor's belief regarding their own conduct is irrelevant because rare are the instances of misconduct that are not violations of rules that every legal professional, no matter how inexperienced, is charged with knowing. The law simply cannot reward ignorance." 
+
+Finally, the third prong of _Breit_ is satisfied. The prosecutor "either intended to provoke a mistrial or acted in willful disregard of the resulting mistrial, retrial, or reversal." ADA Ripol exposed the jury to Montoya's incriminating allegations without calling him as a witness. He built his case around a theory that Defendant was a witch who controlled her non-testifying codefendant through the use of her menstrual blood and caused him to kill on her behalf. He repeatedly used inflammatory language, disparaged Defendant, and improperly vouched for the credibility of witnesses. And the prosecution introduced foul-smelling physical evidence that had been attached to a burnt and buried corpse for more than a year, displayed it for the jury, and then ADA Ripol used the offensive smell to argue that the State "demands" and "requires" the jury to convict on all counts because of the offensive odor. The misconduct persisted from the opening statement all the way through rebuttal argument.
+
+Like in _Breit,_ "the misconduct was unrelenting and pervasive," and "the cumulative effect was to deny the defendant a fair trial." Like in _Breit,_ the State's case was weak on the crucial issue of intent to kill, and "the prosecution may have been concerned that there would be difficulties in securing a conviction." Particularly here, where the State knew that Montoya had repudiated his initial accusations against Defendant, it appears likely that the State's choice not to call Montoya was a feckless attempt to avoid having the State's star eyewitness torpedo its theory of the case. Instead, the prosecution saw fit to expose the jury to Montoya's incriminating allegations that suited the State's case without the risks of live testimony from the man himself. This process was antithetical to our adversarial system and deprived Defendant of a fair trial. Again, as in _Breit,_ we determine from these facts that "in avoiding an acquittal at any cost, it appears that among the costs the prosecution was willing to incur were a mistrial, a new trial, or reversal on appeal. Under minimal legal, ethical, and professional standards, we can only conclude that the prosecutor acted knowingly and intentionally." 
+
+The rule of law applies equally to prosecutors as well as everyone else. All three prongs of _Breit_ are satisfied in this case.
+
+<p class="case-h1">III. CONCLUSION</p>
+
+Defendant did not receive the fair trial to which she was entitled, and we, therefore, vacate her convictions. Because of the outrageous prosecutorial misconduct that pervaded this trial, double jeopardy bars reprosecution.
+
 #### Taylor v. Kavanagh, 640 F. 2d 450 (2d Cir. 1981)
 
 <p class="case-h1">IRVING R. KAUFMAN, Circuit Judge</p>
