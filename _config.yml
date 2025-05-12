@@ -2,7 +2,7 @@ url: https://www.emfink.net
 baseurl: /PR
 title: Professional Responsibility
 
-last_updated: 18 April 2025  # leave blank if you don't want to display last updated
+last_updated: 12 May 2025  # leave blank if you don't want to display last updated
 
 author:
   name: Eric M. Fink
@@ -17,12 +17,12 @@ author:
   web: emfink.net/ElonLaw
 
 ta: 
-  name: Ashe Cooper
-  email: acooper25@elon.edu
+  name: 
+  email: 
 
 course: 
   subject: Professional Responsibility
-  term: Fall 2024
+  term: Fall 2025
   room: Room 207 
   meets: "Monday & Wednesday 9:45–10:45 am"
 
