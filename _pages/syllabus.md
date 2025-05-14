@@ -65,10 +65,12 @@ The Law School [honor code](https://www.elon.edu/u/law/students/honor-code/) app
 
 ## Schedule & Assignments 
 
+{:text-style: style="font-weight: 800;"}
+
  **Date** | **Topic**  | **Assignment**
 --|---|--
  &nbsp; | &nbsp; | &nbsp;
- &nbsp; | {::nomarkdown}<strong>I: The Legal Profession & Regulation of Lawyers</strong>{:/} | 
+ &nbsp; | I: The Legal Profession & Regulation of Lawyers {: color-style text-style }  | 
  September 4 | Regulatory Institutions | Casebook, Chap. 1, § 1; Giesel, Chap. 1
  September 6 & 9 | Professional Gatekeeping | Casebook, Chap. 1, § 2; Giesel, Chap. 2
  &nbsp; | &nbsp; | &nbsp;
