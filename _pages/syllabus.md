@@ -63,6 +63,8 @@ For disability accommodation requests, contact the [Elon Disability Services Off
 
 The Law School [honor code](https://www.elon.edu/u/law/students/honor-code/) applies to all activities related to your law school study, including conduct during class and examinations.
 
+\newpage
+
 ## Schedule & Assignments 
 
 | **Date** | **Topic** | **Assignment** |
