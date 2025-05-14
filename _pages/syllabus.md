@@ -68,7 +68,7 @@ The Law School honor code applies to all activities related to your law school s
 
  **Date** | **Topic**  | **Assignment**
 --|---|--
-    | **I: The Legal Profession & Regulation of Lawyers** | 
+    | <span class="unit_title">I: The Legal Profession & Regulation of Lawyers</span> | 
  September 4 | Regulatory Institutions | Casebook, Chap. 1, § 1; Giesel, Chap. 1
  September 6 & 9 | Professional Gatekeeping | Casebook, Chap. 1, § 2; Giesel, Chap. 2
     |  | 
