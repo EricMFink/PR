@@ -4,7 +4,9 @@ gem 'rake'
 gem 'jekyll'
 gem 'rouge'
 gem 'jekyll-pandoc'
-gem 'jekyll-spaceship'
+group :jekyll_plugins do
+  gem 'jekyll-spaceship'
+end
 gem 'tufte-pandoc-jekyll'
 gem 'gemoji'
 gem "webrick", "~> 1.8"
