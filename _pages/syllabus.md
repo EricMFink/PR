@@ -10,11 +10,11 @@ email: efink@elon.edu
 phone: 336-279-9334
 address1: 201 North Greene Street
 address2: Greensboro, North Carolina 27401
-term: 'Fall 2024'
+term: 'Fall 2025'
 days: 'Monday & Wednesday 9:45–10:45 am'
 room: 'Room 207'
-ta: Ashe Cooper
-ta-email: acooper25@elon.edu
+ta: Holden Bryant
+ta-email: hrbyant4@elon.edu
 
 syllabus: true
 
@@ -33,11 +33,11 @@ This course is intended to acquaint students with the organization and regulatio
 
 ### Required 
 
-_Casebook:_ [Professional Responsibility: An Open-Source Casebook]({{ site.baseurl }}/casebook) (v.2.1 2023). Available on the course website: [emfink.net/PR]({{ site.baseurl }}). The website also has review questions and links to other resources. 
+[Professional Responsibility: An Open-Source Casebook]({{ site.baseurl }}/casebook) (v.2.1 2023). Available on the course website: [emfink.net/PR]({{ site.baseurl }}). The website also has review questions and links to other resources. 
 
 ### Suggested 
 
-_Hornbook:_ Grace M. Giesel, [Mastering Professional Responsibility](https://cap-press.com/books/isbn/9781611636208/Mastering-Professional-Responsibility-Second-Edition) (2d ed., Carolina Academic Press 2015). 
+Grace M. Giesel, [Mastering Professional Responsibility](https://cap-press.com/books/isbn/9781611636208/Mastering-Professional-Responsibility-Second-Edition) (2d ed., Carolina Academic Press 2015). 
 
 ## Policies
 
@@ -66,39 +66,41 @@ The Law School honor code applies to all activities related to your law school s
 
 ## Schedule & Assignments 
 
- <strong>Date</strong> | <strong>Topic</strong>  | <strong>Assignment</strong>
+ **Date** | **Topic**  | **Assignment**
 --|---|--
-    | <strong>I: The Legal Profession & Regulation of Lawyers</strong> | 
+    | **I: The Legal Profession & Regulation of Lawyers** | 
  September 4 | Regulatory Institutions | Casebook, Chap. 1, § 1; Giesel, Chap. 1
  September 6 & 9 | Professional Gatekeeping | Casebook, Chap. 1, § 2; Giesel, Chap. 2
     |  | 
-    | <strong>II: Advertising & Solicitation</strong> | 
+    | **II: Advertising & Solicitation** | 
  September 11 | Advertising; Solicitation | Casebook, Chap. 2; Giesel, Chap. 45 & 46 
     |  | 
-    | <strong>III: The Attorney-Client Privilege</strong> | 
+    | **III: The Attorney-Client Privilege** | 
  September 16 | Establishing & Ending an Attorney-Client Relationship | Casebook, Chap. 3, § 1; Giesel, Chap. 4, 11, & 12
  September 18 | Attorney as Agent, Client as Principal | Casebook, Chap. 3, § 2; Giesel, Chap. 8 & 14
  September 23 | Organizational Clients | Casebook, Chap. 3, § 3; Giesel, Chap. 13
  September 25 | Attorney Fees & Client Property | Casebook, Chap. 3, § 4; Giesel, Chap. 9 & 10
     |  | 
-    | <strong>IV: The Duty of Care</strong> | 
+    | **IV: The Duty of Care** | 
  September 30 & October 2 | Competence, Malpractice, & Ineffective Assistance | Casebook, Chap. 4; Giesel, Chap. 5-7, 24
     |  | 
-    | <strong>V: Confidentiality & Privileges</strong> | 
+    | **V: Confidentiality & Privileges** | 
  October 7 & 9 | Duty of Confidentialty | Casebook, Chap. 5, § 1; Giesel, Chap. 15
  October 14 & 16 | Attorney-Client Privilege & Work-Product | Casebook, Chap. 5, § 2; Giesel, Chap. 16
     |  | 
-    | <strong>VI: Conflicts of Interest</strong> | 
+    | **VI: Conflicts of Interest** | 
  October 21 & 23 | Concurrent Client Conflicts | Casebook, Chap. 6, § 1; Giesel, Chap. 17 & 18
  October 28 & 30 | Conflicts Involving the Lawyer's Interests | Casebook, Chap. 6, § 2; Giesel, Chap. 21 
  November 4 & 6| Former Client Conflicts & Imputation | Casebook, Chap. 6, §§ 3 & 4; Giesel, Chap. 19, 20, 22, & 23
     |  | 
-    | <strong>VII: Duties in Litigation</strong> | 
+    | **VII: Duties in Litigation** | 
  November 11 & 13 | Integrity of the Proceedings | Casebook, Chap. 7, § 1; Giesel, Chap. 26-32
  November 18 | Prosecutorial Misconduct | Casebook, Chap. 6, § 2; Giesel, Chap. 33
     |  | 
-    | <strong>VIII: Interactions with Non-Clients</strong> | 
+    | **VIII: Interactions with Non-Clients** | 
  November 20| Truthfulness & Fairness; Dealing with Represented Persons; Dealing with Unrepresented Persons | Casebook, Chap. 7; Giesel, Chap. 35-37
     |  | 
  November 25  | Final Review | 
  TBA | Final Exam | 
+
+##### **Note:** Relevant sections from the Giesel hornbook are listed for each topic. These are optional, but you may find them helpful to get an overview before reading the Casebook assignments. 
