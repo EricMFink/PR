@@ -71,38 +71,40 @@ The Law School [honor code](https://www.elon.edu/u/law/students/honor-code/) app
 | --|---|-- |
 | | | |
 | | **I: The Legal Profession & Regulation of Lawyers** | 
-| September 4 | Regulatory Institutions | Casebook, Chap. 1, § 1; Giesel, Chap. 1 |
-| September 6 & 9 | Professional Gatekeeping | Casebook, Chap. 1, § 2; Giesel, Chap. 2 |
+| September 3 | Regulatory Institutions | Casebook, Chap. 1, § 1; Giesel, Chap. 1 |
+| September 8 | Professional Gatekeeping | Casebook, Chap. 1, § 2; Giesel, Chap. 2 |
 | | | |
 | | **II: Advertising & Solicitation** | |
-| September 11 | Advertising; Solicitation | Casebook, Chap. 2; Giesel, Chap. 45 & 46 |
+| September 10 | Advertising; Solicitation | Casebook, Chap. 2; Giesel, Chap. 45 & 46 |
 | | | |
 | | **III: The Attorney-Client Privilege** | |
-| September 16 | Establishing & Ending an Attorney-Client Relationship | Casebook, Chap. 3, § 1; Giesel, Chap. 4, 11, & 12 |
-| September 18 | Attorney as Agent, Client as Principal | Casebook, Chap. 3, § 2; Giesel, Chap. 8 & 14 |
-| September 23 | Organizational Clients | Casebook, Chap. 3, § 3; Giesel, Chap. 13 |
-| September 25 | Attorney Fees & Client Property | Casebook, Chap. 3, § 4; Giesel, Chap. 9 & 10 |
+| September 15 | Establishing & Ending an Attorney-Client Relationship | Casebook, Chap. 3, § 1; Giesel, Chap. 4, 11, & 12 |
+| September 17 | Attorney as Agent, Client as Principal | Casebook, Chap. 3, § 2; Giesel, Chap. 8 & 14 |
+| September 22 | Organizational Clients | Casebook, Chap. 3, § 3; Giesel, Chap. 13 |
+September 29 | Attorney Fees & Client Property | Casebook, Chap. 3, § 4; Giesel, Chap. 9 & 10 |
 | | | |
 | | **IV: The Duty of Care** | |
-| September 30 & October 2 | Competence, Malpractice, & Ineffective Assistance | Casebook, Chap. 4; Giesel, Chap. 5-7, 24 |
+| October 6 & 8 | Competence, Malpractice, & Ineffective Assistance | Casebook, Chap. 4; Giesel, Chap. 5-7, 24 |
 | | | |
 | | **V: Confidentiality & Privileges** | |
-| October 7 & 9 | Duty of Confidentialty | Casebook, Chap. 5, § 1; Giesel, Chap. 15 |
-| October 14 & 16 | Attorney-Client Privilege & Work-Product | Casebook, Chap. 5, § 2; Giesel, Chap. 16 |
+| October 13 & 15 | Duty of Confidentialty | Casebook, Chap. 5, § 1; Giesel, Chap. 15 |
+| October 20 & 22 | Attorney-Client Privilege & Work-Product | Casebook, Chap. 5, § 2; Giesel, Chap. 16 |
 | | | |
 | | **VI: Conflicts of Interest** | |
-| October 21 & 23 | Concurrent Client Conflicts | Casebook, Chap. 6, § 1; Giesel, Chap. 17 & 18 |
-| October 28 & 30 | Conflicts Involving the Lawyer's Interests | Casebook, Chap. 6, § 2; Giesel, Chap. 21 |
-| November 4 & 6| Former Client Conflicts & Imputation | Casebook, Chap. 6, §§ 3 & 4; Giesel, Chap. 19, 20, 22, & 23 |
+| October 27 & 29 | Current Clients | Casebook, Chap. 6, §§ 1 & 2; Giesel, Chap. 17, 18, 21 |
+| November 3 & 5 | Former Clients & Imputation | Casebook, Chap. 6, §§ 3 & 4; Giesel, Chap. 19, 20, 22, & 23 |
 | | | |
 | | **VII: Duties in Litigation** | |
-| November 11 & 13 | Integrity of the Proceedings | Casebook, Chap. 7, § 1; Giesel, Chap. 26-32 |
-| November 18 | Prosecutorial Misconduct | Casebook, Chap. 6, § 2; Giesel, Chap. 33 |
+| November 10 & 12 | Integrity of the Proceedings | Casebook, Chap. 7, § 1; Giesel, Chap. 26-32 |
+| November 17 | Prosecutorial Misconduct | Casebook, Chap. 6, § 2; Giesel, Chap. 33 |
 | | | |
 | | **VIII: Interactions with Non-Clients** | |
-| November 20| Truthfulness & Fairness; Dealing with Represented Persons; Dealing with Unrepresented Persons | Casebook, Chap. 7; Giesel, Chap. 35-37 |
+| November 19 | Truthfulness & Fairness | Casebook, Chap. 7, § 1; Giesel, Chap. 35 |
+| November 24 | Dealing with Represented and Unrepresented Persons | Casebook, Chap. 7, §§ 2 & 3; Giesel, Chap. 36-37 |
 | | | |
-| November 25 | Final Review | |
+| TBA | Final Review | |
 | TBA | Final Exam | |
 
 ##### **Note:** Relevant sections from the Giesel hornbook are listed for each topic. These are optional, but you may find them helpful to get an overview before reading the Casebook assignments. 
+
+##### This class will not meet on September 24. 
