@@ -72,7 +72,7 @@ The Law School [honor code](https://www.elon.edu/u/law/students/honor-code/) app
 | --|---|-- |
 | | | |
 | | **1. The Legal Profession & Regulation of Lawyers** | 
-| September 3 | Regulatory Institutions | Casebook, Chap. 1, § 1; Giesel, Chap. 1^[Relevant portions of the Giesel hornbook are listed for each topic. These are optional, but you may find them helpful to get an overview before reading the Casebook assignments.] |
+| September 3 | Regulatory Institutions | Casebook, Chap. 1, § 1; Giesel, Chap. 1 |
 | September 8 | Professional Gatekeeping | Casebook, Chap. 1, § 2; Giesel, Chap. 2 |
 | | | |
 | | **2. Advertising & Solicitation** | |
@@ -105,4 +105,7 @@ September 29 | Attorney Fees & Client Property | Casebook, Chap. 3, § 4; Giesel
 | | | |
 | TBA | Final Exam | |
 
-_Note:_ This class will not meet on September 24. 
+_Notes:_
+
+- Relevant portions of the Giesel hornbook are listed for each topic. These are optional, but you may find them helpful to get an overview before reading the Casebook assignments.
+- This class will not meet on September 24. 
