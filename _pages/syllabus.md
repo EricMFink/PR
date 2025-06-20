@@ -105,6 +105,6 @@ September 29 | Attorney Fees & Client Property | Casebook, Chap. 3, § 4; Giesel
 | TBA | Final Review | |
 | TBA | Final Exam | |
 
-##### **Note:** Relevant sections from the Giesel hornbook are listed for each topic. These are optional, but you may find them helpful to get an overview before reading the Casebook assignments. 
+##### Relevant sections from the Giesel hornbook are listed for each topic. These are optional, but you may find them helpful to get an overview before reading the Casebook assignments. 
 
 ##### This class will not meet on September 24. 
