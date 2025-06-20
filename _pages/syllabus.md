@@ -4,6 +4,7 @@ title: Syllabus
 permalink: /syllabus/
 
 course: Professional Responsibility
+repo: PR
 author: Eric M. Fink
 affiliation: Elon Law School
 email: efink@elon.edu
@@ -33,7 +34,7 @@ This course is intended to acquaint students with the organization and regulatio
 
 ### Required 
 
-[Professional Responsibility: An Open-Source Casebook]({{ site.baseurl }}/casebook) (v.2.1 2023). Available on the course website: [emfink.net/PR]({{ site.baseurl }}). The website also has review questions and links to other resources. 
+[Professional Responsibility: An Open-Source Casebook](https://emfink.net/PR/casebook) (v.2.1 2023). Available on the course website.
 
 ### Suggested 
 
