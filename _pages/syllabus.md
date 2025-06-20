@@ -44,7 +44,7 @@ Grace M. Giesel, [Mastering Professional Responsibility](https://cap-press.com/b
 
 ### Grading
 
-Your grade will be based on a final examination consisting of multiple choice questions, similar in format to the Multistate Professional Responsibility Examination (MPRE). You will receive a copy of the Rules of Professional Conduct to use during the exam, which will otherwise be closed-book/closed-notes. The exam will take place during the Fall Term exam period (Dec. 2-9, date and time TBA)
+Your grade will be based on a final examination consisting of multiple choice questions, similar in format to the [Multistate Professional Responsibility Examination (MPRE)](https://www.ncbex.org/exams/mpre). You will receive a copy of the Rules of Professional Conduct to use during the exam, which will otherwise be closed-book/closed-notes. The exam will take place during the Fall exam period (date and time TBA)
 
 ### Attendance
 
@@ -72,7 +72,7 @@ The Law School [honor code](https://www.elon.edu/u/law/students/honor-code/) app
 | --|---|-- |
 | | | |
 | | **1. The Legal Profession & Regulation of Lawyers** | 
-| September 3 | Regulatory Institutions | Casebook, Chap. 1, § 1; Giesel, Chap. 1 |
+| September 3 | Regulatory Institutions | Casebook, Chap. 1, § 1; Giesel, Chap. 1[^giesel1] |
 | September 8 | Professional Gatekeeping | Casebook, Chap. 1, § 2; Giesel, Chap. 2 |
 | | | |
 | | **2. Advertising & Solicitation** | |
@@ -103,9 +103,8 @@ September 29 | Attorney Fees & Client Property | Casebook, Chap. 3, § 4; Giesel
 | November 19 | Truthfulness & Fairness | Casebook, Chap. 7, § 1; Giesel, Chap. 35 |
 | November 24 | Dealing with Represented and Unrepresented Persons | Casebook, Chap. 7, §§ 2 & 3; Giesel, Chap. 36-37 |
 | | | |
-| TBA | Final Review | |
 | TBA | Final Exam | |
 
-##### Relevant sections from the Giesel hornbook are listed for each topic. These are optional, but you may find them helpful to get an overview before reading the Casebook assignments. 
+[^giesel1]: Relevant portions of the Giesel hornbook are listed for each topic. These are optional, but you may find them helpful to get an overview before reading the Casebook assignments.
 
-##### This class will not meet on September 24. 
+_Note:_ This class will not meet on September 24. 
