@@ -34,7 +34,7 @@ This course is intended to acquaint students with the organization and regulatio
 
 ### Required 
 
-[Professional Responsibility: An Open-Source Casebook](https://emfink.net/PR/casebook) (v.2.1 2023). Available on the course website.
+[Professional Responsibility: An Open-Source Casebook](https://emfink.net/PR/casebook) (v.4.0 2025). Available on the course website.
 
 ### Suggested 
 
@@ -64,44 +64,42 @@ For disability accommodation requests, contact the [Elon Disability Services Off
 
 The Law School [honor code](https://www.elon.edu/u/law/students/honor-code/) applies to all activities related to your law school study, including conduct during class and examinations.
 
-\newpage
-
 ## Schedule & Assignments 
 
 | **Date** | **Topic** | **Assignment** |
 | --|---|-- |
 | | | |
-| | **1. The Legal Profession & Regulation of Lawyers** | 
-| September 3 | Regulatory Institutions | Casebook, Chap. 1, § 1; Giesel, Chap. 1 |
-| September 8 | Professional Gatekeeping | Casebook, Chap. 1, § 2; Giesel, Chap. 2 |
+| | **1. The Legal Profession & Regulation of Lawyers** | Giesel, Chap. 1 & 2 |
+| September 3 | Regulatory Institutions | Casebook, Chap. 1, § 1 |
+| September 8 | Professional Gatekeeping | Casebook, Chap. 1, § 2 |
 | | | |
-| | **2. Advertising & Solicitation** | |
-| September 10 | Advertising; Solicitation | Casebook, Chap. 2; Giesel, Chap. 45 & 46 |
+| | **2. Advertising & Solicitation** | Giesel, Chap. 45 & 46 |
+| September 10 | Advertising; Solicitation | Casebook, Chap. 2 |
+|\pagebreak | | |
+| | **3. The Attorney-Client Relationship** | Giesel Chap. 4 & 8-14 |
+| September 15 | Establishing & Ending an Attorney-Client Relationship | Casebook, Chap. 3, § 1 |
+| September 17 | Attorney as Agent, Client as Principal | Casebook, Chap. 3, § 2 |
+| September 22 | Organizational Clients | Casebook, Chap. 3, § 3 |
+September 29 | Attorney Fees & Client Property | Casebook, Chap. 3, § 4 |
 | | | |
-| | **3. The Attorney-Client Privilege** | |
-| September 15 | Establishing & Ending an Attorney-Client Relationship | Casebook, Chap. 3, § 1; Giesel, Chap. 4, 11, & 12 |
-| September 17 | Attorney as Agent, Client as Principal | Casebook, Chap. 3, § 2; Giesel, Chap. 8 & 14 |
-| September 22 | Organizational Clients | Casebook, Chap. 3, § 3; Giesel, Chap. 13 |
-September 29 | Attorney Fees & Client Property | Casebook, Chap. 3, § 4; Giesel, Chap. 9 & 10 |
+| | **4. The Duty of Care** | Giesel, Chap. 5-7 & 24 |
+| October 6 & 8 | Competence, Malpractice, & Ineffective Assistance | Casebook, Chap. 4 |
 | | | |
-| | **4. The Duty of Care** | |
-| October 6 & 8 | Competence, Malpractice, & Ineffective Assistance | Casebook, Chap. 4; Giesel, Chap. 5-7, 24 |
+| | **5. Confidentiality & Privileges** | Giesel, Chap. 15-16 |
+| October 13 & 15 | Duty of Confidentialty | Casebook, Chap. 5, § 1 |
+| October 20 & 22 | Attorney-Client Privilege & Work-Product | Casebook, Chap. 5, § 2 |
 | | | |
-| | **5. Confidentiality & Privileges** | |
-| October 13 & 15 | Duty of Confidentialty | Casebook, Chap. 5, § 1; Giesel, Chap. 15 |
-| October 20 & 22 | Attorney-Client Privilege & Work-Product | Casebook, Chap. 5, § 2; Giesel, Chap. 16 |
+| | **6. Conflicts of Interest** | Giesel, Chap. 17-23 |
+| October 27 & 29 | Current Clients | Casebook, Chap. 6, § 1 & 2 |
+| November 3 & 5 | Former Clients & Imputation | Casebook, Chap. 6, § 3 & 4 |
 | | | |
-| | **6. Conflicts of Interest** | |
-| October 27 & 29 | Current Clients | Casebook, Chap. 6, §§ 1 & 2; Giesel, Chap. 17, 18, 21 |
-| November 3 & 5 | Former Clients & Imputation | Casebook, Chap. 6, §§ 3 & 4; Giesel, Chap. 19, 20, 22, & 23 |
+| | **7. Duties in Litigation** | Giesel, Chap. 26-33 |
+| November 10 & 12 | Integrity of the Proceedings | Casebook, Chap. 7, § 1 |
+| November 17 | Prosecutorial Misconduct | Casebook, Chap. 7, § 2 |
 | | | |
-| | **7. Duties in Litigation** | |
-| November 10 & 12 | Integrity of the Proceedings | Casebook, Chap. 7, § 1; Giesel, Chap. 26-32 |
-| November 17 | Prosecutorial Misconduct | Casebook, Chap. 6, § 2; Giesel, Chap. 33 |
-| | | |
-| | **8. Interactions with Non-Clients** | |
-| November 19 | Truthfulness & Fairness | Casebook, Chap. 7, § 1; Giesel, Chap. 35 |
-| November 24 | Dealing with Represented and Unrepresented Persons | Casebook, Chap. 7, §§ 2 & 3; Giesel, Chap. 36-37 |
+| | **8. Interactions with Non-Clients** | Giesel, Chap. 35-37 |
+| November 19 | Truthfulness & Fairness | Casebook, Chap. 8, § 1 |
+| November 24 | Dealing with Represented and Unrepresented Persons | Casebook, Chap. 8, § 2 & 3 |
 | | | |
 | TBA | Final Exam | |
 
