@@ -64,9 +64,13 @@ For disability accommodation requests, contact the [Elon Disability Services Off
 
 The Law School [honor code](https://www.elon.edu/u/law/students/honor-code/) applies to all activities related to your law school study, including conduct during class and examinations.
 
-## Schedule & Assignments 
+\newpage
 
-| **Date** | **Topic** | **Assignment** |
+## Schedule & Reading Assignments
+
+> The Giesel hornbook readings are optional. You may find them helpful to get an overview before reading the Casebook assignments.
+
+| **Date** | **Topic** | **Reading** |
 | --|---|-- |
 | | | |
 | | **1. The Legal Profession & Regulation of Lawyers** | Giesel, Chap. 1 & 2 |
@@ -103,7 +107,4 @@ September 29 | Attorney Fees & Client Property | Casebook, Chap. 3, § 4 |
 | | | |
 | Dec. 8 | Final Exam | |
 
-_Notes:_
-
-- Relevant portions of the Giesel hornbook are listed for each topic. These are optional, but you may find them helpful to get an overview before reading the Casebook assignments.
-- This class will not meet on September 24. 
+##### Note: This class will not meet on September 24. 
