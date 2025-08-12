@@ -75,7 +75,7 @@ The Law School [honor code](https://www.elon.edu/u/law/students/honor-code/) app
 | | | |
 | | **2. Advertising & Solicitation** | Giesel, Chap. 45 & 46 |
 | September 10 | Advertising; Solicitation | Casebook, Chap. 2 |
-|\pagebreak | | |
+| | | |
 | | **3. The Attorney-Client Relationship** | Giesel Chap. 4 & 8-14 |
 | September 15 | Establishing & Ending an Attorney-Client Relationship | Casebook, Chap. 3, § 1 |
 | September 17 | Attorney as Agent, Client as Principal | Casebook, Chap. 3, § 2 |
@@ -101,7 +101,7 @@ September 29 | Attorney Fees & Client Property | Casebook, Chap. 3, § 4 |
 | November 19 | Truthfulness & Fairness | Casebook, Chap. 8, § 1 |
 | November 24 | Dealing with Represented and Unrepresented Persons | Casebook, Chap. 8, § 2 & 3 |
 | | | |
-| TBA | Final Exam | |
+| Dec. 8 | Final Exam | |
 
 _Notes:_
 
