@@ -1,21 +1,6 @@
 ---
 toc: false
 ---
-
-<style>
-  body {
-  background-image: url("img/cover.png");
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-  
-</style>
-
-
-::: {.content-hidden unless-format="revealjs"}
-# Home {.unnumbered}
-:::
-
 ::: {.home}
 
 ## Professional Responsibility {.unnumbered}
@@ -25,5 +10,7 @@ toc: false
 #### Prof. Fink 
 
 ##### Fall 2025
+
+![](img/cover.png)
 
 :::

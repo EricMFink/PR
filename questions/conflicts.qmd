@@ -1,6 +1,6 @@
 # Conflicts  {.unnumbered}
 
-## Concurrent Clients
+## Concurrent Clients {.unnumbered}
 
 ### Question 1
 
@@ -74,7 +74,6 @@ Assess the relevance of these factors in determining the risk that Stella's acti
 
 - The fact that, when Stella agreed to represent the students, she explained to them that she was arguing against the availability of punitive damages in the Chix case.
 
-
 ### Question 6
 
 Valladia, Inc., is a small, closely held corporation. Valladia and its president, Alan, are defendants in a civil action brought by a state attorney general who accuses both of them of fraud, based on the same facts and the same law. Both of them desire to be represented by Martha, an attorney. Martha will bill each defendant for services provided on behalf of that defendant. Martha reasonably believes that she could provide competent and diligent representation to both of them. Martha advises the board of directors of Valladia of all the foreseeable risks of the corporation being represented by the same attorney who is representing Alan, and she advises Alan of all of the foreseeable risks of being represented by the lawyer who is representing the board. Valladia's board of directors votes to approve the representation, and Alan approves as well. Martha writes a letter to the corporation and to Alan noting that both have given their informed consent to her representation of both parties. May Martha represent both of them?
@@ -87,7 +86,7 @@ C) No, because a single lawyer may not represent two co-defendants in civil liti
 
 D) No, because even though conflicts are not foreseeable at present, they could arise in the future.
 
-## Former Clients
+## Former Clients {.unnumbered}
 
 ### Question 1
 
@@ -167,7 +166,7 @@ C) No, because DBC and Sprinkles are economic competitors.
 
 D) No, because DBC's interests are materially adverse to Sprinkles'.
 
-## Particular Practice Settings
+## Particular Practice Settings {.unnumbered}
 
 ### Question 1
 
@@ -249,7 +248,7 @@ C) No, because he is a friend of David and therefore there is at least the appea
 
 D) No, because Nathan refuses to divest himself of stock in the company.
 
-## Conflicts Based on Lawyers' Interests
+## Lawyers' Interests {.unnumbered}
 
 ### Question 1
 
@@ -337,7 +336,7 @@ C) No, because the matter is not a contingent fee case.
 
 D) No, because Johann explained the effect of the arbitration term to Carly.
 
-## Government Lawyers
+## Government Lawyers {.unnumbered}
 
 ### Question 1
 
@@ -425,7 +424,7 @@ C) No, because it was not her fault that the judge picked up the telephone.
 
 D) No, because she only discussed a procedural issue with the judge.
 
-## Imputed Conflicts 
+## Imputed Conflicts {.unnumbered}
 
 ### Question 1
 
