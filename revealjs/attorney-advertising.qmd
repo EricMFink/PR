@@ -37,7 +37,7 @@ format:
 
 ## Tell Us How You Really Feel  {.unnumbered}
 
-{{< video https:/drive.google.com/file/d/1GVdeU3q6tJC7Pzzm3VEdDXIX96YZHMoR/preview width="640" height="480" >}}
+{{< video LawyerAds/divorce-ez.mp4 width="640" height="480" >}}
 
 ---
 
@@ -51,19 +51,19 @@ format:
 
 ## What's in a Name? {.unnumbered}
 
-{{< video https:/drive.google.com/file/d/1xgtHU7ljRbs9MayzFSyR2X-61ozWknEZ/preview width="640" height="480" >}}
+{{< video LawyerAds/dick-law-firm.mp4 width="640" height="480" >}}
 
 ## Don't Mess with Texas {.unnumbered}
 
-{{< video https:/drive.google.com/file/d/1yCRmeOQ4yf-A5vW9peO_56yUbL-nHnol/preview width="640" height="480" >}}
+{{< video LawyerAds/texas-hammer.mp4 width="640" height="480" >}}
 
 ## Machete {.unnumbered}
 
-{{< video https:/drive.google.com/file/d/1rXihzAn4AuhKlmAr9UHqTz_CO_RqP94u/preview width="640" height="480" >}}
+{{< video LawyerAds/machete.mp4 width="640" height="480" >}}
 
 ## Thanks Dan! {.unnumbered}
 
-{{< video https:/drive.google.com/file/d/1_AR3YmY87P-bB9nojuK00h9nypZkukfn/preview width="640" height="480" >}}
+{{< video LawyerAds/thanks-dan.mp4 width="640" height="480" >}}
 
 ---
 
