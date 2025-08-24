@@ -1,0 +1,11 @@
+
+::: {.titlepage}
+
+# Professional Responsibility  {.unnumbered}
+## An Open-Source Casebook {.unnumbered}
+### Eric M. Fink  {.unnumbered}
+#### Elon Law School  {.unnumbered}
+#### Greensboro, North Carolina {.unnumbered}
+#### Fall 2025 {.unnumbered .unlisted}
+
+:::

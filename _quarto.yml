@@ -1,0 +1,92 @@
+project:
+  type: website
+
+website:
+  title: "QuartoTest"
+  page-navigation: true
+  navbar:
+    tools:
+      - icon: envelope
+        menu:
+          - text: Email Prof. Fink
+            href: mailto:efink@elon.edu
+      - icon: calendar
+        menu:
+          - text: Make an appointment
+            href: https://calendly.com/emfink/
+      - icon: file-pdf
+        menu: 
+          - text: "Casebook PDF"
+            href: PRCasebook.pdf
+      - icon: github
+        menu:
+          - text: Report an issue
+            href:  https://github.com/EricMFink/PR/issues/new
+          - text: View source code
+            href:  https://github.com/EricMFink/PR
+    left:
+      - href: index.qmd
+        text: Home
+      - href: syllabus.qmd
+        text: Syllabus
+      - sidebar:casebook
+  sidebar:
+    - id: casebook
+      title: "Casebook"
+      style: "docked"
+      background: light
+      collapse-level: 1
+      contents: 
+        - text: Casebook
+          href: casebook.qmd
+        - section: "Front Matter"
+          contents:
+          - text: Frontispiece
+            href: 01-Front/frontispiece.qmd
+          - text: Title Page
+            href: 01-Front/title-page.qmd
+          - text: License
+            href: 01-Front/license.qmd
+          - title: Epigraph
+            href: 01-Front/epigraph.qmd
+          - 01-Front/preface.qmd
+        - section: "Chapters"
+          contents:
+          - 02-Main/chap1.qmd
+          - 02-Main/chap2.qmd
+          - 02-Main/chap3.qmd
+          - 02-Main/chap4.qmd
+          - 02-Main/chap5.qmd
+          - 02-Main/chap6.qmd
+          - 02-Main/chap7.qmd
+          - 02-Main/chap8.qmd
+        - section: "Back Matter"
+          contents:
+          - 03-Back/ack.qmd
+          - 03-Back/colophon.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    title-block-style: none
+    reference-location: margin
+    citation-location: margin
+    toc: true
+    number-sections: true
+    number-depth: 2
+    toc-location: left
+    toc-depth: 3
+    include-in-header:
+    - text: |
+        <link rel="stylesheet" href="https://use.typekit.net/viv2jun.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,200..900;1,7..72,200..900&family=Noto+Sans+JP:wght@100..900&display=swap" rel="stylesheet">
+        <link rel="shortcut icon" href="https://www.emfink.net/assets/img/favicon.ico">
+        <meta name="robots" content="noarchive">
+
+
+

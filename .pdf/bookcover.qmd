@@ -1,0 +1,42 @@
+---
+title: Professional Responsibility
+subtitle: An Open-Source Casebook
+author: Eric M. Fink
+affiliation: Elon Law School
+pub-date: "August 2025"
+
+format:
+  pdf: 
+    documentclass: scrarticle
+    classoption: [letterpaper, 14pt, DIV=10, oneside]
+    include-in-header:
+      - "partials/in-header.tex"
+    toc: false
+    number-sections: false
+    output-file: bookcover
+
+---
+
+\clearpage
+\thispagestyle{empty}
+
+\begin{flushleft}
+
+\vspace*{\fill}
+
+{\sffamily\bfseries\color{Maroon}\Huge{Professional Responsibility}} 
+
+\vspace{3mm}
+
+{\sffamily\color{Maroon}\Large{An Open-Source Casebook}} 
+
+\vspace{6mm}
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=1\textwidth]{../img/cover.png}
+\end{figure}
+
+\end{flushleft}
+
+\clearpage

@@ -1,0 +1,132 @@
+%\usepackage[left=0.7in,marginparwidth=2in,textwidth=5.0in,marginparsep=0.3in]{geometry}
+
+\usepackage{scrlayer-scrpage}
+\usepackage{needspace}
+\usepackage[]{titlesec}
+\usepackage[]{ccicons}
+\usepackage{fontawesome5}
+\usepackage{marginnote}
+\usepackage{sidenotes}
+\usepackage{booktabs}
+\usepackage[]{pdfpages}
+
+%\usepackage[defaultlines=2,all]{nowidow}
+%\usepackage{ragged2e}
+\raggedbottom
+
+\usepackage{xcolor}
+\definecolor{OffBlack}{HTML}{191919}
+\definecolor{Maroon}{HTML}{800000}
+\definecolor{HopkinsBlue}{HTML}{002D72}
+\definecolor{RacingGreen}{HTML}{004225}
+
+\usepackage{fontspec}
+%\setmainfont{Literata}[Mapping=tex-text]
+%\setsansfont{Adelle Sans}[Mapping=tex-text]
+\setmainfont{Literata-Light.ttf}[
+	Path           = fonts/ ,
+    BoldFont       = Literata-Regular.ttf ,
+    ItalicFont     = Literata-LightItalic.ttf ,
+    BoldItalicFont = Literata-Italic.ttf ]
+\setsansfont{adelle-sans-light.otf}[
+	Path           = fonts/ ,
+    BoldFont       = adelle-sans-semibold.otf ,
+    ItalicFont     = adelle-sans-light-italic.otf ,
+    BoldItalicFont = adelle-sans-italic.otf ]
+\setmonofont[Scale=0.90]{LFT Etica Mono}
+
+% font style & text alignment for margin notes
+\renewcommand{\marginfont}{\color{RacingGreen}\sffamily\scriptsize}
+\renewcommand*{\raggedleftmarginnote}{\raggedright}
+
+% smaller sizes for footnotes & captions
+\renewcommand{\footnotesize}{\scriptsize}
+\renewcommand{\captionsize}{\small\itshape}
+
+% smaller font size, more space between rows, for tables 
+\newcommand{\tablefont}{\footnotesize} 
+\AtBeginEnvironment{tabular}{\tablefont}
+\AtBeginEnvironment{tabular*}{\tablefont} 
+\AtBeginEnvironment{longtable}{\tablefont}
+\AtBeginEnvironment{longtable*}{\tablefont} 
+\renewcommand{\arraystretch}{2}
+
+% no label for unordered lists; needed to use ul for legal code; use Unicode Character “•” (U+2022) for bullet
+\usepackage{enumitem}
+\setlist[itemize]{label={}}
+\renewcommand{\labelitemi}{}
+
+%=== Chapter & Section Headings ===
+\titlespacing*{\chapter}{0em}{50mm}{0mm}
+\titlespacing*{\section}{0mm}{0mm}{3mm}
+\titlespacing*{\subsection}{0mm}{6mm}{0mm}
+\titlespacing*{\subsubsection}{0mm}{3mm}{0mm}
+\titlespacing*{\paragraph}{0mm}{3mm}{0mm}
+
+\titleformat{\chapter}
+  [block]
+  {\raggedright\sffamily\huge\color{Maroon}}
+  {Chapter \thechapter ~~}
+  {0em}
+  {}
+  []
+
+\titleformat{\section}
+  [block]
+  {\clearpage\raggedright\rmfamily\LARGE\color{Maroon}}
+  {\thesection ~~}
+  {0em}
+  {}
+  []
+
+% Case, statute, rule, etc. title
+\titleformat{\subsection}
+  [block]
+  {\needspace{9\baselineskip}\raggedright\rmfamily\Large\color{Maroon}}
+  {\thesubsection ~~}
+  {0em}
+  {}
+  [\vspace{-1.3em}\textcolor{Maroon}{\rule{\textwidth}{.5pt}}]
+
+% Case, etc. first heading
+\titleformat{\subsubsection}
+  [block]
+  {\needspace{3\baselineskip}\raggedright\rmfamily\large\bfseries}
+  {\thesubsubsection ~~}
+  {0em}
+  {}
+  []
+
+% Case, etc. second heading
+\titleformat{\paragraph}
+  [block]
+  {\needspace{3\baselineskip}\raggedright\rmfamily\large\itshape}
+  {\theparagraph}
+  {0em}
+  {}
+  []
+
+%\graphicspath{{../img/}}
+\renewcommand*{\figureformat}{}
+\renewcommand*{\captionformat}{}
+
+\newcommand{\openepigraph}[3]{ 
+{\noindent{\color{Maroon}{\Large\faQuoteLeft}}\hspace{.5em}\rmfamily\normalsize
+{\itshape{#1}}
+\begin{flushright}\noindent{\color{Maroon}{\faPenNib}} ~{#2}, {\itshape{#3}} \end{flushright}}
+}
+
+% set margin and font for quote
+%\renewenvironment{quote}{
+%  \list{}{\leftmargin=3.5cm\topsep=0pt}
+%  \item\relax\small\itshape
+%}
+%{\endlist}
+
+\newcommand{\monthyear}{%
+  \ifcase\month\or January\or February\or March\or April\or May\or June\or
+  July\or August\or September\or October\or November\or
+  December\fi\space\number\year
+}
+
+\newcommand{\blankpage}{\newpage\hbox{}\thispagestyle{empty}\newpage}
