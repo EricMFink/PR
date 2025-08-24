@@ -37,6 +37,38 @@ website:
         text: Syllabus
       - href: links.qmd
         text: Links
+      - section: "Discussion Questions"
+        contents: 
+          - text: Bar Admission & Discipline
+            href: questions/admission-discipline.qmd
+          - text: Law Firms 
+            href: questions/firms.qmd
+          - text: Attorney-Client Relationship
+            href: questions/attorney-client.qmd
+          - text: Attorney Fees & Client Property
+            href: questions/fees.qmd
+          - text: Competence, Malpractice, & Ineffective Assistance
+            href: questions/competence.qmd
+          - text: Confidentiality & Privileges
+            href: questions/confidentiality.qmd
+          - text: Conflicts of Interes
+            href: questions/conflicts.qmd
+          - text: Duties in Litigation
+            href: questions/litigation.qmd
+          - text: Dealings with Non-Clients
+            href: questions/nonclients.qmd
+      - section: Images & Videos
+        contents: 
+          - text: Attorney Advertising 
+            href: visuals/attorney-advertising.qmd
+          - text: Freddy Reidenschneider
+            href: visuals/freddy-reidenschneider.qmd
+          - text: It Stinks
+            href: visuals/it-stinks.qmd
+          - text: Reasonable Doubt
+            href: visuals/reasonable-doubt.qmd
+          - text: Bookstore
+            href: visuals/bookstore.qmd
       - section: "Casebook"
         contents: 
           - section: Front Matter
