@@ -2,9 +2,14 @@ project:
   type: website
 
 website:
-  title: "QuartoTest"
+  title: "Professional Responsibility"
   page-navigation: true
-  navbar:
+  page-footer:
+      center: 
+        - text: "Last updated: {{< now >}}"
+  sidebar:
+    style: "floating"
+    search: true
     tools:
       - icon: envelope
         menu:
@@ -24,46 +29,43 @@ website:
             href:  https://github.com/EricMFink/PR/issues/new
           - text: View source code
             href:  https://github.com/EricMFink/PR
-    left:
+    collapse-level: 1
+    contents: 
       - href: index.qmd
         text: Home
       - href: syllabus.qmd
         text: Syllabus
-      - sidebar:casebook
-  sidebar:
-    - id: casebook
-      title: "Casebook"
-      style: "docked"
-      background: light
-      collapse-level: 1
-      contents: 
-        - text: Casebook
-          href: casebook.qmd
-        - section: "Front Matter"
-          contents:
-          - text: Frontispiece
-            href: 01-Front/frontispiece.qmd
-          - text: Title Page
-            href: 01-Front/title-page.qmd
-          - text: License
-            href: 01-Front/license.qmd
-          - title: Epigraph
-            href: 01-Front/epigraph.qmd
-          - 01-Front/preface.qmd
-        - section: "Chapters"
-          contents:
-          - 02-Main/chap1.qmd
-          - 02-Main/chap2.qmd
-          - 02-Main/chap3.qmd
-          - 02-Main/chap4.qmd
-          - 02-Main/chap5.qmd
-          - 02-Main/chap6.qmd
-          - 02-Main/chap7.qmd
-          - 02-Main/chap8.qmd
-        - section: "Back Matter"
-          contents:
-          - 03-Back/ack.qmd
-          - 03-Back/colophon.qmd
+      - href: links.qmd
+        text: Links
+      - section: "Casebook"
+        contents: 
+          - section: Front Matter
+            contents:
+            - text: Cover
+              href: 01-Front/cover.qmd
+            - text: Frontispiece
+              href: 01-Front/frontispiece.qmd
+            - text: Title Page
+              href: 01-Front/title-page.qmd
+            - text: License
+              href: 01-Front/license.qmd
+            - text: Epigraph
+              href: 01-Front/epigraph.qmd
+            - 01-Front/preface.qmd
+          - section: "Chapters"
+            contents:
+            - 02-Main/chap1.qmd
+            - 02-Main/chap2.qmd
+            - 02-Main/chap3.qmd
+            - 02-Main/chap4.qmd
+            - 02-Main/chap5.qmd
+            - 02-Main/chap6.qmd
+            - 02-Main/chap7.qmd
+            - 02-Main/chap8.qmd
+          - section: "Back Matter"
+            contents:
+            - 03-Back/ack.qmd
+            - 03-Back/colophon.qmd
 
 format:
   html:
