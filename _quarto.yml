@@ -57,18 +57,18 @@ website:
             href: questions/litigation.qmd
           - text: Dealings with Non-Clients
             href: questions/nonclients.qmd
-      - section: Images & Videos
+      - section: Presentations & Videos
         contents: 
           - text: Attorney Advertising 
-            href: visuals/attorney-advertising.qmd
+            href: "https://www.emfink.net/Presentations/AttorneyAdvertising.reveal.js.html"
           - text: Freddy Reidenschneider
-            href: visuals/freddy-reidenschneider.qmd
+            href: videos/freddy-reidenschneider.qmd
           - text: It Stinks
-            href: visuals/it-stinks.qmd
+            href: videos/it-stinks.qmd
           - text: Reasonable Doubt
-            href: visuals/reasonable-doubt.qmd
+            href: videos/reasonable-doubt.qmd
           - text: Bookstore
-            href: visuals/bookstore.qmd
+            href: videos/bookstore.qmd
       - section: "Casebook"
         contents: 
           - section: Front Matter
