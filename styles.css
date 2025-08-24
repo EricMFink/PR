@@ -145,7 +145,7 @@ ul {
 
 .home {
   font-family: "Literata",serif;
-	margin: 0 0 0 0;
+  margin: 0 0 0 0;
 	display: block;
 }
 .home h1 {
@@ -157,11 +157,12 @@ ul {
 .home h2 {
   font-family: "Literata",serif;
   color: #800000;
-  font-size: 1.7rem;
+  font-size: 2rem;
   font-style: normal;
   font-weight: 400;
   line-height: 1;
-  margin: 0 0 2rem 0;
+  margin: 0 0 1.5rem 0;
+  padding: 0 0 0 0;
 }
 .home h3 {
   font-family: "Literata", serif;
@@ -169,23 +170,36 @@ ul {
   font-size: 1.2rem;
   font-weight: 300;
   font-style: normal;
-  margin: 0 0 1rem 0;
+  margin: 0 0 .5rem 0;
+  padding: 0 0 0 0;
   border: none;
+}
+.home section:target::before {
+	content: "";
+	display: none;
+	height: 0;
+	margin: 0 0 0 0;
 }
 .home h4 {
   font-family: "Literata", serif;
   color: #191919;
-  font-size: 1rem;
+  font-size: 1.2rem;
   font-weight: 300;
   font-style: normal;
   margin: 0 0 .5rem 0;
+  padding: 0 0 0 0;
 }
 .home h5 {
   font-family: "Literata", serif;
-  font-size: 1rem;
+  font-size: 1.2rem;
   font-weight: 300;
   font-style: normal;
   margin:  0 0 0.2rem 0;
+  padding: 0 0 0 0;
+}
+
+.home img {
+  margin: 2rem 0 0 0;
 }
 
 /* Syllabus */
