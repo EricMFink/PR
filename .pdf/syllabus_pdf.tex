@@ -1,0 +1,450 @@
+\documentclass[11pt,letterpaper,twoside]{article}
+\usepackage[hmarginratio=1:1,top=1in,bottom=.75in,left=1.5in,right=1.5in]{geometry}
+
+\usepackage{etoolbox}
+\usepackage[]{ccicons}
+\usepackage{fontawesome5}
+\usepackage{marginnote}
+\usepackage{sidenotes}
+
+\usepackage{needspace}
+\usepackage[defaultlines=3,all]{nowidow}
+\raggedbottom
+
+\usepackage{ragged2e}
+\setlength{\RaggedRightParindent}{0em}
+\RaggedRight
+
+\usepackage[singlespacing]{setspace}
+
+\usepackage[none]{hyphenat}
+
+\usepackage{parskip}
+\setlength{\parindent}{0em}
+\setlength{\parskip}{0.6em plus 0.2em minus 0.1em}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+
+% ==========================
+% = Language & Date Format =
+% ==========================
+
+\usepackage[english]{babel}  
+%\usepackage{datetime}
+%\newdateformat{mydate}{\THEDAY-\monthname-\THEYEAR}
+\usepackage{currfile}
+
+% ==================
+% = Colors & Fonts =
+% ==================
+
+\usepackage[table]{xcolor}
+\definecolor{OffBlack}{HTML}{191919}
+\definecolor{Maroon}{HTML}{800000}
+\definecolor{TarHeelBlue}{HTML}{4b9cd3}
+\definecolor{HopkinsBlue}{HTML}{002D72}
+\definecolor{RacingGreen}{HTML}{004225}
+
+\usepackage{fontspec}
+\setmainfont{Athelas}[Mapping=tex-text]
+\setsansfont{Adelle Sans}[Mapping=tex-text]
+\setmonofont[Scale=0.90]{LFT Etica Mono}
+
+% font style for margin notes
+%\renewcommand{\marginfont}{\color{RacingGreen}\sffamily\scriptsize}
+
+% smaller sizes for footnotes & captions
+%\renewcommand{\footnotesize}{\scriptsize}
+%\renewcommand{\captionsize}{\small\itshape}
+
+% =======================
+% = Headers and Footers = 
+% =======================
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyfoot{}
+\fancyfoot[C]{}
+\fancyfoot[R]{\tiny\texttt{ Revised: \today}}
+\fancyfoot[L]{}
+\fancyhead[CE]{\textsc{Professional Responsibility}}
+\fancyhead[CO]{\textsc{Elon University School of Law}}
+\fancyhead[LE]{\textsc{\thepage}}
+\fancyhead[LO]{\textsc{Fall 2025}}
+\fancyhead[RE]{\textsc{Prof. Fink}}
+\fancyhead[RO]{\textsc{\thepage}}
+
+% =========
+% = Lists =
+% =========
+
+\usepackage{enumitem}
+\setlistdepth{6}
+\setlist[itemize]{leftmargin={1.5em}}
+\providecommand{\tightlist}{%
+\setlength{\itemsep}{0em}\setlength{\parskip}{0em}\setlength{\itemindent}{0em}}
+
+% ============
+% = Headings =
+% ============
+
+\usepackage[compact]{titlesec}
+% \titlespacing*{<command>}{<left>}{<before-sep>}{<after-sep>}
+\titlespacing*{\section}{0em}{0em}{.5em}
+\titlespacing*{\subsection}{0em}{2em}{.5em}
+\titlespacing*{\subsubsection}{0em}{1.5em}{.5em}
+\titlespacing*{\paragraph}{0em}{1em}{0em}
+\titlespacing*{\subparagraph}{0em}{.2em}{0em}
+
+\setcounter{secnumdepth}{0}
+
+% H1
+\titleformat{\section}[block]
+  {\LARGE\sffamily\color{Maroon}}
+  {}
+  {0em}
+  {}
+
+% H2
+\titleformat{\subsection}[block]
+  {\needspace{9\baselineskip}\Large\sffamily\color{Maroon}}
+  {}
+  {0em}
+  {}
+% H3
+\titleformat{\subsubsection}[block]
+  {\needspace{6\baselineskip}\large\rmfamily\bfseries}
+  {\thesubsection}
+  {0em}
+  {}
+% H4
+\titleformat{\paragraph}[block]
+  {\footnotesize\sffamily}
+  {\thesubsubsection}
+  {0em}
+  {}
+% H5
+\titleformat{\subparagraph}[block]
+  {\footnotesize\rmfamily}
+  {}
+  {0em}
+  {}
+
+% ==========
+% = Quotes =
+% ==========
+
+\usepackage{csquotes}
+
+\AtBeginEnvironment{quote}{\footnotesize\itshape} 
+
+\renewenvironment{quote}{%
+   \list{}{%
+     \leftmargin2em   % this is the adjusting screw
+     \rightmargin\leftmargin\parsep .1em }
+   \item\relax
+}
+{\endlist}
+
+% ==========
+% = Tables =
+% ==========
+
+\usepackage{longtable,booktabs,array}
+%\setlength\heavyrulewidth{0pt}
+\usepackage{multirow}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+% set table font size & space between rows
+\renewcommand{\arraystretch}{1.5}
+\AtBeginEnvironment{longtable}{\footnotesize}
+
+% =============
+% = Footnotes = 
+% =============
+
+\usepackage[hang,flushmargin]{footmisc} 
+
+%\renewcommand{\footnotesize}{\fontsize{9pt}{11pt}\selectfont} %use to change size of footnotes
+
+% ==============
+% = Hyperlinks =
+% ==============
+
+\usepackage[unicode=true]{hyperref}
+\hypersetup{colorlinks=true,allcolors=HopkinsBlue}
+
+% ===============================
+% ===== BEGIN DOCUMENT ==========
+% ===============================
+
+\begin{document}\thispagestyle{empty}
+
+% Sets default font color without overriding hyperlink colors
+\color{OffBlack}
+
+% \maketitle
+
+\section{Professional Responsibility}
+
+\begin{footnotesize}
+\subparagraph{Elon University School of Law}
+\subparagraph{Fall 2025}
+\subparagraph{Room 207}
+\subparagraph{Mondays \& Wednesdays, 9:45--10:45 am}
+\subparagraph{\url{emfink.net/PR}}
+\vspace{1em}
+
+\paragraph{Professor}
+\subparagraph{Eric M. Fink} 
+\subparagraph{efink@elon.edu}
+\subparagraph{336.279.9334} 
+\subparagraph{Office Hours: {\url{calendly.com/emfink/}}}
+
+\vspace{1em}
+
+\paragraph{Teaching Assistant}
+\subparagraph{Holden Bryant}
+\subparagraph{hbryant4@elon.edu}
+\end{footnotesize}
+\vspace{1em}
+
+\needspace{1\baselineskip}
+
+\subsection{Description}\label{description}
+
+This course is intended to acquaint students with the organization and
+regulation of the legal profession, the nature of the attorney-client
+relationship, and the duties that attorneys owe to clients and others.
+Upon successfully completing the course, students should be familiar
+with the ABA Model Rules of Professional Conduct and other sources of
+law governing the legal profession, and be able to apply these rules to
+issues that arise in legal practice. The course will also help prepare
+students for the \href{https://www.ncbex.org/exams/mpre/}{Multistate
+Professional Responsibility Examination (MPRE)}, but will not cover all
+of the topics tested on that exam.
+
+\subsection{Materials}\label{materials}
+
+\subsubsection{Required}\label{required}
+
+\href{https://emfink.net/PRCasebook}{Professional Responsibility: An
+Open-Source Casebook} (v.4.1 2025). Available at
+\href{https://www.emfink.net/PRCasebook/}{emfink.net/PRCasebook}.
+
+\subsubsection{Suggested}\label{suggested}
+
+Grace M. Giesel,
+\href{https://cap-press.com/books/isbn/9781611636208/Mastering-Professional-Responsibility-Second-Edition}{Mastering
+Professional Responsibility} (2d ed., Carolina Academic Press 2015).
+
+\subsection{Policies}\label{policies}
+
+\subsubsection{Grading}\label{grading}
+
+Your grade will be based on a final examination consisting of multiple
+choice questions, similar in format to the
+\href{https://www.ncbex.org/exams/mpre}{Multistate Professional
+Responsibility Examination (MPRE)}. You will receive a copy of the Rules
+of Professional Conduct to use during the exam, which will otherwise be
+closed-book/closed-notes. The exam will take place during the Fall exam
+period (date and time TBA)
+
+\subsubsection{Attendance}\label{attendance}
+
+Elon Law School has adopted the following attendance policy for all
+courses:
+
+\begin{quote}
+The Law School administers a policy that a student maintain regular and
+punctual class attendance in all courses in which the student is
+registered, including externships, clinical courses, or simulation
+courses. Faculty members will give students written notice of their
+attendance policies before or during the first week of class. These
+policies may include, but are not limited to: treating late arrivals,
+early departures, and/or lack of preparation as absences; imposing grade
+or point reductions for absences, including assigning a failing grade or
+involuntarily withdrawing a student from the class; and any other
+policies that a professor deems appropriate to create a rigorous and
+professional classroom environment.
+
+In case of illness or emergency, students may contact the Office of
+Student and Professional Life, which will then notify the student's
+instructors. A student may notify the faculty member directly of a
+planned absence and should refer to individual faculty members regarding
+any policy that may apply. In the case of prolonged illness or
+incapacity, the student should contact the
+\href{https://www.elon.edu/u/law/students/}{Office of Student Life}.
+\end{quote}
+
+You should let me know (in advance if feasible) if you are unable to
+attend class, will arrive late, or must leave early. I do not require an
+explanation of the reason, nor do I require a doctor's note or other
+documentation.
+
+\subsubsection{Disability
+Accommodations}\label{disability-accommodations}
+
+For disability accommodation requests, contact the
+\href{https://www.elon.edu/u/academics/koenigsberger-learning-center/disabilities-resources/homepage/graduate-student-resources/}{Elon
+Disability Services Office}.
+
+\subsubsection{Honor Code}\label{honor-code}
+
+The Law School
+\href{https://www.elon.edu/u/law/students/honor-code/}{honor code}
+applies to all activities related to your law school study, including
+conduct during class and examinations.
+
+\subsection{Schedule \& Reading
+Assignments}\label{schedule-reading-assignments}
+
+(\emph{Note:} This class will not meet on Sept.~24)
+
+\subsubsection{1. The Legal Profession \& Regulation of
+Lawyers}\label{the-legal-profession-regulation-of-lawyers}
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{Casebook}, Chap. 1
+\item
+  \emph{Geisel}, chap.~1 \& 2\footnote{The Giesel hornbook readings are
+    optional. You may find them helpful to get an overview of the topics
+    covered.}
+\end{itemize}
+
+\textbf{Sept.~3:} Regulatory Authorities; Misconduct \& Discipline,
+\emph{Casebook} §§ 1.1 \& 1.2
+
+\textbf{Sept.~8:} Bar Admission; Unauthorized Practice of Law; Law Firms
+\emph{Casebook} §§ 1.3-1.5
+
+\subsubsection{2. Advertising \&
+Solicitation}\label{advertising-solicitation}
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{Casebook}, Chap. 2
+\item
+  \emph{Geisel}, chap.~45 \& 46
+\end{itemize}
+
+\textbf{Sept.~10:} Advertising; Solicitation, \emph{Casebook} §§ 2.1 \&
+2.2
+
+\subsubsection{3. The Attorney-Client
+Relationship}\label{the-attorney-client-relationship}
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{Casebook}, Chap. 3
+\item
+  \emph{Giesel Chap.} 4 \& 8-14
+\end{itemize}
+
+\textbf{Sept.~15:} Establishing an Attorney-Client Relationship;
+Prospective Clients; Declining \& Terminating Representation,
+\emph{Casebook} §§ 3.1, 3.2, \& 3.3
+
+\textbf{Sept.~17:} Scope of Representation \& Allocation of Authority;
+Clients with Diminished Capacity, \emph{Casebook} §§ 3.4 \& 3.5
+
+\textbf{Sept.~22:} Organizational Clients, \emph{Casebook} § 3.6
+
+\textbf{Sept.~29:} Attorney Fees \& Client Property, \emph{Casebook} §§
+3.7 \& 3.8
+
+\subsubsection{4. The Duty of Care}\label{the-duty-of-care}
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{Casebook}, Chap. 4
+\item
+  \emph{Geisel}, chap.~5-7 \& 24
+\end{itemize}
+
+\textbf{Oct.~8:} Competence, Diligence, \& Communication; Malpractice,
+\emph{Casebook} §§ 4.1 \& 4.2
+
+\textbf{Oct.~8:} Ineffective Assistance of Counsel; Malpractice in
+Criminal Cases,, \emph{Casebook} §§ 4.3 \& 4.4
+
+\subsubsection{5. Confidentiality \&
+Privileges}\label{confidentiality-privileges}
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{Casebook}, Chap. 5
+\item
+  \emph{Geisel}, chap.~15-16
+\end{itemize}
+
+\textbf{Oct.~13 \& 15:} The Duty of Confidentialty, \emph{Casebook} §
+5.1
+
+\textbf{Oct.~20 \& 22:} Attorney-Client Privilege \& Work-Product,
+\emph{Casebook} § 5.2 \& 5.6
+
+\subsubsection{6. Conflicts of Interest}\label{conflicts-of-interest}
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{Casebook}, Chap. 6
+\item
+  \emph{Geisel}, chap.~17-23
+\end{itemize}
+
+\textbf{Oct.~27:} Conflicts Between Current Clients, \emph{Casebook} §
+6.1 \& 6.2
+
+\textbf{Oct.~29:} Conflicts Involving the Lawyer's Business \& Personal
+Interests, \emph{Casebook} § 6.2
+
+\textbf{Nov.~3 \& 5:} Conflicts Involving Former Clients; Imputed
+Conflicts, \emph{Casebook} § 6.3 \& 6.4
+
+\subsubsection{7. Duties in Litigation}\label{duties-in-litigation}
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{Casebook}, Chap. 7
+\item
+  \emph{Geisel}, chap.~26-33
+\end{itemize}
+
+\textbf{Nov.~10 \& 12:} Truthfulness; Fairness \& Impartiality;
+Extrajudicial Statements \emph{Casebook} Chap. 7, §§ 7.1-7.3
+
+\textbf{Nov.~17:} Prosecutorial Misconduct, \emph{Casebook} § 7.4
+
+\subsubsection{8. Interactions with
+Non-Clients}\label{interactions-with-non-clients}
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{Casebook}, Chap. 8
+\item
+  \emph{Geisel}, chap.~35-37
+\end{itemize}
+
+\textbf{Nov.~19 \& 24:} General Rules; Represented Persons;
+Unrepresented Persons, \emph{Casebook} §§ 8.1, 8.2, \& 8.3
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{Dec.~8:} Final Exam
+
+\end{document}

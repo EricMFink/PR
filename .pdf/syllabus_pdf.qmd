@@ -19,7 +19,7 @@ room: 'Room 207'
 meets: 'Mondays & Wednesdays, 9:45–10:45 am'
 
 ta: Holden Bryant
-ta-email: hrbyant4@elon.edu
+ta-email: hbryant4@elon.edu
 
 format:
   pdf:
