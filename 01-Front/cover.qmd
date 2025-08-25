@@ -1,6 +1,12 @@
 ::: {.cover}
 
-![](../img/PRcover.png)
+## Professional Responsibility {.unnumbered}
+
+### Elon Law School 
+
+### Fall 2025
+
+![](../img/cover.png)
 
 :::
 

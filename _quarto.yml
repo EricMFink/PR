@@ -77,8 +77,6 @@ website:
         contents: 
           - section: Front Matter
             contents:
-            - text: Cover
-              href: 01-Front/cover.qmd
             - text: Frontispiece
               href: 01-Front/frontispiece.qmd
             - text: Title Page
