@@ -14,7 +14,7 @@ All original content is licensed under a [Creative Commons Attribution NonCommer
 
 #### [emfink.net/ElonLaw](https://www.emfink.net/ElonLaw/)
 
-### Source Code: [[github.com/EricMFink/PR]{.mono-font}](https://github.com/EricMFink/PR){.mono-font}
+### Source Code: [[github.com/EricMFink/PR]{.mono-font-smaller}](https://github.com/EricMFink/PR)
 
 ### Version 4.1, August 2025
 
