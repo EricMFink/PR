@@ -14,24 +14,24 @@
 
 ##### {{< var meets >}}
 
-##### [{{< var repo-name >}}]({{< var repo-url >}})
+###### [{{< var repo-name >}}]({{< var repo-url >}})
 
 
 #### Professor
 
 ##### {{< var author >}}
 
-##### [{{< var email >}}](mailto:{{< var email >}})
+###### [{{< var email >}}](mailto:{{< var email >}})
 
 ##### {{< var phone >}}
 
-##### Office hours: [calendly.com/emfink]({{< var appointments >}})
+##### Office hours: [[calendly.com/emfink]({{< var appointments >}})]{.mono-font-smaller}
 
 #### Teaching Assistant {.unnumbered}
 
 ##### {{< var ta >}}
 
-##### [{{< var ta-email >}}](mailto:{{< var ta-email >}})
+###### [{{< var ta-email >}}](mailto:{{< var ta-email >}})
 
 ## Description {.unnumbered}
 
@@ -41,7 +41,7 @@ This course is intended to acquaint students with the organization and regulatio
 
 ### Required  {.unnumbered}
 
-Professional Responsibility: An Open-Source Casebook (v.4.1 2025). Available on the course website: [emfink.net/PR](https://www.emfink.net/PR/).
+Professional Responsibility: An Open-Source Casebook (v.4.1 2025). Available on the course website: [[emfink.net/PR](https://www.emfink.net/PR/)]{.mono-font}.
 
 ### Suggested  {.unnumbered}
 
