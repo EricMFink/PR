@@ -1,2 +1,5 @@
 # PR
-Course website with casebook for Professional Responsibility (Prof. Fink) at Elon Law School
+
+## Eric M. Fink
+
+Course website with casebook for Professional Responsibility at Elon Law School
