@@ -62,7 +62,7 @@ website:
         - section: Presentations
           contents: 
             - text: Attorney Advertising 
-              href: revealjs/attorney-advertising.qmd
+              href: https://www.emfink.net/revealjs/presentations/attorney-advertising-revealjs.html#/title-slide
         - section: Videos
           contents: 
             - text: Freddy Reidenschneider
