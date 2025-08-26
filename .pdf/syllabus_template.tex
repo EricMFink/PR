@@ -28,9 +28,7 @@
 % = Language & Date Format =
 % ==========================
 
-\usepackage[english]{babel}  
-%\usepackage{datetime}
-%\newdateformat{mydate}{\THEDAY-\monthname-\THEYEAR}
+\usepackage[english]{babel}
 \usepackage{currfile}
 
 % ==================
@@ -177,7 +175,22 @@ $if(notesymbols)$\renewcommand{\thefootnote}{\fnsymbol{footnote}}$endif$
 % ==============
 
 \usepackage[unicode=true]{hyperref}
-\hypersetup{colorlinks=true,allcolors=HopkinsBlue}
+\hypersetup{%
+  colorlinks=true,
+  allcolors=HopkinsBlue,
+  breaklinks=true,
+  pdfusetitle=true,
+  pdfauthor={$author$},
+  pdftitle={{$title$},
+  $if(subject)$
+  pdfsubject={$subject$},
+  $endif$
+  $if(keywords)$
+  pdfkeywords={$for(keywords)$$keywords$$sep$, $endfor$},
+  $endif$
+  pdfproducer={LateX via pandoc},
+  pdfcreator={LateX via pandoc}
+}
 
 % ===============================
 % ===== BEGIN DOCUMENT ==========
@@ -208,10 +221,20 @@ $if(notesymbols)$\renewcommand{\thefootnote}{\fnsymbol{footnote}}$endif$
 
 \vspace{1em}
 
-\paragraph{Teaching Assistant}
+$if(ta2)$
+\paragraph{Teaching Assistants:}
 \subparagraph{$ta$}
 \subparagraph{$ta-email$}
+\vspace{.5em}
+\subparagraph{$ta2$}
+\subparagraph{$ta2-email$}
+$elseif(ta)$
+\subparagraph{Teaching Assistant:}
+\subparagraph{$ta$}
+\subparagraph{$ta-email$}
+$endif$
 \end{footnotesize}
+
 \vspace{1em}
 
 \needspace{1\baselineskip}
