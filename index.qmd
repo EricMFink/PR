@@ -1,16 +1,9 @@
 ---
 toc: false
 ---
-::: {.home}
 
-## Professional Responsibility {.unnumbered}
-
-### Elon University School of Law {.unnumbered .unlisted}
-
-#### Prof. Fink 
-
-##### Fall 2025
+::: {.content-hidden unless-format="revealjs"}
+# Home {.unnumbered}
+:::
 
 ![](img/cover.png)
-
-:::

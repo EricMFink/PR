@@ -1,8 +1,10 @@
 project:
-  type: website
+  type: book
 
-website:
+book:
   title: "Professional Responsibility"
+  subtitle: Elon Law School
+  author: Prof. Eric M. Fink
   page-navigation: true
   page-footer:
       center: 
@@ -30,76 +32,64 @@ website:
           - text: View source code
             href:  https://github.com/EricMFink/PR
     collapse-level: 1
-    contents: 
-      - href: index.qmd
-        text: Home
-      - href: syllabus.qmd
-        text: Syllabus
-      - href: links.qmd
-        text: Links
-      - section: Class Materials
-        contents: 
-        - section: "Discussion Questions"
-          contents: 
-            - text: Bar Admission & Discipline
-              href: questions/admission-discipline.qmd
-            - text: Law Firms 
-              href: questions/firms.qmd
-            - text: Attorney-Client Relationship
-              href: questions/attorney-client.qmd
-            - text: Attorney Fees & Client Property
-              href: questions/fees.qmd
-            - text: Competence, Malpractice, & Ineffective Assistance
-              href: questions/competence.qmd
-            - text: Confidentiality & Privileges
-              href: questions/confidentiality.qmd
-            - text: Conflicts of Interest
-              href: questions/conflicts.qmd
-            - text: Duties in Litigation
-              href: questions/litigation.qmd
-            - text: Dealings with Non-Clients
-              href: questions/nonclients.qmd
-        - section: Presentations
-          contents: 
-            - text: Attorney Advertising 
-              href: https://www.emfink.net/revealjs/presentations/attorney-advertising-revealjs.html#/title-slide
-        - section: Videos
-          contents: 
-            - text: Freddy Reidenschneider
-              href: videos/freddy-reidenschneider.qmd
-            - text: It Stinks
-              href: videos/it-stinks.qmd
-            - text: Reasonable Doubt
-              href: videos/reasonable-doubt.qmd
-            - text: Bookstore
-              href: videos/bookstore.qmd
-      - section: "Casebook"
-        contents: 
-          - section: Front Matter
-            contents:
-            - text: Frontispiece
-              href: 01-Front/frontispiece.qmd
-            - text: Title Page
-              href: 01-Front/title-page.qmd
-            - text: License
-              href: 01-Front/license.qmd
-            - text: Epigraph
-              href: 01-Front/epigraph.qmd
-            - 01-Front/preface.qmd
-          - section: "Chapters"
-            contents:
-            - 02-Main/chap1.qmd
-            - 02-Main/chap2.qmd
-            - 02-Main/chap3.qmd
-            - 02-Main/chap4.qmd
-            - 02-Main/chap5.qmd
-            - 02-Main/chap6.qmd
-            - 02-Main/chap7.qmd
-            - 02-Main/chap8.qmd
-          - section: "Back Matter"
-            contents:
-            - 03-Back/ack.qmd
-            - 03-Back/colophon.qmd
+  chapters: 
+    - href: index.qmd
+      text: Home
+    - href: syllabus.qmd
+      text: Syllabus
+    - part: "Casebook"
+      chapters: 
+        - text: Frontispiece
+          href: 01-Front/frontispiece.qmd
+        - text: License
+          href: 01-Front/license.qmd
+        - text: Epigraph
+          href: 01-Front/epigraph.qmd
+        - 01-Front/preface.qmd
+        - 02-Main/chap1.qmd
+        - 02-Main/chap2.qmd
+        - 02-Main/chap3.qmd
+        - 02-Main/chap4.qmd
+        - 02-Main/chap5.qmd
+        - 02-Main/chap6.qmd
+        - 02-Main/chap7.qmd
+        - 02-Main/chap8.qmd
+        - 03-Back/ack.qmd
+        - 03-Back/colophon.qmd
+    - part: Discussion Questions
+      chapters: 
+        - text: Bar Admission & Discipline
+          href: 04-Appendix/admission-discipline.qmd
+        - text: Law Firms 
+          href: 04-Appendix/firms.qmd
+        - text: Attorney-Client Relationship
+          href: 04-Appendix/attorney-client.qmd
+        - text: Attorney Fees & Client Property
+          href: 04-Appendix/fees.qmd
+        - text: Competence, Malpractice, & Ineffective Assistance
+          href: 04-Appendix/competence.qmd
+        - text: Confidentiality & Privileges
+          href: 04-Appendix/confidentiality.qmd
+        - text: Conflicts of Interest
+          href: 04-Appendix/conflicts.qmd
+        - text: Duties in Litigation
+          href: 04-Appendix/litigation.qmd
+        - text: Dealings with Non-Clients
+          href: 04-Appendix/nonclients.qmd
+    - part: Visuals
+      chapters: 
+        - text: Attorney Advertising 
+          href: 04-Appendix/advertising-revealjs.qmd
+        - text: Freddy Reidenschneider
+          href: 04-Appendix/freddy-reidenschneider.qmd
+        - text: It Stinks
+          href: 04-Appendix/it-stinks.qmd
+        - text: Reasonable Doubt
+          href: 04-Appendix/reasonable-doubt.qmd
+        - text: Bookstore
+          href: 04-Appendix/bookstore.qmd
+    - href: links.qmd
+      text: Links
 
 format:
   html:

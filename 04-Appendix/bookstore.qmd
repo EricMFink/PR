@@ -1,0 +1,3 @@
+# Bookstore {.unnumbered}
+
+{{< video ../video/bookstore.mp4 width="640" height="480" >}}
