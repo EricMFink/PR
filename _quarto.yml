@@ -4,7 +4,7 @@ project:
 book:
   title: "Professional Responsibility"
   subtitle: Elon Law School
-  author: Prof. Eric M. Fink
+  author: Eric M. Fink
   page-navigation: true
   page-footer:
       center: 
