@@ -62,6 +62,8 @@ book:
           href: 04-Appendix/admission-discipline.qmd
         - text: Law Firms 
           href: 04-Appendix/firms.qmd
+        - text: Advertising & Solicitation
+          href: 04-Appendix/advertising.qmd
         - text: Attorney-Client Relationship
           href: 04-Appendix/attorney-client.qmd
         - text: Attorney Fees & Client Property
