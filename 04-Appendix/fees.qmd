@@ -109,7 +109,7 @@ d. No, because the attorney required an advanced payment against her fee.
 
 ### Question 12
 
-Dan retained Attorney to appeal Dan's criminal conviction and to seek bail pending appeal. The agreed fee for the appearance on the bail hearing was $50 per hour. Attorney received $800 from Dan of which $300 was a deposit to secure Attorney's fee and $500 was for bails costs in the event that bail was obtained. Attorney maintained two office bank accounts: a “Fee Account," in which fees were deposited and from which office expenses were paid, and a “Clients' Fund Account." Attorney deposited the $800 in the Clients' Fund Account the week before the bail hearing. Attorney expended six hours of time on the bail hearing, but the effort to obtain bail was unsuccessful. Dissatisfied, Dan immediately demanded return of the $800. 
+Dan retained Attorney to appeal Dan's criminal conviction and to seek bail pending appeal. The agreed fee for the appearance on the bail hearing was $50 per hour. Attorney received $800 from Dan of which $300 was a deposit to secure Attorney's fee and $500 was for bail costs in the event that bail was obtained. Attorney maintained two office bank accounts: a “Fee Account," in which fees were deposited and from which office expenses were paid, and a “Clients' Fund Account." Attorney deposited the $800 in the Clients' Fund Account the week before the bail hearing. Attorney expended six hours of time on the bail hearing, but the effort to obtain bail was unsuccessful. Dissatisfied, Dan immediately demanded return of the $800. 
 
 What should Attorney do?
 
@@ -145,3 +145,36 @@ c. Wear it to dinner Saturday night.
 
 d. Sell it.
 
+# Answers  {.unnumbered}
+
+1. All are permissible factors. 
+
+2. All are permissible, subject to the requirements under Rule 3.7. 
+
+3. Even if Attorney's fees turn out to be reasonable, Attorney has violated Rule 3.7(b) by not communicating the basis or rate at the outset of the representation. 
+
+4. The arrangement amounts to a contingent fee, because it depends on the outcome of the case and the bicycle has monetary value. Contingent fees are prohibited in criminal defense matters. Rule 3.7(c). 
+
+5. This agreement is not proper because it does not include all the information required under Rule 3.7(c): "A contingent fee agreement shall be in a writing signed by the client and shall state the method by which the fee is to be determined, including the percentage or percentages that shall accrue to the lawyer in the event of settlement, trial or appeal; litigation and other expenses to be deducted from the recovery; and whether such expenses are to be deducted before or after the contingent fee is calculated. The agreement must clearly notify the client of any expenses for which the client will be liable whether or not the client is the prevailing party." 
+
+6. Answer (d) is correct. Under this arrangement, the fee is contingent on the outcome of the suit and is based on a percentage of the amount that the client will receive if they win. Assuming there is a written agreement that satisfies the requirements under Rule 3.7(c), a 20% share of the client's 1st year proceeds is almost certainly reasonable. Answer (a) is incorrect, because the attorney is not acquiring a proprietary interest in the oil and gas royalties themselves; the fee is simply based on the value of royalties that the client receives in the first year. Answer (b) is incorrect, because the amount an attorney receives under a contingent fee may me greater than what the attorney would receive under a reasonable hourly fee agreement (because the attorney is assuming the risk of receiving nothing if client doesn't win the suit or if the royalties turn out to be less than anticipated). Answer (c) is incorrect, because the arrangement must meet the same reasonableness standard, regardless of whether the attorney or client proposes it. 
+
+7. Answer (d) is correct. Rule 3.7(d) prohibits "any fee in a domestic relations matter, the payment or amount of which is contingent upon the securing of a divorce or upon the amount of alimony or support, or property settlement in lieu thereof". This would apply to the matters identified in answers (a), (b), and (c). But a post-divorce action to collect unpaid maintenance and child support is not contingent on securing a divorce, the amount of alimony or support awarded in the divorce, or amount of the property settlement. Rather, it is a suit to collect amounts that have already been determined and awarded in the underlying divorce action, similar to any other suit to collect on a judgment debt. 
+
+8. Lawyer A would be entitled to a fee based on the work Lawyer performed for Client before being fired. In this situation, a court would likely determine  Lawyer A's fee based on a _quantum meruit_ basis, i.e. the reasonable value (on an hourly or other basis) of Lawyer A's work in relation to the eventual outcome. 
+
+9. Lawyer A may receive a share of the fees paid to Lawyer B only based on, and proportionate to, the reasonable value of any actual work Lawyer A performed; that arrangement must be disclosed to the Client and the total amount of the fee must be reasonable. Rule 3.7(e).  But if Lawyer A and Lawyer B are in the same firm, these restrictions do not apply and they may share the fees however they like. 
+
+10. Answer (d) is correct. Under Rule 3.8(d), "Upon receiving funds or other property in which a client or third person has an interest, a lawyer shall promptly notify the client or third person. Except as stated in this rule or otherwise permitted by law or by agreement with the client, a lawyer shall promptly deliver to the client or third person any funds or other property that the client or third person is entitled to receive ..." Here, the bank has no established interest in the money. So, unless the client agrees, the attorney may not pay the bank out of the the settlement proceeds. 
+
+11. Answer (c) is correct. A lawyer may request and receive an advance payment ("retainer") against anticipated fees. The lawyer must deposit that amount in a client trust account, and must withdraw fees as they are earned. By waiting a year before withdrawing the fees earned, the attorney has improperly commingled of the attorney's funds with the client's funds. This is misconduct, even though there was no financial harm to the client. 
+
+12. Attorney may transfer $300 (the amount of fees earned for 6 hours of work @ $50/hour) from the Clients' Fund Account to the Fee Account, and must return the remaining $500 to Dan (since there were no bail costs to be paid). 
+
+13. If Lawyer concludes that the Assignment is valid and gives Physician an established legal interest in the settlement funds, Lawyer should pay the $2000 to the Physician. If Lawyer concludes there is a bona fide dispute over the Assignment's validity, then under Rule 3.8(e), Lawyer should keep the $2000 in a separate account until the dispute is resolved and then distribute it accordingly. 
+
+14. No, an attorney may not bill two clients for the same hours. In this situation, Agnes should bill the five hours to the second client, and not bill the first client for any of that time. 
+
+15. Rule 6.2(i) prohibits an attorney from "acquir[ing] a proprietary interest in the cause of action or subject matter of litigation the lawyer is conducting for a client ..." That prohibition doesn't apply here, because the lawyer is representing the clients in a transactional matter, not litigation. However, by taking stock in the company, the lawyer is acquiring an ownership interest adverse (in a legal sense) to the clients. So the lawyer must satisfy the conditions under Rule 6.2(a). 
+
+16. Answer (a) is correct. Under Rule 3.8(a), a lawyer must appropriately safeguard a client's property in the lawyer's possession. Leaving a valuable fur coat in a closet is probably not adequate (unless the closet is securely locked). The lawyer certainly may not wear or sell the coat without the client's consent. 
