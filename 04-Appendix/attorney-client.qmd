@@ -165,16 +165,37 @@ d. Attorney has no duties to the third parties because they are not clients.
 
 ### Question 14
 
-Attorney is representing Defendant on charges of drug trafficking. The judge in the case has just denied Ruiz's motion to suppress the evidence against his client, and it appears that conviction, followed by a long prison term, is likely if the case goes to trial. The only alternative is for Defendant to make a deal with the prosecution, testify against her friends, and seek a lighter sentence. Fernando knows that Defendant will be distraught about this news and will hate the idea of cooperating with the prosecution. What is Fernando's duty as a counselor to Defendant? 
+Attorney is representing Defendant on charges of drug trafficking. The judge in the case has just denied Client's motion to suppress the evidence against his client, and it appears that conviction, followed by a long prison term, is likely if the case goes to trial. The only alternative is for Defendant to make a deal with the prosecution, testify against her friends, and seek a lighter sentence. Attorney knows that Defendant will be distraught about this news and will hate the idea of cooperating with the prosecution. What is Fernando's duty as a counselor to Defendant? 
 
-### Question 15
 
-Attorney has been asked by his client, the owner of a rare book store, to give the client's bank a legal opinion that the client is in compliance with various loan covenants. As Attorney proceeds with the investigation, it becomes clear that the client has no intention of ating and giving Attorney all the documentation that Attorney needs. It seems clear to Attorney that if he presses for more information, he will be fired. Under the Model Rules of Professional Conduct, what advice should Attorney give to his client about the legal opinion he will have to give under these circumstances? 
+# Answers {.unnumbered}
 
-### Question 16
+1\. *a-e are all correct.* An attorney may decline to represent a client (other than cases where a court appoints the lawyer to represent the client) for any reason and isn't required to give a reason. 
 
-Attorney frequently is appointed by her local court to represent indigent criminal defendants. In fact, the frequency of the appointments has become so great that she now believes she has as many cases as she can competently and diligently handle. The court contacts her about an additional appointment. What is her responsibility under the Model Rules of Professional Conduct? 
+2\. *b is correct.* Unreasonable financial burden is one of the valid means for seeking to avoid an appointment under Rule 6.2. The lawyer's lack of competence would be another valid reason under Rule 6.2(a); but the duty of competence doesn't require "expertise". 
 
-### Question 17
+3\. *b is correct.* Withdrawal, as distinct from declining representation to begin with, does require some "good cause", including this type of fundamental disagreement. See Rule 1.16(b)(4). The client's consent is not required. 
 
-Attorney has received notice that the judge of her local criminal court intends to appoint Attorney to represent the defendant in a murder case. When Attorney arrives for the first hearing, she learns for the first time that the victim of the alleged murder was a former client of Attorney. Is there any basis upon which Attorney could seek to avoid the appointment as counsel in the murder case? 
+4\. *d is correct.* Under Rule 1.16, withdrawal is compulsory if continued representation will result in a violation of the rules. Here, the client would be using the lawyer's services to commit fraud, so continued representation would be misconduct under Rule 1.2(d).  Answer a is incorrect, because withdrawal in this situation would be compulsory, not permissive. 
+
+5\. *c is correct.* Even though Lawyer declined to represent Plaintiff, Lawyer still owes Plaintiff a duty of confidentiality as a prospective client. Under Rule 1.18(c), Lawyer may not represent Defendant in the same matter, and this disqualification extends to other lawyers in the same firm. However, another lawyer in the firm may represent Defendant if the conditions under Rule 1.18(d) are satisfied. As written, answer c is incomplete, because it omits the requirement of informed consent, confirmed in writing, from both clients. But it is the best choice among the four options here. 
+
+6\. *b is correct.* Decisions about trial strategy, including what witnesses to call, involve the means by which the lawyer pursues the clients objectives. Under Rule 1.2(a), the lawyer must consult with the client, but isn't required to do what the client wants. However, a lawyer for a defendant in a criminal case must abide by the client's decision as to whether the client will testify. 
+
+7\. *c is correct.* Under Rule 1.2, "In a criminal case, the lawyer shall abide by the client's decision, after consulation with the lawyer, as to a plea to be entered ..." By failing to notify the client of the initial plea offer, Lawyer breached that duty. The fact that the Client subsequently rejected the same plea offer after consultation with Lawyer doesn't cure the initial violation. 
+
+8\. *e is correct.* Lawyer may not advise or assist Client in hiding assets. Here, Lawyer properly counseled the Client about the illegality and consequences of the proposed action. Unless Lawyer knows (or reasonably should know) that Client will ignore that advice and hide the assets right away, Lawyer may give the Client some time to think it over before withdrawal becomes compulsory. 
+
+9\. *b is correct.* Decisions regarding how Client's estate will be divided involve the objectives of the representation. Lawyer has a duty to advise Client as to the legal consequences, but must abide by Client's decision, unless doing so would result in a violation of the Rules. Rule 1.2(a) prohibits a lawyer from assisting a client in criminal or fraudulent conduct. But a breach of contract is neither criminal nor (absent additional circumstances not present here) fraudulent. So after advising Client about the breach of contract issue, Lawyer may write the will as Client directs.  
+
+10\. *a is correct.* The fact that the Client here faces a civil fraud claim doesn't necessarily mean the transaction at issue was fraudulent. Lawyer may assist SEI by providing the report to the bank, as long as the report does not contain any false or misleading statements. 
+
+11\. *b is correct.* Under Rule 2.1, a lawyer giving legal advice may, but is not required to, address other considerations. Lawyer may respect the client's request to limit the advice to legal issues, but must not advise or assist the client in committing a crime or fraud. Here, Lawyer should ask Client about its plans to ensure that Client isn't seeking advice on how to get away with bribing a foreign official. 
+
+12\. *a is correct.* Lawyer may address other considerations beyond the legality of the proposed agreement. But, provided the provision would be legally valid, Lawyer may draft the agreement, so answer d is incorrect. 
+
+13\. *c is correct*. See Rule 4.1
+
+14. Attorney must counsel Client about the possible deal and the risks of proceeding to trial. Attorney must then abide by Client's decision whether to seek such a deal from the prosecution or go to trial. 
+
+
