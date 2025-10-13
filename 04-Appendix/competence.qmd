@@ -1,17 +1,12 @@
 # Competence, Diligence, & Communication {.unnumbered}
 
+## Questions
+
 ### Question 1
 
 Lawyer represents ABC Corp. ABC has a very good breach of contract action against one of its regular customers, XYZ Corp. ABC hires Lawyer to sue XYZ. Lawyer advises ABC's president that, “although you have a great lawsuit and I'm prepared to file the complaint, I do not think it is a wise business decision for you to sue a regular customer?" 
 
 Did Lawyer act properly?
-
-:::{nte-Q1 .callout-note}
-#### Answer
-Yes. See Rule 2.1 ("In rendering advice, a lawyer may refer not only to law but to other considerations such as moral, economic, social and political factors, that may be relevant to the client’s situation.")
-:::
-
-See @nte-Q1
 
 ### Question 2
 
@@ -19,26 +14,12 @@ Lawyer represents A in a child custody dispute. A is the custodial parent of thr
 
 Did Lawyer act properly?
 
-:::{nte-Q2 .callout-note}
-#### Answer
-Yes. Lawyer's advice is not only permissible under Rule 2.1, but goes directly to the central legal issue in the custody dispute: whether giving custody to the client is in the best interests of the children. In this context, Lawyer's duty of competence includes a duty to advise the client about how their drinking may affect the court's decision. 
-:::
-
-See @nte-Q2
-
 ### Question 3
 
 Lawyer, a partner in the Smith Law Firm, represents ABC Corp. in tax matters. ABC works with other companies (“customers") to reduce their income tax exposure. ABC has created a new type of transaction which purportedly has significant tax advantages. ABC would like to market this new transaction to its customers. In order to make the new transaction more appealing to customers, ABC has asked Lawyer to prepare an opinion letter in which Lawyer opines on the tax advantages. ABC will give this opinion letter to customers and potential customers. 
 
 - May Lawyer prepare the opinion letter?
 - What should Lawyer do if she disagrees with ABC as to the tax advantages of the new transaction?
-
-:::{nte-Q3 .callout-note}
-#### Answer
-Lawyer may prepare the opinion letter, "if the lawyer reasonably believes that making the evaluation is compatible with other aspects of the lawyer's relations with the client." Rule 2.2 (a). If Lawyer believes that the evaluation "is likely to affect the client's interests materially and adversely", Lawyer must obtain the client's informed consent, which would include advising the client about potential liability or other adverse consequences. Rule 2.2(b)
-:::
-
-See @nte-Q3
 
 ### Question 4
 
@@ -54,13 +35,6 @@ c. Anderson, Peterson, & Paulson.
 
 d. None.
 
-:::{nte-Q4 .callout-note}
-#### Answer
-Answer (b) is correct. Anderson breached the duty of competence by failing to research federal law and failing to include the federal claim. Peterson breached the duty of competence by failing to property supervise Anderson and failing to adequately review the complaint. Paulson had no active role in the matter and thus did not breach the duty of competence. 
-:::
-
-See @nte-Q4
-
 ### Question 5 
 
 Same facts as the previous question. Which of the lawyers, if any, may be liable to Company for malpractice? 
@@ -73,13 +47,6 @@ c. Anderson, Peterson, & Paulson.
 
 d. None.
 
-:::{nte-Q5 .callout-note}
-#### Answer
-Answer (c) is correct. Anderson and Peterson are each liable for malpractice based on their own failures to exercise reasonable care. Paulson is liable for malpractice as a partner in the firm.  
-:::
-
-See @nte-Q5
-
 ### Question 6 
 
 For many years Attorney has done all of the routine business law work for Corporation. Now Corporation has asked Attorney to represent it in negotiating a contract to supply electronic components to the federal government. Attorney knows nothing about government contract law except that it is a highly specialized field governed by a mass of technical regulations. For which of the following would Attorney be subject to discipline under the MRPC?
@@ -91,14 +58,6 @@ b. Agreeing to represent Corporation, provided Corporation consents to the assoc
 c. Agreeing to represent Corporation, and then subcontracting the legal work to a lawyer with experience in government contract law.
 
 d. Agreeing to represent Corporation, intending to master the field of government contract law with reasonable speed and efficiency.
-
-:::{nte-Q6 .callout-note}
-#### Answer
-Answers (a) & (c) are correct. An attorney may not charge a fee merely for referring a potential client to another lawyer; the attorney may only receive a fee proportionate to the value of any useful work performed. An attorney may not "subcontract" legal work to a lawyer in another firm; the lawyer may bring in the other lawyer as co-counsel, with the client's informed consent. 
-:::
-
-See @nte-Q6
-
 
 ### Question 7
 
@@ -114,9 +73,18 @@ Client was injured when a physician's assistant improperly treated Client when h
 
 5. Lawyer did not consult with an available expert about staff-patient ratios necessary to ensure reasonably safe medical treatment. .
 
-:::{nte-Q7 .callout-note}
-#### Answer
-Number 3, 4, and 5 would likely demonstrate Lawyer's breach of her duty of competence. Competent preparation in this case would include investigating potential witnesses to Client's alleged conduct (3) and research the applicable law, including regulations (4). A competent lawyer would also likely consult with an available expert about the impact of staffing ratios on safe treatment. 
-:::
+## Answers
 
-See @nte-Q7
+1. Yes. See Rule 2.1 ("In rendering advice, a lawyer may refer not only to law but to other considerations such as moral, economic, social and political factors, that may be relevant to the client’s situation.")
+
+2. Yes. Lawyer's advice is not only permissible under Rule 2.1, but goes directly to the central legal issue in the custody dispute: whether giving custody to the client is in the best interests of the children. In this context, Lawyer's duty of competence includes a duty to advise the client about how their drinking may affect the court's decision. 
+
+3. Lawyer may prepare the opinion letter, "if the lawyer reasonably believes that making the evaluation is compatible with other aspects of the lawyer's relations with the client." Rule 2.2 (a). If Lawyer believes that the evaluation "is likely to affect the client's interests materially and adversely", Lawyer must obtain the client's informed consent, which would include advising the client about potential liability or other adverse consequences. Rule 2.2(b)
+
+4. Answer (b) is correct. Anderson breached the duty of competence by failing to research federal law and failing to include the federal claim. Peterson breached the duty of competence by failing to property supervise Anderson and failing to adequately review the complaint. Paulson had no active role in the matter and thus did not breach the duty of competence. 
+
+5. Answer (c) is correct. Anderson and Peterson are each liable for malpractice based on their own failures to exercise reasonable care. Paulson is liable for malpractice as a partner in the firm.  
+
+6. Answers (a) & (c) are correct. An attorney may not charge a fee merely for referring a potential client to another lawyer; the attorney may only receive a fee proportionate to the value of any useful work performed. An attorney may not "subcontract" legal work to a lawyer in another firm; the lawyer may bring in the other lawyer as co-counsel, with the client's informed consent. 
+
+7. Number 3, 4, and 5 would likely demonstrate Lawyer's breach of her duty of competence. Competent preparation in this case would include investigating potential witnesses to Client's alleged conduct (3) and research the applicable law, including regulations (4). A competent lawyer would also likely consult with an available expert about the impact of staffing ratios on safe treatment. 
