@@ -6,10 +6,13 @@ Your long-time client, John Carter, recently came to your office to tell you tha
 
 Shortly before his death, you were able to interview the prior owner of the house, who told you what he had told Carter about the flooding. You have notes of that interview in which you comment on the former owner's likely credibility at trial. In addition, while at a party, Carter's banker let slip that Carter is in bad financial condition. The buyer has now filed suit against Carter.
 
-- The buyer has subpoenaed you to give a deposition. What information must you disclose?
-- The buyer has subpoenaed any documents you have related to the case. What must you disclose?
-- One of your college friends, who is about to loan money to Carter, has informally asked you about Carter's financial condition. You would like to help your college friend. What may you disclose?
-- If Carter is compelled to testify at trial, may he use the attorney-client privilege as a basis for refusing to disclose the conversation he had with the prior owner?
+a. The buyer has subpoenaed you to give a deposition. What information must you disclose?
+
+b. The buyer has subpoenaed any documents you have related to the case. What must you disclose?
+
+c. One of your college friends, who is about to loan money to Carter, has informally asked you about Carter's financial condition. You would like to help your college friend. What may you disclose?
+
+d. If Carter is compelled to testify at trial, may he use the attorney-client privilege as a basis for refusing to disclose the conversation he had with the prior owner?
 
 ### Question 2
 
@@ -56,8 +59,9 @@ May Attorney do so?
 
 Client, who is a fugitive from justice, is seeking an attorney to represent him. Client visits Lawyer for a free initial consultation. During the meeting, Client admits guilt. At the end of the meeting, however, Client decides not to hire Lawyer.
 
-- Is Lawyer required or allowed to disclose Client's admission of guilt?
-- What if, unbeknownst to Client, Lawyer had never passed the bar exam and thus was not a licensed attorney?
+a. Is Lawyer required or allowed to disclose Client's admission of guilt?
+
+b. What if, unbeknownst to Client, Lawyer had never passed the bar exam and thus was not a licensed attorney?
 
 ### Question 9
 
@@ -76,19 +80,19 @@ You are a public defender representing Jerry Cashwell, who has been charged with
 
 During your initial meeting with Cashwell, he tells you, "I killed that guy all on my own. Hunt didn't have anything to do with it." Based on the details that Cashwell provides about the crime, and the lack of any apparent motive to falsely claim sole responsibility, you conclude that Cashwell is telling the truth. 
 
-_What are your obligations under Rule 1.6(a)? Do any of the exceptions under Rule 1.6(b) apply at this point?_
+a. What are your obligations under Rule 1.6(a)? Do any of the exceptions under Rule 1.6(b) apply at this point?
 
 Cashwell and Hunt are tried separately. At Hunt's trial, he testifies that he had no role in the crime. Nevertheless, Hunt is convicted and sentenced to life imprisonment. 
 
 Following Hunt's conviction, you reach an agreement with the prosecution under which Cashwell will plead guilty to the murder charge and receive a life sentence. The prosecutor tells you they are offering this deal, "because we know Cashwell & Hunt acted together". You notify Cashwell of the plea offer and explain to him that, if he goes to trial and it comes out that he acted alone, he would likely face the death penalty. Cashwell accepts the deal and enters a guilty plea. At Cashwell's allocution, he does not reveal that Hunt had no involvement. 
 
-_Do you have any obligation to correct the prosecutor's mistaken belief about Hunt's involvement in the murder? Do you have any obligation to inform the court that Hunt was not involved?_
+b. Do you have any obligation to correct the prosecutor's mistaken belief about Hunt's involvement in the murder? Do you have any obligation to inform the court that Hunt was not involved?
 
 About ten years later, Cashwell commits suicide in prison. Hunt remains in prison serving his life sentence. 
 
-_Does MRPC Rule 1.6 permit you to reveal Cashwell's admission of sole responsbility to Hunt's attorney now that Cashwell is dead?_ 
+c. Does MRPC Rule 1.6 permit you to reveal Cashwell's admission of sole responsibility to Hunt's attorney now that Cashwell is dead?
 
-_Does NC Rule 8.6 permit or require disclosure?_
+d. Does NC Rule 8.6 permit or require disclosure?
 
 ### Question 11
 
@@ -179,11 +183,15 @@ _Is this proper?_
 
 John, who is employed by ABC as a truck driver, was involved in an accident last month. The other driver recently sued both ABC and John. ABC's president has asked Attorney to handle the litigation. Before commencing her investigation, Attorney needs to know:
 
-- Who does she represent?
-- May she represent both ABC and John?
-- Assuming she only represents ABC, will her conversations with the president be privileged?
-- What about her conversations with John?
-- Assume Attorney decides to represent both ABC and John. John tells Attorney in confidence that he (John) was drinking on the day of the accident. What are Attorney's ethical obligations?
+a. Who does she represent?
+
+b. May she represent both ABC and John?
+
+c. Assuming she only represents ABC, will her conversations with the president be privileged?
+
+d. What about her conversations with John?
+
+e. Assume Attorney decides to represent both ABC and John. John tells Attorney in confidence that he (John) was drinking on the day of the accident. What are Attorney's ethical obligations?
 
 ### Question 21
 
