@@ -1,0 +1,101 @@
+{
+  "index.qmd": {
+    "index.html": "0b815cbc"
+  },
+  "syllabus.qmd": {
+    "syllabus.html": "bcac2e12"
+  },
+  "01-Front/frontispiece.qmd": {
+    "frontispiece.html": "9d30e742"
+  },
+  "01-Front/license.qmd": {
+    "license.html": "befa1e45"
+  },
+  "01-Front/epigraph.qmd": {
+    "epigraph.html": "b36d96c3"
+  },
+  "01-Front/preface.qmd": {
+    "preface.html": "021c68fe"
+  },
+  "02-Main/chap1.qmd": {
+    "chap1.html": "eae27315"
+  },
+  "02-Main/chap2.qmd": {
+    "chap2.html": "c7ad0929"
+  },
+  "02-Main/chap3.qmd": {
+    "chap3.html": "36fff049"
+  },
+  "02-Main/chap4.qmd": {
+    "chap4.html": "eb2b8b28"
+  },
+  "02-Main/chap5.qmd": {
+    "chap5.html": "01529fe0"
+  },
+  "02-Main/chap6.qmd": {
+    "chap6.html": "110c9676"
+  },
+  "02-Main/chap7.qmd": {
+    "chap7.html": "412b7755"
+  },
+  "02-Main/chap8.qmd": {
+    "chap8.html": "0585212d"
+  },
+  "03-Back/ack.qmd": {
+    "ack.html": "0e53d15b"
+  },
+  "03-Back/colophon.qmd": {
+    "colophon.html": "d048a735"
+  },
+  "04-Appendix/admission-discipline.qmd": {
+    "admission-discipline.html": "192041b1"
+  },
+  "04-Appendix/firms.qmd": {
+    "firms.html": "d1117489"
+  },
+  "04-Appendix/attorney-client.qmd": {
+    "attorney-client.html": "7fffd88b"
+  },
+  "04-Appendix/fees.qmd": {
+    "fees.html": "fd1fd535"
+  },
+  "04-Appendix/competence.qmd": {
+    "competence.html": "5a57074b"
+  },
+  "04-Appendix/confidentiality.qmd": {
+    "confidentiality.html": "df373f6c"
+  },
+  "04-Appendix/conflicts.qmd": {
+    "conflicts.html": "4798d5d6"
+  },
+  "04-Appendix/litigation.qmd": {
+    "litigation.html": "188ed34d"
+  },
+  "04-Appendix/nonclients.qmd": {
+    "nonclients.html": "cf1061a3"
+  },
+  "04-Appendix/advertising-revealjs.qmd": {
+    "advertising-revealjs.html": "8726b7bc"
+  },
+  "04-Appendix/freddy-reidenschneider.qmd": {
+    "freddy-reidenschneider.html": "f3ab075d"
+  },
+  "04-Appendix/it-stinks.qmd": {
+    "it-stinks.html": "b0bda82b"
+  },
+  "04-Appendix/reasonable-doubt.qmd": {
+    "reasonable-doubt.html": "9eb04ead"
+  },
+  "04-Appendix/bookstore.qmd": {
+    "bookstore.html": "7653e884"
+  },
+  "links.qmd": {
+    "links.html": "dfdc4cf5"
+  },
+  "404.qmd": {
+    "404.html": "a007308e"
+  },
+  "04-Appendix/advertising.qmd": {
+    "advertising.html": "10c305c9"
+  }
+}
