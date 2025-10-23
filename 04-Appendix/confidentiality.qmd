@@ -1,5 +1,7 @@
 # Confidentiality & Evidentiary Privileges {.unnumbered}
 
+## Questions {.unnumbered}
+
 ### Question 1
 
 Your long-time client, John Carter, recently came to your office to tell you that he expects to be sued by the person who bought his house. He had told the buyer that the house had a dry basement. Although the basement had never flooded in the five years that he had lived there, Carter had been told by a prior owner that the basement regularly flooded after a heavy rain. There was such a rain this year, and the buyer's furniture was destroyed.
@@ -198,3 +200,47 @@ e. Assume Attorney decides to represent both ABC and John. John tells Attorney i
 Attorney is an in-house Lawyer at ABC Corporation. Attorney recently learned that Jill, ABC's senior vice-president, has been providing fraudulent financial information to the IRS. If the fraud is discovered, ABC will face serious civil and criminal penalties. 
 
 _What should Attorney do?_
+
+## Answers {.unnumbered}
+
+1. The client's statements to the attorney are protected by the client communication privilege. The attorney's notes of the interview with the former owner are protected by the work product privilege. Attorney must assert those privileges in response to a subpoena for a deposition (a) or documents (b), but must otherwise disclose any information (including the statements of the former owner and the client's banker) and produce any other documents that are not privileged. In response to the friend's inquiry (c), the attorney may not disclose any information about the client's financial condition, because the duty of confidentiality under Rule 1.6 applies and none of the exception under 1.6(b) would apply under these facts. If compelled to testify at trial (d), the client may not use the attorney-client privilege as a basis for refusing to disclose the conversation with the former owner. 
+
+2. Attorney must produce the letter. While the letter is a communication by the client to the attorney, the crime-fraud exception to the client communication privilege applies here. 
+
+3. If Attorney believes Client will carry out the threat, then disclosure is permitted under Rule 1.6(b)(1). 
+
+4. Attorney's conversation with Owner is protected by the client communication privilege. The expert's participation in the conference does not defeat the privilege, because the expert was acting as an agent of Attorney for purposes of facilitating the representation. So Attorney must not disclose the substance of the conversation. 
+
+5. Assuming the bank records are relevant evidence in the case, the attorney must produce them in response to the subpoena. The client communication and work product privileges do not apply to those documents. 
+
+6. The correct answer is (c). If the attorney reasonably believes disclosure is necessary to prevent imminent death or serious physical injury, disclosure is permitted under Rule 1.6(b)(1). 
+
+7. Rule 1.6(b)(5) permits an attorney to reveal this information to establish a defense to the claim against the attorney. The "Lawyer Self-Protection" exception to the client communication privilege (Rest. (2d) of the Law Governing Lawyers § 83) likewise applies here. 
+
+8. (a) Attorney must not reveal Client's admission. Under Rule 1.18(b), the duty of confidentiality applies to information the attorney learns from a prospective client. The attorney-client privilege likewise applies to communications with a prospective client. Rest. (2d) § 70.  (b) The attorney-client privilege still applies if Client reasonably believed Attorney was a lawyer. Rest. (2d) § 72. 
+
+9. Attorney's communications with the company president are covered by the attorney-client privilege, because the president is an agent responsible for communicating with the attorney on behalf of the company. Even though John is not attorney's client, the attorney's communications with John are covered by the attorney-client privilege under _Upjohn Co. v. U.S._
+
+10. (a) The information is confidential under Rule 1.6(a) and none of the exceptions under Rule 1.6(b) apply, so the attorney must not reveal what Cashwell said. (b) The attorney is not obligated to correct the prosecutor's statement, nor to inform the court that Hunt was not involved. Rule 3.3 (requiring correction of false statements by attorney and disclosure of false testimony by the client or witness called by the lawyer) does not apply under these facts. (c) Disclosure might be permitted under Rule 1.6(b)(1), if the lawyer believes it is necessary to prevent the reasonably certain death or substantial bodily harm to Hunt; but there is no other exception under Rule 1.6 that would permit disclosure. (d) Under these facts, disclosure is required under N.C. Rule 8.6 (unless one of the exceptions under Rule 8.6 applied, which is not apparent under the stated facts). 
+
+11. The correct answers are (a) and (e). The duty of confidentiality would apply to the information in (b), (c), and (d), but the attorney-client privilege would not apply, because they do not involve any client communication. 
+
+12. The correct answer is (d). 
+
+13. The correct answer is (c). The Client's confession to the lawyer in the previous representation is also relevant to the custody dispute, so it is confidential under Rule 1.6(a). The stated facts are insufficient to support a belief that disclosure is reasonably necessary to prevent imminent death or injury to the children, so disclosure is not permitted under Rule 1.6(b)(1). None of the other exceptions under Rule 1.6(b) apply. 
+
+14. The correct answer is (c). Client's statement to Lawyer is protected by the attorney-client privilege. The crime-fraud exception does not apply, because the facts do not suggest Client was seeking or used the lawyer's advice to commit a crime. The privilege applies even though Lawyer is not longer representing Client. 
+
+15. The correct answer is (d). Under these facts, disclosure is permitted under Rule 1.6(b)(3), to prevent, mitigate, or rectify substantial financial injury to the purchaser resulting from the client's fraud, in furtherance of which the client used the lawyer's services.
+
+16. The correct answer is (d). The information is confidential under Rule 1.6(a), but not protected by the client communication privilege (because the client was not the source of the information). Answer (a) is incorrect, because this is not an exception under Rule 1.6. Answer (c) is incorrect, because the client's consent is not required if the exception under Rule 1.6(b)(1) applies. 
+
+17. Answer (d) is correct. The information is confidential under Rule 1.6(a). But disclosure is permitted under Rule 1.6(b)(3) is the attorney reasonably believes it is necessary to mitigate or rectify substantial financial injury to SPI's customers. Answer (c) is incorrect, because disclosure is not permitted under Rule 1.6(b)(3) to prevent or mitigate injury to the client's own financial interests, and disclosure is not permitted under Rule 1.13(c) & (d) where the lawyer learned the information in the course of investigating alleged illegal activity.
+
+18. Answer (b) is correct. Under these facts, disclosure is permitted, but not required, under Rule 1.6(b)(1). 
+
+19. This is improper. Attorney must not make any false or misleading statements of law or fact to the Employee, must explain that he represents Company not Employee, and must explain that the attorney-client privilege does not apply. 
+
+20. (a) and (b) Under Rule 1.13 (g), Attorney may represent both ABC and John (subject to the conflict of interest provisions under Rule 1.7). (c) The conversations with the president will be privileged, but the privilege belongs to the company, not the president personally. (d) The conversations with John will be privileged. If the attorney represents only the company, the privilege will belong to the company, not John; if the attorney represents both the company and John, the privilege applies for both against third-persons, but does not apply between the company and John. Rest. (2d) of the Law Governing Lawyers § 75. (e) Attorney must not reveal John's statement to the plaintiff or any other third person, but must reveal it to an appropriate authority within the company. See Rule 1.13(b). 
+
+21. Attorney must take appropriate actions as outlined in Rule 1.13(b) and (c). 
