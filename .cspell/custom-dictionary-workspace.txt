@@ -1,4 +1,6 @@
 # Custom Dictionary Words
 Cashwell
 Cashwell's
+Fürsprech
+Lützelburger
 MRPC
