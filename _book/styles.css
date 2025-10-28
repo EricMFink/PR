@@ -13,7 +13,6 @@ body {
 	background-color: #fffaf0;
 	quotes: "‘" "’";
 }
-
 /* HEADINGS */
 /* Chapter */
 h1 {
@@ -134,8 +133,11 @@ a:active {
 }
 
 /* Lists -- ul default is unstyled; use • for bullets */
-ol, ul {
+ol, ul, dl {
+	margin-top: 0;
+	margin-bottom: .5rem;
 	padding-left: 1.5rem;
+	max-width: 40rem;
 }
 ul { 
 	list-style-type: none;
@@ -585,7 +587,7 @@ footer.footer .nav-footer, #quarto-header > nav {
 	display: block;
 }
 
-/* SPANS */
+/* SPANS & SPECIAL ELEMENTS*/
 .theme-color {
 	color: #800000;
 }
@@ -628,10 +630,20 @@ footer.footer .nav-footer, #quarto-header > nav {
 	display: inline-block;
 	background: #fffff8;
 	border-radius: 4px;
-	font-family: "Adelle Sans";
+	font-family: "Adelle-Sans", sans-serif;
 	font-size: 80%;
 	color: #191919;
 	padding: 4px 6px;
+}
+.callout p {
+	font-family: "Adelle-Sans", sans-serif;
+	font-size: .9rem;
+	font-weight: 300;
+}
+hr {
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 /* 404 PAGE */
@@ -683,6 +695,11 @@ footer.footer .nav-footer, #quarto-header > nav {
 	content: ']';
 	vertical-align: super;
 	font-size: smaller;
+}
+.column-margin.column-container > :not(.collapse):first-child {
+	padding-top: 1em;
+	padding-bottom: .5em;
+	display: block;
 }
 .column-margin.column-container p {
 	font-size: .625rem;
