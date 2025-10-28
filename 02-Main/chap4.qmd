@@ -64,7 +64,9 @@ _Maintaining Competence_
 
 ## Malpractice
 
-- The term "legal malpractice" is sometimes used generally to refer to any claim against an attorney for breach of fiduciary duty, and sometimes more specifically for claims involving the duty of care. The elements of such claims are similar to other torts: the existence of a duty, breach of the duty, and harm caused by the breach. In claims based on the duty of care, the standard of liability is negligence, i.e. failure to exercise the degree of care of a reasonably prudent attorney under similar circumstances. In contrast, attorneys may be strictly liable for breaching the duties of loyalty, impartiality, or confidentiality.
+::: {.callout-note}
+The term "legal malpractice" is sometimes used generally to refer to any claim against an attorney for breach of fiduciary duty, and sometimes more specifically for claims involving the duty of care. The elements of such claims are similar to other torts: the existence of a duty, breach of the duty, and harm caused by the breach. In claims based on the duty of care, the standard of liability is negligence, i.e. failure to exercise the degree of care of a reasonably prudent attorney under similar circumstances. In contrast, attorneys may be strictly liable for breaching the duties of loyalty, impartiality, or confidentiality.
+:::
 
 ### Rest. (2d) of the Law Governing Lawyers § 48
 
