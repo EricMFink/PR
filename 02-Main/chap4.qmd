@@ -47,13 +47,9 @@ A lawyer shall act with reasonable diligence and promptness in representing a cl
 (a\) A lawyer shall:
 
 - (1\) promptly inform the client of any decision or circumstance with respect to which the client's informed consent, as defined in Rule 1.0(e), is required by these Rules;
-
 - (2\) reasonably consult with the client about the means by which the client's objectives are to be accomplished;
-
 - (3\) keep the client reasonably informed about the status of the matter;
-
 - (4\) promptly comply with reasonable requests for information; and
-
 - (5\) consult with the client about any relevant limitation on the lawyer's conduct when the lawyer knows that the client expects assistance not permitted by the Rules of Professional Conduct or other law.
 
 (b\) A lawyer shall explain a matter to the extent reasonably necessary to permit the client to make informed decisions regarding the representation.
@@ -107,25 +103,19 @@ For purposes of liability under § 48, a lawyer owes a duty to use care within t
 (2\) to a nonclient when and to the extent that:
 
 - (a\) the lawyer or (with the lawyer's acquiescence) the lawyer's client invites the nonclient to rely on the lawyer's opinion or provision of other legal services, and the nonclient so relies; and
-
 - (b\) the nonclient is not, under applicable tort law, too remote from the lawyer to be entitled to protection;
 
 (3\) to a nonclient when and to the extent that:
 
 - (a\) the lawyer knows that a client intends as one of the primary objectives of the representation that the lawyer's services benefit the nonclient;
-
 - (b\) such a duty would not significantly impair the lawyer's performance of obligations to the client; and
-
 - (c\) the absence of such a duty would make enforcement of those obligations to the client unlikely; and
 
 (4\) to a nonclient when and to the extent that:
 
 - (a\) the lawyer's client is a trustee, guardian, executor, or fiduciary acting primarily to perform similar functions for the nonclient;
-
 - (b\) the lawyer knows that appropriate action by the lawyer is necessary with respect to a matter within the scope of the representation to prevent or rectify the breach of a fiduciary duty owed by the client to the nonclient, where (i) the breach is a crime or fraud or (ii) the lawyer has assisted or is assisting the breach;
-
 - (c\) the nonclient is not reasonably able to protect its rights; and
-
 - (d\) such a duty would not significantly impair the performance of the lawyer's obligations to the client.
 
 ### Rest. (2d) of the Law Governing Lawyers § 52
@@ -137,9 +127,7 @@ For purposes of liability under § 48, a lawyer owes a duty to use care within t
 (2\) Proof of a violation of a rule or statute regulating the conduct of lawyers:
 
 - (a\) does not give rise to an implied cause of action for professional negligence or breach of fiduciary duty;
-
 - (b\) does not preclude other proof concerning the duty of care in Subsection (1) or the fiduciary duty; and
-
 - (c\) may be considered by a trier of fact as an aid in understanding and applying the standard of Subsection (1) or § 49 to the extent that (i) the rule or statute was designed for the protection of persons in the position of the claimant and (ii) proof of the content and construction of such a rule or statute is relevant to the claimant's claim.
 
 ### Rest. (2d) of the Law Governing Lawyers § 53
@@ -159,13 +147,11 @@ A lawyer is liable under § 48 or § 49 only if the lawyer's breach of a duty of
 (3\) The client or former client may rescind an agreement settling a claim by the client or former client against the person's lawyer if:
 
 - (a\) the client or former client was subjected to improper pressure by the lawyer in reaching the settlement; or
-
 - (b\) (i) the client or former client was not independently represented in negotiating the settlement, and (ii) the settlement was not fair and reasonable to the client or former client.
 
 (4\) For purposes of professional discipline, a lawyer may not:
 
 - (a\) make an agreement prospectively limiting the lawyer's liability to a client for malpractice; or
-
 - (b\) settle a claim for such liability with an unrepresented client or former client
 
 without first advising that person in writing that independent representation is appropriate in connection therewith.
@@ -191,9 +177,7 @@ Except as provided in § 57 and in addition to liability under §§ 48-55, a law
 (1\) In addition to other absolute or conditional privileges, a lawyer is absolutely privileged to publish matter concerning a nonclient if:
 
 - (a\) the publication occurs in communications preliminary to a reasonably anticipated proceeding before a tribunal or in the institution or during the course and as a part of such a proceeding;
-
 - (b\) the lawyer participates as counsel in that proceeding; and
-
 - (c\) the matter is published to a person who may be involved in the proceeding, and the publication has some relation to the proceeding.
 
 (2\) A lawyer representing a client in a civil proceeding or procuring the institution of criminal proceedings by a client is not liable to a nonclient for wrongful use of civil proceedings or for malicious prosecution if the lawyer has probable cause for acting, or if the lawyer acts primarily to help the client obtain a proper adjudication of the client's claim in that proceeding.
@@ -217,7 +201,6 @@ Except as provided in § 57 and in addition to liability under §§ 48-55, a law
 (h\) A lawyer shall not:
 
 - (1\) make an agreement prospectively limiting the lawyer's liability to a client for malpractice unless the client is independently represented in making the agreement; or
-
 - (2\) settle a claim or potential claim for such liability with an unrepresented client or former client unless that person is advised in writing of the desirability of seeking and is given a reasonable opportunity to seek the advice of independent legal counsel in connection therewith.
 
 ### Marker v. Greenberg, 313 N.W.2d 4 (Minn. 1981)

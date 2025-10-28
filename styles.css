@@ -133,8 +133,11 @@ a:active {
 }
 
 /* Lists -- ul default is unstyled; use • for bullets */
-ol, ul {
+ol, ul, dl {
+	margin-top: 0;
+	margin-bottom: .5rem;
 	padding-left: 1.5rem;
+	max-width: 40rem;
 }
 ul { 
 	list-style-type: none;

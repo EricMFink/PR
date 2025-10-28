@@ -66,13 +66,13 @@ In an unrelated matter, Stella represents a group of college students seeking to
 
 Assess the relevance of these factors in determining the risk that Stella's actions on behalf of one client would materially limit Stella's effectiveness in representing the other:
 
-- The fact that Stella will represent both clients in lawsuits at the trial court level.
+- • The fact that Stella will represent both clients in lawsuits at the trial court level.
 
-- The fact that the lawsuits will be litigated during the same period of time.
+- • The fact that the lawsuits will be litigated during the same period of time.
 
-- The fact that Stella would not benefit financially if the statute were interpreted to allow punitive damages.
+- • The fact that Stella would not benefit financially if the statute were interpreted to allow punitive damages.
 
-- The fact that, when Stella agreed to represent the students, she explained to them that she was arguing against the availability of punitive damages in the Chix case.
+- • The fact that, when Stella agreed to represent the students, she explained to them that she was arguing against the availability of punitive damages in the Chix case.
 
 ### Question 6
 
@@ -467,7 +467,6 @@ B) Yes, because Kieran was properly screened from the Kasho representation.
 C) No, because there is a substantial risk that confidential information that Kieran would have learned at the Podkrash firm would materially advance Kasho's position in the litigation.
 
 D) No, because this is a situation in which screening is insufficient to avoid the possibility of a conflict of interest so long as Kieran remains at the firm.
-
 
 ### Question 4
 
