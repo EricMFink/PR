@@ -4,7 +4,7 @@
 
 ### Model Rules of Professional Conduct, Rule 4.1
 
-##### Truthfulness in Statements to Others
+#### Truthfulness in Statements to Others
 
 - In the course of representing a client a lawyer shall not knowingly:
 - (a\) make a false statement of material fact or law to a third person; or

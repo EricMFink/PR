@@ -935,9 +935,9 @@ While I agree with much of the majority opinion and agree that the significant c
 
 I hope that in the future, this court will more often utilize probation, as was done in this case, as a means of protecting the citizens of Ohio from attorney misconduct.
 
-### Note on _Sarver_
-
-Sarver's disciplinary woes did not end here. Two years after his suspension, he was permanently disbarred and ordered to pay $50,000 in restitution for "filing a false affidavit of compliance with [the Ohio Supreme Court], continuing to practice law while under suspension, and committing other professional misconduct during the course of his suspension and the ensuing disciplinary investigation." [_Disciplinary Counsel v. Sarver_](https://scholar.google.com/scholar_case?case=11286210687675325700), 170 NE 3d 799 (Ohio 2020). 
+::: {.callout-note}
+**Postscript to _Sarver_:** Sarver_'s disciplinary woes did not end here. Two years after his suspension, he was permanently disbarred and ordered to pay $50,000 in restitution for "filing a false affidavit of compliance with [the Ohio Supreme Court], continuing to practice law while under suspension, and committing other professional misconduct during the course of his suspension and the ensuing disciplinary investigation." [_Disciplinary Counsel v. Sarver_](https://scholar.google.com/scholar_case?case=11286210687675325700), 170 NE 3d 799 (Ohio 2020). 
+:::
 
 ## Conflicts Involving Former Clients
 
@@ -953,7 +953,7 @@ Sarver's disciplinary woes did not end here. Two years after his suspension, he 
 
 ### Model Rules of Professional Conduct, Rule 1.11: Special Conflicts of Interest for Former & Current Government Officers & Employees
 
-- (a\) Except as law may0 otherwise expressly permit, a lawyer who has formerly served as a public officer or employee of the government:
+- (a\) Except as law may otherwise expressly permit, a lawyer who has formerly served as a public officer or employee of the government:
 	- (1\) is subject to Rule 1.9(c); and
 	- (2\) shall not otherwise represent a client in connection with a matter in which the lawyer participated personally and substantially as a public officer or employee, unless the appropriate government agency gives its informed consent, confirmed in writing, to the representation.
 - (b\) When a lawyer is disqualified from representation under paragraph (a), no lawyer in a firm with which that lawyer is associated may knowingly undertake or continue representation in such a matter unless:
