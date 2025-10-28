@@ -641,6 +641,11 @@ footer.footer .nav-footer, #quarto-header > nav {
 	color: #191919;
 	padding: 4px 6px;
 }
+.callout.callout-style-default .callout-body {
+	font-size: .9rem;
+	font-weight: 400;
+	max-width: 40rem;
+}
 .callout p {
 	font-family: "Adelle-Sans", sans-serif;
 	font-size: .9rem;
