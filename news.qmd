@@ -1,7 +1,5 @@
----
-listing: 
-  contents: posts/*
-  type: default
----
-
 # PR News {.unnumbered}
+
+Utah Supreme Court upholds discipline of prosecutor under Rule 3.6 (Trial Publicity). [_Leavitt v. Office of Professional Conduct_](exhibits/Leavitt-v-OPC.pdf), 2025 UT 46 (Utah Oct. 30, 2025).
+
+DC Bar issues opinion on  "Lawyers and Law Firms That Contemplate Agreeing with Governments to Conditions That May Limit or Shape Their Law Practices". [DC Bar Ethics Opinion 391](exhibits/DCEthicsOpinion391.pdf) (Oct. 2025).
