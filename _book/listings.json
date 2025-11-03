@@ -1,21 +1,5 @@
 [
   {
-    "listing": "/posts/posts.html",
-    "items": []
-  },
-  {
-    "listing": "/news/posts.html",
-    "items": []
-  },
-  {
-    "listing": "/news/index.html",
-    "items": []
-  },
-  {
-    "listing": "/news.html",
-    "items": []
-  },
-  {
     "listing": "/news/news.html",
     "items": []
   }
