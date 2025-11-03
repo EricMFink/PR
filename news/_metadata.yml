@@ -6,7 +6,7 @@
 # freeze: auto
 
 # enable banner style title blocks ----
-#title-block-banner: true
+title-block-banner: true
 
 # my author info ----
 author:
