@@ -1,12 +1,12 @@
 [
   {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "PR News",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Professional Responsibility",
     "section": "",
-    "text": "DC Bar Ethics Opinion on “Lawyers and Law Firms That Contemplate Agreeing with Governments to Conditions That May Limit or Shape Their Law Practices”. DC Bar Ethics Opinion 391 (Oct. 2025)",
+    "text": "Elon Law School\nEric M. Fink",
     "crumbs": [
-      "PR News"
+      "Home"
     ]
   },
   {
@@ -930,6 +930,16 @@
     ]
   },
   {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "PR News",
+    "section": "",
+    "text": "Utah Supreme Court upholds discipline of prosecutor under Rule 3.6 (Trial Publicity). Leavitt v. Office of Professional Conduct, 2025 UT 46 (Utah Oct. 30, 2025).\nDC Bar issues opinion on “Lawyers and Law Firms That Contemplate Agreeing with Governments to Conditions That May Limit or Shape Their Law Practices”. DC Bar Ethics Opinion 391 (Oct. 2025).",
+    "crumbs": [
+      "PR News"
+    ]
+  },
+  {
     "objectID": "links.html",
     "href": "links.html",
     "title": "Links",
@@ -937,16 +947,6 @@
     "text": "Model Rules & Restatement\nABA Model Rules of Professional Conduct\nRestatement (3d) of the Law Governing Lawyers\n\n\nNorth Carolina Statutes, Rules, & State Bar Materials\nNC Gen. Stat., Chap. 84: Attorneys-at-Law\n27 NC Admin. Code, Chap. 1: Governing rules of the NC State Bar\nNC Rules of Professional Conduct\nNC State Bar Ethics Opinions\nNC State Bar Lawyer’s Handbook\nNC State Bar Trust Account Handbook\nNC State Bar Disciplinary Actions, Hearings, & Orders\n\n\nMPRE Information\nTest Registration\nPreparing for the MPRE\nOutline of Subjects Covered\nKey Words & Phrases\nSample Test Questions\n\n\nCALI Materials\nSources of Law Regulating the Practice of Law\nModel Rules of Professional Conduct I\nModel Rules of Professional Conduct II\nAdmission to Practice\nBasis for Attorney Discipline\nFees\nChoosing & Withdrawing from Representation\nClient or Not?\nClient Advice Letters\nDuty of Confidentiality & Attorney-Client Privilege\nExceptions to the Duty of Confidentiality\nThe Defense Function\nEmail Correspondence",
     "crumbs": [
       "Links"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Professional Responsibility",
-    "section": "",
-    "text": "Elon Law School\nEric M. Fink",
-    "crumbs": [
-      "Home"
     ]
   }
 ]
