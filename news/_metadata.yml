@@ -3,10 +3,10 @@
 ##~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 # re-render posts only when a change to the source file is made ----
-freeze: auto
+# freeze: auto
 
 # enable banner style title blocks ----
-title-block-banner: true
+#title-block-banner: true
 
 # my author info ----
 author:
