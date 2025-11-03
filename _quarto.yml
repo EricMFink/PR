@@ -90,8 +90,7 @@ book:
           href: 04-Appendix/reasonable-doubt.qmd
         - text: Bookstore
           href: 04-Appendix/bookstore.qmd
-    - href: news/news.qmd
-      text: PR News
+    - news.qmd
     - href: links.qmd
       text: Links
 
