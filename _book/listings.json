@@ -14,5 +14,9 @@
   {
     "listing": "/news.html",
     "items": []
+  },
+  {
+    "listing": "/news/news.html",
+    "items": []
   }
 ]

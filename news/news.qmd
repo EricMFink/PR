@@ -1,0 +1,7 @@
+---
+listing: 
+  contents: posts/*
+  type: default
+---
+
+# PR News {.unnumbered}
