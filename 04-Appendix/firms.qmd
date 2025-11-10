@@ -1,15 +1,14 @@
 # Duties Within Law Firms {.unnumbered}
 
+## Questions
+
 ### Question 1
 
 Attorney Applebaum is recognized as an expert in securities regulation law. Corporation retained Applebaum's law firm to qualify Corporation's stock for public sale. After accepting the matter, Applebaum decided that he preferred to spend his time on cases with larger fee potential, so he assigned responsibility for the Corporation matter to Attorney Becker, an associate in Applebaum's office who had recently been admitted to the bar. Becker protested to Applebaum that he, Becker, knew nothing about securities regulation law and that he had too little time to prepare himself to handle the Corp matter competently without substantial help from Applebaum. Applebaum responded, “I don't have time to help you. Everyone has to start somewhere." Applebaum directed Becker to proceed. Was Applebaum's conduct proper in this matter?
 
 a. Yes, because as a member of the bar, Becker is licensed to handle any legal matter.
-
 b. Yes, because Applebaum may withdraw from a case if work on it would cause him unreasonable financial hardship.
-
 c. No, because Applebaum knew Becker was not competent to handle the matter, and Applebaum failed to provide supervision adequate to protect the client's interest.
-
 d. No, because Corporation had not given Applebaum permission to assign Becker to work on the matter.
 
 ### Question 2
@@ -17,11 +16,8 @@ d. No, because Corporation had not given Applebaum permission to assign Becker t
 Attorney places Associate, recently admitted to the bar, in complete charge of the work of the paralegals in Attorney's office. That work consisted of searching titles to real property, an area in which Associate had no familiarity. Attorney instructed Associate to review the searches prepared by the paralegals, and thereafter to sign Attorney's name to the required certifications of title if Associate was satisfied that the search accurately reflected the condition of the title. This arrangement enabled Attorney to lower office operating expenses. Attorney told Associate that Associate should resolve any legal questions that might arise and not to bother Attorney because Attorney was too busy handling major litigation. Is it proper for Attorney to assign Associate this responsibility?
 
 a. Yes, if the paralegals are experienced in searching titles.
-
 b. Yes, because Attorney is ultimately liable for the accuracy of the title searched.
-
 c. No, unless it enables Attorney to charge lower fees for title certification.
-
 d. No, because Attorney is not adequately supervising the work of Associate.
 
 ### Question 3
@@ -29,58 +25,39 @@ d. No, because Attorney is not adequately supervising the work of Associate.
 Applebaum & Becker, a general partnership, is a litigation firm that hires new law school graduates as associates. These new lawyers are largely left to their own resources to practice law. Applebaum & Becker accepts many small cases and assigns them to associates for training purposes. No senior partners are assigned to supervise this work. Client retained Applebaum & Becker to pursue a claim for breach of contract against City. Associate, a first year associate, was assigned Client's case. Associate failed to comply with the applicable 30-day notice requirement for filing a claim against City, and thus Client lost the chance to recover $5,000. Which of the following statements are  correct?
 
 a. The firm is subject to discipline for failure to supervise Associate.
-
 b. The individual partners of Applebaum & Becker are subject to discipline for failure to make reasonable efforts to establish a system providing reasonable assurance that all lawyers in the firm comply with the rules of professional conduct.
-
 c. Associate is subject to discipline for incompetent representation.
-
 d. The partners and Associate are subject to civil liability for Client's loss.
 
 ### Question 4
 
-Associate was recently hired by the Smith Law Firm. Applebaum, a partner at the Smith Law Firm, has asked Associate to draft a complaint in a new case. Associate, who has researched the potential claims for the complaint, concluded that the claims may be frivolous. Applebaum has thoroughly reviewed Associate's research and determined that, although the claims are weak, they are not frivolous. Thus, Applebaum instructs Associate to file the complaint. 
-
-If it turns out that the claims were frivolous, would Associate be subject to discipline? Would Applebaum be subject to discipline?
-
-### Question 5
-
 An attorney has a highly efficient staff of paraprofessional legal assistants, all of whom are graduates of recognized legal assistant educational programs. Recently, the statute of limitations ran against a claim of a client of the attorney's when a legal assistant negligently misplaced the client's file and suit was not filed within the time permitted by law. Which of the following is correct?
 
 a. The attorney is subject to civil liability and is also subject to discipline on the theory of respondent superior.
-
 b. The attorney is subject to civil liability or is subject to discipline at the client's election.
-
 c. The attorney is subject to civil liability but is NOT subject to discipline unless the attorney failed to supervise the legal assistant adequately.
-
 d. The attorney is NOT subject to civil liability and is NOT subject to discipline if the attorney personally was not negligent.
 
-### Question 6
+### Question 5
 
 Law Firm hires Adele, a non-lawyer, to supervision all routine administrative and financial matters for the firm. Adele reports to the firm's managing partner, who is also responsible for supervising the firm's associates. In addition to a monthly salary, Adele receives an annual bonus bonus based on a percentage of the firm's net income from fees. Is this arrangement proper?
 
 a. Yes, unless Adele has access to client files.
-
 b. Yes, if Adele does not control the professional judgment of the lawyers in the firm.
-
 c. No, because the law firm is sharing legal fees with a nonlawyer.
-
 d. No, because the law firm is assisting a nonlawyer in the unauthorized practice of law.
 
-### Question 7
+### Question 6
 
 Law Firm, a professional corporation with five lawyer shareholders, employs 25 additional lawyers. Which of the following are proper?
 
 a. Employees who are members of the bar are not made shareholders until they have been with Law Firm for 10 years.
-
 b. Manager, who is the office manager and not a member of the bar, is executive vice president of Law Firm.
-
 c. Widow, whose husband was a lawyer shareholder in Law Firm until his death two years ago, continues to hold husband's shares in Law Firm until their child finishes law school.
-
 d. All of the above.
-
 e. None of the above. 
 
-### Question 8
+### Question 7
 
 Acton, a certified public accountant, has proposed to Attorney, a recognized specialist in the field of tax law, that Acton and Attorney form a partnership for the purpose of providing clients with tax-related legal and accounting services. Both Acton and Attorney have deserved reputations for being competent, honest, and trustworthy. Acton further proposes that the announcement of the proposed partnership, the firm stationery, and all public directory listings clearly state that Acton is a certified public accountant and that Attorney is a lawyer. Is Attorney subject to discipline if he enters into the proposed partnership with Acton?
 
@@ -89,39 +66,29 @@ b. Yes, because Attorney would be receiving fees paid for other than legal servi
 c. No, because the partnership will assure to the public high-quality services in the fields of tax law and accounting.
 d. No, if Attorney is the only person in the partnership who gives advice on legal matters.
 
-### Question 9
+### Question 8
 
 Same facts as previous question, but the partnership will be providing only accounting services. Is Attorney subject to discipline? 
 
-### Question 10
+### Question 9
 
-Dewey, a lawyer, has just joined the Law Offices of Applebaum and Becker, a professional corporation engaged solely in the practice of law. Dewey is a salaried associate and is not a member or shareholder of the professional corporation. Applebaum's spouse, Wickersham, who is not a lawyer, is vice-president of the corporation and office manager. All of the other officers are lawyers in the firm. All of the corporate shares are held by lawyers in the corporation, except for ten shares held by the executor under the will of a lawyer-member who died one month previously and whose will is now being probated. Dewey knows that Wickersham is an officer and not a lawyer. 
-
-Is Dewey subject to discipline?
+Dewey, a lawyer, has just joined the Law Offices of Applebaum and Becker, a professional corporation engaged solely in the practice of law. Dewey is a salaried associate and is not a member or shareholder of the professional corporation. Applebaum's spouse, Wickersham, who is not a lawyer, is vice-president of the corporation and office manager. All of the other officers are lawyers in the firm. All of the corporate shares are held by lawyers in the corporation, except for ten shares held by the executor under the will of a lawyer-member who died one month previously and whose will is now being probated. Dewey knows that Wickersham is an officer and not a lawyer. Is Dewey subject to discipline?
 
 a. Yes, because Wickersham is an officer of the corporation.
-
 b. Yes, if a nonlawyer holds the stock as the executor of the will of the deceased member.
-
 c. No, because Dewey is a salaried employee and not a member or shareholder of the corporation.
-
 d. No, if Wickersham does not participate in any decision regarding a client or a client's case.
 
-### Question 11
+### Question 10
 
-Attorney has recently started her own law firm with four other lawyers as associates. The law firm has moved into an office in a new building which is owned by Bank. Attorney has borrowed heavily from Bank to finance her new law firm. In addition, Bank provides the law firm with accounting services through its computer. At Bank's suggestion, an employee of Bank, who is not a lawyer, serves as a part-time office manager for the law firm without compensation from the firm. The duties of the office manager are to advise the firm generally on fees and time charges, program matters for the computer services, and consult with Attorney on accounting and billing practices to ensure solvency. 
-
-Is the arrangement with Bank proper?
+Attorney has recently started her own law firm with four other lawyers as associates. The law firm has moved into an office in a new building which is owned by Bank. Attorney has borrowed heavily from Bank to finance her new law firm. In addition, Bank provides the law firm with accounting services through its computer. At Bank's suggestion, an employee of Bank, who is not a lawyer, serves as a part-time office manager for the law firm without compensation from the firm. The duties of the office manager are to advise the firm generally on fees and time charges, program matters for the computer services, and consult with Attorney on accounting and billing practices to ensure solvency. Is the arrangement with Bank proper?
 
 a. Yes, unless secrets or confidences of clients may be disclosed to Bank.
-
 b. Yes, because the office manager is paid by Bank.
-
 c. No, because a nonlawyer will be advising the law firm on fees and time charges.
-
 d. No, because Bank's employee is involved in management of the law firm, without supervision by the firm's attorneys.
 
-### Question 12
+### Question 11
 
 Attorney is employed full time by the Parents United to Protect Students (PUPS), a non-profit organization (controlled by nonlawyers) that provides legal representation in cases involving access to education for disabled people. Attorney has just completed a case in which he was awarded $50,000 in attorney's fees under the Equal Access to Justice Act because he prevailed in an action against a local community college district. Which of the following statements most accurately describes Attorney's options, with respect to the fees, under the Model Rules of Professional Conduct? 
 
@@ -130,30 +97,16 @@ b. Attorney may share the fees with PUPS because it is his employer and is a non
 c. Attorney may share the fees with PUPS because it is his employer. 
 d. Attorney may not share the fees with PUPS because the organization is not a law firm.
 
-### Question 13
+### Question 12
 
-Applebaum & Becker is a law firm specializing in real estate transactions. For years, Applebaum & Becker has used independent title insurance companies for its clients' real estate closings. The firm is considering starting its own title insurance company, which will be incorporated separately from the law firm but will be housed in the same building. 
-
-May the firm do so and what steps should it take to avoid violation of Rule 5.7?
-
-### Question 14
-
-The Applebaum Law Firm's estate planning department has been losing money for years.  Consequently, the firm decides to sell its entire estate planning practice—including all estate planning clients—to the Becker Law Firm, which specializes in estate planning.  
-
-- What duties does the Applebaum firm owe to its estate planning clients?
-- May the Applebaum firm sell only those clients with assets below $1 million?
-- May the Becker firm defray the acquisition costs by raising fees on clients it receives from Applebaum?
-
-### Question 15
-
-Attorney has decided that he no longer desires to keep up the pace required by a full-time solo practice. He does both estate planning and probate adminis tration. Which of the following statements most accurately reflects Nick's options under the Model Rules of Professional Conduct? 
+Attorney has decided that he no longer desires to keep up the pace required by a full-time solo practice. He does both estate planning and probate administration. Which of the following statements most accurately reflects Nick's options under the Model Rules of Professional Conduct? 
 
 a. He may not sell the practice but may withdraw from representation of his clients because good cause exists to do so. 
 b. He must sell his entire practice and retire if he chooses to sell any of it. 
 c. He may sell the estate planning portion of his practice but remain in the practice of law part-time by maintaining his probate administration practice. 
 d. He may sell a substantial portion of his practice if he gives reasonable notice to the affected clients. 
 
-### Question 16
+### Question 13
 
 Attorney recently won a major case. As soon as the verdict was announced, Attorney's nonlawyer secretary sent the following message via Twitter: “Attorney won big again. He can win big 4 u 2!" Attorney soon found out about the message. Assuming that this was a false or misleading communication about Attorney's services, under what circum stances, if any, will Attorney will responsible for this violation of the Rules of Professional Conduct? 
 
@@ -161,11 +114,3 @@ a. Attorney will not be responsible because he did not send the message.
 b. Attorney will not be responsible because he did not order his secretary to send the message.
 c. Attorney will not be responsible because he has done nothing to ratify the conduct. 
 d. Attorney will be responsible unless he takes reasonable remedial action to avoid the consequences of the misconduct. 
-
-### Question 17
-
-Engulf & Devour (E & D) is a law firm that is concerned about departing partners who then take clients of the firm and otherwise compete with the firm. E & D is considering whether it can implement a “retirement plan” that would pay departing lawyers the amounts in their capital accounts (which under the partnership agreement belong to the individual lawyers) and any fees earned by but not paid to the departing lawyers only on the condition that the departing lawyers not compete with E & D after their departure. Is the plan consistent with the Model Rules of Professional Conduct?
-
-### Question 18
-
-Attorney is an associate in the law firm of Soo & Wynne. Attorney was admitted to the bar just a few months ago. Attorney has been instructed by one of the partners in the firm to file a lawsuit for a client and obtain an ex parte temporary restraining order to prevent a foreclosure sale of the client's property. The partner has instructed Attorney not to inform the court at the ex parte hearing of certain material facts that harm their client's case. Under the Model Rules of Professional Conduct, may Attorney follow the partner's instructions? 

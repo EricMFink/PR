@@ -28,11 +28,8 @@ Anderson is an associate with the law firm of Peterson & Paulson. Peterson & Pau
 Which of the lawyers, if any, may be subject to discipline for breach of the duty of competence under MRPC Rule 1.1? 
 
 a. Anderson only
-
 b. Anderson and Peterson, but not Paulson
-
 c. Anderson, Peterson, & Paulson.
-
 d. None.
 
 ### Question 5 
@@ -40,11 +37,8 @@ d. None.
 Same facts as the previous question. Which of the lawyers, if any, may be liable to Company for malpractice? 
 
 a. Anderson only
-
 b. Anderson and Peterson, but not Paulson
-
 c. Anderson, Peterson, & Paulson.
-
 d. None.
 
 ### Question 6 
@@ -52,26 +46,19 @@ d. None.
 For many years Attorney has done all of the routine business law work for Corporation. Now Corporation has asked Attorney to represent it in negotiating a contract to supply electronic components to the federal government. Attorney knows nothing about government contract law except that it is a highly specialized field governed by a mass of technical regulations. For which of the following would Attorney be subject to discipline under the MRPC?
 
 a. Declining to represent Corporation, and to charge Corporation a nominal fee for finding Corporation a lawyer who specializes in government contract law.
-
 b. Agreeing to represent Corporation, provided Corporation consents to the association of a lawyer with experience in government contract law.
-
 c. Agreeing to represent Corporation, and then subcontracting the legal work to a lawyer with experience in government contract law.
-
 d. Agreeing to represent Corporation, intending to master the field of government contract law with reasonable speed and efficiency.
 
 ### Question 7
 
 Client was injured when a physician's assistant improperly treated Client when he was in the hospital for a heart condition. Client consulted with Lawyer about suing the hospital. Lawyer never had handled a medical malpractice case previously, but was confident in her abilities because she had experience in plaintiff's work and in trying civil cases, and planned to educate herself about medical malpractice claims. Accordingly, Lawyer accepted the representation. The case ultimately went to trial, and Lawyer lost the case. Client sued Lawyer for malpractice. Which of the following circumstances likely would demonstrate Lawyer's breach of her duty of competence to Client? Select all that apply: 
 
-1. Lawyer accepting a medical malpractice for the first time. 
-
-2. Lawyer decided to call only one of expert medical witnesses with whom she had consulted as trial witnesses, when Client believed that the jury would be more impressed if Lawyer called multiple experts. 
-
-3. Lawyer did not investigate whether any other staff at the hospital witnessed the alleged improper treatment of Client. 
-
-4. Lawyer did not discover a published regulation governing required staff-to-patient ratios at the hospital. 
-
-5. Lawyer did not consult with an available expert about staff-patient ratios necessary to ensure reasonably safe medical treatment. .
+a. Lawyer accepting a medical malpractice for the first time. 
+b. Lawyer decided to call only one of expert medical witnesses with whom she had consulted as trial witnesses, when Client believed that the jury would be more impressed if Lawyer called multiple experts. 
+c. Lawyer did not investigate whether any other staff at the hospital witnessed the alleged improper treatment of Client. 
+d. Lawyer did not discover a published regulation governing required staff-to-patient ratios at the hospital. 
+e. Lawyer did not consult with an available expert about staff-patient ratios necessary to ensure reasonably safe medical treatment. .
 
 ## Answers
 
@@ -87,4 +74,4 @@ Client was injured when a physician's assistant improperly treated Client when h
 
 6. Answers (a) & (c) are correct. An attorney may not charge a fee merely for referring a potential client to another lawyer; the attorney may only receive a fee proportionate to the value of any useful work performed. An attorney may not "subcontract" legal work to a lawyer in another firm; the lawyer may bring in the other lawyer as co-counsel, with the client's informed consent. 
 
-7. Number 3, 4, and 5 would likely demonstrate Lawyer's breach of her duty of competence. Competent preparation in this case would include investigating potential witnesses to Client's alleged conduct (3) and research the applicable law, including regulations (4). A competent lawyer would also likely consult with an available expert about the impact of staffing ratios on safe treatment. 
+7. Answers c, d, and e would likely demonstrate Lawyer's breach of her duty of competence. Competent preparation in this case would include investigating potential witnesses to Client's alleged conduct (3) and research the applicable law, including regulations (4). A competent lawyer would also likely consult with an available expert about the impact of staffing ratios on safe treatment. 
