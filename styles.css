@@ -98,9 +98,12 @@ p {
 
 /* Lists */
 ol, ul {
-	margin: 0 0 0 0;
-	padding-left: 2.5rem;
+	margin: .25rem 0 .25rem 0;
+	padding-left: 2rem;
 	font-size: .9rem;
+}
+li {
+	margin-bottom: .5rem;
 }
 
 /* Links */
@@ -385,42 +388,6 @@ img {
 	font-weight: 300;
 	font-style: normal;
 	margin: 0.2rem 0 0rem 0;
-}
-.syllabus ul { 
-	list-style-type: disc;
-}
-.syllabus li {
-	margin-bottom: .5rem;
-}
-.syllabus table {
-	margin: 2rem 0 1rem 0;
-	max-width: 100%;
-}
-.syllabus table p {
-	font-size: 0.9rem;
-	margin: 0 0 0 0; 
-}
-.syllabus th {
-	font-size: 1rem;
-	font-weight: 400;
-}
-.syllabus th p {
-	font-size: 1rem;
-	font-weight: 400;
-}
-.syllabus td {
-	font-size: 1rem;
-}
-.syllabus td p {
-	font-size: 1rem;
-}
-.syllabus table ol {
-	margin: 0rem 0 0.5rem 0;
-}
-.syllabus table ol li {
-	font-family: "Adelle Sans", sans-serif;
-	font-size: 1rem;
-	font-weight: 400;
 }
 
 /* Casebook Cover */
@@ -909,8 +876,15 @@ header .chapter-title {
 	margin: 2rem 0 0 0;
 	order: 2;
 }
+/*
 .sidebar nav[role=doc-toc] ul {
 	font-size: .8rem;
+	margin: 0 0 0 0;
+}
+*/
+.sidebar nav[role=doc-toc] ul li {
+	font-size: .8rem;
+	margin: 0 0 0 0;
 }
 .sidebar nav[role=doc-toc] ul>li>a.active {
 	border-left: 1px solid #800000;
