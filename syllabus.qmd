@@ -4,32 +4,37 @@
 
 ::: {.syllabus}
 
-##### {{< var institution >}}
+::: {.syllabus-header}
 
-##### {{< var term >}}
+## {{< var subject >}} {.unnumbered}
 
-##### {{< var room >}}
+{{< var institution >}}
 
-##### {{< var meets >}}
+{{< var term >}}
 
-###### [{{< var repo-name >}}]({{< var repo-url >}})
+{{< var room >}}
 
+{{< var meets >}}
 
-#### Professor
+[{{< var repo-name >}}]({{< var repo-url >}})
 
-##### {{< var author >}}
+### Professor
 
-###### [{{< var email >}}](mailto:{{< var email >}})
+{{< var author >}}
 
-##### {{< var phone >}}
+{{< var phone >}}
 
-##### Office hours: [[calendly.com/emfink]({{< var appointments >}})]{.mono-font-smaller}
+[{{< var email >}}](mailto:{{< var email >}})
 
-#### Teaching Assistant {.unnumbered}
+Office hours: [[calendly.com/emfink]({{< var appointments >}})]{.mono-font-smaller}
 
-##### {{< var ta >}}
+### Teaching Assistant {.unnumbered}
 
-###### [{{< var ta-email >}}](mailto:{{< var ta-email >}})
+{{< var ta >}}
+
+[{{< var ta-email >}}](mailto:{{< var ta-email >}})
+
+:::
 
 ## Description {.unnumbered}
 
@@ -77,74 +82,108 @@ The Law School [honor code](https://www.elon.edu/u/law/students/honor-code/) app
 
 ### 1. The Legal Profession & Regulation of Lawyers 
 
-_Casebook_, Chap. 1; _Geisel_, Chap. 1 & 2[^syllabus2]
+_Geisel_, Chap. 1 & 2[^syllabus2]
 
-**Sept. 3:** Regulatory Authorities; Misconduct & Discipline, _Casebook_ §§ 1.1 & 1.2
+#### September 3
 
-**Sept. 8:** Bar Admission; Unauthorized Practice of Law; Law Firms _Casebook_ §§ 1.3-1.5
+- Regulatory Authorities; Misconduct & Discipline, _Casebook_ §§ 1.1 & 1.2
+
+#### September 8
+
+- Bar Admission; Unauthorized Practice of Law; Law Firms _Casebook_ §§ 1.3-1.5
 
 ### 2. Advertising & Solicitation 
 
-_Casebook_, Chap. 2; _Geisel_, Chap. 45 & 46 
+_Geisel_, Chap. 45 & 46 
 
-**Sept. 10:** Advertising; Solicitation, _Casebook_ §§ 2.1 & 2.2
+#### September 10
+
+- Advertising; Solicitation, _Casebook_ §§ 2.1 & 2.2
 
 ### 3. The Attorney-Client Relationship 
 
-_Casebook_, Chap. 3; _Giesel Chap._ 4 & 8-14 
+_Giesel Chap._ 4 & 8-14 
 
-**Sept. 15:** Establishing an Attorney-Client Relationship; Prospective Clients; Declining & Terminating Representation, _Casebook_ §§ 3.1, 3.2, & 3.3
+#### September 15
 
-**Sept. 17:** Scope of Representation & Allocation of Authority, _Casebook_ §§ 3.4
+- Establishing an Attorney-Client Relationship; Prospective Clients; Declining & Terminating Representation, _Casebook_ §§ 3.1, 3.2, & 3.3
 
-**Sept. 22:** Clients with Diminished Capacity; Organizational Clients, _Casebook_ §§ 3.5 & 3.6
+#### September 17
 
-**Sept. 29 & Oct. 1:** Attorney Fees & Client Property, _Casebook_  §§ 3.7 & 3.8 
+- Scope of Representation & Allocation of Authority, _Casebook_ §§ 3.4
+
+#### September 22
+
+- Clients with Diminished Capacity; Organizational Clients, _Casebook_ §§ 3.5 & 3.6
+
+#### September 29 & October 1
+
+- Attorney Fees & Client Property, _Casebook_  §§ 3.7 & 3.8 
 
 ### 4. The Duty of Care 
 
-_Casebook_, Chap. 4; _Geisel_, Chap. 5-7 & 24 
+_Geisel_, Chap. 5-7 & 24 
 
-**Oct. 6 & 8:** Competence, Diligence, & Communication; Malpractice, _Casebook_ §§ 4.1 & 4.2
+#### October 6 & 8
 
-**Oct. 13:** Ineffective Assistance of Counsel; Malpractice in Criminal Cases,, _Casebook_ §§ 4.3 & 4.4
+- Competence, Diligence, & Communication; Malpractice, _Casebook_ §§ 4.1 & 4.2
+
+#### October 13
+
+- Ineffective Assistance of Counsel; Malpractice in Criminal Cases, _Casebook_ §§ 4.3 & 4.4
 
 ### 5. Confidentiality & Privileges 
 
-_Casebook_, Chap. 5; _Geisel_, Chap. 15-16 
+_Geisel_, Chap. 15-16 
 
-**Oct. 15 & 20:** The Duty of Confidentialty, _Casebook_ § 5.1
+#### October 15 & 20
 
-**Oct. 22:** Attorney-Client Privilege & Work-Product, _Casebook_ § 5.2 & 5.6 
+- The Duty of Confidentialty, _Casebook_ § 5.1
+
+#### October 22
+
+- Attorney-Client Privilege & Work-Product, _Casebook_ § 5.2 & 5.6 
 
 ### 6. Conflicts of Interest 
 
-_Casebook_, Chap. 6; _Geisel_, Chap. 17-23 
+_Geisel_, Chap. 17-23 
 
-**Oct. 27:** Conflicts Between Current Clients, _Casebook_ § 6.1 & 6.2 
+#### October 27
 
-**Oct. 29:** Conflicts Involving the Lawyer's Business & Personal Interests, _Casebook_ § 6.2 
+- Conflicts Between Current Clients, _Casebook_ § 6.1 & 6.2 
 
-**Nov. 3 & 5:** Conflicts Involving Former Clients; Imputed Conflicts, _Casebook_ § 6.3 & 6.4 
+#### October 29
+
+- Conflicts Involving the Lawyer's Business & Personal Interests, _Casebook_ § 6.2 
+
+#### November 3 & 5
+
+- Conflicts Involving Former Clients; Imputed Conflicts, _Casebook_ § 6.3 & 6.4 
 
 ### 7. Duties in Litigation 
 
-_Casebook_, Chap. 7; _Geisel_, Chap. 26-33 
+_Geisel_, Chap. 26-33 
 
-**Nov. 10 & 12:** Truthfulness; Fairness & Impartiality; Extrajudicial Statements _Casebook_ Chap. 7, §§ 7.1-7.3
+#### November 10 & 12
 
-**Nov. 17:** Prosecutorial Misconduct, _Casebook_ § 7.4
+- Truthfulness; Fairness & Impartiality; Extrajudicial Statements _Casebook_ Chap. 7, §§ 7.1-7.3
+
+#### November 17
+
+- Prosecutorial Misconduct, _Casebook_ § 7.4
 
 ### 8. Interactions with Non-Clients 
 
-_Casebook_, Chap. 8; _Geisel_, Chap. 35-37 
+_Geisel_, Chap. 35-37 
 
-**Nov. 19 & 24:** General Rules; Represented Persons; Unrepresented Persons, _Casebook_ §§ 8.1, 8.2, & 8.3
+#### November 19 & 24
+
+- General Rules; Represented Persons; Unrepresented Persons, _Casebook_ §§ 8.1, 8.2, & 8.3
 
 ---
 
 **Dec. 8:** Final Exam 
 
-[^syllabus2]: The Giesel hornbook readings are optional. You may find them helpful to get an overview of the topics covered.
+[^syllabus2]: The Geisel hornbook readings are optional. You may find them helpful to get an overview of the topics covered.
 
 :::
