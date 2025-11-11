@@ -1,0 +1,35 @@
+1. Sonny Guest is an attorney who wishes to advertise using the following slogans: “When you need a lawyer, save money by seeing Sonny" and “For your legal needs, Guest is the best!" What advice would you give Sonny about the propriety of these advertisements under the Model Rules of Professional Conduct? 
+
+- Sonny has two problems. Under Rule 7.1, he may not advertise in any way that is false and misleading. The statement that you will "save money" by hiring him is a comparison of the cost of his services with the competition. Similarly, to say “Guest is the best" is a comparison of the quality of his services with the services of other lawyers. The risk is that these statements may be construed to have been presented with sufficient specificity as to cause a reasonable person to believe that they can be substantiated. If the statements do give rise to that reasonable belief, and they cannot be substantiated, they are misleading under Rule 7.1. See Comment [3] to Rule 7.1. 
+
+2. Hattie Dougherty is an attorney who specializes in representing plaintiffs in accidents involving all-terrain vehicles. She has won several huge verdicts that have garnered headlines such as “Hattie Wins $10 million Verdict from Local Jury" and “Dougherty Does it Again: ATV Manufacturer Socked for $15.2 million." Hattie would like to include a "montage" of these headlines as the background for her new television advertisements. What advice would you give Hattie about the propriety of this idea under the Model Rules of Professional Conduct? 
+
+-  Hattie's problem is that using the headlines, even if they are truthful, may create an unjustified expectation in the minds of potential clients that Hattie can secure similar results for them. That unjustified expectation would mean that the advertisement would be misleading under Rule 7.1. See Comment 3 to Rule 7.1. If Hattie wants to use the headlines, she will need to include a disclaimer, for example, that she cannot necessarily obtain results like the results depicted or that all cases must be evaluated on their own merits.
+
+3. Rita McCue is an attorney who specializes in elder law. She would like to increase her volume of business by conducting a series of “educational seminars" around her state through the auspices of local senior citizen centers. She is hoping that many of the attendees will become clients. As she embarks on his tour of seminars, what ethical advice would you give Rita? 
+
+- Rita needs to be particularly careful about in-person solicitation of clients. Although nothing in the Rules of Professional Conduct forbids a lawyer from educating the public about legal issues, this plan will put Rita face-to-face with people she hopes will become clients. Under Rule 7.3, she may not solicit employment from them unless they are lawyers or Rita has a previous professional, family, or close personal relationship with them. Rule 7.3(a). Although Rita may certainly respond to requests for assistance from attendees who initiate contact with her, she may not initiate the relationship by soliciting employment. 
+
+4. Attorney is an associate in the law firm of Soo & Wynne. Attorney was admitted to the bar just a few months ago. Attorney has been instructed by one of the partners in the firm to file a lawsuit for a client and obtain an ex parte temporary restraining order to prevent a foreclosure sale of the client's property. The partner has instructed Attorney not to inform the court at the ex parte hearing of certain material facts that harm their client's case. Under the Model Rules of Professional Conduct, may Attorney follow the partner's instructions? 
+
+
+5. The Applebaum Law Firm's estate planning department has been losing money for years.  Consequently, the firm decides to sell its entire estate planning practice—including all estate planning clients—to the Becker Law Firm, which specializes in estate planning.  
+
+- Rule 1.17
+
+6. Associate was recently hired by the Smith Law Firm. Applebaum, a partner at the Smith Law Firm, has asked Associate to draft a complaint in a new case. Associate, who has researched the potential claims for the complaint, concluded that the claims may be frivolous. Applebaum has thoroughly reviewed Associate's research and determined that, although the claims are weak, they are not frivolous. Thus, Applebaum instructs Associate to file the complaint. If it turns out that the claims were frivolous, would Associate be subject to discipline? Would Applebaum be subject to discipline?
+
+7. Applebaum & Becker is a law firm specializing in real estate transactions. For years, Applebaum & Becker has used independent title insurance companies for its clients' real estate closings. The firm is considering starting its own title insurance company, which will be incorporated separately from the law firm but will be housed in the same building. 
+
+- Rule 5.7?
+
+8. Schweikart is an attorney in a case about mortgage fraud. He learns that his opposing counsel assisted the opposing party in the fraud. Schweikart would like to threaten to reveal that information to the bar during negotiations to resolve the case. Under the Model Rules of Professional Conduct, would it be a permissible negotiation strategy for Schweikart to threaten to reveal to the bar the other lawyer's assistance in a fraud? 
+
+9. Upon graduating law school, Dewey is hired by the law firm of Applebaum & Becker, located in the city of Metropolis. Applebaum, a partner at the firm, asks Dewey to sign an employment contract. The contract contains the following clause: “Upon terminating employment, Dewey agrees not to practice law at any firm within two miles of Metropolis for a period of one year."
+
+- Is Applebaum subject to discipline if she requires Darrow to sign the contract?
+- Is Dewey subject to discipline if he signs the contract?
+
+10. Attorney represents Plaintiff in a lawsuit. During the trial, Attorney introduced a document into evidence. After the case is submitted to the jury, but before the jury comes back with a verdict, Attorney learns that Plaintiff altered the date of the document to defeat the defendant's argument that Plaintiff's suit is barred by the statute of limitations. What is Attorney's duty under the Model Rules of Professional Conduct? 
+
+11. Defendant is charged with murder. The crime scene investigation unit collected DNA samples from the crime scene and had them tested. None of the samples matched Defendant's DNA, but did match another person who had been a suspect. Despite requests by defense counsel, Prosecutor failed to disclose the DNA test results. Is Prosecutor subject to discipline?

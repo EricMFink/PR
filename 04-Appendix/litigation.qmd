@@ -4,7 +4,7 @@
 
 ### Question 1 
 
-Client believes that a city ordinance violates the state constitution and consults with Lawyer about bringing a suit to challenge the ordinance. Lawyer explains that, in a similar case ten years ago, the state Supreme Court held that the ordinance is constitutional. Client neverless wants to pursue a new challenge and asks if Lawyer will file the suit. Which of the following statements most accurately describes Gerald's options under the Model Rules of Professional Conduct? 
+Client believes that a city ordinance violates the state constitution and consults with Lawyer about bringing a suit to challenge the ordinance. Lawyer explains that, in a similar case ten years ago, the state Supreme Court held that the ordinance is constitutional. Client nevertheless wants to pursue a new challenge and asks if Lawyer will file the suit. Which of the following statements most accurately describes Lawyer's options under the Model Rules of Professional Conduct? 
 
 a. Lawyer may file the case as long as he believes that he will prevail. 
 b. Lawyer may not file the case because it is frivolous. 
@@ -17,7 +17,7 @@ Attorney represents Client, whose son attempted suicide after being “cyber-bul
 
 ### Question 3
 
-Attorney represents Doctor, who believes that Insurance Company has been manipulating the coding of medical procedures to deny payments for covered medical procedures. Attorney concludes that there is a non-frivilous legal and factual basis for the claim, but that the chances of success are extremely low. Attorney explains this to Doctor, who replies "I don't really care about winning, the money isn't important to me. But I'm hoping a suit will expose the health insurance companies' unscrupulous practices and build support for replacing private insurance with a "Medicare for All" single-payer national health insurance program." If Attorney files the suit, is Attorney subject to discipline under the Model Rules of Professional Conduct? 
+Attorney represents Doctor, who believes that Insurance Company has been manipulating the coding of medical procedures to deny payments for covered medical procedures. Attorney concludes that there is a non-frivolous legal and factual basis for the claim, but that the chances of success are extremely low. Attorney explains this to Doctor, who replies "I don't really care about winning, the money isn't important to me. But I'm hoping a suit will expose the health insurance companies' unscrupulous practices and build support for replacing private insurance with a "Medicare for All" single-payer national health insurance program." If Attorney files the suit, is Attorney subject to discipline under the Model Rules of Professional Conduct? 
 
 ## Expediting Litigation {.unnumbered}
 
@@ -62,10 +62,6 @@ d. Attorney has no duty to reveal the former client's false testimony because th
 ### Question 4
 
 Attorney represents Client at a deposition. Client testifies to something that Attorney knows is false. What duties, if any, does Attorney have under the Model Rules of Professional Conduct? 
-
-### Question 5
-
-Attorney represents Plaintiff in a lawsuit. During the trial, Attorney introduced a document into evidence. After the case is submitted to the jury, but before the jury comes back with a verdict, Attorney learns that Plaintiff altered the date of the document to defeat the defendant's argument that Plaintiff's suit is barred by the statute of limitations. What is Attorney's duty under the Model Rules of Professional Conduct? 
 
 ## Fairness to Opposing Party & Counsel {.unnumbered}
 
@@ -147,36 +143,27 @@ d. Attorney may not testify because Attorney is representing the client in the l
 
 ### Question 1
 
-Defendant is charged with murder. The crime scene investigation unit collected DNA samples from the crime scene and had them tested. None of the samples matched Defendant's DNA, but did match another person who had been a suspect. Despite requests by defense counsel, Prosecutor failed to disclose the DNA test results. Is Prosecutor subject to discipline?
-
-### Question 2
-
 Prosecutor plans to run for reelection in 6 months. Last year two teenage girls were kidnapped from a shopping center. The community was in an uproar and demanded a conviction. Four months ago, Defendant was arrested and charged with the kidnapping. The trial is scheduled for next week. Prosecutor met with the police chief last week and learned for the first time that, before they were interviewed, the two victims had been tape-recorded discussing the case. Reviewing the tape, Prosecutor realized that the girls' descriptions of the kidnapper differed significantly. When officially interviewed, however, their descriptions matched perfectly. Defendant's lawyer, who had the right to request access to the prosecution's investigative file, failed to do so. Prosecutor reasonably believes Defendant committed the crimes and did not reveal the existence of the tape to defense counsel. 
 
 - Is Prosecutor subject to discipline?
 - Is Defendant's lawyer subject to discipline?
 
-### Question 3
+### Question 2
 
 Ada was the prosecutor in the trial of a defendant charged with robbery of a convenience store. The defendant denied any involvement, contending that he was home watching television with his mother on the night in question. During the trial, Ada called a witness who was in the convenience store during the robbery. The witness testified that he had identified Defendant in a police line-up and provided other testimony connecting Defendant to the crime. Ada also introduced into evidence a poor-quality surveillance camera recording of the robbery. The jury convicted the defendant of the robbery. Unknown to the defendant's lawyer, the witness had first identified another person in the police lineup and selected the defendant only after encouragement by the detective conducting the lineup. Ada was aware of these facts but did not notify the defendant's counsel, who made no pretrial discovery request to obtain this information. 
 
 Is Ada subject to discipline?
 
 a. Yes, unless the jury could make its own identification of the defendant from the videotape.
-
 b. Yes, because this information tended to negate the defendant's guilt.
-
 c. No, because the defendant's counsel made no pretrial discovery request to obtain this information.
-
 d. No, unless it is likely that the jury would have acquitted the defendant had it known the witness first identified someone else.
 
+### Question 3
+
+Five years ago, Defendant was convicted of armed robbery in Guilford County and sentenced to imprisonment for 10 years. Two years ago, Lawyer was elected District Attorney for Guilford County. Last week, Lawyer received convincing evidence indicating that Defendant was wrongfully convicted. Lawyer was in private practice at the time of Defendant's trial and conviction and played no role in the case. What are Lawyer's ethical obligations?
+
 ### Question 4
-
-Five years ago, Defendant was convicted of armed robbery in Guilford County and sentenced to imprisonment for 10 years. Two years ago, Lawyer was elected District Attorney for Guilford County. Last week, Lawyer received convincing evidence indicating that Defendant was wrongfully convicted. Lawyer was in private practice at the time of Defendant's trial and convition and played no role in the case. 
-
-What are Lawyer's ethical obligations?
-
-### Question 5
 
 Ten years ago, Prosecutor obtained the conviction of Defendant for murder. Prosecutor has now received DNA test results that provide clear and convincing evidence that Defendant is innocent of the crime. Which of the following statements most accurately describes Prosecutor's obligations under the Model Rules of Professional Conduct? 
 
