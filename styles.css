@@ -876,12 +876,10 @@ header .chapter-title {
 	margin: 2rem 0 0 0;
 	order: 2;
 }
-/*
 .sidebar nav[role=doc-toc] ul {
 	font-size: .8rem;
 	margin: 0 0 0 0;
 }
-*/
 .sidebar nav[role=doc-toc] ul li {
 	font-size: .8rem;
 	margin: 0 0 0 0;
