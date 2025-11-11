@@ -302,11 +302,15 @@ A lawyer shall not bring or defend a proceeding, or assert or controvert an issu
 
 :::
 
+::: {.legalcode}
+
 #### Rule 3.2 -- Expediting Litigation 
 
 A lawyer shall make reasonable efforts to expedite litigation consistent with the interests of the client.
 
 :::
+
+::: {.legalcode}
 
 #### Rule 3.4 -- Fairness to Opposing Party & Counsel
 
@@ -323,6 +327,8 @@ A lawyer shall not:
 
 :::
 
+::: {.legalcode}
+
 #### Rule 3.5 -- Impartiality and Decorum of the Tribunal
 
 A lawyer shall not:
@@ -336,6 +342,8 @@ A lawyer shall not:
 - (d\) engage in conduct intended to disrupt a tribunal.
 
 :::
+
+::: {.legalcode}
 
 #### Rule 3.7 -- Lawyer as Witness
 

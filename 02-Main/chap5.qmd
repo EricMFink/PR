@@ -839,8 +839,6 @@ Furthermore, we are mindful that independent auditors have significant leverage 
 
 ### Rest. (2d) of the Law Governing Lawyers
 
-:::
-
 ::: {.legalcode}
 
 #### § 73 -- The Privilege for an Organizational Client
@@ -1139,6 +1137,8 @@ Work-product immunity is waived if the client, the client's lawyer, or another a
 #### § 93 -- Client Crime or Fraud
 
 Work-product immunity does not apply to materials prepared when a client consults a lawyer for the purpose, later accomplished, of obtaining assistance to engage in a crime or fraud or to aid a third person to do so or uses the materials for such a purpose.
+
+:::
 
 ### Federal Rules of Evidence
 

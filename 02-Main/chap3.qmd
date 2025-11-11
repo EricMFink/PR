@@ -758,7 +758,7 @@ In the end, Warley's showings amount merely to a claim of her subjective belief 
 	- (2\) the client agrees to the arrangement, including the share each lawyer will receive, and the agreement is confirmed in writing; and
 	- (3\) the total fee is reasonable.
 
-### Model Rules of Professional Conduct
+:::
 
 ::: {.legalcode}
 

@@ -64,6 +64,8 @@ Nevertheless, courts, commentators, and legal ethics regulators continue to conc
 - (m\) "Tribunal" denotes a court, an arbitrator in a binding arbitration proceeding or a legislative body, administrative agency or other body acting in an adjudicative capacity. A legislative body, administrative agency or other body acts in an adjudicative capacity when a neutral official, after the presentation of evidence or legal argument by a party or parties, will render a binding legal judgment directly affecting a party's interests in a particular matter.
 - (n\) "Writing" or "written" denotes a tangible or electronic record of a communication or representation, including handwriting, typewriting, printing, photostating, photography, audio or videorecording, and electronic communications. A "signed" writing includes an electronic sound, symbol or process attached to or logically associated with a writing and executed or adopted by a person with the intent to sign the writing.
 
+:::
+
 ::: {.callout-note}
 
 **Judicial, Legislative, & Administrative Regulation**:  
