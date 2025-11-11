@@ -108,7 +108,7 @@ format:
     number-sections: true
     number-depth: 2
     toc-location: left
-    toc-depth: 3
+    toc-depth: 4
     include-in-header:
     - text: |
         <link rel="stylesheet" href="https://use.typekit.net/viv2jun.css">
