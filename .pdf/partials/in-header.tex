@@ -1,5 +1,3 @@
-%\usepackage[left=0.7in,marginparwidth=2in,textwidth=5.0in,marginparsep=0.3in]{geometry}
-
 \usepackage{scrlayer-scrpage}
 \usepackage{needspace}
 \usepackage{titlesec}
@@ -9,7 +7,6 @@
 \usepackage{sidenotes}
 \usepackage{booktabs}
 \usepackage{pdfpages}
-
 %\usepackage[defaultlines=2,all]{nowidow}
 %\usepackage{ragged2e}
 \raggedbottom
@@ -19,6 +16,8 @@
 \definecolor{Maroon}{HTML}{800000}
 \definecolor{HopkinsBlue}{HTML}{002D72}
 \definecolor{RacingGreen}{HTML}{004225}
+\definecolor{LightGrey}{HTML}{d5d8dc}
+\definecolor{PenguinRed}{HTML}{e23e35}
 
 \usepackage{fontspec}
 %\setmainfont{Literata}[Mapping=tex-text]
@@ -35,13 +34,19 @@
     BoldItalicFont = adelle-sans-italic.otf ]
 \setmonofont[Scale=0.90]{LFT Etica Mono}
 
+\newfontface\coverfont{FrutigerCE-Roman.ttf}[
+	Path           = fonts/ ,
+    BoldFont       = FrutigerCE-Black.ttf ,
+    ItalicFont     = FrutigerCE-Italic.ttf ,
+    BoldItalicFont = FrutigerCE-BoldItalic.ttf ]
+
 % font style & text alignment for margin notes
 \renewcommand{\marginfont}{\color{RacingGreen}\sffamily\scriptsize}
 \renewcommand*{\raggedleftmarginnote}{\raggedright}
 
 % smaller sizes for footnotes & captions
 \renewcommand{\footnotesize}{\scriptsize}
-\renewcommand{\captionsize}{\small\itshape}
+\renewcommand{\captionsize}{\small}
 
 % smaller font size, more space between rows, for tables 
 \newcommand{\tablefont}{\footnotesize} 
@@ -51,10 +56,19 @@
 \AtBeginEnvironment{longtable*}{\tablefont} 
 \renewcommand{\arraystretch}{2}
 
-% no label for unordered lists; needed to use ul for legal code; use Unicode Character “•” (U+2022) for bullet
+% custom unordered list environment for statutes and other legal code
 \usepackage{enumitem}
-\setlist[itemize]{label={}}
-\renewcommand{\labelitemi}{}
+
+\setlist[itemize]{label=\textbullet}
+
+\newenvironment{legalcode}{%
+  \setlist[itemize]{
+    label={},
+    itemindent=0em,
+    leftmargin=1em,
+  }
+  \renewcommand{\labelitemi}{}
+  \renewcommand{\tightlist}{\setlength{\topsep}{0em}\setlength{\partopsep}{.5em}\setlength{\itemsep}{.5em}\setlength{\parskip}{0em}}}
 
 %=== Chapter & Section Headings ===
 \titlespacing*{\chapter}{0em}{50mm}{0mm}
@@ -88,23 +102,29 @@
   {}
   [\vspace{-1.3em}\textcolor{Maroon}{\rule{\textwidth}{.5pt}}]
 
-% Case, etc. first heading
+% Case - Judge Name
 \titleformat{\subsubsection}
   [block]
-  {\needspace{3\baselineskip}\raggedright\rmfamily\large\bfseries}
+  {\needspace{3\baselineskip}\raggedright\rmfamily\normalsize\bfseries}
   {\thesubsubsection ~~}
   {0em}
   {}
   []
 
-% Case, etc. second heading
 \titleformat{\paragraph}
   [block]
-  {\needspace{3\baselineskip}\raggedright\rmfamily\large\itshape}
+  {\needspace{3\baselineskip}\raggedright\rmfamily\normalsize\itshape}
   {\theparagraph}
   {0em}
   {}
   []
+
+% Case, etc. first heading
+\newcommand{\casesection}[1]{\needspace{4\baselineskip}\vspace{.5em}\begin{center}\rmfamily\normalsize{\bfseries{#1}}\end{center}}
+% Case, etc. second heading
+\newcommand{\casesubsection}[1]{\needspace{2\baselineskip}\begin{center}\rmfamily\normalsize{\itshape{#1}}\end{center}}
+% Case, etc. third heading
+\newcommand{\casesubsubsection}[1]{\needspace{2\baselineskip}\begin{center}\rmfamily\normalsize{#1}\end{center}}
 
 %\graphicspath{{../img/}}
 \renewcommand*{\figureformat}{}
@@ -116,12 +136,11 @@
 \begin{flushright}\noindent{\color{Maroon}{\faPenNib}} ~{#2}, {\itshape{#3}} \end{flushright}}
 }
 
-% set margin and font for quote
-%\renewenvironment{quote}{
-%  \list{}{\leftmargin=3.5cm\topsep=0pt}
-%  \item\relax\small\itshape
-%}
-%{\endlist}
+\renewenvironment{quote}{
+  \list{}{\leftmargin=2em\rightmargin=2em}
+  \item\relax\small
+}
+{\endlist}
 
 \newcommand{\monthyear}{%
   \ifcase\month\or January\or February\or March\or April\or May\or June\or

@@ -51,6 +51,9 @@ h3 {
 	padding: 0 0 0 0;
 	border-bottom: 1px solid #800000;
 }
+h3 a:link {
+	color: #800000;
+}
 h4 {
 	font-family: "Literata",serif;
 	font-size: 1.1rem;
@@ -172,7 +175,7 @@ img {
 
 /* Styles for cases & readings */
 /* Case section headings */
-.case-h1 {
+.casesection {
 	font-family: "Literata",serif;
 	font-size: 1.1rem;
 	font-style: normal;
@@ -184,7 +187,7 @@ img {
 	display: block;
 	list-style: outside none none !important;
 }
-.case-h2 {
+.casesubsection {
 	font-family: "Literata",serif;
 	font-size: 1rem;
 	font-style: italic;
@@ -196,14 +199,14 @@ img {
 	display: block;
 	list-style: outside none none !important;
 }
-.case-h3 {
+.casesubsubsection {
 	font-family: "Literata",serif;
 	font-size: 1rem;
 	font-style: normal;
 	font-weight: 400;
 	line-height: 1.1;
 	text-align: center;
-	margin: 1.25rem auto .5rem auto;
+	margin: .5rem auto .5rem auto;
 	padding: 0 0 0 0;
 	list-style: outside none none !important;
 }
@@ -583,7 +586,13 @@ img {
 }
 
 /* REAR MATTER */
-/* References */
+/* Sources */
+.sources h2 {
+	margin: 2rem 0 1rem 0;
+}
+.sources h3 {
+	margin: 1rem 0 1rem 0;
+}
 div.csl-bib-body {
 	margin-left:0em;
 }
@@ -757,18 +766,28 @@ hr {
 	font-size: .625rem;
 }
 /* Side note */
-.citation a, .footnote-ref {
+.footnote-ref {
 	text-decoration: none;
 }
-.citation a, .footnote-ref::before {
+.footnote-ref::before {
 	content: '[';
 	vertical-align: super;
 	font-size: smaller;
 }
-.citation a, .footnote-ref::after {
+.footnote-ref::after {
 	content: ']';
 	vertical-align: super;
 	font-size: smaller;
+}
+/*
+.citation {
+	font-size: .8rem;
+	display: block;
+	margin-top: 2rem;
+}
+*/
+.citation a {
+	text-decoration: none;
 }
 .column-margin.column-container > :not(.collapse):first-child {
 	padding-top: 1.5em;

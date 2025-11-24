@@ -156,7 +156,7 @@ This is not a case in which a layperson might have perceived or reasonably mispe
 
 Defendant Annuity Investors Life Insurance Co. moves for the disqualification of Stephen L. Friedman and the firm Dilworth Paxson LLP as co-counsel for plaintiff Clark Capital Management Group. Friedman has submitted an opposition to this motion. I will deny the motion for disqualification.
 
-[I\. Factual Background]{.case-h1}
+[I\. Factual Background]{.casesection}
 
 On April 14, 2000, Clark Capital filed a complaint against Annuity alleging trademark infringement. Attorneys with the firm of Woodcock Washburn Kurtz Mackiewicz & Norris LLP have represented Clark Capital from day one of this case. In the fall of 2000, Annuity retained Donald E. Frechette with the firm of Edwards & Angell LLP.
 
@@ -178,7 +178,7 @@ Frechette's second affidavit was submitted in response to Biemer's affidavit. In
 
 Annuity never retained Dilworth. On June 11, 2001, Friedman, a Dilworth attorney, entered an appearance on behalf of Clark Capital.
 
-[II\. Discussion]{.case-h1}
+[II\. Discussion]{.casesection}
 
 Annuity asserts that these several telephone conversations between Frechette and Biemer rose to the level of an attorney-client relationship between Annuity and Biemer, such that Friedman is in violation of the Rules of Professional Conduct. This District has adopted the Pennsylvania Rules of Professional Conduct. These Rules provide that:
 
@@ -499,7 +499,7 @@ The parties entered into stipulations of fact, misconduct, and aggravating and m
 
 We adopt the board's findings of misconduct, but for the reasons that follow, we find that a greater sanction is warranted. We therefore suspend Jarvis from the practice of law for 18 months with the entire suspension stayed on the conditions recommended by the board.
 
-[Misconduct]{.case-h1}
+[Misconduct]{.casesection}
 
 Frank A. and Lenor W. Balcar (jointly, "the Balcars"), were married in 1941. They had five children—Bruce, Paul, Karen, Mark, and Barbara.
 
@@ -511,13 +511,13 @@ After advising Jarvis about Frank's health conditions—including a diagnosis of
 
 In June, Karen paid Jarvis $7,500 to represent them. Although Jarvis did not enter into a written fee agreement detailing the scope of the representation, based on their communications, Karen believed that he would draft updated estate documents for the Balcars, transfer the Balcars' nonmonetary assets into an irrevocable trust, and if necessary, probate the Balcars' estates. Karen and Barbara provided Evick with documentation regarding the Balcars' assets to facilitate the transfer of those assets into the irrevocable trust.
 
-[Drafting of Estate-Planning Documents]{.case-h2}
+[Drafting of Estate-Planning Documents]{.casesubsection}
 
 Jarvis drafted the Balcar Family Irrevocable Trust and a certification of trust. Consistent with an earlier revocable trust that had been created by Lenor and the amendments to it, the irrevocable trust (1) designated Karen as the trustee, (2) provided that upon the deaths of Frank and Lenor, 10 percent of the trust assets would be distributed to a faith-based organization, and (3) provided that there would be no distribution to Paul other than a watch that had belonged to Frank. In contrast to the earlier revocable trust, which had provided that Barbara would receive a larger percentage of the remaining trust assets, the irrevocable trust provided that those assets would be split equally among Bruce, Karen, Mark, and Barbara.
 
 In addition, Jarvis drafted other estate-planning documents, including wills and durable powers of attorney.
 
-[False Signing and Notarization]{.case-h2}
+[False Signing and Notarization]{.casesubsection}
 
 On June 25, Evick met with Frank at the nursing home where he resided and had him sign a durable power of attorney. On June 28, Evick and another employee of Jarvis's firm met with Frank and had him sign a second copy of that document.
 
@@ -527,7 +527,7 @@ On August 11, a doctor examined Frank and noted, "Frank does not communicate whe
 
 Even though Jarvis knew that Evick was not an Ohio notary, he directed her to meet with Frank at his nursing home on August 13 or 14 to have him sign the irrevocable trust and four other estate-planning documents. Jarvis did not discuss those documents with Frank or assess Frank's testamentary or contractual capacity _before_ Frank signed them. Nor was he present when Frank signed them. But several days after Evick obtained Frank's signature on those five documents, Jarvis backdated and notarized all of them under jurats that falsely stated that Frank had personally appeared before him to acknowledge his signature. He also falsely signed Frank's will as a witness and attested on two of the documents that Frank appeared to be of sound mind when he signed them.
 
-[Conduct after the Estate-Planning Documents Were Executed and after the Balcars' Deaths]{.case-h2}
+[Conduct after the Estate-Planning Documents Were Executed and after the Balcars' Deaths]{.casesubsection}
 
 At the end of September, Evick applied for Medicaid on Frank's behalf. Although almost seven weeks had elapsed since Frank signed the trust agreement and the other estate-planning documents, the only asset that had been transferred to the irrevocable trust was a checking account belonging to Lenor. By the end of October, the Department of Job and Family Services had determined that the application was incomplete and had requested additional information regarding Frank's assets.
 
@@ -549,19 +549,19 @@ Jarvis's October 5 email to Karen also stated that because Bruce and Paul had en
 
 Later that month, Paul filed a complaint against Karen in the Belmont County Probate Court alleging that she had failed to notify him of the trust or keep him apprised of trust assets as required by law. He further alleged that she had used undue influence, coercion, or other means to persuade Frank and Lenor to revise their estate plan. Bruce sought and was granted leave to intervene in the proceeding. In July 2012, Karen's counsel asked Jarvis to turn over the original file to him by July 16. On August 10—ten months after he had withdrawn from the representation—Jarvis finally produced a copy of the case file. Although the Balcar siblings entered into a settlement agreement in August 2013, the probate litigation continued for another five years.
 
-[Malpractice Litigation]{.case-h2}
+[Malpractice Litigation]{.casesubsection}
 
 In October 2012, Karen filed a legal-malpractice action against Jarvis in the Franklin County Court of Common Pleas. Following a ten-day trial in March 2019, a jury found Jarvis liable for legal malpractice and awarded Karen compensatory damages and punitive damages. In response to the parties' posttrial motions, the court reduced the punitive damages to zero and awarded Karen approximately 40 percent of her claimed attorney fees.
 
 The parties appealed the trial court's judgment. In February 2021, the court of appeals affirmed the trial court's rulings in part, reversed them in part, and remanded the case for further proceedings. The parties have now settled, and that litigation has been dismissed.
 
-[Findings of Misconduct]{.case-h2}
+[Findings of Misconduct]{.casesubsection}
 
 The parties stipulated and the board found that Jarvis's conduct violated Prof.Cond.R. 1.3 (requiring a lawyer to act with reasonable diligence in representing a client), 1.4(a)(2) (requiring a lawyer to reasonably consult with the client about the means by which the client's objectives are to be accomplished), 1.14(a) (requiring a lawyer, as far as reasonably possible, to maintain a normal lawyer-client relationship with the client when the client's capacity to make adequately considered decisions in connection with a representation is diminished due to mental impairment), 1.16(d) (requiring a lawyer to promptly deliver client papers and property as part of the termination of representation), 5.3 (requiring a lawyer possessing managerial authority in a law firm to make reasonable efforts to ensure that the conduct of nonattorneys working for the firm is compatible with the professional obligations of the lawyer), and 8.4(c) (prohibiting a lawyer from engaging in conduct involving dishonesty, fraud, deceit, or misrepresentation).
 
 We adopt these findings of misconduct.
 
-[Conclusion]{.case-h1}
+[Conclusion]{.casesection}
 
 Accordingly, Timothy Paul Jarvis is suspended from the practice of law in Ohio for 18 months with the suspension stayed in its entirety on the conditions that he commit no further misconduct and make restitution of $7,500 to Karen Balcar McGraw, as trustee of the Lenor W. Balcar Revocable Living Trust, within 30 days of the date of our final order. If Jarvis fails to comply with any condition of the stay, the stay will be lifted and he will serve the full 18-month suspension. 
 
@@ -633,7 +633,7 @@ This court concurs with the findings of the disciplinary board that Silva exerci
 
 This is an appeal by three former employees of AOL Time Warner from the decision of the district court denying their motions to quash a grand jury subpoena for documents related to an internal investigation by AOL. Appellants in the district court argued that the subpoenaed documents were protected by the attorney-client privilege. Because the district court concluded that the privilege was AOL's alone and because AOL had expressly waived its privilege, the court denied the appellants' motion. We affirm.
 
-[I.]{.case-h1}
+[I.]{.casesection}
 
 In March of 2001, AOL began an internal investigation into its relationship with PurchasePro, Inc. AOL retained the law firm of Wilmer, Cutler & Pickering to assist in the investigation. Over the next several months, AOL's general counsel and counsel from Wilmer Cutler interviewed appellants, AOL employees Kent Wakeford, John Doe 1, and John Doe 2.
 
@@ -655,7 +655,7 @@ The district court denied John Doe 1's and John Doe 2's motions because it found
 
 The court initially granted Wakeford's motion to quash because it found that his communications with the investigating attorneys were privileged under the common interest agreement between counsel for Wakeford and counsel for AOL. Following a motion for reconsideration, the court reversed its earlier ruling and held that the subpoenaed documents relating to Wakeford's interviews were not privileged because it found that Wakeford's common interest agreement with AOL postdated the March-June 2001 interviews. In addition, the court held that Wakeford failed to prove that he was a client of the investigating attorneys at the time the interviews took place. The court based its conclusion on its findings that: (1) none of the investigating attorneys understood that Wakeford was seeking personal legal advice; (2) the investigating attorneys did not provide any personal legal advice to him; and (3) the investigating attorneys believed they represented AOL and not Wakeford. This appeal followed.
 
-[II.]{.case-h1}
+[II.]{.casesection}
 
 Appellants argue that because they believed that the investigating attorneys who conducted the interviews were representing them personally, their communications are privileged. However, we agree with the district court that essential touchstones for the formation of an attorney-client relationship between the investigating attorneys and the appellants were missing at the time of the interviews. There is no evidence of an objectively reasonable, mutual understanding that the appellants were seeking legal advice from the investigating attorneys or that the investigating attorneys were rendering personal legal advice. Nor, in light of the investigating attorneys' disclosure that they represented AOL and that the privilege and the right to waive it were AOL's alone, do we find investigating counsel's hypothetical pronouncement that they could represent appellants sufficient to establish the reasonable understanding that they were representing appellants. Accordingly, we find no fault with the district court's opinion that no individual attorney-client privilege attached to the appellants' communications with AOL's attorneys.
 
@@ -675,7 +675,7 @@ Defendant Carol Warley was a partner in KPMG LLP, one of the world's largest acc
 
 This problem could be avoided if counsel in these situations routinely made clear to employees that they represent the employer alone and that the employee has no attorney-client privilege with respect to his or her communications with employer-retained counsel. Indeed, the Second Circuit advised that they do so years before the communications here in question. But there is no evidence that the attorneys who spoke to Ms. Warley followed that course.
 
-[Facts]{.case-h1}
+[Facts]{.casesection}
 
 Ms. Warley was a partner of KPMG at all relevant times. In 2003, the IRS was investigating KPMG's tax shelter activities, including some in which clients of Warley had participated. In the course of the investigation, Warley communicated with KPMG's in-house counsel and with two law firms retained by KPMG, Kronish Lieb Weiner & Hellman LLP and King & Spalding LLP. Warley does not recall having been told that the attorneys represented only KPMG or that any privilege belonged solely to the firm and could be waived by the firm without her consent.
 
@@ -687,9 +687,9 @@ The second allegedly privileged communication is an email exchange in January an
 
 Both parties point to the substance of the communications to support their respective claims that privilege did or did not attach. Warley further relies upon KPMG's 2003 partnership agreement, which provided that "the General Counsel shall act on behalf of all Members, except where a dispute arises between an individual Member and the Firm." Finally, Warley alleges that counsel retained by KPMG jointly represented KPMG and her personally in two lawsuits prior to the events at issue here.
 
-[Discussion]{.case-h1}
+[Discussion]{.casesection}
 
-[A. Scope of Privilege]{.case-h2}
+[A. Scope of Privilege]{.casesubsection}
 
 The question whether employee communications with counsel retained by the employer about matters relating to the employment are privileged vis-a-vis the employee---in other words, whether the employee has a personal attorney-client privilege that only the employee may waive---is troublesome because competing interests are at play.
 
@@ -713,7 +713,7 @@ The First Circuit adopted the Tenth Circuit's interpretation and discussed its a
 
 The Tenth and First Circuits thus have argued persuasively that communications implicating personal liability for acts within the scope of an individual's employment may be protected by individual attorney-client privilege, at least in some circumstances. It is an open question whether such communications involve "personal matters" within the meaning of Teamsters. But it is unnecessary to resolve that issue here. As discussed below, and particularly in light of the fact that the burden of proof lies with the party asserting privilege, Warley fails to meet any standard.
 
-[B. Warley's Claims]{.case-h2}
+[B. Warley's Claims]{.casesubsection}
 
 To begin with, there is no evidence that Warley was deceived by KPMG or its attorneys about the nature of her relationship with counsel. Although she claims to have "understood that counsel were representing her personally as a partner in the firm," her subjective belief alone does not support a conclusion that KPMG's acts were responsible for that belief. Accordingly, the analysis of her claims rests on whether the communications involved "personal matters."
 
@@ -727,7 +727,7 @@ To begin with, the occasions on which Warley and KPMG were jointly represented o
 
 Nor has Warley offered any evidence that she in fact subjectively relied either upon the language in the partnership agreement or the previous litigation experience in concluding that Kronish, King & Spalding, or Gremminger was representing her individually.
 
-[Conclusion]{.case-h1}
+[Conclusion]{.casesection}
 
 In the end, Warley's showings amount merely to a claim of her subjective belief which, without more, is insufficient to meet her burden of proving privilege. For the foregoing reasons, Warley's motion for relief from the government's alleged violation of her attorney-client privilege is denied.
 
@@ -775,7 +775,7 @@ In the end, Warley's showings amount merely to a claim of her subjective belief 
 
 The issue in this appeal is whether the appellant attorney violated the Code of Professional Responsibility by repeatedly using special nonrefundable retainer fee agreements with his clients. Essentially, such arrangements are marked by the payment of a nonrefundable fee for specific services, in advance and irrespective of whether any professional services are actually rendered. The local Grievance Committee twice warned the lawyer that he should not use these agreements. After a third complaint and completion of prescribed grievance proceedings, the Appellate Division suspended the lawyer from practice for two years. It held that the particular agreements were per se violative of public policy. We affirm the order of the Appellate Division.
 
-[I.]{.case-h1}
+[I.]{.casesection}
 
 In 1990, the petitioner, Grievance Committee for the Tenth Judicial District, initiated a disciplinary proceeding charging attorney Cooperman with 15 specifications of professional misconduct. They relate to his use of three special nonrefundable retainer fee agreements.
 
@@ -789,7 +789,7 @@ Cooperman's persistent refusals to refund any portion of the fees sparked at lea
 
 After an extensive hearing, the Referee made findings supporting violations on all 15 charges. On appropriate motion, the Appellate Division confirmed the Referee's report with respect to charges 2 through 5, 7 through 10, and 12 through 15. The Court disaffirmed the report as to charges 1, 6 and 11, which alleged that the retainer agreements constituted deceit and misrepresentation. In sustaining the remaining charges, the Court held that these retainer agreements were unethical and unconscionable and "violative of an attorney's obligations under the Code of Professional Responsibility to refund unearned fees upon his or her discharge." The Court also concluded that Cooperman's fees were excessive. The Court suspended him from the practice of law for a period of two years but did not order restitution.
 
-[II.]{.case-h1}
+[II.]{.casesection}
 
 Whether special nonrefundable retainer fee agreements are against public policy is a question we left open in _Jacobson v. Sassower_, a fee dispute case. We agree with the Appellate Division in this disciplinary matter that special nonrefundable retainer fee agreements clash with public policy and transgress provisions of the Code of Professional Responsibility, essentially because these fee agreements compromise the client's absolute right to terminate the unique fiduciary attorney-client relationship.
 
@@ -913,7 +913,7 @@ In charging a clearly excessive fee, Fordham departed substantially from the obl
 
 Connie Daniel Cole seeks review of a judgment of the court of appeal affirming an award of attorney's fees to his former counsel. For the reasons that follow, we reverse the judgment of the court of appeal.
 
-[Facts and Procedural History]{.case-h1}
+[Facts and Procedural History]{.casesection}
 
 Connie Daniel Cole retained attorney Bobby Culpepper of the law firm of Culpepper & Carroll, PLLC to represent him in a contest of his mother's will. Mr. Cole requested that the firm handle the matter on a one-third contingent fee basis, and Mr. Culpepper agreed to do so. On September 20, 2000, Mr. Culpepper sent Mr. Cole a letter in which he confirmed that he would accept the representation on a contingent fee basis of one-third "of whatever additional property or money we can get for you."
 
@@ -931,7 +931,7 @@ Judge Caraway dissented. He recognized that a contingent fee contract existed in
 
 Upon Mr. Cole's application, we granted certiorari to review the correctness of the court of appeal's ruling.
 
-[Discussion]{.case-h1}
+[Discussion]{.casesection}
 
 As a threshold matter, we note the trial court made a finding of fact that a contingent fee contract existed between Mr. Cole and Mr. Culpepper. Based on our review of the record, we find no manifest error in this determination.
 
