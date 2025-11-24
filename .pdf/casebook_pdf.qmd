@@ -2,10 +2,7 @@
 title: "Professional Responsibility"
 author: "Eric M. Fink"
 version: "4.1"
-repo: "PRCasebook"title: "Civil Procedure"
-author: "Eric M. Fink"
-version: "4.3"
-repo: "CivProCasebook"
+repo: "PRCasebook"
 frontispiece: "Der Fürsprech"
 description: This casebook presents material for use in a law school Professional Responsibility course. Topics covered include the organization and regulation of the legal profession, the nature of the attorney-client relationship, and the duties that attorneys owe to clients and others.
 
@@ -19,7 +16,7 @@ format:
     classoption: [letterpaper, 11pt, DIV=9, openright]
     has-frontmatter: true
     toc: true
-    toc-depth: 2
+    toc-depth: 3
     toc-title: "Contents"
     number-sections: true
     number-depth: 1
@@ -49,7 +46,6 @@ csl: ../refs/casebook.csl
 nocite: |
   @*
 ---
-
 
 {{< include ../02-Main/chap1.qmd >}}
 
