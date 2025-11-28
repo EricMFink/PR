@@ -24,7 +24,6 @@ ta-email: hbryant4@elon.edu
 format:
   pdf:
     template: syllabus_template.tex
-    keep-tex: true
     output-file: PRsyllabus
 
 ---

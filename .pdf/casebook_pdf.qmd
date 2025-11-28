@@ -32,7 +32,6 @@ format:
     pdfcreator: LaTeX via pandoc
     colorlinks: true
     urlstyle: tt
-    keep-tex: true
     output-file: PRCasebook
 filters:
   - latex-environment
