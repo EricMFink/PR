@@ -1,10 +1,13 @@
 ---
 title: Syllabus
-professor: "Eric M. Fink"
 revised: 2025-08-23T17:29:58-04:00
 
 subject: Professional Responsibility
+term: 'Fall 2025'
+room: 'Room 207'
+meets: 'Mondays & Wednesdays, 9:45–10:45 am'
 repo-url: 'emfink.net/PR'
+syllabus: true
 
 author: Eric M. Fink
 phone: 336-279-9334
@@ -14,16 +17,12 @@ institution: Elon University School of Law
 address: 201 North Greene Street
 city-state: Greensboro, North Carolina
 
-term: 'Fall 2025'
-room: 'Room 207'
-meets: 'Mondays & Wednesdays, 9:45–10:45 am'
-
 ta: Holden Bryant
 ta-email: hbryant4@elon.edu
 
 format:
   pdf:
-    template: syllabus_template.tex
+    template: master.tex
     output-file: PRsyllabus
 
 ---
