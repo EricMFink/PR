@@ -993,13 +993,65 @@ _AFFIRMED._
 
 [^CapitalAssoc1]: [n.1 in opinion] North Carolina is not alone in doing so. Almost all other states have similar laws on the books. One state allows unincorporated nonprofit "associations" to practice law. And CAI points to trade associations practicing law in a few other states. But at least one of those states bans corporations from practicing law. 
 
-::: {.callout-note}
+### Polaski v. Lee, 759 F.Supp.3d 683 (M.D.N.C. 2024)
 
-**Challenge to North Carolina Unauthorized Practice Statute **
+#### Terrence W. Boyle, United States District Judge
 
-A pending suit, brought by "two North Carolina Certified Paralegals and the [North Carolina Justice for All Project](https://www.ncjfap.org/), a nonprofit organization founded ... to expand access to justice in North Carolina", challenges the constitutionality of the North Carolina unauthorized practice statute "as applied to pure legal advice." _Black Polaski v. Lee_, No. 7-24-cv-00004-BO-BM (E.D.N.C.). Review the [complaint in _Black Polaski_](../exhibits/BlackPolaskiComplaint.pdf) and consider whether the claims may be distinguishable from those in _Capital Associated Industries_. 
+This cause comes before the Court on defendants' joint motion to dismiss plaintiffs' amended complaint pursuant to Rule 12(b)(6) of the Federal Rules of Civil Procedure. Plaintiffs have responded, defendants have replied, and a hearing on the motion was held before the undersigned on November 1, 2024, at Raleigh, North Carolina. In this posture, the motion is ripe for ruling. For the reasons that follow, the motion is granted.
 
-:::
+[Background]{.casesection}
+
+Plaintiffs are two North Carolina Certified Paralegals and a nonprofit organization dedicated to expanding access to justice in North Carolina, in particular to those North Carolinians who cannot afford a lawyer to represent them but earn too much to qualify for free legal assistance. Plaintiffs seek to provide simple legal advice to North Carolinians regarding completing common, court-related forms, such as those used for summary ejectments, absolute divorces, and protective orders. But North Carolina prohibits the unauthorized practice of law by anyone who is not an attorney. Plaintiffs now challenge North Carolina's unauthorized practice of law (UPL) statutes under the First Amendment to the United States Constitution, alleging that they impermissibly restrict speech, specifically legal advice.
+
+Defendants, five North Carolina District Attorneys and the President of the State Bar, have moved to dismiss plaintiffs' First Amendment challenge. Defendants argue that the outcome of plaintiffs' First Amendment challenge is controlled by _Capital Associated Industries, Inc. v. Stein,_ which held that North Carolina's UPL statutes regulate conduct with only an incidental impact on speech. The UPL statutes are thus evaluated under intermediate scrutiny, which defendants argue even at the pleadings stage demonstrates that plaintiffs' First Amendment challenges fail.
+
+[Discussion]{.casesection}
+
+In North Carolina, the General Assembly defines the practice of law, who may engage in the practice of law, and sets the consequences for the unauthorized practice of law. _See_ N.C. Gen. Stat. §§ 84-2.1; 84-4; 84-5; 84-7; 84-37. The practice of law is defined as, _inter alia,_ "performing any legal service for any other person, firm or corporation, with or without compensation" and "assisting by advice, counsel, or otherwise in any legal work; and to advise or give opinion upon the legal rights of any person, firm or corporation." § 84-2.1(a). District Attorneys are to seek to enjoin those who engage in the unauthorized practice of law and may further bring criminal charges against such persons or entities. § 84-7. The State Bar may also investigate and enjoin the unauthorized practice of law. § 84-37.
+
+Plaintiffs allege that they seek "to provide simple legal advice on a variety of court-created forms in family law, landlord-tenant law, and estate planning and probate services." Plaintiffs seek to "go beyond basic legal information" when providing assistance to individuals filling out court-created forms, and specifically want to offer legal advice "tailored to the litigant's factual circumstances and legal goals." This legal advice and assistance would be provided for a fee, or without a fee by the Justice for All Project. Plaintiffs recognize that none of the UPL exceptions provided by state law permit them to give legal advice. Plaintiffs allege that, as they face the credible threat of prosecution by defendants should they provide legal advice in violation of North Carolina law, they have had to self-censor and refrain from providing beneficial legal advice to litigants, including friends and family. Plaintiffs allege that the credible threat of prosecution has chilled and silenced their pure legal speech in violation of the First Amendment.
+
+Plaintiffs' complaint alleges two as-applied challenges to North Carolina's UPL statutes under the First Amendment: plaintiffs' right to provide free legal advice (Count I) and the individual plaintiffs' right to provide paid legal advice (Count II). Plaintiffs have limited their challenges "solely as applied to legal advice regarding court-created forms." Plaintiffs allege that the First Amendment's  Free Speech Clause protects their oral and written legal advice as it relates to these forms, and that North Carolina's UPL statutes, as they are applied to plaintiffs' legal advice, are content-based prohibitions of "pure speech."
+
+{A\. Procedural posture]{.casesubsection}
+
+The Court is considering plaintiffs' as-applied challenges at the pleadings stage. "In order to prevail on an as-applied First Amendment challenge, a plaintiff 'must show that the regulations are unconstitutional as applied to their particular speech activity.'" Typically, this is a fact-based inquiry. As is discussed more fully below, however, because defendants are permitted to show that the challenged statutes satisfy the applicable level of scrutiny using common sense, and need not rely on specific evidence, the Court determines that disposition at the pleadings stage in this instance is appropriate. 
+
+[B\. Intermediate scrutiny applies]{.casesubsection}
+
+The First Amendment, made applicable to the states by the Fourteenth Amendment, prohibits laws which abridge freedom of speech. 
+
+> Laws that impinge upon speech receive different levels of judicial scrutiny depending on the type of regulation and the justifications and purposes underlying it. On the one hand, regulations that discriminate against speech based on its content "are presumptively invalid," and courts usually "apply the most exacting scrutiny". On the other hand, "areas traditionally subject to government regulation," such as commercial speech and professional conduct, typically receive a lower level of review.
+
+The first step in considering a First Amendment challenge is thus to determine which level of scrutiny applies, and "the precedent of this [circuit] and the Supreme Court establish that professional regulations—like other regulations implicating speech—are subject to various levels of scrutiny, depending on their nature."
+
+Plaintiffs argue that the UPL laws regulate speech, not conduct; that they regulate speech based on its content; and that, as content-based restrictions on speech, the UPL laws are subject to strict scrutiny. Strict scrutiny means that North Carolina's UPL statutes regulating legal advice would survive only if they are "the least restrictive means of achieving a compelling state interest."
+
+Recently, however, the Fourth Circuit determined that North Carolina's UPL statute which prohibits the corporate practice of law is "a regulation of professional conduct that incidentally burdens speech, which only needs to survive intermediate scrutiny." _Cap. Associated Indus., Inc. v. Stein_ (4th Cir. 2019) (hereinafter "_CAI_") (citing Nat'l Inst. of Fam. & Life Advocs. v. Becerra,_ (U.S. 2018)]) (hereinafter "_NIFLA_"). The _CAI_ court addressed precisely the issue presented by plaintiffs here—whether in  North Carolina giving legal advice should be viewed as "speech as speech," and thus subject to strict scrutiny—and held
+
+> The UPL statutes don't target the communicative aspects of practicing law, such as the advice lawyers may give to clients. Instead, they focus more broadly on the question of who may conduct themselves as a lawyer. Licensing laws inevitably have some effect on the speech of those who are not (or cannot be) licensed. But that effect is merely incidental to the primary objective of regulating the conduct of the profession.
+
+The _CAI_ court did not, as plaintiffs contend, apply the professional speech doctrine that the Supreme Court rejected in _NIFLA_; the _CAI_ court considered and applied _NIFLA_ and nonetheless reached the conclusion above.
+
+The Fourth Circuit also later examined and reaffirmed the _CAI_ decision, holding that where an "Act is a regulation of professional conduct that only incidentally impacts speech, ... [this circuit] appl[ies] a more relaxed form of intermediate scrutiny that mandates only that the restriction be 'sufficiently drawn' to protect a substantial state interest." Defendants thus need only show a "reasonable fit" between the UPL statutes and North Carolina's substantial interests.
+
+The Court has been presented with no argument which convinces it that the circuit court's treatment of the UPL statute at issue in _CAI_ is somehow distinguishable from the UPL statutes at issue here. As in _CAI,_ the targeted UPL statutes "involve[ ] a classic regulation of conduct with an incidental burden on speech: the law prohibit[s] certain entities from offering legal services or advice (speech that has economic and legal consequences), and ha[s] no readily apparent implications for unpopular or dissenting speech." Plaintiffs do not challenge the UPL statutes because they are prohibited by them from providing a certain type of legal advice or a specific message; rather, they challenge the UPL statutes because they are prevented from giving any legal advice at all because they are not lawyers. Just as in _CAI,_ this regulation targets conduct, not speech, as it regulates who may engage in the practice of law rather than what those engaged in the practice of law must or must not say.
+
+Plaintiffs argue that the Court should rely on _Holder v. Humanitarian Law Project,_ (U.S. 2010), and apply strict scrutiny, but again their argument is not persuasive. In _Humanitarian Law Project,_ the Supreme Court held, in a challenge to a law prohibiting providing material support to terrorists, that the statute at issue regulated content, such as providing specialized training on the use of international law, not conduct. But the starting point of the analysis in this case is that states have long held the authority to license professionals and regulate their practice. _Humanitarian Law Project_ simply did not implicate these concerns. Plaintiffs further rely on _Upsolve, Inc. v. James,_ (S.D.N.Y. 2022), which applied _Humanitarian Law Project_ to  conclude that providing legal advice was speech, not conduct, and considered the challenged UPL statute using strict scrutiny. _Upsolve_ is not binding on this Court, nor is it persuasive in light of _CAI._
+
+[C\. The challenged statutes satisfy intermediate scrutiny]{.casesubsection}
+
+_CAI_ held that the UPL statute prohibiting the corporate practice of law satisfies relaxed intermediate scrutiny. The same is true here. First, "North Carolina's interest in regulating the legal profession to protect clients is at least substantial." Second, there is a "reasonable fit" between prohibiting nonlawyers from giving legal advice and North Carolina's regulation of the legal profession in order to protect its citizens.
+
+Restricting the practice of law, including the provision of legal advice, to lawyers who have training, oversight, confidentiality restrictions, and against whom clients have recourse, plainly fits within the State's substantial interest in protecting its citizens. North Carolina attorneys are also governed by the Rules of Professional Conduct, which imposes, _inter alia,_ duties of competence and loyalty and requires attorneys to avoid conflicts of interests. Plaintiffs would not be governed by these rules, and, although they allege they want to provide only "simple legal advice," they also seek to provide advice in circumstances which can have wide-reaching effects, such as child custody matters.
+
+Moreover, the restriction on the provision of legal advice does not prevent plaintiffs from sharing and distributing legal information. Paralegals may also assist clients with filling out forms, provided there is appropriate supervision by an attorney. In other words, North Carolina has struck a balance between limiting the practice of law and provision of legal advice to licensed attorneys and recognizing that paralegals are well-equipped to assist in the delivery of legal services. Plaintiffs argue that other jurisdictions have adopted different approaches and allow paralegals to provide additional services directly to clients. Plaintiffs also note their own efforts in trying to persuade the North Carolina General Assembly to do the same. That "[a]nother state legislature might balance the interests differently" does not mean that the balance struck by North Carolina runs afoul of the First Amendment. North Carolina's current limits on the practice of law and the provision of legal advice reasonably fit within its interest in regulating the legal profession.
+
+[Conclusion]{.casesection}
+
+Accordingly, for the foregoing reasons, defendants' joint motion to dismiss is GRANTED.
+
+The complaint is DISMISSED in its entirety.
 
 ## Law Firms
 
