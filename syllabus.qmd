@@ -44,7 +44,7 @@ This course is intended to acquaint students with the organization and regulatio
 
 ### Required  {.unnumbered}
 
-Professional Responsibility: An Open-Source Casebook (v.5.1 2026). Available on the course website: [[emfink.net/PR](https://www.emfink.net/PR/)]{.mono-font}.
+Professional Responsibility: An Open-Source Casebook (v.5.0 2026). Available on the course website: [[emfink.net/PR](https://www.emfink.net/PR/)]{.mono-font}.
 
 ### Suggested  {.unnumbered}
 
@@ -80,17 +80,17 @@ The Law School [honor code](https://www.elon.edu/u/law/students/honor-code/) app
 
 ## Schedule & Reading Assignments {.unnumbered}
 
-(_Note:_ This class will not meet on Sept. 24)
+_Note:_ This class will not meet on Sept. 7 and 21.
 
 ### 1. The Legal Profession & Regulation of Lawyers 
 
 _Geisel_, Chap. 1 & 2[^syllabus2]
 
-#### September 3
+#### Monday, August 31
 
 - Regulatory Authorities; Misconduct & Discipline, _Casebook_ §§ 1.1 & 1.2
 
-#### September 8
+#### Wednesday, September 2
 
 - Bar Admission; Unauthorized Practice of Law; Law Firms _Casebook_ §§ 1.3-1.5
 
@@ -98,7 +98,7 @@ _Geisel_, Chap. 1 & 2[^syllabus2]
 
 _Geisel_, Chap. 45 & 46 
 
-#### September 10
+Wednesday, September 9
 
 - Advertising; Solicitation, _Casebook_ §§ 2.1 & 2.2
 
@@ -106,19 +106,19 @@ _Geisel_, Chap. 45 & 46
 
 _Geisel Chap._ 4 & 8-14 
 
-#### September 15
+#### Monday, September 14
 
 - Establishing an Attorney-Client Relationship; Prospective Clients; Declining & Terminating Representation, _Casebook_ §§ 3.1, 3.2, & 3.3
 
-#### September 17
+#### Wednesday, September 16
 
 - Scope of Representation & Allocation of Authority, _Casebook_ §§ 3.4
 
-#### September 22
+#### Wednesday, September 23
 
 - Clients with Diminished Capacity; Organizational Clients, _Casebook_ §§ 3.5 & 3.6
 
-#### September 29 & October 1
+#### Monday, September 28
 
 - Attorney Fees & Client Property, _Casebook_  §§ 3.7 & 3.8 
 
@@ -126,23 +126,23 @@ _Geisel Chap._ 4 & 8-14
 
 _Geisel_, Chap. 5-7 & 24 
 
-#### October 6 & 8
+#### Wednesday, September 30 & Monday, October 5 
 
 - Competence, Diligence, & Communication; Malpractice, _Casebook_ §§ 4.1 & 4.2
 
-#### October 13
+#### Wednesday, October 7
 
-- Ineffective Assistance of Counsel; Malpractice in Criminal Cases, _Casebook_ §§ 4.3 & 4.4
+- Malpractice & Ineffective Assistance of Counsel, _Casebook_ § 4.3
 
 ### 5. Confidentiality & Privileges 
 
 _Geisel_, Chap. 15-16 
 
-#### October 15 & 20
+#### Monday, October 12 & Wednesday, October 14 
 
 - The Duty of Confidentiality, _Casebook_ § 5.1
 
-#### October 22
+#### Monday, October 19 & Wednesday, October 21
 
 - Attorney-Client Privilege & Work-Product, _Casebook_ § 5.2 & 5.6 
 
@@ -150,27 +150,35 @@ _Geisel_, Chap. 15-16
 
 _Geisel_, Chap. 17-23 
 
-#### October 27
+#### Monday, October 26
 
 - Conflicts Between Current Clients, _Casebook_ § 6.1 & 6.2 
 
-#### October 29
+#### Wednesday, October 28
 
 - Conflicts Involving the Lawyer's Business & Personal Interests, _Casebook_ § 6.2 
 
-#### November 3 & 5
+#### Monday, November 2 
 
-- Conflicts Involving Former Clients; Imputed Conflicts, _Casebook_ § 6.3 & 6.4 
+- Conflicts Involving Former Clients; Imputed Conflicts, _Casebook_ § 6.3
+
+#### Wednesday, November 4
+
+- Imputed Conflicts, _Casebook_ § 6.4 
 
 ### 7. Duties in Litigation 
 
 _Geisel_, Chap. 26-33 
 
-#### November 10 & 12
+#### Monday, November 9
 
-- Truthfulness; Fairness & Impartiality; Extrajudicial Statements _Casebook_ Chap. 7, §§ 7.1-7.3
+- Truthfulness, _Casebook_ § 7.1
 
-#### November 17
+#### Wednesday, November 11
+
+- Fairness & Impartiality; Extrajudicial Statements _Casebook_ §§ 7.2 & 7.3
+
+#### Monday, November 16
 
 - Prosecutorial Misconduct, _Casebook_ § 7.4
 
@@ -178,13 +186,13 @@ _Geisel_, Chap. 26-33
 
 _Geisel_, Chap. 35-37 
 
-#### November 19 & 24
+#### Wednesday, November 18
 
-- General Rules; Represented Persons; Unrepresented Persons, _Casebook_ §§ 8.1, 8.2, & 8.3
+- General Rules; Represented Persons; Unrepresented Persons, _Casebook_ Chap. 8
 
 ---
 
-**Dec. 8:** Final Exam 
+**Date TBA** Final Exam 
 
 [^syllabus2]: The Geisel hornbook readings are optional. You may find them helpful to get an overview of the topics covered.
 

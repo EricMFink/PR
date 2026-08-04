@@ -2,11 +2,9 @@
 
 ## Conflicts Between Current Clients
 
-### Model Rules of Professional Conduct
+#### M.R.P.C. Rule 1.7 -- Conflict of Interest: Current Clients
 
 ::: {.legalcode}
-
-#### Rule 1.7 -- Conflict of Interest: Current Clients
 
 - (a\) Except as provided in paragraph (b), a lawyer shall not represent a client if the representation involves a concurrent conflict of interest. A concurrent conflict of interest exists if:
 	- (1\) the representation of one client will be directly adverse to another client; or
@@ -19,7 +17,7 @@
 
 :::
 
-### Weil, Gotshal & Manges, LLP v. Fashion Boutique of Short Hills, Inc., 10 A.D.3d 267 (N.Y. App. Div. 2004)
+#### Weil, Gotshal & Manges, LLP v. Fashion Boutique of Short Hills, Inc., 10 A.D.3d 267 (N.Y. App. Div. 2004)
 
 This action for $2.7 million in unpaid legal fees arose out of the representation, commencing in 1993, of counterclaim plaintiff Fashion Boutique of Short Hills, Inc. and its principals by counterclaim defendant law firm and two of its partners (the law firm). Fashion Boutique alleges that, while representing it against Fendi USA, Inc. and Fendi Stores, Inc. (Fendi) in an action in federal court, Prada USA, which had acquired a controlling interest in Fendi in October 1999, retained the law firm. The federal action was based on alleged disparaging remarks by Fendi Stores, Inc., a competing Fifth Avenue boutique, and its parent Fendi USA, Inc., which led to the destruction of Fashion Boutique's retail business, thereby violating the Lanham Act (15 USC § 1125) and New York State law prohibiting product disparagement. The law firm represented Fashion Boutique through extensive pretrial discovery, a summary judgment motion resulting in the dismissal of the Lanham Act claim and a July 2000 jury trial, which resulted in the award of $35,000 in compensatory damages and $75,000 in punitive damages in favor of Fashion Boutique. Earlier, in March 2000, the Fendi defendants had made a settlement offer of $1.4 million, which, although recommended by the law firm, was rejected by Fashion Boutique. The law firm was granted leave to withdraw in September 2000. In December 2002, the United States Court of Appeals for the Second Circuit affirmed the dismissal of the Lanham Act claim.
 
@@ -31,7 +29,7 @@ Fashion Boutique's theory of liability, common to both the legal malpractice and
 
 As to the claim for breach of fiduciary duty, we have consistently held that such a claim, premised on the same facts and seeking the identical relief sought in the legal malpractice cause of action, is redundant and should be dismissed.
 
-### In re Dresser Industries, Inc., 972 F. 2d 540 (5th Cir. 1992)
+#### In re Dresser Industries, Inc., 972 F. 2d 540 (5th Cir. 1992)
 
 In this petition for a writ of mandamus, we determine whether a law firm may sue its own client, which it concurrently represents in other matters. In a word, no; and most certainly not here, where the motivation appears only to be the law firm's self-interest. We therefore grant the writ, directing the district judge to disqualify counsel.
 
@@ -83,7 +81,7 @@ Unquestionably, the national standards of attorney conduct forbid a lawyer from 
 
 Exceptional circumstances may sometimes mean that what is ordinarily a clear impropriety will not, always and inevitably, determine a conflicts case. Within the framework we announced in _Woods,_ Susman, for example, might have been able to continue his dual representation if he could have shown some social interest to be served by his representation that would outweigh the public perception of his impropriety. Susman, however, can present no such reason. There is no suggestion that other lawyers could not ably perform his offices for the plaintiffs, nor is there any basis for a suggestion of any societal or professional interest to be served. This fact suggests a rule of thumb for use in future motions for disqualification based on concurrent representation: However a lawyer's motives may be clothed, if the sole reason for suing his own client is the lawyer's self-interest, disqualification should be granted.
 
-### Sullivan-Blake v. FedEx Ground Package System, Inc., No. 2:18-cv-01698-RJC (W.D.Pa. May 21, 2020)
+#### Sullivan-Blake v. FedEx Ground Package System, Inc., No. 2:18-cv-01698-RJC (W.D.Pa. May 21, 2020)
 
 Before the Court is the Motion to Disqualify Plaintiffs' Counsel, Lichten & Liss-Riordan, P.C., filed by Defendant FedEx Ground Package System, Inc. ("FedEx"). This matter has been fully briefed and is ripe for consideration. Also before the Court are several outstanding issues respecting notice in this matter set forth in the parties' Joint Status Report that were raised, but purportedly not addressed, prior to this action being reassigned to the undersigned.
 
@@ -261,7 +259,7 @@ For the reasons discussed above, FedEx's Motion to Disqualify Plaintiffs' Counse
 
 [^sullivan-blake6]: (n.6 in opinion) The Court also notes that FedEx's reliance on *Yates v. Applied Performance Techs., Inc.,* 209 F.R.D. 143 (S.D. Ohio 2002) for the proposition that a conflict exists fails in two regards. Initially, the *Yates* court's decision clearly hinged on the filing of a third-party complaint which named another client of plaintiffs' counsel as a third-party defendant. *See* *Yates v. Applied Performance Techs., Inc.,* 209 F.R.D. 143, 152 (S.D. Ohio 2002) ("In the Court's view, Lucent's third party complaint, which names Gregg McConnell as a third party defendant, places Ferron in an untenable situation."). Further, FedEx's reliance on *Yates* presupposes that this Court must find that Service Providers violated the FLSA to find that FedEx violated the FLSA, and/or that testimony elicited by LLR from Service Providers will be adverse to Plaintiffs. As discussed above, this Court does not find merit in either of these assertions.
 
-### Representation in Purchase of Foreclosed Property, 2013 Formal Ethics Op. 4 (N.C. State Bar, July 19, 2013)
+#### Representation in Purchase of Foreclosed Property, 2013 Formal Ethics Op. 4 (N.C. State Bar, July 19, 2013)
 
 Opinion examines the ethical duties of a lawyer representing both the buyer and the seller on the purchase of a foreclosure property and the lawyer’s duties when the representation is limited to the seller.
 
@@ -325,7 +323,7 @@ In representing Seller, Law Firm X may provide an opinion on title to the title 
 
 CPR 100 and RPC 210 provide that a lawyer who is representing the buyer, the lender, and the seller (or any one or more of them) may provide the title insurer with an opinion on title sufficient to issue a mortgagee title insurance policy, when the premium is paid by the buyer. CPR 100 further recommends that, because a buyer-borrower is usually inexperienced in the purchase of real estate and the securing of loans thereon, “any lawyer involved in the transaction, even though not representing the borrower, should be alert to inform the borrower of the availability of an owner's title insurance policy which is usually available to the borrower up to the amount of the loan at little or no expense to the borrower, and assist the borrower in obtaining an owner's title insurance policy.”
 
-### Representation of Parties to a Commercial Real Estate Loan Closing, 2013 Formal Ethics Op. 14 (N.C. State Bar January 23, 2015)
+#### Representation of Parties to a Commercial Real Estate Loan Closing, 2013 Formal Ethics Op. 14 (N.C. State Bar January 23, 2015)
 
 Opinion rules that common representation in a commercial real estate loan closing is, in most instances, a “nonconsentable” conflict meaning that a lawyer may not ask the borrower and the lender to consent to common representation.
 
@@ -393,7 +391,7 @@ Consistent with the holding in 2006 FEO 3, in a commercial loan closing, the len
 
 This opinion cannot address all of the concerns expressed in the Background section above relative to the additional risks to the borrower if the lawyer for the closing is the lender’s lawyer. However, if the closing funds are deposited to and disbursed from the trust account of the lender’s lawyer in accordance with the requirements of the trust accounting rule, Rule 1.15, the funds should not be at risk. To the extent that there are other risks to the interests of the borrower, the borrower’s lawyer must analyze those risks and advise the borrower about steps that may be taken to minimize the risks including negotiating with the lender’s lawyer for aspects of the closing to be handled by the borrower’s lawyer.
 
-### Contemporaneous Residential Real Estate Closings, 2021 Formal Ethics Op. 1 (N.C. State Bar April 16, 2021)
+#### Contemporaneous Residential Real Estate Closings, 2021 Formal Ethics Op. 1 (N.C. State Bar April 16, 2021)
 
 Opinion addresses conflicts of interest, communication, funding issues, and accountings in contemporaneous closings for residential real property.
 
@@ -529,11 +527,9 @@ The same issues and considerations discussed above would apply if Lawyer wished 
 
 ## Conflicts Involving the Lawyer's Business & Personal Interests
 
-### Model Rules of Professional Conduct
+#### M.R.P.C. Rule 1.8: Current Clients -- Specific Rules
 
 ::: {.legalcode}
-
-#### Rule 1.8: Current Clients -- Specific Rules
 
 - (a\) A lawyer shall not enter into a business transaction with a client or knowingly acquire an ownership, possessory, security or other pecuniary interest adverse to a client unless:
 	- (1\) the transaction and terms on which the lawyer acquires the interest are fair and reasonable to the client and are fully disclosed and transmitted in writing in a manner that can be reasonably understood by the client;
@@ -566,9 +562,9 @@ The same issues and considerations discussed above would apply if Lawyer wished 
 
 :::
 
-### In re Morse, 748 S.E.2d 921 (Ga. 2013)
+#### In re Morse, 748 S.E.2d 921 (Ga. 2013)
 
-#### Per Curium
+##### Per Curium
 
 This disciplinary matter is before the Court on a Petition for Voluntary Discipline filed by Respondent Jack O. Morse pursuant to Bar Rule 4-227(b)(2) before a formal complaint was issued. In his petition, Morse admits violating Rule 1.8(e) of the Georgia Rules of Professional Conduct set forth in Bar Rule 4-102(d). Although such a violation is punishable by public reprimand, Morse requests the imposition of a Review Panel reprimand. The State Bar has no objection.
 
@@ -576,7 +572,7 @@ Morse, who has been a member of the State Bar since 1972, admits that while repr
 
 Under these specific circumstances, we agree that imposition of a Review Panel reprimand is an appropriate sanction. Accordingly, we accept Morse's petition for voluntary discipline and hereby order that Morse receive a Review Panel reprimand in accordance with Bar Rules 4-102(b)(4) and 4-220(b) for his admitted violation of Rule 1.8(e).
 
-#### Blackwell, Justice, concurring.
+##### Blackwell, Justice, concurring.
 
 I concur fully in the opinion of the Court, but I write separately to remind our readers that a lawyer providing financial assistance to a litigation client is not _always_ a violation of Rule 1.8(e). With two exceptions, Rule 1.8(e) provides that "a lawyer shall not provide financial assistance to a client in connection with pending or contemplated litigation." By its plain terms, the Rule only prohibits the provision of financial assistance to a litigation client to the extent of some "connection" between the financial assistance on the one hand, and the litigation or representation on the other.[^9499] Absent such a "connection," a lawyer may provide financial assistance to a litigation client without running afoul of Rule 1.8(e).
 
@@ -588,7 +584,7 @@ This understanding not only is required by the plain terms of the Rule, but it a
 
 This case is a little troubling to me because it appears from the record that Morse has been a friend of his client for a long time, such that he might have provided financial assistance to his client independent of the attorney-client relationship or the litigation, and indeed, even in the absence of an attorney-client relationship or litigation. Lawyers can be generous, and it is not uncommon for lawyers to help out their kin, their friends, and their neighbors. Nevertheless, Morse has unequivocally admitted a violation of Rule 1.8(e), and as such, he has implicitly admitted a connection between the financial assistance he provided and the litigation in which he represented his client. For that reason, I am content to join the Court in accepting his petition for voluntary discipline, and I am satisfied with the discipline that the Court has seen fit to impose. I am authorized to state that Justice Hunstein joins in this concurrence.
 
-### Committee on Prof. Ethics v. Mershon, 316 N.W.2d 895 (Iowa 1982)
+#### Committee on Prof. Ethics v. Mershon, 316 N.W.2d 895 (Iowa 1982)
 
 This case involves review of a Grievance Commission report recommending that respondent be reprimanded for alleged ethical violations arising from a business transaction with a client. We adopt the recommendation.
 
@@ -636,7 +632,7 @@ Having chosen to enter the transaction without recommending that Miller obtain i
 
 In accordance with the Commission recommendation, we reprimand him for the violation.
 
-### Saladini v. Righellis, 426 Mass. 231 (1997)
+#### Saladini v. Righellis, 426 Mass. 231 (1997)
 
 The plaintiff, Lisa Saladini, appeals from the decision of a judge in the Superior Court dismissing her complaint, sua sponte, on the ground that a written agreement she had with the defendant, George P. Righellis, was champertous and unenforceable. Saladini had sought a declaratory judgment establishing her rights under the agreement. We granted Saladini's application for direct appellate review to consider whether we should continue to enforce the doctrine. We rule that the common law doctrines of champerty, barratry, and maintenance no longer shall be recognized in Massachusetts. We reverse the judgment entered in the Superior Court and remand this case for further proceedings.
 
@@ -666,7 +662,7 @@ We also no longer are persuaded that the champerty doctrine is needed to protect
 
 Other States that no longer recognize the doctrine of champerty have continued to scrutinize an agreement to finance a lawsuit with care. We shall do likewise. This means that if an agreement to finance a lawsuit is challenged, we will consider whether the fees charged are excessive or whether any recovery by a prevailing party is vitiated because of some impermissible overreaching by the financier. Judges also retain their inherent power to disapprove an attorney's fee that is unreasonable. We shall be guided in our analysis by a rule of what is fair and reasonable, looking to all of the circumstances at the time the arrangement is made to determine whether the agreement should be set aside or modified. In this case, for example, had the agreement been challenged, relevant factors might have included the respective bargaining position of the parties at the time the agreement was made, whether both parties were aware of the terms and consequences of the agreement, whether Righellis may have been unable to pursue the lawsuit at all without Saladini's funds, and whether the claim by Righellis that he will receive but $35,000 of the total $130,000 settlement award if Saladini prevails is unreasonable in the circumstances. We observe that before the judge raised the issue, Righellis had never challenged the validity of his agreement with Saladini. The record before us does not permit any conclusion regarding the reasonableness of the agreement between Righellis and Saladini on the one hand, or Righellis and Potters on the other. We see no reason why Righellis should be the beneficiary of any windfall, or why any adjustment to the financing arrangement---if appropriate at all---should be made solely at Saladini's expense. If pursued, those matters can be decided by the trial judge.
 
-### In re State Grand Jury Investigation, 983 A.2d 1097 (N.J. 2009)
+#### In re State Grand Jury Investigation, 983 A.2d 1097 (N.J. 2009)
 
 Confronted with a grand jury inquiry that commanded the testimony of several of its employees, an employer elected to provide and pay for counsel to those employees for purposes of that investigation. Fearing that having individual employees/grand jury witnesses represented by counsel retained and compensated by the putative target of the grand jury inquiry violated several of the _Rules of Professional Conduct,_ the State moved to disqualify those counsel. The trial court denied that application, limited the amount of information to be transmitted by such counsel to the employer, and, further, imposed restrictions both on the ability of the employer to discontinue paying the fees of counsel for the employees as well as on the ability of those counsel to discontinue representing the subpoenaed employees.
 
@@ -784,7 +780,7 @@ _Prompt and continued payment._ Once an employer commits to paying the legal fee
 
 In sum, through the combined product of the good faith of an employer, the diligence of competent counsel and the exercise of a trial court's supervisory authority, the net result of the company's retention and payment of counsel for its employees complies with the _Rules of Professional Conduct._ For these reasons, the trial court properly denied the State's motion to disqualify counsel.
 
-### Negotiating Private Employment with Opposing Counsel, 2016 Formal Ethics Op. 3 (N.C. State Bar Jan. 27, 2017)
+#### Negotiating Private Employment with Opposing Counsel, 2016 Formal Ethics Op. 3 (N.C. State Bar Jan. 27, 2017)
 
 Opinion rules that a lawyer may not negotiate for employment with another firm if the firm represents a party adverse to the lawyer’s client unless both clients give informed consent.
 
@@ -818,9 +814,9 @@ Similarly, the hiring law firm must not engage in substantive employment negotia
 
 [^2016feo3]: (n.1 in opinion) A substantive discussion entails a communication between the job-seeking lawyer and the hiring law firm about the job-seeking lawyer’s skills, experience, and the ability to bring clients to the firm; and the terms of association. ABA Formal Ethics Op. 96-400 (1996). Thus there is a two-prong test for “substantive discussions.” There must be (1) a discussion/negotiation that is (2) substantive. Sending a resume blind to a potential employer is not a “discussion.” Speaking generally with a colleague at a social event about employment opportunities is not “substantive.”
 
-### Disciplinary Counsel v. Sarver, 119 N.E.3d 405 (Ohio 2018)
+#### Disciplinary Counsel v. Sarver, 119 N.E.3d 405 (Ohio 2018)
 
-#### Kennedy, J.
+##### Kennedy, J.
 
 Respondent, Jason Allan Sarver, of Rockbridge, Ohio, Attorney Registration No. 0082073, was admitted to the practice of law in Ohio in 2007.
 
@@ -898,7 +894,7 @@ The board's finding that J.B. freely engaged in a relationship with Sarver ignor
 
 Accordingly, Jason Allan Sarver is suspended from the practice of law in Ohio for two years, with 18 months of the suspension stayed on the conditions that he (1) comply with his December 12, 2017 OLAP contract, (2) take the Multistate Professional Responsibility Exam and receive a passing score, (3) in addition to the requirements of Gov.Bar R. X, complete 12 hours of continuing legal education focused on professional ethics or attorney-client relationships, (4) serve a two-year period of monitored probation in accordance with Gov.Bar R. V(21), and (5) engage in no further misconduct. If Sarver fails to comply with any condition of the stay, the stay will be lifted and he will serve the full two-year suspension. 
 
-#### Fischer, J., concurs in part and dissents in part, with an opinion joined by O'Connor, C.J., and DeGenaro, J.
+##### Fischer, J., concurs in part and dissents in part, with an opinion joined by O'Connor, C.J., and DeGenaro, J.
 
 The sanction recommended by the Board of Professional Conduct, with the inclusion of conditions such as probation, is much improved from the previous discipline-by-consent agreement submitted to this court. I agree with the majority's position, however, that a two-year suspension, with the entire suspension stayed on the conditions recommended by the board, is an unsuitable sanction in this case. Although I agree with much of the majority's analysis, I believe that given the circumstances of this case, a longer actual suspension of respondent Jason Allan Sarver's Ohio law license is warranted and is necessary to protect the public. Specifically, I find that a two-year suspension, with one year stayed on the conditions recommended by the board, would be a more appropriate sanction in this case. Therefore, I respectfully concur in part and dissent in part.
 
@@ -946,11 +942,11 @@ I hope that in the future, this court will more often utilize probation, as was 
 
 ## Conflicts Involving Former Clients
 
-### Model Rules of Professional Conduct
+#### Model Rules of Professional Conduct
 
 ::: {.legalcode}
 
-#### Rule 1.9 -- Duties to Former Clients
+##### Rule 1.9 -- Duties to Former Clients
 
 - (a\) A lawyer who has formerly represented a client in a matter shall not thereafter represent another person in the same or a substantially related matter in which that person's interests are materially adverse to the interests of the former client unless the former client gives informed consent, confirmed in writing.
 - (b\) A lawyer shall not knowingly represent a person in the same or a substantially related matter in which a firm with which the lawyer formerly was associated had previously represented a client
@@ -960,11 +956,7 @@ I hope that in the future, this court will more often utilize probation, as was 
 	- (1\) use information relating to the representation to the disadvantage of the former client except as these Rules would permit or require with respect to a client, or when the information has become generally known; or
 	- (2\) reveal information relating to the representation except as these Rules would permit or require with respect to a client.
 
-:::
-
-::: {.legalcode}
-
-#### Rule 1.11 -- Special Conflicts of Interest for Former & Current Government Officers & Employees
+##### Rule 1.11 -- Special Conflicts of Interest for Former & Current Government Officers & Employees
 
 - (a\) Except as law may otherwise expressly permit, a lawyer who has formerly served as a public officer or employee of the government:
 	- (1\) is subject to Rule 1.9(c); and
@@ -982,11 +974,7 @@ I hope that in the future, this court will more often utilize probation, as was 
 	- (1\) any judicial or other proceeding, application, request for a ruling or other determination, contract, claim, controversy, investigation, charge, accusation, arrest or other particular matter involving a specific party or parties, and
 	- (2\) any other matter covered by the conflict of interest rules of the appropriate government agency.
 
-:::
-
-::: {.legalcode}
-
-#### Rule 1.12 -- Former Judge, Arbitrator, Mediator or Other Third-Party Neutral
+##### Rule 1.12 -- Former Judge, Arbitrator, Mediator or Other Third-Party Neutral
 
 - (a\) Except as stated in paragraph (d), a lawyer shall not represent anyone in connection with a matter in which the lawyer participated personally and substantially as a judge or other adjudicative officer or law clerk to such a person or as an arbitrator, mediator or other third-party neutral, unless all parties to the proceeding give informed consent, confirmed in writing.
 - (b\) A lawyer shall not negotiate for employment with any person who is involved as a party or as lawyer for a party in a matter in which the lawyer is participating personally and substantially as a judge or other adjudicative officer or as an arbitrator, mediator or other third-party neutral. A lawyer serving as a law clerk to a judge or other adjudicative officer may negotiate for employment with a party or lawyer involved in a matter in which the clerk is participating personally and substantially, but only after the lawyer has notified the judge or other adjudicative officer.
@@ -997,7 +985,7 @@ I hope that in the future, this court will more often utilize probation, as was 
 
 :::
 
-### Gutting v. Falstaff Brewing Corp., 710 F. 2d 1309 (8th Cir. 1983)
+#### Gutting v. Falstaff Brewing Corp., 710 F. 2d 1309 (8th Cir. 1983)
 
 Virginia M. Gutting appeals from an order of the district court entering summary judgment in favor of Falstaff Brewing Corporation and denying her motion for summary judgment. Gutting's primary argument on this appeal is based on the claim that the district court erred in denying her motion for leave to file answers out of time to Falstaff's request for admissions and in ordering the matters set forth in the request deemed admitted. Because we conclude that the district court erred by not allowing Gutting to file late answers to the request for admissions, we reverse and remand.
 
@@ -1033,7 +1021,7 @@ We do not mean to imply disapproval of the district court's use of discovery san
 
 We reverse the judgment of the district court and remand for further proceedings with directions that the district court set a reasonable time period in which to allow Gutting to file answers to the request for admissions.
 
-### NuStar Farms, LLC v. Zylstra, 880 N.W.2d 478 (Iowa 2016)
+#### NuStar Farms, LLC v. Zylstra, 880 N.W.2d 478 (Iowa 2016)
 
 In this interlocutory appeal, we are asked to decide whether an attorney should be disqualified from representing one party in a lawsuit, either because his representation of the two parties was concurrent or because he had previously represented the opposing party in a similar matter. The district court concluded that the attorney need not be disqualified. For the reasons stated below, we conclude that the district court did not abuse its discretion in concluding that the prior attorney-client relationship failed the "substantial relationship" test. However, we conclude that the attorney did have a concurrent conflict of interest. Therefore, we find the district court abused its discretion in not disqualifying the attorney.
 
@@ -1121,7 +1109,7 @@ We do not find that a substantial relationship exists sufficient to disqualify S
 
 We find that the district court did not abuse its discretion in concluding that any prior relationship between Stoller and Zylstra in regard to the manure easement agreements failed the substantial relationship test. However, we find that Stoller did have a concurrent conflict of interest. Therefore, we conclude that the district court abused its discretion in not disqualifying Stoller from representing NuStar in the action. On remand, the district court should enter an order disqualifying Stoller from further representation of NuStar in this lawsuit.
 
-### Wilson P. Abraham Construction v. Armco Steel Corp., 559 F. 2d 250 (5th Cir. 1977)
+#### Wilson P. Abraham Construction v. Armco Steel Corp., 559 F. 2d 250 (5th Cir. 1977)
 
 This dispute centers around exactly what relationship cocounsel for the plaintiff, a Mr. Stephen D. Susman, had with the various defendants in this suit in a prior legal matter. The factual background which leads up to this current dispute is somewhat detailed and complicated. It begins in 1972 when Mr. Susman was associated with the firm of Fulbright and Jaworski in Houston, Texas. At that time, he undertook to represent Whitlow Steel Company, Inc., an independent rebar fabricator in Houston. This representation was in connection with a Federal Grand Jury investigation of the rebar steel industry in Texas. In August 1973, charges of antitrust violations were levied against Whitlow, Armco Steel Corp., The Ceco Corp., and Laclede Steel Company. Armco, Ceco, and Laclede are the defendants in the present action before this court. As counsel for Whitlow, Mr. Susman met on more than one occasion with the representatives of Armco, Ceco, and Laclede. At these meetings some efforts allegedly were made to develop a cooperative defense. Exactly what information was exchanged, and the importance of that information, is hotly disputed. Mr. Susman contends that the meetings were disorganized and nothing of substance was ever discussed. The defendants contend that documents were in fact discussed and disseminated, grand jury witness lists were prepared, and reports were given as to exactly what testimony was being presented before the grand jury by the various witnesses. The gist of the defendantsbid rigging. motion at that time saying that the motion presented such a close factual question that it could not be ruled on until the court heard all the evidence at trial. This ruling prompted the defendants to enter pleas in order to avoid trial.
 
@@ -1139,11 +1127,9 @@ Under these circumstances it is impossible for us to resolve this matter without
 
 ## Imputed Conflicts
 
-### Model Rules of Professional Conduct
+#### M.R.P.C. Rule 1.10 -- Imputation of Conflicts of Interest: General Rule
 
 ::: {.legalcode}
-
-#### Rule 1.10 -- Imputation of Conflicts of Interest: General Rule
 
 - (a\) While lawyers are associated in a firm, none of them shall knowingly represent a client when any one of them practicing alone would be prohibited from doing so by Rules 1.7 or 1.9, unless 
 	- (1\) the prohibition is based on a personal interest of the disqualified lawyer and does not present a significant risk of materially limiting the representation of the client by the remaining lawyers in the firm; or
@@ -1159,7 +1145,7 @@ Under these circumstances it is impossible for us to resolve this matter without
 
 :::
 
-### Cinema 5, Ltd. v. Cinerama, Inc., 528 F. 2d 1384 (2d Cir. 1976)
+#### Cinema 5, Ltd. v. Cinerama, Inc., 528 F. 2d 1384 (2d Cir. 1976)
 
 This appeal from an order granting defendants' motion to disqualify plaintiff's counsel presents a somewhat unusual set of facts. Counsel has been disqualified from further representation of plaintiff because a partner in this New York City law firm is also a partner in a Buffalo firm which is presently representing the defendant Cinerama, Inc. in other litigation of a somewhat similar nature. Although we agree with the district court that there was no actual wrongdoing and intend no criticism of the lawyers involved, we find no abuse of the district court's discretion, and so affirm.
 
@@ -1189,7 +1175,7 @@ Nothing that we have heretofore said is intended as criticism of the character a
 
 Under the circumstances, Judge Brieant's order of disqualification cannot be construed as an abuse of his discretion. We therefore affirm.
 
-### Screening Lateral Hire Who Formerly Represented Adverse Organization, 2012 Formal Ethics Op. 4 (N.C. State Bar, January 25, 2013)
+#### Screening Lateral Hire Who Formerly Represented Adverse Organization, 2012 Formal Ethics Op. 4 (N.C. State Bar, January 25, 2013)
 
 Opinion rules that a lawyer who represented an organization while employed with another firm must be screened from participation in any matter, or any matter substantially related thereto, in which she previously represented the organization, and from any matter against the organization if she acquired confidential information of the organization that is relevant to the matter and which has not become generally known.
 

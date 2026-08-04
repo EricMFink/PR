@@ -1,13 +1,12 @@
 ---
 title: Syllabus
-revised: 2025-08-23T17:29:58-04:00
+revised: 2026-08-04T11:10:44-0400-04:00
 
 subject: Professional Responsibility
-term: 'Fall 2025'
+term: 'Fall 2026'
 room: 'Room 207'
 meets: 'Mondays & Wednesdays, 9:45–10:45 am'
 repo-url: 'emfink.net/PR'
-syllabus: true
 
 author: Eric M. Fink
 phone: 336-279-9334
@@ -17,37 +16,39 @@ institution: Elon University School of Law
 address: 201 North Greene Street
 city-state: Greensboro, North Carolina
 
-ta: Holden Bryant
-ta-email: hbryant4@elon.edu
+ta: Yanila Noy
+ta-email: ynoy@elon.edu
 
 format:
   pdf:
-    template: master.tex
+    template: syllabus.tex
     output-file: PRsyllabus
 
 ---
 
-## Description
+## Description {.unnumbered}
 
 This course is intended to acquaint students with the organization and regulation of the legal profession, the nature of the attorney-client relationship, and the duties that attorneys owe to clients and others. Upon successfully completing the course, students should be familiar with the ABA Model Rules of Professional Conduct and other sources of law governing the legal profession, and be able to apply these rules to issues that arise in legal practice. The course will also help prepare students for the [Multistate Professional Responsibility Examination (MPRE)](https://www.ncbex.org/exams/mpre/), but will not cover all of the topics tested on that exam. 
 
-## Materials
+## Materials {.unnumbered}
 
-### Required 
+### Required  {.unnumbered}
 
-[Professional Responsibility: An Open-Source Casebook](https://emfink.net/PR) (v.4.1 2025). Available at [emfink.net/PR](https://www.emfink.net/PR/).
+Professional Responsibility: An Open-Source Casebook (v.5.0 2026). Available on the course website: [[emfink.net/PR](https://www.emfink.net/PR/)]{.mono-font}.
 
-### Suggested 
+### Suggested  {.unnumbered}
 
-Grace M. Giesel, [Mastering Professional Responsibility](https://cap-press.com/books/isbn/9781611636208/Mastering-Professional-Responsibility-Second-Edition) (2d ed., Carolina Academic Press 2015). 
+Grace M. Geisel, [Mastering Professional Responsibility](https://cap-press.com/books/isbn/9781611636208/Mastering-Professional-Responsibility-Second-Edition) (2d ed., Carolina Academic Press 2015). 
 
-## Policies
+Ray Brescia, [Core Professional Responsibility: Learning Through Multiple-Choice Questions](https://cap-press.com/books/isbn/9781531026097/Core-Professional-Responsibility) (Carolina Academic Press 2024). 
 
-### Grading
+## Policies {.unnumbered}
+
+### Grading {.unnumbered}
 
 Your grade will be based on a final examination consisting of multiple choice questions, similar in format to the [Multistate Professional Responsibility Examination (MPRE)](https://www.ncbex.org/exams/mpre). You will receive a copy of the Rules of Professional Conduct to use during the exam, which will otherwise be closed-book/closed-notes. The exam will take place during the Fall exam period (date and time TBA)
 
-### Attendance
+### Attendance {.unnumbered}
 
 Elon Law School has adopted the following attendance policy for all courses:
 
@@ -57,86 +58,130 @@ Elon Law School has adopted the following attendance policy for all courses:
 
 You should let me know (in advance if feasible) if you are unable to attend class, will arrive late, or must leave early. I do not require an explanation of the reason, nor do I require a doctor's note or other documentation.
 
-### Disability Accommodations
+### Disability Accommodations {.unnumbered}
 
 For disability accommodation requests, contact the [Elon Disability Services Office](https://www.elon.edu/u/academics/koenigsberger-learning-center/disabilities-resources/homepage/graduate-student-resources/).
 
-### Honor Code
+### Honor Code {.unnumbered}
 
 The Law School [honor code](https://www.elon.edu/u/law/students/honor-code/) applies to all activities related to your law school study, including conduct during class and examinations.
 
-## Schedule & Reading Assignments
+\newpage
 
-(_Note:_ This class will not meet on Sept. 24)
+## Schedule & Reading Assignments {.unnumbered}
+
+_Note:_ This class will not meet on Sept. 7 and 21.
 
 ### 1. The Legal Profession & Regulation of Lawyers 
 
-_Casebook_, Chap. 1; _Geisel_, Chap. 1 & 2[^syllabus2]
+_Geisel_, Chap. 1 & 2[^syllabus2]
 
-**Sept. 3:** Regulatory Authorities; Misconduct & Discipline, _Casebook_ §§ 1.1 & 1.2
+#### Monday, August 31
 
-**Sept. 8:** Bar Admission; Unauthorized Practice of Law; Law Firms _Casebook_ §§ 1.3-1.5
+- Regulatory Authorities; Misconduct & Discipline, _Casebook_ §§ 1.1 & 1.2
+
+#### Wednesday, September 2
+
+- Bar Admission; Unauthorized Practice of Law; Law Firms _Casebook_ §§ 1.3-1.5
 
 ### 2. Advertising & Solicitation 
 
-_Casebook_, Chap. 2; _Geisel_, Chap. 45 & 46 
+_Geisel_, Chap. 45 & 46 
 
-**Sept. 10:** Advertising; Solicitation, _Casebook_ §§ 2.1 & 2.2
+Wednesday, September 9
+
+- Advertising; Solicitation, _Casebook_ §§ 2.1 & 2.2
 
 ### 3. The Attorney-Client Relationship 
 
-_Casebook_, Chap. 3; _Giesel Chap._ 4 & 8-14 
+_Geisel Chap._ 4 & 8-14 
 
-**Sept. 15:** Establishing an Attorney-Client Relationship; Prospective Clients; Declining & Terminating Representation, _Casebook_ §§ 3.1, 3.2, & 3.3
+#### Monday, September 14
 
-**Sept. 17:** Scope of Representation & Allocation of Authority, _Casebook_ §§ 3.4
+- Establishing an Attorney-Client Relationship; Prospective Clients; Declining & Terminating Representation, _Casebook_ §§ 3.1, 3.2, & 3.3
 
-**Sept. 22:** Clients with Diminished Capacity; Organizational Clients, _Casebook_ §§ 3.5 & 3.6
+#### Wednesday, September 16
 
-**Sept. 29 & Oct. 1:** Attorney Fees & Client Property, _Casebook_  §§ 3.7 & 3.8 
+- Scope of Representation & Allocation of Authority, _Casebook_ §§ 3.4
+
+#### Wednesday, September 23
+
+- Clients with Diminished Capacity; Organizational Clients, _Casebook_ §§ 3.5 & 3.6
+
+#### Monday, September 28
+
+- Attorney Fees & Client Property, _Casebook_  §§ 3.7 & 3.8 
 
 ### 4. The Duty of Care 
 
-_Casebook_, Chap. 4; _Geisel_, Chap. 5-7 & 24 
+_Geisel_, Chap. 5-7 & 24 
 
-**Oct. 6 & 8:** Competence, Diligence, & Communication; Malpractice, _Casebook_ §§ 4.1 & 4.2
+#### Wednesday, September 30 & Monday, October 5 
 
-**Oct. 13:** Ineffective Assistance of Counsel; Malpractice in Criminal Cases, _Casebook_ §§ 4.3 & 4.4
+- Competence, Diligence, & Communication; Malpractice, _Casebook_ §§ 4.1 & 4.2
+
+#### Wednesday, October 7
+
+- Malpractice & Ineffective Assistance of Counsel, _Casebook_ § 4.3
 
 ### 5. Confidentiality & Privileges 
 
-_Casebook_, Chap. 5; _Geisel_, Chap. 15-16 
+_Geisel_, Chap. 15-16 
 
-**Oct. 15 & 20:** The Duty of Confidentialty, _Casebook_ § 5.1
+#### Monday, October 12 & Wednesday, October 14 
 
-**Oct. 22:** Attorney-Client Privilege & Work-Product, _Casebook_ § 5.2 & 5.6 
+- The Duty of Confidentiality, _Casebook_ § 5.1
+
+#### Monday, October 19 & Wednesday, October 21
+
+- Attorney-Client Privilege & Work-Product, _Casebook_ § 5.2 & 5.6 
 
 ### 6. Conflicts of Interest 
 
-_Casebook_, Chap. 6; _Geisel_, Chap. 17-23 
+_Geisel_, Chap. 17-23 
 
-**Oct. 27:** Conflicts Between Current Clients, _Casebook_ § 6.1 & 6.2 
+#### Monday, October 26
 
-**Oct. 29:** Conflicts Involving the Lawyer's Business & Personal Interests, _Casebook_ § 6.2 
+- Conflicts Between Current Clients, _Casebook_ § 6.1 & 6.2 
 
-**Nov. 3 & 5:** Conflicts Involving Former Clients; Imputed Conflicts, _Casebook_ § 6.3 & 6.4 
+#### Wednesday, October 28
+
+- Conflicts Involving the Lawyer's Business & Personal Interests, _Casebook_ § 6.2 
+
+#### Monday, November 2 
+
+- Conflicts Involving Former Clients; Imputed Conflicts, _Casebook_ § 6.3
+
+#### Wednesday, November 4
+
+- Imputed Conflicts, _Casebook_ § 6.4 
 
 ### 7. Duties in Litigation 
 
-_Casebook_, Chap. 7; _Geisel_, Chap. 26-33 
+_Geisel_, Chap. 26-33 
 
-**Nov. 10 & 12:** Truthfulness; Fairness & Impartiality; Extrajudicial Statements _Casebook_ Chap. 7, §§ 7.1-7.3
+#### Monday, November 9
 
-**Nov. 17:** Prosecutorial Misconduct, _Casebook_ § 7.4
+- Truthfulness, _Casebook_ § 7.1
+
+#### Wednesday, November 11
+
+- Fairness & Impartiality; Extrajudicial Statements _Casebook_ §§ 7.2 & 7.3
+
+#### Monday, November 16
+
+- Prosecutorial Misconduct, _Casebook_ § 7.4
 
 ### 8. Interactions with Non-Clients 
 
-_Casebook_, Chap. 8; _Geisel_, Chap. 35-37 
+_Geisel_, Chap. 35-37 
 
-**Nov. 19 & 24:** General Rules; Represented Persons; Unrepresented Persons, _Casebook_ §§ 8.1, 8.2, & 8.3
+#### Wednesday, November 18
+
+- General Rules; Represented Persons; Unrepresented Persons, _Casebook_ Chap. 8
 
 ---
 
-**Dec. 8:** Final Exam 
+**Date TBA** Final Exam 
 
-[^syllabus2]: The Giesel hornbook readings are optional. You may find them helpful to get an overview of the topics covered.
+[^syllabus2]: The Geisel hornbook readings are optional. You may find them helpful to get an overview of the topics covered.

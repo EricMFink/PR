@@ -2,11 +2,11 @@
 
 ## Duty of Confidentiality
 
-### Model Rules of Professional Conduct
+#### Model Rules of Professional Conduct
 
 ::: {.legalcode}
 
-#### Rule 1.6 -- Confidentiality of Information
+##### Rule 1.6 -- Confidentiality of Information
 
 - (a\) A lawyer shall not reveal information relating to the representation of a client unless the client gives informed consent, the disclosure is impliedly authorized in order to carry out the representation or the disclosure is permitted by paragraph (b).
 - (b\) A lawyer may reveal information relating to the representation of a client to the extent the lawyer reasonably believes necessary:
@@ -19,21 +19,13 @@
 	- (7\) to detect and resolve conflicts of interest arising from the lawyer’s change of employment or from changes in the composition or ownership of a firm, but only if the revealed information would not compromise the attorney-client privilege or otherwise prejudice the client.
 - (c\) A lawyer shall make reasonable efforts to prevent the inadvertent or unauthorized disclosure of, or unauthorized access to, information relating to the representation of a client.
 
-:::
-
-::: {.legalcode}
-
-#### Rule 1.9 -- Duties to Former Clients
+##### Rule 1.9 -- Duties to Former Clients
 
 - (c\) A lawyer who has formerly represented a client in a matter or whose present or former firm has formerly represented a client in a matter shall not thereafter:
 	- (1\) use information relating to the representation to the disadvantage of the former client except as these Rules would permit or require with respect to a client, or when the information has become generally known; or
 	- (2\) reveal information relating to the representation except as these Rules would permit or require with respect to a client.
 
-:::
-
-::: {.legalcode}
-
-#### Rule 1.18 -- Duties to Prospective Client
+##### Rule 1.18 -- Duties to Prospective Client
 
 - (b\) Even when no client-lawyer relationship ensues, a lawyer who has learned information from a prospective client shall not use or reveal that information, except as Rule 1.9 would permit with respect to information of a former client.
 - (c\) A lawyer subject to paragraph (b) shall not represent a client with interests materially adverse to those of a prospective client in the same or a substantially related matter if the lawyer received information from the prospective client that could be significantly harmful to that person in the matter, except as provided in paragraph (d). If a lawyer is disqualified from representation under this paragraph, no lawyer in a firm with which that lawyer is associated may knowingly undertake or continue representation in such a matter, except as provided in paragraph (d).
@@ -43,21 +35,15 @@
 		- (i\) the disqualified lawyer is timely screened from any participation in the matter and is apportioned no part of the fee therefrom; and
 		- (ii\) written notice is promptly given to the prospective client.
 
-:::
-
-::: {.legalcode}
-
-#### Rule 4.4 -- Respect for Rights of Third Persons
+##### Rule 4.4 -- Respect for Rights of Third Persons
 
 - (b\) A lawyer who receives a document or electronically stored information relating to the representation of the lawyer's client and knows or reasonably should know that the document or electronically stored information was inadvertently sent shall promptly notify the sender.
 
 :::
 
-### NC Rules of Professional Conduct
+#### NC R.P.C. Rule 8.6 -- Information About a Possible Wrongful Conviction
 
 ::: {.legalcode}
-
-#### Rule 8.6 -- Information About a Possible Wrongful Conviction
 
 - (a\) Subject to paragraph (b), when a lawyer knows of credible evidence or information, including evidence or information otherwise protected by Rule 1.6, that creates a reasonable likelihood that a defendant did not commit the offense for which the defendant was convicted, the lawyer shall promptly disclose that evidence or information to the prosecutorial authority for the jurisdiction in which the defendant was convicted and to North Carolina Office of Indigent Defense Services or, if appropriate, the federal public defender for the district of conviction.
 - (b\) Notwithstanding paragraph (a), a lawyer shall not disclose evidence or information if:
@@ -69,7 +55,7 @@
 
 :::
 
-### Dougherty v. Pepper Hamilton LLP, 133 A. 3d 792 (Pa. Super. Ct. 2016)
+#### Dougherty v. Pepper Hamilton LLP, 133 A. 3d 792 (Pa. Super. Ct. 2016)
 
 Appellant, John J. Dougherty, appeals from the order granting summary judgment in favor of Pepper Hamilton LLP and its attorneys Amy B. Ginensky, Michael E. Baughman, Peter M. Smith, and Raphael Cunniff, in this civil action alleging breach of fiduciary duty and breach of contract. For the reasons that follow, we reverse and remand for further proceedings.
 
@@ -125,7 +111,7 @@ Here, the trial court concluded that because the FBI Affidavit was inadvertently
 
 Our review of the record, in the light most favorable to Appellant as the non-moving party, reflects that the trial court erred in granting summary judgment in this case. Indeed, this case presents genuine issues of fact. The record reveals that the FBI Affidavit in question became part of another criminal matter through inadvertence. Even accepting that the FBI Affidavit was publicly available through PACER prior to December 10, 2012, we are left to ponder whether the FBI Affidavit was actually "generally known." All that is acknowledged at this point in the proceedings is that the FBI Affidavit was inadvertently appended to a document in a case that did not involve Appellant as a party. Therefore, it appears that such document was not "indexed" under Appellant's name and that a person interested in the FBI Affidavit "could obtain it only by means of special knowledge." Furthermore, it is unknown exactly how and when the FBI Affidavit came into the possession of the Inquirer and eventually became the subject of an article in the Inquirer during Pepper Hamilton's representation of the Inquirer. Whether Pepper Hamilton committed a breach of its duties to Appellant depends on the answers to these questions. Thus, these questions are sufficient to establish genuine issues of material fact regarding Pepper Hamilton's conduct. Contrary to the trial court's conclusion, in the event that the FBI Affidavit was not generally known information, it appears that Pepper Hamilton breached its duty to Appellant as a former client and such breach was actionable. Accordingly, we reverse the order granting summary judgment.
 
-### Matter of Tennant, 392 P. 3d 143 (Mont. 2017)
+#### Matter of Tennant, 392 P. 3d 143 (Mont. 2017)
 
 These consolidated proceedings include two formal disciplinary complaints filed against Montana attorney David G. Tennant. The complaints, which arise from Tennant's debt collection practices against clients and former clients, will be referenced in this Opinion and Order as the Ray complaint and the Harshman complaint.
 
@@ -165,9 +151,9 @@ Finally, ODC argues that the Commission's recommended sanctions are inadequate g
 
 We have concluded that ODC established one ethical violation in addition to those recognized by the Commission. However, that violation ultimately did not harm Tennant's clients---the Harshmans redeemed their property. Further, the additional violation does not undermine the Commission's overall conclusions on the evidence presented, and on this record we are not inclined to deviate from the discipline recommended by the Commission.
 
-### In re Original Grand Jury Investigation, 89 Ohio St. 3d 544 (Ohio 2000)
+#### In re Original Grand Jury Investigation, 89 Ohio St. 3d 544 (Ohio 2000)
 
-#### Francis E. Sweeny, Sr., J.
+##### Francis E. Sweeny, Sr., J.
 
 The issue presented in this case is whether an attorney can be compelled to disclose to the grand jury a letter written by a client and discovered by an investigator that contains evidence of a possible crime or whether the Ohio Code of Professional Responsibility prohibits such disclosure.
 
@@ -207,7 +193,7 @@ Other provisions of the code support our holding that appellant must relinquish 
 
 We agree with the court of appeals that the sanction imposed against appellant stemming from the contempt proceedings should be vacated, given that appellant challenged the subpoena on confidentiality grounds in good faith. Under these circumstances, we do not believe appellant should be punished and held in contempt. The finding of contempt is vacated on condition that appellant comply with the subpoena. Accordingly, we affirm the judgment of the court of appeals and order appellant to relinquish the letter in question to the grand jury.
 
-#### Pfeifer, J., concurring in part and dissenting in part.
+##### Pfeifer, J., concurring in part and dissenting in part.
 
 I agree with the majority that the letter is a client secret and that Helmick was authorized to reveal the intent of his client to commit a crime. DR 4-101(C)(3). Revealing "the information necessary to prevent the crime" should have concluded the matter. Unfortunately, the trial court and now a majority of this court chose to read DR 4-101(C)(2) liberally. That reading of the exception swallows the rule of DR 4-101(B)(1), which states that a lawyer "shall not knowingly reveal a confidence or secret of his client," and declares open season on defense attorney files.
 
@@ -217,7 +203,7 @@ Helmick acted the way all attorneys with an ethical dilemma should: he sought ou
 
 Today's opinion will likely have two unfortunate results. First, overzealous prosecutors will be more likely to engage in fishing expeditions. Second, attorneys and their clients will be less likely to discuss potential crimes, which will decrease the likelihood that the crimes can be prevented. I concur in part and dissent in part.
 
-### McClure v. Thompson, 323 F.3d 1233 (9th Cir. 2003)
+#### McClure v. Thompson, 323 F.3d 1233 (9th Cir. 2003)
 
 Oregon state prisoner Robert A. McClure appeals the district court's denial of his habeas corpus petition challenging his jury trial conviction for three aggravated murders. McClure's original defense attorney, Christopher Mecca, placed an anonymous telephone call to law enforcement officials directing them to the locations of what turned out to be the bodies of two children whom McClure was ultimately convicted of killing. The district court rejected McClure's arguments that the disclosure constituted ineffective assistance of counsel, holding there was no breach of the duty of confidentiality and no actual conflict of interest. We affirm.
 
@@ -313,11 +299,11 @@ This is a close case, even after we give the required deference to the state and
 
 ## Attorney-Client Privilege
 
-### Rest. (2d) of the Law Governing Lawyers 
+#### Rest. (2d) of the Law Governing Lawyers 
 
 ::: {.legalcode}
 
-#### § 68 -- Attorney-Client Privilege
+##### § 68 -- Attorney-Client Privilege
 
 Except as otherwise provided in this Restatement, the attorney-client privilege may be invoked as provided in § 86 with respect to:
 
@@ -326,55 +312,31 @@ Except as otherwise provided in this Restatement, the attorney-client privilege 
 - (3\) in confidence
 - (4\) for the purpose of obtaining or providing legal assistance for the client.
 
-:::
-
-::: {.legalcode}
-
-#### § 69 -- Attorney-Client Privilege—"Communication"
+##### § 69 -- Attorney-Client Privilege—"Communication"
 
 A communication within the meaning of § 68 is any expression through which a privileged person, as defined in § 70, undertakes to convey information to another privileged person and any document or other record revealing such an expression.
 
-:::
-
-::: {.legalcode}
-
-#### § 70 -- Attorney-Client Privilege—"Privileged Persons"
+##### § 70 -- Attorney-Client Privilege—"Privileged Persons"
 
 Privileged persons within the meaning of § 68 are the client (including a prospective client), the client's lawyer, agents of either who facilitate communications between them, and agents of the lawyer who facilitate the representation.
 
-:::
-
-::: {.legalcode}
-
-#### § 71 -- Attorney-Client Privilege—"In Confidence"
+##### § 71 -- Attorney-Client Privilege—"In Confidence"
 
 A communication is in confidence within the meaning of § 68 if, at the time and in the circumstances of the communication, the communicating person reasonably believes that no one will learn the contents of the communication except a privileged person as defined in § 70 or another person with whom communications are protected under a similar privilege.
 
-:::
-
-::: {.legalcode}
-
-#### § 72 -- Attorney-Client Privilege—Legal Assistance as the Object of a Privileged Communication
+##### § 72 -- Attorney-Client Privilege—Legal Assistance as the Object of a Privileged Communication
 
 A communication is made for the purpose of obtaining or providing legal assistance within the meaning of § 68 if it is made to or to assist a person:
 
 - (1\) who is a lawyer or who the client or prospective client reasonably believes to be a lawyer; and
 - (2\) whom the client or prospective client consults for the purpose of obtaining legal assistance.
 
-:::
-
-::: {.legalcode}
-
-#### § 75 -- The Privilege of Co-Clients
+##### § 75 -- The Privilege of Co-Clients
 
 - (1\) If two or more persons are jointly represented by the same lawyer in a matter, a communication of either co-client that otherwise qualifies as privileged under §§ 68-72 and relates to matters of common interest is privileged as against third persons, and any co-client may invoke the privilege, unless it has been waived by the client who made the communication.
 - (2\) Unless the co-clients have agreed otherwise, a communication described in Subsection (1) is not privileged as between the co-clients in a subsequent adverse proceeding between them.
 
-:::
-
-::: {.legalcode}
-
-#### § 76 -- The Privilege in Common-Interest Arrangements
+##### § 76 -- The Privilege in Common-Interest Arrangements
 
 - (1\) If two or more clients with a common interest in a litigated or nonlitigated matter are represented by separate lawyers and they agree to exchange information concerning the matter, a communication of any such client that otherwise qualifies as privileged under §§ 68-72 that relates to the matter is privileged as against third persons. Any such client may invoke the privilege, unless it has been waived by the client who made the communication.
 - (2\) Unless the clients have agreed otherwise, a communication described in Subsection (1) is not privileged as between clients described in Subsection (1) in a subsequent adverse proceeding between them.
@@ -383,15 +345,11 @@ A communication is made for the purpose of obtaining or providing legal assistan
 
 ::: {.legalcode}
 
-#### § 77 -- Duration of the Privilege
+##### § 77 -- Duration of the Privilege
 
 Unless waived (see §§ 78-80) or subject to exception (see §§ 81-85), the attorney-client privilege may be invoked as provided in § 86 at any time during or after termination of the relationship between client or prospective client and lawyer.
 
-:::
-
-::: {.legalcode}
-
-#### § 86 -- Invoking the Privilege and Its Exceptions
+##### § 86 -- Invoking the Privilege and Its Exceptions
 
 - (1\) When an attempt is made to introduce in evidence or obtain discovery of a communication privileged under § 68:
 	- (a\) A client, a personal representative of an incompetent or deceased client, or a person succeeding to the interest of a client may invoke or waive the privilege, either personally or through counsel or another authorized agent.
@@ -404,7 +362,7 @@ Unless waived (see §§ 78-80) or subject to exception (see §§ 81-85), the att
 
 :::
 
-### Jones v. U.S., 828 A. 2d 169 (D.C. Ct. App. 2003)
+#### Jones v. U.S., 828 A. 2d 169 (D.C. Ct. App. 2003)
 
 After a jury trial, appellant was convicted of first-degree burglary, first-degree sexual abuse, first-degree felony murder, and second-degree murder. On appeal he contends that the trial court erred when it ruled that the attorney-client privilege did not require the exclusion of testimony about a conversation that appellant had with his girlfriend (at the time), who was an attorney employed by the federal government. We affirm on the merits, and remand for the sole purpose of vacating a redundant conviction.
 
@@ -456,7 +414,7 @@ In addition, the court ruled that the questions appellant asked Ms. Ducharme wer
 
 While such concerns about "bad facts" might fall within the privilege if they were expressed in a communication within a clearly established attorney-client relationship, we conclude, like the trial court, that appellant failed to establish that, as a matter of fact, such a relationship existed between him and Ms. Ducharme. We see no reason to upset the court's conclusion, which rested largely on its determination that Ms. Ducharme was credible and that appellant was not. We find no error in that determination.
 
-### People v. Belge, 83 Misc.2d 186 (N.Y. County Court 1975)
+#### People v. Belge, 83 Misc.2d 186 (N.Y. County Court 1975)
 
 In the summer of 1973 Robert F. Garrow, Jr., stood charged in Hamilton County with the crime of murder. The defendant was assigned two attorneys, Frank H. Armani and Francis R. Belge. A defense of insanity had been interposed by counsel for Mr. Garrow. During the course of the discussions between Garrow and his two counsel, three other murders were admitted by Garrow, one being in Onondaga County. On or about September of 1973 Mr. Belge conducted his own investigation based upon what his client had told him and with the assistance of a friend the location of the body of Alicia Hauck was found in Oakwood Cemetery in Syracuse. Mr. Belge personally inspected the body and was satisfied, presumably, that this was the Alicia Hauck that his client had told him that he murdered.
 
@@ -488,9 +446,9 @@ There must always be a conflict between the obstruction of the administration of
 
 It is the decision of this court that Francis R. Belge conducted himself as an officer of the court with all the zeal at his command to protect the constitutional rights of his client. Both on the grounds of a privileged communication and in the interests of justice the indictment is dismissed.
 
-### Hofmann v. Conder, 712 P.2d 216 (Utah 1985)
+#### Hofmann v. Conder, 712 P.2d 216 (Utah 1985)
 
-#### Per Curium
+##### Per Curium
 
 This matter comes before the Court in an extraordinary proceeding to prohibit the district court from compelling petitioner's hospital nurse to testify about statements she overheard petitioner make to his attorney. The trial court made no findings of fact, although it prepared a memorandum decision. It appears from that decision that the controlling issue on which the trial court decided the matter was a legal one, namely, the standard determining when the presence of a third party during communications between a lawyer and client results in a waiver of the attorney-client privilege. We hold that the trial court erred in deciding that the attorney-client privilege applies only if the presence of a third person, who overhears a confidential communication, is "necessary for urgent or life-saving procedures." The proper standard is whether the third person's presence is reasonably necessary under the circumstances.
 
@@ -498,7 +456,7 @@ The record establishes that the presence of petitioner's hospital nurse was reas
 
 The order of the trial court is vacated, and this matter is remanded for the entry of a protective order preventing the disclosure by the witness of confidential communications overheard by her.
 
-#### Zimmerman, Justice (dissenting).
+##### Zimmerman, Justice (dissenting).
 
 I agree that Judge Conder applied the wrong standard in concluding that the presence of the nurse made the attorney-client privilege unavailable. A third person's presence should not avoid an otherwise available privilege if the third person's presence is reasonably necessary under the circumstances. The evidence indicates that the nurse's presence was reasonably necessary for Hofmann's well-being.[^d116]
 
@@ -508,7 +466,7 @@ I disagree with the result reached by the Court, however, and would uphold the r
 
 There is evidence in the record sufficient to establish that the attorney thought the communication was at least private and perhaps confidential. However, I find the record very sparse on the question of the client's intention. Although the client was available to give an affidavit in support of his claim of privilege, the record is strangely devoid of direct evidence as to the client's state of mind at the time of the communication. As for the facts and circumstances in the record that constitute indirect evidence of his intent, I find them ambiguous at best. All persons must give evidence, unless they establish a recognized justification for refusing to do so. Petitioner has the burden of establishing that the communication was privileged. On the present state of the record, I conclude that petitioner has not carried this burden. Therefore, I would uphold the trial court's refusal to find the communication privileged.
 
-### X Corp. v. Doe, 805 F.Supp. 1298 (E.D. Va. 1992)
+#### X Corp. v. Doe, 805 F.Supp. 1298 (E.D. Va. 1992)
 
 Few problems are as vexing as determining what evidence justifies a lawyer's disclosure of a client's confidential information and documents, which the lawyer believes reflect an ongoing or future crime or fraud. This case presents precisely this problem. Plaintiff, X Corp. brings this suit, in part, to prevent defendant, John Doe, X Corp.'s former in-house counsel, from disclosing X Corp.'s confidential information and documents retained by Doe following his discharge from X Corp. X Corp. also seeks return of the documents. In support of the relief sought, X Corp. cites the attorney-client privilege, the parties' confidentiality agreement, and the lawyer's general duty to preserve a client's confidences. For his part, Doe claims that the documents in issue disclose ongoing civil and criminal frauds perpetrated by X Corp. against the federal government. As such, according to Doe, the documents fall within the public policy crime-fraud exception to the attorney-client privilege and to any general or contractual duty of confidentiality.
 
@@ -574,7 +532,7 @@ Given this, in proving its claim that Doe is obligated to maintain its confidenc
 
 There may be circumstances where ongoing or contemplated frauds actually exist, but disclosure is impermissible because the evidence relied on by the attorney falls short of clearly establishing the fraud. This result might permit the fraud to continue. But neither mere suspicion of fraud, nor the mere risk of undiscovered fraud, justify abrogating the duty of attorney confidentiality. A windfall to a wrongdoer may be the price exacted for the benefits conferred on the public and the legal system by vigilantly-maintained attorney confidentiality.
 
-### In the Matter of a Grand Jury Investigation, 453 Mass. 453 (2009)
+#### In the Matter of a Grand Jury Investigation, 453 Mass. 453 (2009)
 
 This case requires us to decide whether the attorney-client privilege applies where a client leaves messages on his counsel's telephone answering machine threatening to harm others and the attorney discloses those communications in order to protect those threatened.
 
@@ -608,40 +566,28 @@ In sum, we reaffirm that a client's communications to his lawyer threatening har
 
 ## Attorney Work Product
 
-### Rest. (2d) of the Law Governing Lawyers 
+#### Rest. (2d) of the Law Governing Lawyers 
 
 ::: {.legalcode}
 
-#### § 87 -- Lawyer Work-Product Immunity
+##### § 87 -- Lawyer Work-Product Immunity
 
 - (1\) Work product consists of tangible material or its intangible equivalent in unwritten or oral form, other than underlying facts, prepared by a lawyer for litigation then in progress or in reasonable anticipation of future litigation.
 - (2\) Opinion work product consists of the opinions or mental impressions of a lawyer; all other work product is ordinary work product.
 - (3\) Except for material which by applicable law is not so protected, work product is immune from discovery or other compelled disclosure to the extent stated in §§ 88 (ordinary work product) and 89 (opinion work product) when the immunity is invoked as described in § 90.
 
-:::
-
-::: {.legalcode}
-
-#### § 88 -- Ordinary Work Product
+##### § 88 -- Ordinary Work Product
 
 When work product protection is invoked as described in § 90, ordinary work product (§ 87(2)) is immune from discovery or other compelled disclosure unless either an exception recognized in §§ 91-93 applies or the inquiring party:
 
 - (1\) has a substantial need for the material in order to prepare for trial; and
 - (2\) is unable without undue hardship to obtain the substantial equivalent of the material by other means.
 
-:::
-
-::: {.legalcode}
-
-#### § 89 -- Opinion Work Product
+##### § 89 -- Opinion Work Product
 
 When work product protection is invoked as described in § 90, opinion work product (§ 87(2)) is immune from discovery or other compelled disclosure unless either the immunity is waived or an exception applies (§§ 91-93) or extraordinary circumstances justify disclosure.
 
-:::
-
-::: {.legalcode}
-
-#### § 90 -- Invoking the Lawyer Work-Product Immunity and Its Exceptions
+##### § 90 -- Invoking the Lawyer Work-Product Immunity and Its Exceptions
 
 - (1\) Work-product immunity may be invoked by or for a person on whose behalf the work product was prepared.
 - (2\) The person invoking work-product immunity must object and, if the objection is contested, demonstrate each element of the immunity.
@@ -649,11 +595,11 @@ When work product protection is invoked as described in § 90, opinion work prod
 
 :::
 
-### Federal Rules of Civil Procedure
+#### Federal Rules of Civil Procedure
 
 ::: {.legalcode}
 
-#### Rule 26 -- Duty to Disclose; General Provisions Governing Discovery
+##### Rule 26 -- Duty to Disclose; General Provisions Governing Discovery
 
 - (b\) Discovery Scope and Limits.
 	- (3\) Trial Preparation: Materials.
@@ -667,9 +613,9 @@ When work product protection is invoked as described in § 90, opinion work prod
 
 ::: 
 
-### Sporck v. Peil, 759 F.2d 312 (3d Cir. 1985)
+#### Sporck v. Peil, 759 F.2d 312 (3d Cir. 1985)
 
-#### James Hunder, III, Circuit Judge.
+##### James Hunder, III, Circuit Judge.
 
 This case arises on a Petition for Writ of Mandamus involving a discovery dispute between the parties to a securities fraud class action suit. The underlying action involves an allegation by plaintiff-respondent Raymond K. Peil that defendant National Semiconductor Corporation, defendant-petitioner Charles F. Sporck, NSC's president, and defendant Peter J. Sprague, NSC's chairman, conspired to inflate artificially the value of NSC stock, in order to enable Sporck and Sprague to sell their own shares at the inflated level. The wrongful conduct alleged includes various misrepresentations and nondisclosures of material facts during an eight-month period continuing from July 1, 1976, until March 1, 1977.
 
@@ -721,7 +667,7 @@ Rule 612, therefore, when properly applied, does not conflict with the protectio
 
 We conclude, therefore, that the trial court committed clear error of law in ordering the identification of the documents selected by counsel. Because we are confident that the district court will proceed in accordance with our opinion without formal issuance of the writ, we will remand to the district court.
 
-#### Seitz, Circuit Judge, dissenting.
+##### Seitz, Circuit Judge, dissenting.
 
 The majority approves in effect the use of the work product doctrine to prevent an identification of documents reviewed by a witness in preparation for his deposition. I dissent because I am convinced that such a ruling is an impermissible expansion of the work product doctrine at the expense of legitimate discovery.
 
@@ -741,7 +687,7 @@ Because I find no disclosure of the attorney's work product that would provide a
 
 Based on the record presented by the petitioner, I fail to see how any conclusions may be drawn as to what his attorney may or may not have thought about this litigation. The mere identification of documents used to prepare a witness for his deposition does not convey any meaningful information of the type entitled to protection under the work product doctrine. I would deny the petition.
 
-### United States v. Deloitte LLP, 610 F. 3d 129 D.C. Cir. (2010)
+#### United States v. Deloitte LLP, 610 F. 3d 129 D.C. Cir. (2010)
 
 The United States appeals from a district court order denying its motion to compel Dow Chemical Company's independent auditor, Deloitte & Touche USA, LLP, to produce three documents in connection with ongoing tax litigation between Dow and the government. The district court ruled that all three documents were protected from discovery under the work-product doctrine. On appeal, the government contends that one of the documents is not work product because it was prepared by Deloitte during the audit process. In addition, while it concedes that the other two documents are work product, it argues that Dow waived work-product protection when it disclosed them to Deloitte. We vacate the district court's decision that the document prepared by Deloitte is work product and remand for in camera review to determine whether it is entirely work product. With respect to the other two documents, we affirm the district court's decision that Dow did not waive work-product protection when it disclosed them to Deloitte.
 
@@ -837,11 +783,11 @@ Furthermore, we are mindful that independent auditors have significant leverage 
 
 ## Attorney-Client Privilege & Work Product for Organizational Clients
 
-### Rest. (2d) of the Law Governing Lawyers
+#### Rest. (2d) of the Law Governing Lawyers
 
 ::: {.legalcode}
 
-#### § 73 -- The Privilege for an Organizational Client
+##### § 73 -- The Privilege for an Organizational Client
 
 When a client is a corporation, unincorporated association, partnership, trust, estate, sole proprietorship, or other for-profit or not-for-profit organization, the attorney-client privilege extends to a communication that:
  
@@ -852,19 +798,15 @@ When a client is a corporation, unincorporated association, partnership, trust, 
 	- (a\) privileged persons as defined in § 70; and
 	- (b\) other agents of the organization who reasonably need to know of the communication in order to act for the organization.
 
-:::
-
-::: {.legalcode}
-
-#### § 74 -- The Privilege for a Governmental Client
+##### § 74 -- The Privilege for a Governmental Client
 
 Unless applicable law otherwise provides, the attorney-client privilege extends to a communication of a governmental organization as stated in § 73 and of an individual employee or other agent of a governmental organization as a client with respect to his or her personal interest as stated in §§ 68-72.
 
 :::
 
-### Upjohn Co. v. United States, 449 U.S. 383 (1981)
+#### Upjohn Co. v. United States, 449 U.S. 383 (1981)
 
-#### Justice Rehnquist delivered the opinion of the Court.
+##### Justice Rehnquist delivered the opinion of the Court.
 
 We granted certiorari in this case to address important questions concerning the scope of the attorney-client privilege in the corporate context and the applicability of the work-product doctrine in proceedings to enforce tax summonses. With respect to the privilege question the parties and various amici have described our task as one of choosing between two "tests" which have gained adherents in the courts of appeals. We are acutely aware, however, that we sit to decide concrete cases and not abstract propositions of law. We decline to lay down a broad rule or series of rules to govern all conceivable future questions in this area, even were we able to do so. We can and do, however, conclude that the attorney-client privilege protects the communications involved in this case from compelled disclosure and that the work-product doctrine does apply in tax summons enforcement proceedings.
 
@@ -906,7 +848,7 @@ Here the Government was free to question the employees who communicated with Tho
 
 Needless to say, we decide only the case before us, and do not undertake to draft a set of rules which should govern challenges to investigatory subpoenas. Any such approach would violate the spirit of Federal Rule of Evidence 501. While such a "case-by-case" basis may to some slight extent undermine desirable certainty in the boundaries of the attorney-client privilege, it obeys the spirit of the Rules. At the same time we conclude that the narrow "control group test" sanctioned by the Court of Appeals in this case cannot, consistent with "the principles of the common law as interpreted in the light of reason and experience," govern the development of the law in this area.
 
-### Matter of Bevill, Bresler & Schulman Asset Manag., 805 F.2d 120 (3d Cir. 1986)
+#### Matter of Bevill, Bresler & Schulman Asset Manag., 805 F.2d 120 (3d Cir. 1986)
 
 This appeal arises out of two related proceedings currently before the district court: the Chapter 11 reorganization of Bevill, Bresler & Schulman Asset Management Corporation (AMC) and the liquidation of Bevill, Bresler & Schulman, Inc. (BBS) under the Security Investor Protection Act (SIPA). Intervenors John D. Rooney and Robert L. Bevill, two principals of the corporations, appeal the order of the district court directing Gilbert Schulman, president of AMC, and Hellring, Lindeman, Goldstein, Siegal & Greenberg, counsel for BBS, to respond to questions posed in depositions by the trustees for AMC and BBS. The order permits the trustees to discover the substance of certain meetings that took place between the law firm and the principals of the corporations before the Chapter 11 petition was filed. Because Rooney and Bevill allege that the district court's order violates their attorney-client privilege, we have jurisdiction.
 
@@ -972,7 +914,7 @@ The test adopted by the district court does not invade the personal privilege of
 
 In light of the foregoing analysis, we find that the district court's order properly defined the extent to which the principals were entitled to bar discovery of communications with counsel based on their individual attorney-client privileges.
 
-### FTC v. GlaxoSmithKline, 294 F. 3d 141 (D.C. Cir. 2002)
+#### FTC v. GlaxoSmithKline, 294 F. 3d 141 (D.C. Cir. 2002)
 
 In the course of investigating whether a manufacturer of drugs listed its patents properly in the compilation maintained by the Food and Drug Administration, the Federal Trade Commission issued a subpoena directing the company to produce documents relating to a particular drug. When the company resisted, claiming the attorney-client privilege shields the documents, the Commission repaired to the district court, which enforced the subpoena. We reverse the decision of the district court because the court both relied upon an argument to which the company had no opportunity to respond and ruled erroneously that, by failing to keep confidential the contents of the documents, the company had waived the attorney-client privilege.
 
@@ -1014,11 +956,11 @@ Our conclusion that the documents are protected by the attorney-client privilege
 
 ## Exceptions to Attorney-Client Privilege and Work Product Protection
 
-### Rest. (2d) of the Law Governing Lawyers
+#### Rest. (2d) of the Law Governing Lawyers
 
 ::: {.legalcode}
 
-#### § 78 -- Agreement, Disclaimer, or Failure to Object
+##### § 78 -- Agreement, Disclaimer, or Failure to Object
 
 The attorney-client privilege is waived if the client, the client's lawyer, or another authorized agent of the client:
 
@@ -1028,19 +970,11 @@ The attorney-client privilege is waived if the client, the client's lawyer, or a
 	- (b\) reasons of judicial administration require that the client not be permitted to revoke the disclaimer; or
 - (3\) in a proceeding before a tribunal, fails to object properly to an attempt by another person to give or exact testimony or other evidence of a privileged communication.
 
-:::
-
-::: {.legalcode}
-
-#### § 79 -- Subsequent Disclosure
+##### § 79 -- Subsequent Disclosure
 
 The attorney-client privilege is waived if the client, the client's lawyer, or another authorized agent of the client voluntarily discloses the communication in a nonprivileged communication.
 
-:::
-
-::: {.legalcode}
-
-#### § 80 -- Putting Assistance or a Communication in Issue
+##### § 80 -- Putting Assistance or a Communication in Issue
 
 - (1\) The attorney-client privilege is waived for any relevant communication if the client asserts as to a material issue in a proceeding that:
 	- (a\) the client acted upon the advice of a lawyer or that the advice was otherwise relevant to the legal significance of the client's conduct; or
@@ -1049,52 +983,32 @@ The attorney-client privilege is waived if the client, the client's lawyer, or a
 	- (a\) employs the communication to aid the witness while testifying; or
 	- (b\) employed the communication in preparing to testify, and the tribunal finds that disclosure is required in the interests of justice.
 
-:::
-
-::: {.legalcode}
-
-#### § 81 -- A Dispute Concerning a Decedent's Disposition of Property
+##### § 81 -- A Dispute Concerning a Decedent's Disposition of Property
 
 The attorney-client privilege does not apply to a communication from or to a decedent relevant to an issue between parties who claim an interest through the same deceased client, either by testate or intestate succession or by an inter vivos transaction.
 
-:::
-
-::: {.legalcode}
-
-#### § 82 -- Client Crime or Fraud
+##### § 82 -- Client Crime or Fraud
 
 The attorney-client privilege does not apply to a communication occurring when a client:
 
 - (a\) consults a lawyer for the purpose, later accomplished, of obtaining assistance to engage in a crime or fraud or aiding a third person to do so, or
 - (b\) regardless of the client's purpose at the time of consultation, uses the lawyer's advice or other services to engage in or assist a crime or fraud.
 
-:::
-
-::: {.legalcode}
-
-#### § 83 -- Lawyer Self-Protection
+##### § 83 -- Lawyer Self-Protection
 
 The attorney-client privilege does not apply to a communication that is relevant and reasonably necessary for a lawyer to employ in a proceeding:
 
 - (1\) to resolve a dispute with a client concerning compensation or reimbursement that the lawyer reasonably claims the client owes the lawyer; or
 - (2\) to defend the lawyer or the lawyer's associate or agent against a charge by any person that the lawyer, associate, or agent acted wrongfully during the course of representing a client.
 
-:::
-
-::: {.legalcode}
-
-#### § 84 -- Fiduciary-Lawyer Communications
+##### § 84 -- Fiduciary-Lawyer Communications
 
 In a proceeding in which a trustee of an express trust or similar fiduciary is charged with breach of fiduciary duties by a beneficiary, a communication otherwise within § 68 is nonetheless not privileged if the communication:
 
 - (a\) is relevant to the claimed breach; and
 - (b\) was between the trustee and a lawyer (or other privileged person within the meaning of § 70) who was retained to advise the trustee concerning the administration of the trust.
 
-:::
-
-::: {.legalcode}
-
-#### § 85 -- Communications Involving a Fiduciary Within an Organization
+##### § 85 -- Communications Involving a Fiduciary Within an Organization
 
 In a proceeding involving a dispute between an organizational client and shareholders, members, or other constituents of the organization toward whom the directors, officers, or similar persons managing the organization bear fiduciary responsibilities, the attorney-client privilege of the organization may be withheld from a communication otherwise within § 68 if the tribunal finds that:
 
@@ -1102,11 +1016,7 @@ In a proceeding involving a dispute between an organizational client and shareho
 - (b\) the communication occurred prior to the assertion of the charges and relates directly to those charges; and
 - (c\) the need of the requesting party to discover or introduce the communication is sufficiently compelling and the threat to confidentiality sufficiently confined to justify setting the privilege aside.
 
-:::
-
-::: {.legalcode}
-
-#### § 91 -- Voluntary Acts
+##### § 91 -- Voluntary Acts
 
 Work-product immunity is waived if the client, the client's lawyer, or another authorized agent of the client:
 
@@ -1117,11 +1027,7 @@ Work-product immunity is waived if the client, the client's lawyer, or another a
 - (3\) in a proceeding before a tribunal, fails to object properly to an attempt by another person to give or exact testimony or other evidence of work product; or
 - (4\) discloses the material to third persons in circumstances in which there is a significant likelihood that an adversary or potential adversary in anticipated litigation will obtain it.
 
-:::
-
-::: {.legalcode}
-
-#### § 92 -- Use of Lawyer Work Product in Litigation
+##### § 92 -- Use of Lawyer Work Product in Litigation
 
 - (1\) Work-product immunity is waived for any relevant material if the client asserts as to a material issue in a proceeding that:
 	- (a\) the client acted upon the advice of a lawyer or that the advice was otherwise relevant to the legal significance of the client's conduct; or
@@ -1130,21 +1036,15 @@ Work-product immunity is waived if the client, the client's lawyer, or another a
 	- (a\) employs the material to aid the witness while testifying, or
 	- (b\) employed the material in preparing to testify, and the tribunal finds that disclosure is required in the interests of justice.
 
-:::
-
-::: {.legalcode}
-
-#### § 93 -- Client Crime or Fraud
+##### § 93 -- Client Crime or Fraud
 
 Work-product immunity does not apply to materials prepared when a client consults a lawyer for the purpose, later accomplished, of obtaining assistance to engage in a crime or fraud or to aid a third person to do so or uses the materials for such a purpose.
 
 :::
 
-### Federal Rules of Evidence
+#### Fed. R. Evid. Rule 502 -- Attorney-Client Privilege and Work Product; Limitations on Waiver
 
 ::: {.legalcode}
-
-#### Rule 502 -- Attorney-Client Privilege and Work Product; Limitations on Waiver
 
 The following provisions apply, in the circumstances set out, to disclosure of a communication or information covered by the attorney-client privilege or work-product protection.
 
@@ -1168,7 +1068,7 @@ The following provisions apply, in the circumstances set out, to disclosure of a
 
 :::
 
-### In re Sealed Case, 877 F.2d 976 (D.C. Cir. 1989)
+#### In re Sealed Case, 877 F.2d 976 (D.C. Cir. 1989)
 
 The appellant, "Company," appeals from a contempt order of the district court. Company refused to comply with a grand jury subpoena insofar as it was directed to six documents that Company claimed were covered by attorney-client privilege. The district court held the privilege was waived as to all six documents. We agree that there was at least a partial waiver of the privilege, but we remand for the district court to further consider the scope of the waiver.
 
@@ -1212,11 +1112,11 @@ Even assuming Company's disclosure was due to "bureaucratic error," which we tak
 
 Our conclusion that Company's disclosure of the one memorandum constitutes a waiver still leaves a question as to the scope of the waiver. Appellant would confine the waiver to the one document, but, as we have previously said, a waiver of the privilege in an attorney-client communication extends "to all other communications relating to the same subject matter." Since such determinations properly depend heavily on the factual context in which the privilege is asserted, we will not disturb a district court's decision as to the question unless it can be shown the court abused its discretion. In this case, although the district court extended the waiver to all six documents, it did not fully explain why the communications were related. Of course, all six---including the notes of the meeting---stemmed from the same consultation Company had with its law firm. But the "subject matter" of the waiver could, nevertheless, be defined in a number of different ways. Did the district court mean, for instance, to define the "subject matter" as all communications "relating" to the adjustment entries, which---as suggested at oral argument---would permit the individual lawyers and corporate officers present at the meeting to be called before the grand jury to describe their discussions, or perhaps even other communications between Company and its counsel? Or, alternatively, was the waiver limited to those intra-Company communications revealing that Company's accounting adjustments were made upon the advice of counsel, in which case is it not clear whether the actual notes of the meeting must be disclosed? Given the potential implications of a broad definition of the subject matter of Company's waiver, we think it appropriate to remand to the district court for further consideration of that issue.
 
-### Clark v. United States, 289 U.S. 1 (1933)
+#### Clark v. United States, 289 U.S. 1 (1933)
 
 There is a privilege protecting communications between attorney and client. The privilege takes flight if the relation is abused. A client who consults an attorney for advice that will serve him in the commission of a fraud will have no help from the law. He must let the truth be told. There are early cases apparently to the effect that a mere charge of illegality, not supported by any evidence, will set the confidences free. But this conception of the privilege is without support in later rulings. "It is obvious that it would be absurd to say that the privilege could be got rid of merely by making a charge of fraud." To drive the privilege away, there must be "something to give colour to the charge;" there must be "prima facie evidence that it has some foundation in fact." When that evidence is supplied, the seal of secrecy is broken. Nor does the loss of the privilege depend upon the showing of a conspiracy, upon proof that client and attorney are involved in equal guilt. The attorney may be innocent, and still the guilty client must let the truth come out.
 
-### United States v. Zolin, 491 U.S. 554 (1989)
+#### United States v. Zolin, 491 U.S. 554 (1989)
 
 This case arises out of the efforts of the Criminal Investigation Division of the Internal Revenue Service to investigate the tax returns of L. Ron Hubbard, founder of the Church of Scientology for the calendar years 1979 through 1983. We granted certiorari to consider two issues that have divided the Courts of Appeals. The first is whether, when a district court enforces an IRS summons, the court may condition its enforcement order by placing restrictions on the disclosure of the summoned information. The Court of Appeals in this case upheld the restrictions. We affirm its judgment on that issue by an equally divided Court.
 
@@ -1320,7 +1220,7 @@ In sum, we conclude that a rigid independent evidence requirement does not compo
 
 Because the Court of Appeals employed a rigid independent-evidence requirement which categorically excluded the partial transcripts and the tapes themselves from consideration, we vacate its judgment on this issue and remand the case for further proceedings consistent with this opinion. On remand, the Court of Appeals should consider whether the District Court's refusal to listen to the tapes in toto was justified by the manner in which the IRS presented and preserved its request for _in camera_ review. In the event the Court of Appeals holds that the IRS's demand for review was properly preserved, the Court of Appeals should then determine, or remand the case to the District Court to determine in the first instance, whether the IRS has presented a sufficient evidentiary basis for _in camera_ review, and whether, if so, it is appropriate for the District Court, in its discretion, to grant such review.
 
-### Blumenthal v. Kimber Mfg., 265 Conn. 1 (2003)
+#### Blumenthal v. Kimber Mfg., 265 Conn. 1 (2003)
 
 The petitioner, Richard Blumenthal, the attorney general of the state of Connecticut, appeals from the decision of the trial court denying his application for an order requiring the respondents, Kimber Manufacturing, Inc., a firearms manufacturer with its principal place of business in Yonkers, New York, and Leslie Edelman, Kimber's president, to comply with the petitioner's discovery request for a certain document sent from one Kimber employee to an attorney and three other Kimber employees. The petitioner contends that the trial court improperly determined that: (1) the communication was protected by the attorney-client privilege; and (2) the communication was not otherwise subject to disclosure under the crime-fraud exception to that privilege. We conclude that the trial court properly determined that the document was protected by the attorney-client privilege and that the petitioner did not meet his burden of establishing that the crime-fraud exception applies to exclude the document from protection under the privilege. Accordingly, we affirm the decision of the trial court.
 
@@ -1352,7 +1252,7 @@ Our analysis as to the "in furtherance" requirement is informed largely by our r
 
 Therefore, we conclude that the trial court properly concluded that the e-mail is not subject to disclosure under the crime-fraud exception to the attorney-client privilege.
 
-### Moody v. Internal Revenue Service, 654 F.2d 795 (D.C. Cir. 1981)
+#### Moody v. Internal Revenue Service, 654 F.2d 795 (D.C. Cir. 1981)
 
 This action is an appeal from a judgment of the district court upholding the Internal Revenue Service's refusal to disclose documents pertinent to appellant's Freedom of Information Act requests. Appellant Shearn Moody, Jr. filed three requests pursuant to the FOIA, asking for the release of all records in the IRS's possession regarding Moody, several business and charitable entities in which he had interests, and "Project Southwest." The IRS released many documents pertinent to these requests, but withheld approximately 150 documents or portions of documents. After an _in camera_ examination of a sample of thirty-five of the challenged withholdings, the district court upheld the IRS's claims of exemptions with respect to all except portions of four documents.
 
@@ -1388,7 +1288,7 @@ We have attempted to outline in our footnotes to this opinion some of the factor
 
 We therefore remand this case for reconsideration of the withholdings from Document 19 in light of our _Neufeld_ decision, for an evaluation of the attorney's conduct and, if it is found in violation of professional standards, a determination of whether his breach of professional standards vitiated the work product privilege otherwise attributable to Document 19. If the documents released as a result of the proceedings on remand are sufficient for a court to conclude appellant substantially prevailed in his FOIA action, he will then become eligible for an award of attorney's fees.
 
-### Haigh v. Matsushita Elec. Corp. of America, 676 F. Supp. 1332 (E.D. Va. 1987)
+#### Haigh v. Matsushita Elec. Corp. of America, 676 F. Supp. 1332 (E.D. Va. 1987)
 
 Plaintiff Richard Haigh, a Virginia citizen, was employed by defendant Matsushita Electric Corporation of America from October 17, 1974 through January 27, 1987. He is fifty-seven years old, and is Jewish. Plaintiff Norma Haigh, a Virginia citizen, is Haigh's wife.
 

@@ -1,8 +1,20 @@
 # Sources {.unnumbered}
 
-## Cases
+::: {.sources}
 
+### Cases
 
-## Books, Articles, & Other Publications
+::: {#refs_cases}
+:::
 
+### Statutes
 
+::: {#refs_statutes}
+:::
+
+### Books, Articles, & Other Publications
+
+::: {#refs_other}
+:::
+
+:::
