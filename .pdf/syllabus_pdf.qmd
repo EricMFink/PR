@@ -5,7 +5,7 @@ revised: 2026-08-04T11:10:44-0400-04:00
 subject: Professional Responsibility
 term: 'Fall 2026'
 room: 'Room 207'
-meets: 'Mondays & Wednesdays, 9:45–10:45 am'
+meets: 'Mondays & Wednesdays, 1:45–2:55 pm'
 repo-url: 'emfink.net/PR'
 
 author: Eric M. Fink

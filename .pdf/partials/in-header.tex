@@ -73,13 +73,13 @@
 %=== Chapter & Section Headings ===
 \titlespacing*{\chapter}{0em}{50mm}{0mm}
 \titlespacing*{\section}{0mm}{0mm}{3mm}
-\titlespacing*{\subsection}{0mm}{6mm}{0mm}
-\titlespacing*{\subsubsection}{0mm}{3mm}{0mm}
+\titlespacing*{\subsection}{0mm}{3mm}{3mm}
+\titlespacing*{\subsubsection}{0mm}{6mm}{0mm}
 \titlespacing*{\paragraph}{0mm}{3mm}{0mm}
 
 \titleformat{\chapter}
   [block]
-  {\raggedright\sffamily\huge\color{Maroon}}
+  {\raggedright\sffamily\Huge\color{Maroon}}
   {Chapter \thechapter ~~}
   {0em}
   {}
@@ -87,44 +87,54 @@
 
 \titleformat{\section}
   [block]
-  {\clearpage\raggedright\rmfamily\LARGE\color{Maroon}}
+  {\clearpage\raggedright\sffamily\huge\color{Maroon}}
   {\thesection ~~}
+  {0em}
+  {}
+  []
+\titleformat{\subsection}
+  [block]
+  {\needspace{9\baselineskip}\raggedright\sffamily\LARGE\color{Maroon}}
+  {\thesubsection ~~}
   {0em}
   {}
   []
 
 % Case, statute, rule, etc. title
-\titleformat{\subsection}
+\titleformat{\subsubsection}
   [block]
   {\needspace{9\baselineskip}\raggedright\rmfamily\Large\color{Maroon}}
-  {\thesubsection ~~}
+  {\thesubsubsection ~~}
   {0em}
   {}
   [\vspace{-1.3em}\textcolor{Maroon}{\rule{\textwidth}{.5pt}}]
-
 % Case - Judge Name
-\titleformat{\subsubsection}
+\titleformat{\paragraph}
   [block]
-  {\needspace{3\baselineskip}\raggedright\rmfamily\normalsize\bfseries}
+  {\needspace{3\baselineskip}\raggedright\rmfamily\large\bfseries}
   {\thesubsubsection ~~}
   {0em}
   {}
   []
 
-\titleformat{\paragraph}
-  [block]
-  {\needspace{3\baselineskip}\raggedright\rmfamily\normalsize\itshape}
-  {\theparagraph}
-  {0em}
-  {}
-  []
+% TOC entries
+\setkomafont{chapterentry}{\Large}
+%\newcommand*{\sectocentry}[1]{\large #1}
+%\newcommand*{\subsectocentry}[1]{\normalsize #1}
+%\newcommand*{\subsubsectocentry}[1]{\small #1}
+%\RedeclareSectionCommand[beforeskip=\baselineskip,afterskip=\baselineskip,afterindent=false,tocentryformat=\sectocentry]{section}
+%\RedeclareSectionCommand[beforeskip=\baselineskip,afterskip=\baselineskip,afterindent=false,tocentryformat=\subsectocentry]{subsection}
+%\RedeclareSectionCommand[beforeskip=\baselineskip,afterskip=\baselineskip,afterindent=false,tocentryformat=\subsubsectocentry]{subsubsection}
+\DeclareTOCStyleEntry[beforeskip=.5em,entryformat=\large]{tocline}{section}
+\DeclareTOCStyleEntry[beforeskip=.5em,entryformat=\normalsize]{tocline}{subsection}
+\DeclareTOCStyleEntry[beforeskip=.5em,numwidth=1.5em,entryformat=\small]{tocline}{subsubsection}
 
 % Case, etc. first heading
-\newcommand{\casesection}[1]{\needspace{4\baselineskip}\vspace{.5em}\begin{center}\rmfamily\normalsize{\bfseries{#1}}\end{center}}
+\newcommand{\casesection}[1]{\needspace{4\baselineskip}\vspace{.5em}\rmfamily{\bfseries{\centering{#1}\par}}}
 % Case, etc. second heading
-\newcommand{\casesubsection}[1]{\needspace{2\baselineskip}\begin{center}\rmfamily\normalsize{\itshape{#1}}\end{center}}
+\newcommand{\casesubsection}[1]{\needspace{3\baselineskip}\vspace{.25em}\rmfamily{\itshape{\centering{#1}\par}}}
 % Case, etc. third heading
-\newcommand{\casesubsubsection}[1]{\needspace{2\baselineskip}\begin{center}\rmfamily\normalsize{#1}\end{center}}
+\newcommand{\casesubsubsection}[1]{\needspace{3\baselineskip}\vspace{.25em}\rmfamily{\small{\centering{#1}\par}}}
 
 %\graphicspath{{../img/}}
 \renewcommand*{\figureformat}{}

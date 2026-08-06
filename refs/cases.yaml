@@ -1,0 +1,49 @@
+---
+references:
+- id: BroadbentWilliams_DUtah2025
+  authority: D. Utah
+  citation-key: BroadbentWilliams_DUtah2025
+  issued:
+    - year: 2025
+      month: 2
+      day: 4
+  number: 4:24-cv-00091-DN
+  title: Broadbent v. Williams
+  type: legal_case
+
+- id: DisciplinaryCounselBlakeslee_SupremeCourtSubmittedJuly182023
+  authority: Ohio
+  citation-key: DisciplinaryCounselBlakeslee_SupremeCourtSubmittedJuly182023
+  container-title: NE 3d
+  issued:
+    - literal: Submitted July 18, 2023
+  jurisdiction: Ohio
+  page: '416'
+  title: Disciplinary Counsel v. Blakeslee
+  type: legal_case
+  volume: '235'
+
+- id: MillerRegionsBank_NDAla2026
+  authority: N.D. Ala.
+  citation-key: MillerRegionsBank_NDAla2026
+  issued:
+    - year: 2026
+      month: 5
+      day: 21
+  number: Case No. 2:24-cv-1324-HDM
+  title: Miller v. Regions Bank
+  type: legal_case
+
+- id: PolaskiLee_DistCourt2024
+  authority: E.D.N.C.
+  citation-key: PolaskiLee_DistCourt2024
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2024
+      month: 12
+      day: 13
+  page: '683'
+  title: Polaski v. Lee
+  type: legal_case
+  volume: '759'
+...

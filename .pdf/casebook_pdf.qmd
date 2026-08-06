@@ -15,10 +15,10 @@ format:
     classoption: [letterpaper, 11pt, DIV=9, openright]
     has-frontmatter: true
     toc: true
-    toc-depth: 3
+    toc-depth: 4
     toc-title: "Contents"
     number-sections: true
-    number-depth: 1
+    number-depth: 2
     template-partials:
       - "partials/before-body.tex"
     include-in-header:
@@ -41,8 +41,7 @@ bibliography_cases: ../refs/cases.yaml
 bibliography_statutes: ../refs/statutes.yaml
 bibliography_other: ../refs/other.yaml
 csl: ../refs/casebook.csl
-nocite: |
-  @*
+citeproc: false
 ---
 
 {{< include ../02-Main/chap1.qmd >}}

@@ -1,3 +1,4 @@
+---@diagnostic disable: cast-local-type, param-type-mismatch, missing-fields
 --[[
 MIT License
 

@@ -1,10 +1,6 @@
 \hypersetup{
-$if(title-meta)$
-  pdftitle={$title-meta$},
-$endif$
-$if(author-meta)$
-  pdfauthor={$author-meta$},
-$endif$
+pdftitle={{$title$}$if(subtitle)$: {$subtitle$}$endif$},
+pdfauthor={$author$},
 $if(lang)$
   pdflang={$lang$},
 $endif$
@@ -14,17 +10,10 @@ $endif$
 $if(keywords)$
   pdfkeywords={$for(keywords)$$keywords$$sep$, $endfor$},
 $endif$
-$if(colorlinks)$
-  colorlinks=true,
-  linkcolor={$if(linkcolor)$$linkcolor$$else$Maroon$endif$},
-  filecolor={$if(filecolor)$$filecolor$$else$Maroon$endif$},
-  citecolor={$if(citecolor)$$citecolor$$else$Blue$endif$},
-  urlcolor={$if(urlcolor)$$urlcolor$$else$Blue$endif$},
-$else$
-$if(boxlinks)$
-$else$
-  hidelinks,
-$endif$
-$endif$
-  pdfcreator={LaTeX via pandoc}}
+colorlinks=true,
+linkcolor={$if(linkcolor)$$linkcolor$$else$HopkinsBlue$endif$},
+filecolor={$if(filecolor)$$filecolor$$else$HopkinsBlue$endif$},
+citecolor={$if(citecolor)$$citecolor$$else$HopkinsBlue$endif$},
+urlcolor={$if(urlcolor)$$urlcolor$$else$HopkinsBlue$endif$},
+pdfcreator={LaTeX via pandoc}}
 
