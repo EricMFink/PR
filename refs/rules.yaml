@@ -1,0 +1,22 @@
+---
+references:
+- id: ABACriminalJusticeStds_Prosecution
+  citation-key: ABACriminalJusticeStds_Prosecution
+  title: ABA Criminal Justice Standards for the Prosecution Function (2017)
+  type: legislation
+
+- id: FedEvidRule_nd
+  citation-key: FedEvidRule_nd
+  title: Fed. R. Evid. Rule 502
+  type: legislation
+
+- id: NCRPC8_6
+  citation-key: NCRPC8_6
+  title: N.C.R.P.C. Rule 8.6
+  type: legislation
+
+- id: Rest2dLawGoverningLawyers
+  citation-key: Rest2dLawGoverningLawyers
+  title: Rest. (2d) of the Law Governing Lawyers
+  type: legislation
+...

@@ -100,6 +100,8 @@ filters:
   - citetools
 bibliography_cases: refs/cases.yaml
 bibliography_statutes: refs/statutes.yaml
+bibliography_mrpc: refs/mrpc.yaml
+bibliography_rules: refs/rules.yaml
 bibliography_other: refs/other.yaml
 csl: refs/casebook.csl
 nocite: |

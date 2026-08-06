@@ -1,0 +1,16 @@
+---
+references:
+- id: NCGenStat_PracticeLawDefined
+  citation-key: NCGenStat_PracticeLawDefined
+  container-title: N.C. Gen. Stat.
+  section: § 84-2.1
+  title: '"Practice law" defined'
+  type: legislation
+
+- id: NCGenStatDisciplineDisbarment
+  citation-key: NCGenStatDisciplineDisbarment
+  container-title: N.C. Gen. Stat.
+  section: § 84-28
+  title: Discipline and disbarment
+  type: legislation
+...
