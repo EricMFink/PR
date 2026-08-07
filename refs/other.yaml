@@ -268,4 +268,21 @@ references:
   type: article-journal
   URL: https://scholarship.law.unc.edu/nclr/vol79/iss3/4
   volume: '79'
+
+- id: Zacharias2009
+  author:
+    - family: Zacharias
+      given: Fred
+  citation-key: Zacharias2009
+  container-title: Minnesota Law Review
+  container-title-short: Minn. Law Rev.
+  issue: '4'
+  issued:
+    - year: 2009
+      month: 1
+      day: 1
+  page: '1147'
+  title: The Myth of Self-Regulation
+  type: article-journal
+  volume: '93'
 ...

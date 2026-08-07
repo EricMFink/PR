@@ -171,10 +171,12 @@ figcaption {
 	margin: 0 auto 0 auto;
 }
 img {
+	max-width: 75%;
+	height: auto;
 	vertical-align: middle;
 }
 .img-fluid {
-	max-width: 100%;
+	max-width: 75%;
 	height: auto;
 	margin: .5rem 0 .25rem 0;
 }

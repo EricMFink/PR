@@ -54,7 +54,7 @@
         <text variable="title"/>
       </if>
       <else-if type="legal_case">
-        <text font-style="italic" variable="title"/>
+        <text font-style="italic" form="short" variable="title"/>
       </else-if>
       <else-if match="any" type="book hearing">
         <text font-style="italic" form="short" variable="title"/>
@@ -155,7 +155,7 @@
       <else-if type="hearing">
 		<group delimiter=" ">
         	<text variable="title" suffix=", "/>
-        	<text variable="authority"/>
+        	<text form="short" variable="authority"/>
         	<text macro="issuance" prefix="(" suffix=")"/>
 		</group>
       </else-if>
@@ -253,7 +253,7 @@
           </if>
           <else-if type="legal_case">
             <group delimiter=" ">
-              <text variable="authority"/>
+              <text form="short" variable="authority"/>
               <date variable="issued">
                 <date-part name="year"/>
               </date>

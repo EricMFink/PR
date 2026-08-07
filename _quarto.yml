@@ -99,9 +99,9 @@ book:
 filters:
   - citetools
 bibliography_cases: refs/cases.yaml
+bibliography_constitution: refs/constitution.yaml
 bibliography_statutes: refs/statutes.yaml
 bibliography_mrpc: refs/mrpc.yaml
-bibliography_rules: refs/rules.yaml
 bibliography_other: refs/other.yaml
 csl: refs/casebook.csl
 nocite: |
@@ -115,12 +115,14 @@ format:
     css: styles.css
     title-block-style: none
     reference-location: margin
-    citation-location: margin
+    citation-location: document
     toc: true
     number-sections: true
-    number-depth: 2
+    number-depth: 3
     toc-location: left
     toc-depth: 4
+    callout-icon: false
+    lightbox: true
     include-in-header:
     - text: |
         <link rel="stylesheet" href="https://use.typekit.net/viv2jun.css">

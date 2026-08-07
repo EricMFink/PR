@@ -9,4 +9,4 @@ filters:
 metadata:
   link-citations: true
   link-fields: true
-#   link-bibliography: true
+  link-bibliography: true
