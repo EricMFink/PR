@@ -121,7 +121,7 @@
       <else-if type="legal_case">
         <group delimiter=" ">
           <group delimiter=" ">
-            <text font-style="italic" variable="title" suffix=","/>
+            <text form="short" font-style="italic" variable="title" suffix=","/>
               <choose>
                 <if variable="container-title">
                   <group delimiter=" ">
