@@ -104,6 +104,8 @@ bibliography_other: refs/other.yaml
 bibliography_statutes: refs/statutes.yaml
 csl: refs/casebook.csl
 citation-abbreviations: refs/abbreviations.json
+nocite: |
+  @*
 
 format:
   html:

@@ -4,9 +4,11 @@
 
 #### Model Rules of Professional Conduct
 
+#### @ABAModelRulesProfessional_Rule1_1
+
 ::: {.legalcode}
 
-##### Rule 1.1 -- Competence
+##### Competence
 
 A lawyer shall provide competent representation to a client. Competent representation requires the legal knowledge, skill, thoroughness and preparation reasonably necessary for the representation.
 
@@ -32,11 +34,23 @@ _Maintaining Competence_
 
 - 8\. To maintain the requisite knowledge and skill, a lawyer should keep abreast of changes in the law and its practice, including the benefits and risks associated with relevant technology, engage in continuing study and education and comply with all continuing legal education requirements to which the lawyer is subject.
 
-##### Rule 1.3 -- Diligence
+:::
+
+#### @ABAModelRulesProfessional_Rule1_3
+
+::: {.legalcode}
+
+##### Diligence
 
 - A lawyer shall act with reasonable diligence and promptness in representing a client.
 
-##### Rule 1.4 -- Communication
+:::
+
+#### @ABAModelRulesProfessional_Rule1_4
+
+::: {.legalcode}
+
+##### Communication
 
 - (a\) A lawyer shall:
 	- (1\) promptly inform the client of any decision or circumstance with respect to which the client's informed consent, as defined in Rule 1.0(e), is required by these Rules;
@@ -46,11 +60,23 @@ _Maintaining Competence_
 	- (5\) consult with the client about any relevant limitation on the lawyer's conduct when the lawyer knows that the client expects assistance not permitted by the Rules of Professional Conduct or other law.
 - (b\) A lawyer shall explain a matter to the extent reasonably necessary to permit the client to make informed decisions regarding the representation.
 
-##### Rule 2.1 -- Advisor
+:::
+
+#### @ABAModelRulesProfessional_Rule2_1
+
+::: {.legalcode}
+
+##### Advisor
 
 - In representing a client, a lawyer shall exercise independent professional judgment and render candid advice. In rendering advice, a lawyer may refer not only to law but to other considerations such as moral, economic, social and political factors, that may be relevant to the client's situation.
 
-##### Rule 2.2 -- Evaluation for Use by Third Persons
+:::
+
+#### @ABAModelRulesProfessional_Rule2_2
+
+::: {.legalcode}
+
+##### Evaluation for Use by Third Persons
 
 - (a\) A lawyer may provide an evaluation of a matter affecting a client for the use of someone other than the client if the lawyer reasonably believes that making the evaluation is compatible with other aspects of the lawyer's relationship with the client.
 - (b\) When the lawyer knows or reasonably should know that the evaluation is likely to affect the client's interests materially and adversely, the lawyer shall not provide the evaluation unless the client gives informed consent.
@@ -64,7 +90,7 @@ _Maintaining Competence_
 The term "legal malpractice" is sometimes used generally to refer to any claim against an attorney for breach of fiduciary duty, and sometimes more specifically for claims involving the duty of care. The elements of such claims are similar to other torts: the existence of a duty, breach of the duty, and harm caused by the breach. In claims based on the duty of care, the standard of liability is negligence, i.e. failure to exercise the degree of care of a reasonably prudent attorney under similar circumstances. In contrast, attorneys may be strictly liable for breaching the duties of loyalty, impartiality, or confidentiality.
 :::
 
-#### Rest. (2d) of the Law Governing Lawyers 
+#### @Rest2dLawGoverningLawyers
 
 ::: {.legalcode}
 
@@ -148,11 +174,11 @@ Except as provided in § 57 and in addition to liability under §§ 48-55, a law
 
 :::
 
-#### Model Rules of Professional Conduct
+#### @ABAModelRulesProfessional_Rule1_8
 
 ::: {.legalcode}
 
-##### Rule 1.8 -- Current Clients: Specific Rules
+##### Current Clients: Specific Rules
 
 - (h\) A lawyer shall not:
 	- (1\) make an agreement prospectively limiting the lawyer's liability to a client for malpractice unless the client is independently represented in making the agreement; or

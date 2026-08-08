@@ -2,9 +2,11 @@
 
 ## Conflicts Between Current Clients
 
-#### M.R.P.C. Rule 1.7 -- Conflict of Interest: Current Clients
+#### @ABAModelRulesProfessional_Rule1_7
 
 ::: {.legalcode}
+
+##### Conflict of Interest: Current Clients
 
 - (a\) Except as provided in paragraph (b), a lawyer shall not represent a client if the representation involves a concurrent conflict of interest. A concurrent conflict of interest exists if:
 	- (1\) the representation of one client will be directly adverse to another client; or
@@ -337,9 +339,11 @@ The same issues and considerations discussed above would apply if Lawyer wished 
 
 ## Conflicts Involving the Lawyer's Business & Personal Interests
 
-#### M.R.P.C. Rule 1.8: Current Clients -- Specific Rules
+##### @ABAModelRulesProfessional_Rule18
 
 ::: {.legalcode}
+
+##### Current Clients -- Specific Rules
 
 - (a\) A lawyer shall not enter into a business transaction with a client or knowingly acquire an ownership, possessory, security or other pecuniary interest adverse to a client unless:
 	- (1\) the transaction and terms on which the lawyer acquires the interest are fair and reasonable to the client and are fully disclosed and transmitted in writing in a manner that can be reasonably understood by the client;
@@ -704,11 +708,11 @@ Accordingly, Jason Allan Sarver is suspended from the practice of law in Ohio fo
 
 ## Conflicts Involving Former Clients
 
-#### Model Rules of Professional Conduct
+#### @ABAModelRulesProfessional_Rule1_9
 
 ::: {.legalcode}
 
-##### Rule 1.9 -- Duties to Former Clients
+##### Duties to Former Clients
 
 - (a\) A lawyer who has formerly represented a client in a matter shall not thereafter represent another person in the same or a substantially related matter in which that person's interests are materially adverse to the interests of the former client unless the former client gives informed consent, confirmed in writing.
 - (b\) A lawyer shall not knowingly represent a person in the same or a substantially related matter in which a firm with which the lawyer formerly was associated had previously represented a client
@@ -718,7 +722,13 @@ Accordingly, Jason Allan Sarver is suspended from the practice of law in Ohio fo
 	- (1\) use information relating to the representation to the disadvantage of the former client except as these Rules would permit or require with respect to a client, or when the information has become generally known; or
 	- (2\) reveal information relating to the representation except as these Rules would permit or require with respect to a client.
 
-##### Rule 1.11 -- Special Conflicts of Interest for Former & Current Government Officers & Employees
+:::
+
+#### @ABAModelRulesProfessional_Rule1_11
+
+::: {.legalcode}
+
+##### Special Conflicts of Interest for Former & Current Government Officers & Employees
 
 - (a\) Except as law may otherwise expressly permit, a lawyer who has formerly served as a public officer or employee of the government:
 	- (1\) is subject to Rule 1.9(c); and
@@ -736,7 +746,13 @@ Accordingly, Jason Allan Sarver is suspended from the practice of law in Ohio fo
 	- (1\) any judicial or other proceeding, application, request for a ruling or other determination, contract, claim, controversy, investigation, charge, accusation, arrest or other particular matter involving a specific party or parties, and
 	- (2\) any other matter covered by the conflict of interest rules of the appropriate government agency.
 
-##### Rule 1.12 -- Former Judge, Arbitrator, Mediator or Other Third-Party Neutral
+:::
+
+#### @ABAModelRulesProfessional_Rule1_12
+
+::: {.legalcode}
+
+##### Former Judge, Arbitrator, Mediator or Other Third-Party Neutral
 
 - (a\) Except as stated in paragraph (d), a lawyer shall not represent anyone in connection with a matter in which the lawyer participated personally and substantially as a judge or other adjudicative officer or law clerk to such a person or as an arbitrator, mediator or other third-party neutral, unless all parties to the proceeding give informed consent, confirmed in writing.
 - (b\) A lawyer shall not negotiate for employment with any person who is involved as a party or as lawyer for a party in a matter in which the lawyer is participating personally and substantially as a judge or other adjudicative officer or as an arbitrator, mediator or other third-party neutral. A lawyer serving as a law clerk to a judge or other adjudicative officer may negotiate for employment with a party or lawyer involved in a matter in which the clerk is participating personally and substantially, but only after the lawyer has notified the judge or other adjudicative officer.
@@ -837,9 +853,11 @@ We find that the district court did not abuse its discretion in concluding that 
 
 ## Imputed Conflicts
 
-#### M.R.P.C. Rule 1.10 -- Imputation of Conflicts of Interest: General Rule
+#### @ABAModelRulesProfessional_Rule1_12
 
 ::: {.legalcode}
+
+##### Imputation of Conflicts of Interest: General Rule
 
 - (a\) While lawyers are associated in a firm, none of them shall knowingly represent a client when any one of them practicing alone would be prohibited from doing so by Rules 1.7 or 1.9, unless 
 	- (1\) the prohibition is based on a personal interest of the disqualified lawyer and does not present a significant risk of materially limiting the representation of the client by the remaining lawyers in the firm; or

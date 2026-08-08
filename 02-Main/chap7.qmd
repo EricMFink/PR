@@ -2,19 +2,31 @@
 
 ## Fairness & Impartiality
 
-#### Model Rules of Professional Conduct
+#### @ABAModelRulesProfessional_Rule3_1
 
 ::: {.legalcode}
 
-##### Rule 3.1: Meritorious Claims & Defenses 
+##### Meritorious Claims & Defenses 
 
 A lawyer shall not bring or defend a proceeding, or assert or controvert an issue therein, unless there is a basis in law and fact for doing so that is not frivolous, which includes a good faith argument for an extension, modification or reversal of existing law. A lawyer for the defendant in a criminal proceeding, or the respondent in a proceeding that could result in incarceration, may nevertheless so defend the proceeding as to require that every element of the case be established.
 
-##### Rule 3.2 -- Expediting Litigation 
+:::
+
+#### @ABAModelRulesProfessional_Rule3_2
+
+::: {.legalcode}
+
+##### Expediting Litigation 
 
 A lawyer shall make reasonable efforts to expedite litigation consistent with the interests of the client.
 
-##### Rule 3.3 -- Candor Toward the Tribunal
+:::
+
+#### @ABAModelRulesProfessional_Rule3_3
+
+::: {.legalcode}
+
+##### Candor Toward the Tribunal
 
 - (a\) A lawyer shall not knowingly:
 	- (1\) make a false statement of fact or law to a tribunal or fail to correct a false statement of material fact or law previously made to the tribunal by the lawyer;
@@ -24,7 +36,13 @@ A lawyer shall make reasonable efforts to expedite litigation consistent with th
 - (c\) The duties stated in paragraphs (a) and (b) continue to the conclusion of the proceeding, and apply even if compliance requires disclosure of information otherwise protected by Rule 1.6.
 - (d\) In an ex parte proceeding, a lawyer shall inform the tribunal of all material facts known to the lawyer that will enable the tribunal to make an informed decision, whether or not the facts are adverse.
 
-##### Rule 3.4 -- Fairness to Opposing Party & Counsel
+:::
+
+#### @ABAModelRulesProfessional_Rule3_4
+
+::: {.legalcode}
+
+##### Fairness to Opposing Party & Counsel
 
 A lawyer shall not:
 
@@ -37,7 +55,13 @@ A lawyer shall not:
 	- (1\) the person is a relative or an employee or other agent of a client; and
 	- (2\) the lawyer reasonably believes that the person's interests will not be adversely affected by refraining from giving such information.
 
-##### Rule 3.5 -- Impartiality and Decorum of the Tribunal
+:::
+
+#### @ABAModelRulesProfessional_Rule3_5
+
+::: {.legalcode}
+
+##### Impartiality and Decorum of the Tribunal
 
 A lawyer shall not:
 
@@ -49,7 +73,13 @@ A lawyer shall not:
 	- (3\) the communication involves misrepresentation, coercion, duress or harassment; or
 - (d\) engage in conduct intended to disrupt a tribunal.
 
-##### Rule 3.6 -- Trial Publicity
+:::
+
+#### @ABAModelRulesProfessional_Rule3_6
+
+::: {.legalcode}
+
+##### Trial Publicity
 
 - (a\) A lawyer who is participating or has participated in the investigation or litigation of a matter shall not make an extrajudicial statement that the lawyer knows or reasonably should know will be disseminated by means of public communication and will have a substantial likelihood of materially prejudicing an adjudicative proceeding in the matter.
 - (b\) Notwithstanding paragraph (a), a lawyer may state:
@@ -67,7 +97,13 @@ A lawyer shall not:
 - (c\) Notwithstanding paragraph (a), a lawyer may make a statement that a reasonable lawyer would believe is required to protect a client from the substantial undue prejudicial effect of recent publicity not initiated by the lawyer or the lawyer's client. A statement made pursuant to this paragraph shall be limited to such information as is necessary to mitigate the recent adverse publicity.
 - (d\) No lawyer associated in a firm or government agency with a lawyer subject to paragraph (a) shall make a statement prohibited by paragraph (a).
 
-##### Rule 3.7 -- Lawyer as Witness
+:::
+
+#### @ABAModelRulesProfessional_Rule3_7
+
+::: {.legalcode}
+
+##### Lawyer as Witness
 
 - (a\) A lawyer shall not act as advocate at a trial in which the lawyer is likely to be a necessary witness unless:
 	- (1\) the testimony relates to an uncontested issue;
@@ -606,7 +642,11 @@ Here, none of the five factors weigh in favor of disqualification. As discussed 
 
 ## Prosecutorial Misconduct
 
-#### M.R.P.C. Rule 3.8 -- Special Responsibilities of a Prosecutor
+#### @ABAModelRulesProfessional_Rule3_8
+
+::: {.legalcode}
+
+##### Special Responsibilities of a Prosecutor
 
 ::: {.legalcode}
 
@@ -637,7 +677,7 @@ The prosecutor in a criminal case shall:
 
 :::
 
-#### ABA Criminal Justice Standards for the Prosecution Function (2017)
+#### @ABACriminalJusticeStandards
 
 ::: {.legalcode}
 
@@ -893,7 +933,7 @@ Finally, we note that by extending the doctrine of absolute immunity to a prosec
 
 #### In re Jordan, 913 So. 2d 775 (La. 2005)
 
-##### TRAYLOR, J.
+##### Traylor, J.
 
 This attorney disciplinary matter arises from formal charges filed by the Office of Disciplinary Counsel against respondent, Roger W. Jordan, Jr., a former Orleans Parish prosecutor.
 
@@ -999,7 +1039,7 @@ As to the issue of aggravating and mitigating factors, we find the only aggravat
 
 As stated above, the issue of discipline against a prosecutor for his violation of Rule 3.8 is _res nova_ in the State of Louisiana. While this Court has the benefit of Rule XIX considerations, we have no prior case law on the issue. However, Louisiana is not the first jurisdiction to address the issue of a prosecutor's failure to disclose evidence to a defendant. Our brethren in North Carolina, Kansas, South Carolina, Ohio and Iowa have imposed discipline against an attorney who fails to disclose evidence pursuant to Brady. Thus, we find some guidance in their decisions. The sanctions imposed in other jurisdictions range from public reprimand or censure to a six-month suspension from the practice of law. Based upon the facts of this case, we conclude the appropriate baseline sanction for respondent's misconduct is a three-month suspension from the practice of law. However, in light of the mitigating factors, we will defer this suspension in its entirety, subject to the condition that any misconduct during a one-year period following the finality of this judgment may be grounds for making the deferred suspension executory, or imposing additional discipline, as appropriate.
 
-##### JOHNSON, J. concurs in part, dissents in part, for the reasons that follow.
+##### Johnson, J. concurs in part, dissents in part, for the reasons that follow.
 
 I concur in the majority's opinion that respondent knowingly withheld _Brady_ evidence, that respondent's experience as a prosecutor was an aggravating factor, that the Court's actions in reversing defendant's conviction failed to invalidate the potential injury to the criminal justice system, or to defendant, and that respondent's behavior warrants discipline by this Court. However, because of the actual injury caused by respondent's prosecutorial misconduct, I dissent from the majority's conclusion that respondent's suspension should be deferred.
 

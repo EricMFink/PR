@@ -1,7 +1,409 @@
 ---
 references:
-- id: MRPCRule1
-  citation-key: MRPCRule1
-  title: M.R.P.C. Rule 1
-  type: legislation
+- id: ABACriminalJusticeStandards
+  authority: A.B.A.
+  citation-key: ABACriminalJusticeStandards
+  issued:
+    - year: 2017
+  title: Criminal Justice Standards for the Prosecution Function
+  type: standard
+
+- id: ABAModelRulesProfessional_PreambleScope
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_PreambleScope
+  number: Preamble & Scope
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule10
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule10
+  number: Rule 1.0
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule11
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule11
+  number: Rule 1.1
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule110
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule110
+  number: Rule 1.10
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule111
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule111
+  number: Rule 1.11
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule112
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule112
+  number: Rule 1.12
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule113
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule113
+  number: Rule 1.13
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule114
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule114
+  number: Rule 1.14
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule115
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule115
+  number: Rule 1.15
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule116
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule116
+  number: Rule 1.16
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule12
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule12
+  number: Rule 1.2
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule13
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule13
+  number: Rule 1.3
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule14
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule14
+  number: Rule 1.4
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule15
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule15
+  number: Rule 1.5
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule16
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule16
+  number: Rule 1.6
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule17
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule17
+  number: Rule 1.7
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule18
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule18
+  number: Rule 1.8
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule19
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule19
+  number: Rule 1.9
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule21
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule21
+  number: Rule 2.1
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule23
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule23
+  number: Rule 2.3
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule24
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule24
+  number: Rule 2.4
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule31
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule31
+  number: Rule 3.1
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule32
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule32
+  number: Rule 3.2
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule33
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule33
+  number: Rule 3.3
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule34
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule34
+  number: Rule 3.4
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule35
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule35
+  number: Rule 3.5
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule36
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule36
+  number: Rule 3.6
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule37
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule37
+  number: Rule 3.7
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule38
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule38
+  number: Rule 3.8
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule39
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule39
+  number: Rule 3.9
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule41
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule41
+  number: Rule 4.1
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule42
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule42
+  number: Rule 4.2
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule43
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule43
+  number: Rule 4.3
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule44
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule44
+  number: Rule 4.4
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule51
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule51
+  number: Rule 5.1
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule52
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule52
+  number: Rule 5.2
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule53
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule53
+  number: Rule 5.3
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule54
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule54
+  number: Rule 5.4
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule55
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule55
+  number: Rule 5.5
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule56
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule56
+  number: Rule 5.6
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule57
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule57
+  number: Rule 5.7
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule61
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule61
+  number: Rule 6.1
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule62
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule62
+  number: Rule 6.2
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule63
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule63
+  number: Rule 6.3
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule64
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule64
+  number: Rule 6.4
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule65
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule65
+  number: Rule 6.5
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule71
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule71
+  number: Rule 7.1
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule72
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule72
+  number: Rule 7.2
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule73
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule73
+  number: Rule 7.3
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule76
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule76
+  number: Rule 7.6
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule81
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule81
+  number: Rule 8.1
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule82
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule82
+  number: Rule 8.2
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule83
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule83
+  number: Rule 8.3
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule84
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule84
+  number: Rule 8.4
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_Rule85
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_Rule85
+  number: Rule 8.5
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_RuleRule117
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_RuleRule117
+  number: Rule Rule1.17
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRulesProfessional_RuleRule118
+  authority: A.B.A.
+  citation-key: ABAModelRulesProfessional_RuleRule118
+  number: Rule Rule1.18
+  title: Model Rules of Professional Conduct
+  type: standard
 ...

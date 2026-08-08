@@ -38,10 +38,11 @@ filters:
 environments: [legalcode]
 commands: [casesection,casesubsection,casesubsubsection,bibsection,bibsubsection]
 bibliography_cases: ../refs/cases.yaml
-bibliography_statutes: ../refs/statutes.yaml
+bibliography_mrpc: ../refs/mrpc.yaml
 bibliography_other: ../refs/other.yaml
+bibliography_statutes: ../refs/statutes.yaml
 csl: ../refs/casebook.csl
-citeproc: false
+citation-abbreviations: ../refs/abbreviations.json
 ---
 
 {{< include ../02-Main/chap1.qmd >}}

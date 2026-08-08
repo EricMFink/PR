@@ -2,9 +2,11 @@
 
 ## Establishing an Attorney-Client Relationship
 
-#### Rest. (2d) of the Law Governing Lawyers § 14 -- Formation of a Client-Lawyer Relationship
+#### @Rest2dLawGoverningLawyers
 
 ::: {.legalcode}
+
+##### § 14 -- Formation of a Client-Lawyer Relationship
 
 A relationship of client and lawyer arises when:
 
@@ -15,9 +17,11 @@ A relationship of client and lawyer arises when:
 
 :::
 
-#### M.R.P.C. Rule 6.2 -- Accepting Appointments
+#### @ABAModelRulesProfessional_Rule62
 
 ::: {.legalcode}
+
+#### Accepting Appointments
 
 A lawyer shall not seek to avoid appointment by a tribunal to represent a person except for good cause, such as:
 
@@ -131,11 +135,11 @@ This is not a case in which a layperson might have perceived or reasonably mispe
 
 ## Prospective Clients
 
-#### Model Rules of Professional Conduct
+#### @ABAModelRulesProfessional_Rule118
 
 ::: {.legalcode}
 
-#### Rule 1.18 -- Duties to Prospective Client
+##### Duties to Prospective Client
 
 - (a\) A person who consults with a lawyer about the possibility of forming a client-lawyer relationship with respect to a matter is a prospective client.
 - (b\) Even when no client-lawyer relationship ensues, a lawyer who has learned information from a prospective client shall not use or reveal that information, except as Rule 1.9 would permit with respect to information of a former client.
@@ -208,11 +212,11 @@ I am not persuaded by Annuity's argument that disqualification of Dilworth is ne
 
 ## Declining and Terminating Representation
 
-#### Model Rules of Professional Conduct
+#### @ABAModelRulesProfessional_Rule116
 
 ::: {.legalcode}
 
-##### Rule 1.16 -- Declining or Terminating Representation
+##### Declining or Terminating Representation
 
 - (a\) Except as stated in paragraph (c), a lawyer shall not represent a client or, where representation has commenced, shall withdraw from the representation of a client if:
 	- (1\) the representation will result in violation of the rules of professional conduct or other law;
@@ -231,7 +235,7 @@ I am not persuaded by Annuity's argument that disqualification of Dilworth is ne
 
 :::
 
-#### Rest. (2d) of the Law Governing Lawyers
+#### @Rest2dLawGoverningLawyers
 
 ::: {.legalcode}
 
@@ -329,24 +333,28 @@ We therefore reverse and order the district court to grant appellant's motion to
 
 ## Scope of Representation & Allocation of Authority
 
-#### Model Rules of Professional Conduct
+#### @ABAModelRulesProfessional_Rule12
 
 ::: {.legalcode}
 
-##### Rule 1.2 -- Scope of Representation & Allocation of Authority Between Client & Lawyer
+##### Scope of Representation & Allocation of Authority Between Client & Lawyer
 
 - (a\) Subject to paragraphs (c) and (d), a lawyer shall abide by a client's decisions concerning the objectives of representation and, as required by Rule 1.4, shall consult with the client as to the means by which they are to be pursued. A lawyer may take such action on behalf of the client as is impliedly authorized to carry out the representation. A lawyer shall abide by a client's decision whether to settle a matter. In a criminal case, the lawyer shall abide by the client's decision, after consultation with the lawyer, as to a plea to be entered, whether to waive jury trial and whether the client will testify.
 - (b\) A lawyer's representation of a client, including representation by appointment, does not constitute an endorsement of the client's political, economic, social or moral views or activities.
 - (c\) A lawyer may limit the scope of the representation if the limitation is reasonable under the circumstances and the client gives informed consent.
 - (d\) A lawyer shall not counsel a client to engage, or assist a client, in conduct that the lawyer knows is criminal or fraudulent, but a lawyer may discuss the legal consequences of any proposed course of conduct with a client and may counsel or assist a client to make a good faith effort to determine the validity, scope, meaning or application of the law.
 
-##### Rule 1.8 -- Current Clients: Specific Rules
+#### @ABAModelRulesProfessional_Rule18
+
+::: {.legalcode}
+
+##### Current Clients: Specific Rules
 
 - (g\) A lawyer who represents two or more clients shall not participate in making an aggregate settlement of the claims of or against the clients, or in a criminal case an aggregated agreement as to guilty or nolo contendere pleas, unless each client gives informed consent, in a writing signed by the client. The lawyer's disclosure shall include the existence and nature of all the claims or pleas involved and of the participation of each person in the settlement.
 
 :::
 
-#### Rest. (2d) of the Law Governing Lawyers
+#### @Rest2dLawGoverningLawyers
 
 ::: {.legalcode}
 
@@ -428,7 +436,11 @@ Since Ms. Makins, as principal, did not make any manifestation of authority to t
 
 ## Clients with Diminished Capacity
 
-#### M.R.P.C. Rule 1.14 -- Clients with Diminished Capacity
+#### @ABAModelRulesProfessional_Rule62
+
+::: {.legalcode}
+
+##### Clients with Diminished Capacity
 
 ::: {.legalcode}
 
@@ -438,9 +450,11 @@ Since Ms. Makins, as principal, did not make any manifestation of authority to t
 
 :::
 
-#### Rest. (2d) of the Law Governing Lawyers § 24 -- A Client with Diminished Capacity
+#### @Rest2dLawGoverningLawyers
 
 ::: {.legalcode}
+
+##### § 24 -- A Client with Diminished Capacity
 
 - (1\) When a client's capacity to make adequately considered decisions in connection with the representation is diminished, whether because of minority, physical illness, mental disability, or other cause, the lawyer must, as far as reasonably possible, maintain a normal client-lawyer relationship with the client and act in the best interests of the client as stated in Subsection (2).
 - (2\) A lawyer representing a client with diminished capacity as described in Subsection (1) and for whom no guardian or other representative is available to act, must, with respect to a matter within the scope of the representation, pursue the lawyer's reasonable view of the client's objectives or interests as the client would define them if able to make adequately considered decisions on the matter, even if the client expresses no wishes or gives contrary instructions.
@@ -527,9 +541,11 @@ Accordingly, Timothy Paul Jarvis is suspended from the practice of law in Ohio f
 
 ## Organizational Clients 
 
-#### M.R.P.C. Rule 1.13 -- Organization as Client
+#### @ABAModelRulesProfessional_Rule113
 
 ::: {.legalcode}
+
+#### Organization as Client
 
 - (a\) A lawyer employed or retained by an organization represents the organization acting through its duly authorized constituents.
 - (b\) If a lawyer for an organization knows that an officer, employee or other person associated with the organization is engaged in action, intends to act or refuses to act in a matter related to the representation that is a violation of a legal obligation to the organization, or a violation of law that reasonably might be imputed to the organization, and that is likely to result in substantial injury to the organization, then the lawyer shall proceed as is reasonably necessary in the best interest of the organization. Unless the lawyer reasonably believes that it is not necessary in the best interest of the organization to do so, the lawyer shall refer the matter to higher authority in the organization, including, if warranted by the circumstances to the highest authority that can act on behalf of the organization as determined by applicable law.
@@ -543,7 +559,7 @@ Accordingly, Timothy Paul Jarvis is suspended from the practice of law in Ohio f
 
 :::
 
-#### Rest. (2d) of the Law Governing Lawyers
+#### @Rest2dLawGoverningLawyers
 
 ::: {.legalcode}
 
@@ -687,11 +703,11 @@ In the end, Warley's showings amount merely to a claim of her subjective belief 
 
 ## Attorney Fees 
 
-#### Model Rules of Professional Conduct
+#### @ABAModelRulesProfessional_Rule15
 
 ::: {.legalcode}
 
-##### Rule 1.5 -- Fees
+##### Fees
 
 - (a\) A lawyer shall not make an agreement for, charge, or collect an unreasonable fee or an unreasonable amount for expenses. The factors to be considered in determining the reasonableness of a fee include the following:
 	- (1\) the time and labor required, the novelty and difficulty of the questions involved, and the skill requisite to perform the legal service properly;
@@ -712,7 +728,13 @@ In the end, Warley's showings amount merely to a claim of her subjective belief 
 	- (2\) the client agrees to the arrangement, including the share each lawyer will receive, and the agreement is confirmed in writing; and
 	- (3\) the total fee is reasonable.
 
-##### Rule 1.8 -- Current Clients: Specific Rules
+:::
+
+#### @ABAModelRulesProfessional_Rule18
+
+::: {.legalcode}
+
+##### Current Clients: Specific Rules
 
 - (f\) A lawyer shall not accept compensation for representing a client from one other than the client unless:
 	- (1\) the client gives informed consent;
@@ -897,9 +919,11 @@ In summary, we find that Mr. Culpepper did not obtain any recovery on behalf of 
 
 ## Client Property
 
-#### M.R.P.C. Rule 1.15 -- Safekeeping property
+#### @ABAModelRulesProfessional_Rule62
 
 ::: {.legalcode}
+
+##### Safekeeping property
 
 - (a\) A lawyer shall hold property of clients or third persons that is in a lawyer's possession in connection with a representation separate from the lawyer's own property. Funds shall be kept in a separate account maintained in the state where the lawyer's office is situated, or elsewhere with the consent of the client or third person. Other property shall be identified as such and appropriately safeguarded. Complete records of such account funds and other property shall be kept by the lawyer and shall be preserved for a period of [five years] after termination of the representation.
 - (b\) A lawyer may deposit the lawyer's own funds in a client trust account for the sole purpose of paying bank service charges on that account, but only in an amount necessary for that purpose.

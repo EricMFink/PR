@@ -4,13 +4,21 @@
 
 #### Model Rules of Professional Conduct
 
+#### @ABAModelRulesProfessional_Rule71
+
 ::: {.legalcode}
 
-##### Rule 7.1 --  Communications Concerning a Lawyer's Services
+##### Communications Concerning a Lawyer's Services
 
 - A lawyer shall not make a false or misleading communication about the lawyer or the lawyer's services. A communication is false or misleading if it contains a material misrepresentation of fact or law, or omits a fact necessary to make the statement considered as a whole not materially misleading.
 
-##### Rule 7.2 --  Communications Concerning a Lawyer's Services: Specific Rules
+:::
+
+#### @ABAModelRulesProfessional_Rule72
+
+::: {.legalcode}
+
+##### Communications Concerning a Lawyer's Services: Specific Rules
 
 - (a\) A lawyer may communicate information regarding the lawyer’s services through any media.
 - (b\) A lawyer shall not compensate, give or promise anything of value to a person for recommending the lawyer’s services except that a lawyer may:
@@ -420,11 +428,11 @@ Accordingly, I would hold that Hunter's speech is political, is entitled to the 
 
 ## Solicitation
 
-#### Model Rules of Professional Conduct
+#### @ABAModelRulesProfessional_Rule73
 
 ::: {.legalcode}
 
-##### Rule 7.3 -- Solicitation of Clients
+##### Solicitation of Clients
 
 - (a\) “Solicitation” or “solicit” denotes a communication initiated by or on behalf of a lawyer or law firm that is directed to a specific person the lawyer knows or reasonably should know needs legal services in a particular matter and that offers to provide, or reasonably can be understood as offering to provide, legal services for that matter.
 - (b\) A lawyer shall not solicit professional employment by live person-to-person contact when a significant motive for the lawyer’s doing so is the lawyer’s or law firm’s pecuniary gain, unless the contact is with a:
@@ -437,7 +445,13 @@ Accordingly, I would hold that Hunter's speech is political, is entitled to the 
 - (d\) This Rule does not prohibit communications authorized by law or ordered by a court or other tribunal.
 - (e\) Notwithstanding the prohibitions in this Rule, a lawyer may participate with a prepaid or group legal service plan operated by an organization not owned or directed by the lawyer that uses live person-to-person contact to enroll members or sell subscriptions for the plan from persons who are not known to need legal services in a particular matter covered by the plan.
 
-##### Rule 7.6 -- Political Contributions to Obtain Legal Engagements or Appointments by Judges
+:::
+
+#### @ABAModelRulesProfessional_Rule76
+
+::: {.legalcode}
+
+##### Political Contributions to Obtain Legal Engagements or Appointments by Judges
 
 - A lawyer or law firm shall not accept a government legal engagement or an appointment by a judge if the lawyer or law firm makes a political contribution or solicits political contributions for the purpose of obtaining or being considered for that type of legal engagement or appointment.
 

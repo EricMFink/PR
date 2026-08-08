@@ -2,11 +2,11 @@
 
 ## Duty of Confidentiality
 
-#### Model Rules of Professional Conduct
+#### @ABAModelRulesProfessional_Rule1_6
 
 ::: {.legalcode}
 
-##### Rule 1.6 -- Confidentiality of Information
+##### Confidentiality of Information
 
 - (a\) A lawyer shall not reveal information relating to the representation of a client unless the client gives informed consent, the disclosure is impliedly authorized in order to carry out the representation or the disclosure is permitted by paragraph (b).
 - (b\) A lawyer may reveal information relating to the representation of a client to the extent the lawyer reasonably believes necessary:
@@ -19,13 +19,25 @@
 	- (7\) to detect and resolve conflicts of interest arising from the lawyer’s change of employment or from changes in the composition or ownership of a firm, but only if the revealed information would not compromise the attorney-client privilege or otherwise prejudice the client.
 - (c\) A lawyer shall make reasonable efforts to prevent the inadvertent or unauthorized disclosure of, or unauthorized access to, information relating to the representation of a client.
 
-##### Rule 1.9 -- Duties to Former Clients
+:::
+
+#### @ABAModelRulesProfessional_Rule1_9
+
+::: {.legalcode}
+
+##### Duties to Former Clients
 
 - (c\) A lawyer who has formerly represented a client in a matter or whose present or former firm has formerly represented a client in a matter shall not thereafter:
 	- (1\) use information relating to the representation to the disadvantage of the former client except as these Rules would permit or require with respect to a client, or when the information has become generally known; or
 	- (2\) reveal information relating to the representation except as these Rules would permit or require with respect to a client.
 
-##### Rule 1.18 -- Duties to Prospective Client
+:::
+
+#### @ABAModelRulesProfessional_Rule1_18
+
+::: {.legalcode}
+
+##### Duties to Prospective Client
 
 - (b\) Even when no client-lawyer relationship ensues, a lawyer who has learned information from a prospective client shall not use or reveal that information, except as Rule 1.9 would permit with respect to information of a former client.
 - (c\) A lawyer subject to paragraph (b) shall not represent a client with interests materially adverse to those of a prospective client in the same or a substantially related matter if the lawyer received information from the prospective client that could be significantly harmful to that person in the matter, except as provided in paragraph (d). If a lawyer is disqualified from representation under this paragraph, no lawyer in a firm with which that lawyer is associated may knowingly undertake or continue representation in such a matter, except as provided in paragraph (d).
@@ -35,15 +47,23 @@
 		- (i\) the disqualified lawyer is timely screened from any participation in the matter and is apportioned no part of the fee therefrom; and
 		- (ii\) written notice is promptly given to the prospective client.
 
-##### Rule 4.4 -- Respect for Rights of Third Persons
+:::
+
+#### @ABAModelRulesProfessional_Rule4_4
+
+::: {.legalcode}
+
+##### Respect for Rights of Third Persons
 
 - (b\) A lawyer who receives a document or electronically stored information relating to the representation of the lawyer's client and knows or reasonably should know that the document or electronically stored information was inadvertently sent shall promptly notify the sender.
 
 :::
 
-#### NC R.P.C. Rule 8.6 -- Information About a Possible Wrongful Conviction
+#### @NCRulesProfessional_Rule86
 
 ::: {.legalcode}
+
+##### Information About a Possible Wrongful Conviction
 
 - (a\) Subject to paragraph (b), when a lawyer knows of credible evidence or information, including evidence or information otherwise protected by Rule 1.6, that creates a reasonable likelihood that a defendant did not commit the offense for which the defendant was convicted, the lawyer shall promptly disclose that evidence or information to the prosecutorial authority for the jurisdiction in which the defendant was convicted and to North Carolina Office of Indigent Defense Services or, if appropriate, the federal public defender for the district of conviction.
 - (b\) Notwithstanding paragraph (a), a lawyer shall not disclose evidence or information if:
@@ -247,7 +267,7 @@ This is a close case, even after we give the required deference to the state and
 
 ## Attorney-Client Privilege
 
-#### Rest. (2d) of the Law Governing Lawyers 
+#### @Rest2dLawGoverningLawyers
 
 ::: {.legalcode}
 
@@ -494,7 +514,7 @@ In sum, we reaffirm that a client's communications to his lawyer threatening har
 
 ## Attorney Work Product
 
-#### Rest. (2d) of the Law Governing Lawyers 
+#### @Rest2dLawGoverningLawyers
 
 ::: {.legalcode}
 
@@ -523,11 +543,11 @@ When work product protection is invoked as described in § 90, opinion work prod
 
 :::
 
-#### Federal Rules of Civil Procedure
+##### @FedCiv_Rule26
 
 ::: {.legalcode}
 
-##### Rule 26 -- Duty to Disclose; General Provisions Governing Discovery
+##### Duty to Disclose; General Provisions Governing Discovery
 
 - (b\) Discovery Scope and Limits.
 	- (3\) Trial Preparation: Materials.
@@ -637,7 +657,7 @@ Furthermore, we are mindful that independent auditors have significant leverage 
 
 ## Attorney-Client Privilege & Work Product for Organizational Clients
 
-#### Rest. (2d) of the Law Governing Lawyers
+#### @Rest2dLawGoverningLawyers
 
 ::: {.legalcode}
 
@@ -704,7 +724,7 @@ Needless to say, we decide only the case before us, and do not undertake to draf
 
 ## Exceptions to Attorney-Client Privilege and Work Product Protection
 
-#### Rest. (2d) of the Law Governing Lawyers
+#### @Rest2dLawGoverningLawyers
 
 ::: {.legalcode}
 
@@ -790,9 +810,11 @@ Work-product immunity does not apply to materials prepared when a client consult
 
 :::
 
-#### Fed. R. Evid. Rule 502 -- Attorney-Client Privilege and Work Product; Limitations on Waiver
+#### @FedEvid_Rule502
 
 ::: {.legalcode}
+
+##### Attorney-Client Privilege and Work Product; Limitations on Waiver
 
 The following provisions apply, in the circumstances set out, to disclosure of a communication or information covered by the attorney-client privilege or work-product protection.
 

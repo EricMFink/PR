@@ -8,7 +8,7 @@ Law in the United States is a heavily regulated industry. Lawyers are licensed i
 
 Nevertheless, courts, commentators, and legal ethics regulators continue to conceptualize law as a "self-regulated profession." ... The preamble to the ... ABA Model Rules of Professional Conduct maintains an emphasis on the importance of self-regulation despite the fact that the Rules are intended to be adopted as enforceable by state supreme courts. 
 
-#### Model Rules of Professional Conduct
+#### @ABAModelRulesProfessional_PreambleScope
 
 ::: {.legalcode}
 
@@ -45,9 +45,11 @@ Nevertheless, courts, commentators, and legal ethics regulators continue to conc
 
 :::
 
+##### @ABAModelRulesProfessional_Rule10
+
 ::: {.legalcode}
 
-##### Rule 1.0 -- Terminology
+##### Terminology
 
 - (a\) "Belief" or "believes" denotes that the person involved actually supposed the fact in question to be true. A person's belief may be inferred from circumstances.
 - (b\) "Confirmed in writing," when used in reference to the informed consent of a person, denotes informed consent that is given in writing by the person or a writing that a lawyer promptly transmits to the person confirming an oral informed consent. See paragraph (e) for the definition of "informed consent." If it is not feasible to obtain or transmit the writing at the time the person gives informed consent, then the lawyer must obtain or transmit it within a reasonable time thereafter.
@@ -93,9 +95,11 @@ For example, in Section 307 of the Sarbanes-Oxley Act of 2002, Congress directed
 
 ### Discipline by the Bar
 
-#### N.C. Gen. Stat. § 84-28 -- Discipline and disbarment.
+#### @DisciplineDisbarment_NCGenStat84-28
 
 ::: {.legalcode}
+
+##### Discipline and disbarment.
 
 - (a\) Any [_Council_: "The North Carolina State Bar is governed by a 60-member council whose members are lawyers elected by the lawyers in their home communities, as well a three nonlawyer members of the council. The public’s interests are represented by three members of the council who are not lawyers and who are appointed by the governor and other elected officials." [NC State Bar](https://www.ncbar.gov/about-us/leadership/)]{.aside} attorney admitted to practice law in this State is subject to the disciplinary jurisdiction of the Council under such rules and procedures as the Council shall adopt as provided in G.S. 84-23.
 - (b\) The following acts or omissions by a member of the North Carolina State Bar or any attorney admitted for limited practice under G.S. 84-4.1, individually or in concert with any other person or persons, shall constitute misconduct and shall be grounds for discipline whether the act or omission occurred in the course of an attorney-client relationship or otherwise:
@@ -121,22 +125,34 @@ For example, in Section 307 of the Sarbanes-Oxley Act of 2002, Congress directed
 
 ::: 
 
-#### Model Rules of Professional Conduct
+#### @ABAModelRulesProfessional_Rule82
 
 ::: {.legalcode}
 
-##### Rule 8.2 -- Judicial & Legal Officials
+##### Judicial & Legal Officials
 
 - (a\) A lawyer shall not make a statement that the lawyer knows to be false or with reckless disregard as to its truth or falsity concerning the qualifications or integrity of a judge, adjudicatory officer or public legal officer, or of a candidate for election or appointment to judicial or legal office.
 - (b\) A lawyer who is a candidate for judicial office shall comply with the applicable provisions of the Code of Judicial Conduct.
 
-##### Rule 8.3 -- Reporting Professional Misconduct
+:::
+
+#### @ABAModelRulesProfessional_Rule83
+
+::: {.legalcode}
+
+##### Reporting Professional Misconduct
 
 - (a\) A lawyer who knows that another lawyer has committed a violation of the Rules of Professional Conduct that raises a substantial question as to that lawyer's honesty, trustworthiness or fitness as a lawyer in other respects, shall inform the appropriate professional authority.
 - (b\) A lawyer who knows that a judge has committed a violation of applicable rules of judicial conduct that raises a substantial question as to the judge's fitness for office shall inform the appropriate authority.
 - (c\) This Rule does not require disclosure of information otherwise protected by Rule 1.6 or information gained by a lawyer or judge while participating in an approved lawyers assistance program.
 
-##### Rule 8.4 -- Misconduct
+:::
+
+#### @ABAModelRulesProfessional_Rule84
+
+::: {.legalcode}
+
+##### Misconduct
 
 It is professional misconduct for a lawyer to:
 
@@ -148,7 +164,13 @@ It is professional misconduct for a lawyer to:
 - (f\) knowingly assist a judge or judicial officer in conduct that is a violation of applicable rules of judicial conduct or other law; or
 - (g\) engage in conduct that the lawyer knows or reasonably should know is harassment or discrimination on the basis of race, sex, religion, national origin, ethnicity, disability, age, sexual orientation, gender identity, marital status or socioeconomic status in conduct related to the practice of law. This paragraph does not limit the ability of a lawyer to accept, decline or withdraw from a representation in accordance with Rule 1.16. This paragraph does not preclude legitimate advice or advocacy consistent with these Rules.
 
-##### Rule 8.5 -- Disciplinary Authority; Choice of Law
+:::
+
+#### @ABAModelRulesProfessional_Rule85
+
+::: {.legalcode}
+
+##### Disciplinary Authority; Choice of Law
 
 - (a\) Disciplinary Authority. A lawyer admitted to practice in this jurisdiction is subject to the disciplinary authority of this jurisdiction, regardless of where the lawyer's conduct occurs. A lawyer not admitted in this jurisdiction is also subject to the disciplinary authority of this jurisdiction if the lawyer provides or offers to provide any legal services in this jurisdiction. A lawyer may be subject to the disciplinary authority of both this jurisdiction and another jurisdiction for the same conduct.
 - (b\) Choice of Law. In any exercise of the disciplinary authority of this jurisdiction, the rules of professional conduct to be applied shall be as follows:
@@ -670,7 +692,9 @@ The NC Board of Law Examiners has also issued [Character & Fitness Guidelines](h
 > 
 > The Board will not consider witness testimony or evidence offered by a witness in support of the applicant on any issue listed above unless the witness has been fully informed of the misconduct before offering the evidence.
 
-#### M.R.P.C. Rule 8.1 -- Bar Admission & Disciplinary Matters
+#### @ABAModelRulesProfessional_Rule81
+
+##### Bar Admission & Disciplinary Matters
 
 ::: {.legalcode}
 
@@ -907,7 +931,9 @@ Applicant has disclosed various student loans with balances now totaling about $
 
 ## Unauthorized Practice of Law
 
-#### N.C. Gen. Stat. § 84-2.1 -- "Practice law" defined.
+#### @PracticeLawDefined_NCGenStat84-21 N.C. Gen. Stat. § 84-2.1
+
+##### "Practice law" defined.
 
 ::: {.legalcode}
 
@@ -919,7 +945,9 @@ Applicant has disclosed various student loans with balances now totaling about $
 
 :::
 
-#### M.R.P.C. Rule 5.5 -- Unauthorized Practice of Law; Multijurisdictional Practice of Law
+#### @ABAModelRulesProfessional_Rule55
+
+##### Unauthorized Practice of Law; Multijurisdictional Practice of Law
 
 ::: {.legalcode}
 
@@ -1191,11 +1219,11 @@ Moreover, the restriction on the provision of legal advice does not prevent plai
 
 ## Law Firms
 
-#### Model Rules of Professional Conduct
+#### @ABAModelRulesProfessional_Rule51
 
 ::: {.legalcode}
 
-##### Rule 5.1 -- Responsibilities of a Partner or Supervisory Lawyer
+##### Responsibilities of a Partner or Supervisory Lawyer
 
 - (a\) A partner in a law firm, and a lawyer who individually or together with other lawyers possesses comparable managerial authority in a law firm, shall make reasonable efforts to ensure that the firm has in effect measures giving reasonable assurance that all lawyers in the firm conform to the Rules of Professional Conduct.
 - (b\) A lawyer having direct supervisory authority over another lawyer shall make reasonable efforts to ensure that the other lawyer conforms to the Rules of Professional Conduct.
@@ -1203,12 +1231,24 @@ Moreover, the restriction on the provision of legal advice does not prevent plai
 	- (1\) the lawyer orders or, with knowledge of the specific conduct, ratifies the conduct involved; or
 	- (2\) the lawyer is a partner or has comparable managerial authority in the law firm in which the other lawyer practices, or has direct supervisory authority over the other lawyer, and knows of the conduct at a time when its consequences can be avoided or mitigated but fails to take reasonable remedial action.
 
-##### Rule 5.2 -- Responsibilities of a Subordinate Lawyer
+:::
+
+#### @ABAModelRulesProfessional_Rule52
+
+::: {.legalcode}
+
+##### Responsibilities of a Subordinate Lawyer
 
 - (a\) A lawyer is bound by the Rules of Professional Conduct notwithstanding that the lawyer acted at the direction of another person.
 - (b\) A subordinate lawyer does not violate the Rules of Professional Conduct if that lawyer acts in accordance with a supervisory lawyer's reasonable resolution of an arguable question of professional duty.
 
-##### Rule 5.3 -- Responsibilities Regarding Nonlawyer Assistance
+:::
+
+#### @ABAModelRulesProfessional_Rule53
+
+::: {.legalcode}
+
+##### Responsibilities Regarding Nonlawyer Assistance
 
 - With respect to a nonlawyer employed or retained by or associated with a lawyer:
 - (a\) a partner, and a lawyer who individually or together with other lawyers possesses comparable managerial authority in a law firm shall make reasonable efforts to ensure that the firm has in effect measures giving reasonable assurance that the person's conduct is compatible with the professional obligations of the lawyer;
@@ -1217,7 +1257,13 @@ Moreover, the restriction on the provision of legal advice does not prevent plai
 	- (1\) the lawyer orders or, with the knowledge of the specific conduct, ratifies the conduct involved; or
 	- (2\) the lawyer is a partner or has comparable managerial authority in the law firm in which the person is employed, or has direct supervisory authority over the person, and knows of the conduct at a time when its consequences can be avoided or mitigated but fails to take reasonable remedial action.
 
-##### Rule 5.4 -- Professional Independence of a Lawyer
+:::
+
+#### @ABAModelRulesProfessional_Rule54
+
+::: {.legalcode}
+
+##### Professional Independence of a Lawyer
 
 - (a\) A lawyer or law firm shall not share legal fees with a nonlawyer, except that:
 	- (1\) an agreement by a lawyer with the lawyer's firm, partner, or associate may provide for the payment of money, over a reasonable period of time after the lawyer's death, to the lawyer's estate or to one or more specified persons;
@@ -1231,13 +1277,25 @@ Moreover, the restriction on the provision of legal advice does not prevent plai
 	- (2\) a nonlawyer is a corporate director or officer thereof or occupies the position of similar responsibility in any form of association other than a corporation ; or
 	- (3\) a nonlawyer has the right to direct or control the professional judgment of a lawyer.
 
-##### Rule 5.6 -- Restrictions on Rights to Practice
+:::
+
+#### @ABAModelRulesProfessional_Rule56
+
+::: {.legalcode}
+
+##### Restrictions on Rights to Practice
 
 - A lawyer shall not participate in offering or making:
 - (a\) a partnership, shareholders, operating, employment, or other similar type of agreement that restricts the right of a lawyer to practice after termination of the relationship, except an agreement concerning benefits upon retirement; or
 - (b\) an agreement in which a restriction on the lawyer's right to practice is part of the settlement of a client controversy.
 
-##### Rule 5.7 -- Responsibilities Regarding Law-Related Services
+:::
+
+#### @ABAModelRulesProfessional_Rule57
+
+::: {.legalcode}
+
+##### Responsibilities Regarding Law-Related Services
 
 - (a\) A lawyer shall be subject to the Rules of Professional Conduct with respect to the provision of law-related services, as defined in paragraph (b), if the law-related services are provided:
 	- (1\) by the lawyer in circumstances that are not distinct from the lawyer's provision of legal services to clients; or

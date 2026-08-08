@@ -79,7 +79,7 @@
     <if type="article-journal article-newspaper article-magazine chapter hearing legal_case paper-conference post-weblog thesis webpage" match="any">
       <text form="short" variable="title" font-style="italic"/>
     </if>
-    <else-if type="legislation bill" match="any">
+    <else-if type="legislation standard bill" match="any">
       <text form="short" variable="title" font-variant="normal"/>
     </else-if>
     <else-if type="article-journal" match="any">
@@ -152,12 +152,12 @@
 		  </else>
 		</choose>
 	  </else-if>
-      <else-if type="hearing">
-		<group delimiter=" ">
-        	<text variable="title" suffix=", "/>
-        	<text form="short" variable="authority"/>
-        	<text macro="issuance" prefix="(" suffix=")"/>
-		</group>
+      <else-if type="standard">
+	  		<group delimiter=" ">
+        		<text variable="authority"/>
+        		<text variable="title"/>
+        		<text variable="number"/>
+			</group>
       </else-if>
       <else-if type="article-newspaper article-magazine" match="any">
         <group delimiter=", ">
