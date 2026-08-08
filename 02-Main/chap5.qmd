@@ -784,7 +784,7 @@ Work-product immunity is waived if the client, the client's lawyer, or another a
 Work-product immunity does not apply to materials prepared when a client consults a lawyer for the purpose, later accomplished, of obtaining assistance to engage in a crime or fraud or to aid a third person to do so or uses the materials for such a purpose.
 :::
 
-#### @FedEvid_Rule502
+#### @FederalRulesEvidenceRule502
 
 ::: legalcode
 ##### Attorney-Client Privilege and Work Product; Limitations on Waiver

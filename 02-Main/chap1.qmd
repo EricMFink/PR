@@ -8,7 +8,7 @@ Law in the United States is a heavily regulated industry. Lawyers are licensed i
 
 Nevertheless, courts, commentators, and legal ethics regulators continue to conceptualize law as a "self-regulated profession." ... The preamble to the ... ABA Model Rules of Professional Conduct maintains an emphasis on the importance of self-regulation despite the fact that the Rules are intended to be adopted as enforceable by state supreme courts. 
 
-#### @ABAModelRulesProfessional_PreambleScope
+#### @ModelRulesProfessionalConductPreambleScope
 
 ::: {.legalcode}
 
@@ -280,7 +280,7 @@ The only aggravating factor present in this case is respondent's substantial exp
 
 Accordingly, we will reprimand respondent for his actions.
 
-#### Disciplinary Counsel v. Blakeslee, 2023 Ohio 4202 (2023)
+#### @DisciplinaryCounselBlakeslee_Ohio2023
 
 Respondent, Jack Allen Blakeslee, of Caldwell, Ohio, was admitted to the practice of law in Ohio in 1976. In a November 2022 complaint, relator, disciplinary counsel, charged Blakeslee with professional misconduct for throwing a feces-filled Pringles can into the parking lot of a victim-advocacy center involved in a capital-murder case in which Blakeslee was representing the defendant. Blakeslee waived a probable-cause determination and, in his answer, admitted many of relator's factual allegations and the single alleged rule violation. The parties also submitted joint stipulations of fact, misconduct, and aggravating and mitigating factors.
 
@@ -1199,6 +1199,24 @@ Restricting the practice of law, including the provision of legal advice, to law
 Moreover, the restriction on the provision of legal advice does not prevent plaintiffs from sharing and distributing legal information. Paralegals may also assist clients with filling out forms, provided there is appropriate supervision by an attorney. In other words, North Carolina has struck a balance between limiting the practice of law and provision of legal advice to licensed attorneys and recognizing that paralegals are well-equipped to assist in the delivery of legal services. Plaintiffs argue that other jurisdictions have adopted different approaches and allow paralegals to provide additional services directly to clients. Plaintiffs also note their own efforts in trying to persuade the North Carolina General Assembly to do the same. That "[a]nother state legislature might balance the interests differently" does not mean that the balance struck by North Carolina runs afoul of the First Amendment. North Carolina's current limits on the practice of law and the provision of legal advice reasonably fit within its interest in regulating the legal profession.
 
 ## Law Firms
+
+#### @ModelRulesProfessionalConductRule117
+
+::: {.legalcode}
+
+##### Sale of Law Practice
+
+- A lawyer or a law firm may sell or purchase a law practice, or an area of law practice, including good will, if the following conditions are satisfied:
+	- (a\) The seller ceases to engage in the private practice of law, or in the area of practice that has been sold, \[in the geographic area\] \[in the jurisdiction\] (a jurisdiction may elect either version) in which the practice has been conducted;
+	- (b\) The entire practice, or the entire area of practice, is sold to one or more lawyers or law firms;
+	- (c\) The seller gives written notice to each of the seller's clients regarding:
+		- (1\) the proposed sale;
+		- (2\) the client's right to retain other counsel or to take possession of the file; and
+		- (3\) the fact that the client's consent to the transfer of the client's files will be presumed if the client does not take any action or does not otherwise object within ninety (90) days of receipt of the notice.
+	- If a client cannot be given notice, the representation of that client may be transferred to the purchaser only upon entry of an order so authorizing by a court having jurisdiction. The seller may disclose to the court in camera information relating to the representation only to the extent necessary to obtain an order authorizing the transfer of a file.
+	- (d\) The fees charged clients shall not be increased by reason of the sale.
+
+:::
 
 #### @ModelRulesProfessionalConductRule51
 

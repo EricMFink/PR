@@ -2,8 +2,6 @@
 
 ## Advertising
 
-#### Model Rules of Professional Conduct
-
 #### @ModelRulesProfessionalConductRule71
 
 ::: {.legalcode}

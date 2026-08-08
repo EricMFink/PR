@@ -68,7 +68,8 @@ _Maintaining Competence_
 
 :::
 
-#### @ModelRulesProfessionalConductRule22
+#### @ModelRulesProfessionalConductRule23
+
 ::: {.legalcode}
 
 ##### Evaluation for Use by Third Persons

@@ -21,7 +21,7 @@ A relationship of client and lawyer arises when:
 
 ::: {.legalcode}
 
-#### Accepting Appointments
+##### Accepting Appointments
 
 A lawyer shall not seek to avoid appointment by a tribunal to represent a person except for good cause, such as:
 
@@ -545,7 +545,7 @@ Accordingly, Timothy Paul Jarvis is suspended from the practice of law in Ohio f
 
 ::: {.legalcode}
 
-#### Organization as Client
+##### Organization as Client
 
 - (a\) A lawyer employed or retained by an organization represents the organization acting through its duly authorized constituents.
 - (b\) If a lawyer for an organization knows that an officer, employee or other person associated with the organization is engaged in action, intends to act or refuses to act in a matter related to the representation that is a violation of a legal obligation to the organization, or a violation of law that reasonably might be imputed to the organization, and that is likely to result in substantial injury to the organization, then the lawyer shall proceed as is reasonably necessary in the best interest of the organization. Unless the lawyer reasonably believes that it is not necessary in the best interest of the organization to do so, the lawyer shall refer the matter to higher authority in the organization, including, if warranted by the circumstances to the highest authority that can act on behalf of the organization as determined by applicable law.
@@ -881,7 +881,7 @@ Fordham argues that our imposition of discipline would offend his right to due p
 
 In charging a clearly excessive fee, Fordham departed substantially from the obligation of professional responsibility that he owed to his client. The ABA Model Standards for Imposing Lawyer Sanctions § 7.3 endorses a public reprimand as the appropriate sanction for charging a clearly excessive fee. We deem such a sanction appropriate in this case. Accordingly, a judgment is to be entered in the county court imposing a public censure. The record in this case is to be unimpounded.
 
-#### @CulpepperCarrollPllcCole_Louisiana2006
+#### @CulpepperCarrollPLLCCole_Louisiana2006
 
 Connie Daniel Cole seeks review of a judgment of the court of appeal affirming an award of attorney's fees to his former counsel. For the reasons that follow, we reverse the judgment of the court of appeal.
 
