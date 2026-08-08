@@ -36,7 +36,7 @@
 
 :::
 
-#### Bates v. State Bar of Arizona, 433 U.S. 350 (1977)
+#### @BatesStateBarAriz_US1977
 
 ##### Justice Blackmun delivered the opinion of the Court.
 
@@ -158,7 +158,7 @@ The area into which the Court now ventures has, until today, largely been left t
 
 I am apprehensive, despite the Court's expressed intent to proceed cautiously, that today's holding will be viewed by tens of thousands of lawyers as an invitation—by the public-spirited and the selfish lawyers alike—to engage in competitive advertising on an escalating basis. Some lawyers may gain temporary advantages; others will suffer from the economic power of stronger lawyers, or by the subtle deceit of less scrupulous lawyers. Some members of the public may benefit marginally, but the risk is that many others will be victimized by simplistic price advertising of professional services "almost infinite in variety and nature." Until today, in the long history of the legal profession, it was not thought that this risk of public deception was required by the marginal First Amendment interests asserted by the Court.
 
-#### Florida Bar v. Pape, 918 So.2d 240 (Fla. 2005)
+#### @FloridaBarPape_Florida2005
 
 In this case we impose discipline on two attorneys for their use of television advertising devices that violate the Rules of Professional Conduct. These devices, which invoke the breed of dog known as the pit bull, demean all lawyers and thereby harm both the legal profession and the public's trust and confidence in our system of justice.
 
@@ -232,15 +232,15 @@ We disapprove the referee's finding that the television commercial at issue is c
 
 ::: {.callout-note}
 
-**Pit Bull Redux**: The Florida Bar revisted the "pit bull" issue in 2021. [Florida Bar v. Robert Laurence Pelltier](../exhibits/Pelletier-Complaint.pdf), No. 2021-00,159(4A) (March 2, 2021). 
+**Pit Bull Redux**: The Florida Bar revisted the "pit bull" issue in 2021. [Florida Bar v. Robert Laurence Pelletier](../exhibits/Pelletier-Complaint.pdf), No. 2021-00,159(4A) (March 2, 2021). 
 
 ![Pelletier ad](../img/Pitbull2.jpg){width=50%}
 
-In his [answer](../exhibits/Pelletier-Answer.pdf) to the Bar complaint, Pelletier to the Bar complaint, Pelletier asserted that he "was unaware of said case law until recently. Furthermore, Respondent was unaware that using a nickname such as “Pitbull” was a violation of The Florida Bar Rules." He also contended that "The Florida Bar rule(s) sited [sic] violate the first amendment freedom of speech section." He ultimately entered a [guilty plea](../exhibits/Pelletier-GuiltyPlea.pdf) and received a [reprimand](../exhibits/Pelletier-RefereeReport.pdf).
+In his [answer](../exhibits/Pelletier-Answer.pdf) to the Bar complaint, Pelletier asserted that he "was unaware of said case law until recently. Furthermore, Respondent was unaware that using a nickname such as “Pitbull” was a violation of The Florida Bar Rules." He also contended that "The Florida Bar rule(s) sited [sic] violate the first amendment freedom of speech section." He ultimately entered a [guilty plea](../exhibits/Pelletier-GuiltyPlea.pdf) and received a [reprimand](../exhibits/Pelletier-RefereeReport.pdf).
 
 :::
 
-#### Hunter v. Virginia State Bar, 744 S.E.2d 611 (Va. 2013)
+#### @HunterVirginiaStateBar_Virginia2013
 
 ##### Justice Cleo E. Powell
 
@@ -457,7 +457,7 @@ Accordingly, I would hold that Hunter's speech is political, is entitled to the 
 
 :::
 
-#### NAACP v. Button, 371 U.S. 415 (1963)
+#### @NAACPButton_US1963
 
 ##### Justice Brennan delivered the opinion of the Court.
 
@@ -531,7 +531,7 @@ The bill, here involved, was one of five that Virginia enacted "as parts of the 
 
 Discrimination also appears on the face of this Act. The line drawn in § 54-78 is between an organization which has "no pecuniary right or liability" in a judicial proceeding and one that does. As we said in _N.A.A.C.P. v. Alabama_, the N.A.A.C.P. and its members are "in every practical sense identical. The Association is but the medium through which its individual members seek to make more effective the expression of their own views." Under the statute those who protect a "pecuniary right or liability" against unconstitutional invasions may indulge in "the solicitation of business for an attorney," while those who protect other civil rights may not. This distinction helps make clear the purpose of the legislation, which, as Judge Soper said, was part of the program of "massive resistance" against _Brown v. Board of Education_.
 
-#### Ohralik v. Ohio State Bar Assn., 436 U.S. 447 (1978)
+#### @OhralikOhioStateBar_US1978
 
 ##### Justice Powell delivered the opinion of the Court.
 
@@ -645,7 +645,7 @@ To the extent that in-person solicitation of business may constitutionally be su
 
 Accordingly, while I concur in the judgments of the Court in both of these cases, I join in the Court's opinions only to the extent and with the exceptions noted above.
 
-#### In re Primus, 436 U.S. 412 (1978)
+#### @RePrimus_US1978
 
 ##### Justice Powell delivered the opinion of the Court.
 
@@ -729,7 +729,7 @@ We conclude that South Carolina's application of DR 2-103 (D) (5) (a) and (c) an
 
 _Reversed_.
 
-#### DaimlerChrysler Corp. v. Kirkhart, 561 S.E.2d 276 (N.C. App. 2002)
+#### @DaimlerChryslerCorpKirkhart_NCCourtofAppeals2002
 
 This appeal arises from the trial court's grant of a preliminary injunction which restricts the manner in which Defendants, a licensed attorney and his law practice, may use information obtained from DaimlerChrysler through discovery in a separate action in which Defendants represented Peter and Frances Pleskach ("the Pleskaches") in a lawsuit against DaimlerChrysler ("the Pleskach case"). Specifically, the trial court's preliminary injunction restrains Defendants from using information obtained through discovery in the Pleskach case to solicit clients and generate further litigation against DaimlerChrysler. Defendants bring forward numerous assignments of error challenging the trial court's findings and conclusions, and also challenging the constitutionality of the preliminary injunction. Upon careful consideration of the briefs, oral argument, transcript, and record, we dissolve the preliminary injunction entered against Defendants.
 
@@ -781,7 +781,7 @@ Based on our reading of the Supreme Court's decision in _Batson_, and other lear
 
 We conclude that Plaintiff has failed to show a reasonable likelihood of success on the merits of its case, and has failed to show a reasonable probability of substantial injury if the injunction does not stand. Thus, we hold that it was error to grant the preliminary injunction and it is hereby dissolved. Having so concluded, we need not consider the First Amendment arguments advanced by Defendants concerning the nature and scope of the injunctive relief.
 
-#### Florida Bar v. Went for It, 515 U.S. 618 (1995)
+#### @FloridaBarWentIt_US1995
 
 ##### Justice O'Connor delivered the opinion of the Court.
 

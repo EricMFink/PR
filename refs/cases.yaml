@@ -23,14 +23,39 @@ references:
   type: legal_case
   volume: '433'
 
+- id: BergerUnitedStates_US1935
+  authority: US
+  citation-key: BergerUnitedStates_US1935
+  container-title: US
+  issued:
+    - year: 1935
+  page: '78'
+  title: Berger v. United States
+  type: legal_case
+  volume: '295'
+
+- id: BlumenthalKimberMfgInc_Connecticut2003
+  authority: Connecticut
+  citation-key: BlumenthalKimberMfgInc_Connecticut2003
+  container-title: Conn.
+  container-title-short: Conn.
+  issued:
+    - year: 2003
+  jurisdiction: Conn
+  page: '1'
+  title: Blumenthal v. Kimber Mfg., Inc.
+  type: legal_case
+  volume: '265'
+
 - id: BroadbentWilliams_DUtah2025
   authority: D. Utah
   citation-key: BroadbentWilliams_DUtah2025
   issued:
     - year: 2025
-      month: 2
-      day: 4
-  number: No. 4:24-cv-00091-DN
+      month: 7
+      day: 1
+  jurisdiction: D. Utah
+  number: No. 4:24-cv-00091-DN-PK
   title: Broadbent v. Williams
   type: legal_case
 
@@ -53,13 +78,34 @@ references:
   container-title: F. Supp. 2d
   issued:
     - year: 2001
-      month: 7
-      day: 6
   jurisdiction: ED Pennsylvania
   page: '193'
   title: Clark Capital Management v. Annuity Investors Life Ins. Co.
   type: legal_case
   volume: '149'
+
+- id: ClarkUnitedStates_US1933
+  authority: US
+  citation-key: ClarkUnitedStates_US1933
+  container-title: US
+  issued:
+    - year: 1933
+  page: '1'
+  title: Clark v. United States
+  type: legal_case
+  volume: '289'
+
+- id: CommitteeProfEthicsEtc_Iowa1982
+  authority: Iowa
+  citation-key: CommitteeProfEthicsEtc_Iowa1982
+  container-title: NW 2d
+  issued:
+    - year: 1982
+  jurisdiction: Iowa
+  page: '895'
+  title: Committee on Prof. Ethics, Etc. v. Mershon
+  type: legal_case
+  volume: '316'
 
 - id: ContemporaneousResidentialRealEstate_NCStateBar2021
   authority: N.C. State Bar
@@ -81,17 +127,15 @@ references:
   container-title: F. Supp.
   issued:
     - year: 1992
-      month: 8
-      day: 25
   jurisdiction: ED Virginia
   page: '1298'
   title: X Corp. v. Doe
   type: legal_case
   volume: '805'
 
-- id: CulpepperCarrollPllcCole_Louisiana2006
+- id: CulpepperCarrollPLLCCole_Louisiana2006
   authority: Louisiana
-  citation-key: CulpepperCarrollPllcCole_Louisiana2006
+  citation-key: CulpepperCarrollPLLCCole_Louisiana2006
   container-title: So. 2d
   container-title-short: 2d
   issued:
@@ -100,7 +144,7 @@ references:
       day: 4
   jurisdiction: La
   page: '1224'
-  title: Culpepper & Carroll, Pllc v. Cole
+  title: Culpepper & Carroll, PLLC v. Cole
   type: legal_case
   volume: '929'
 
@@ -110,8 +154,6 @@ references:
   container-title: SE 2d
   issued:
     - year: 2002
-      month: 2
-      day: 19
   jurisdiction: NC
   page: '276'
   title: DaimlerChrysler Corp. v. Kirkhart
@@ -124,8 +166,6 @@ references:
   container-title: SW 2d
   issued:
     - year: 1978
-      month: 11
-      day: 3
   jurisdiction: Ky
   page: '12'
   title: Daugherty v. Runner
@@ -174,6 +214,30 @@ references:
   type: legal_case
   volume: '205'
 
+- id: DisciplinaryCounselSarver_Ohio2018
+  authority: Ohio
+  citation-key: DisciplinaryCounselSarver_Ohio2018
+  container-title: NE 3d
+  issued:
+    - year: 2018
+  jurisdiction: Ohio
+  page: '405'
+  title: Disciplinary Counsel v. Sarver
+  type: legal_case
+  volume: '119'
+
+- id: DisciplinaryCounselSarver_Ohio2020
+  authority: Ohio
+  citation-key: DisciplinaryCounselSarver_Ohio2020
+  container-title: NE 3d
+  issued:
+    - year: 2020
+  jurisdiction: Ohio
+  page: '799'
+  title: Disciplinary Counsel v. Sarver
+  type: legal_case
+  volume: '170'
+
 - id: DoughertyPepperHamiltonLLP_PennsylvaniaSuperiorCourt2016
   authority: Pennsylvania Superior Court
   citation-key: DoughertyPepperHamiltonLLP_PennsylvaniaSuperiorCourt2016
@@ -193,8 +257,6 @@ references:
   container-title: F. Supp.
   issued:
     - year: 1991
-      month: 4
-      day: 4
   jurisdiction: ED Pennsylvania
   page: '670'
   title: Ferranti Intern. PLC v. Clark
@@ -226,6 +288,18 @@ references:
   title: Florida Bar v. Went For It, Inc.
   type: legal_case
   volume: '515'
+
+- id: HillmanNuecesCounty_Texas2019
+  authority: Texas
+  citation-key: HillmanNuecesCounty_Texas2019
+  container-title: SW 3d
+  issued:
+    - year: 2019
+  jurisdiction: Tex
+  page: '354'
+  title: Hillman v. Nueces County
+  type: legal_case
+  volume: '579'
 
 - id: HunterVirginiaStateBar_Virginia2013
   authority: Virginia
@@ -293,8 +367,6 @@ references:
   container-title-short: 2d
   issued:
     - year: 2004
-      month: 6
-      day: 29
   jurisdiction: DC
   page: '590'
   title: Makins v. District of Columbia
@@ -307,8 +379,6 @@ references:
   container-title: NW 2d
   issued:
     - year: 1981
-      month: 12
-      day: 4
   jurisdiction: Minn
   page: '4'
   title: Marker v. Greenberg
@@ -355,6 +425,20 @@ references:
   type: legal_case
   volume: '633'
 
+- id: MatterDisciplineLeavitt_Utah2025
+  authority: Utah
+  citation-key: MatterDisciplineLeavitt_Utah2025
+  container-title: P. 3d
+  issued:
+    - year: 2025
+      month: 2
+      day: 28
+  jurisdiction: Utah
+  page: '343'
+  title: Matter of Discipline of Leavitt
+  type: legal_case
+  volume: '579'
+
 - id: MatterFordham_Massachusetts1996
   authority: Massachusetts
   citation-key: MatterFordham_Massachusetts1996
@@ -362,13 +446,23 @@ references:
   container-title-short: Mass.
   issued:
     - year: 1996
-      month: 4
-      day: 2
   jurisdiction: Mass
   page: '481'
   title: In the Matter of Fordham
   type: legal_case
   volume: '423'
+
+- id: MatterGrandJuryInvestigation_Massachusetts2009
+  authority: Massachusetts
+  citation-key: MatterGrandJuryInvestigation_Massachusetts2009
+  container-title: NE 2d
+  issued:
+    - year: 2009
+  jurisdiction: Mass
+  page: '929'
+  title: In the Matter of a Grand Jury Investigation
+  type: legal_case
+  volume: '902'
 
 - id: MatterSilva_RhodeIsland1994
   authority: Rhode Island
@@ -377,8 +471,6 @@ references:
   container-title-short: 2d
   issued:
     - year: 1994
-      month: 1
-      day: 14
   jurisdiction: RI
   page: '316'
   title: In the Matter of Silva
@@ -399,6 +491,17 @@ references:
   type: legal_case
   volume: '392'
 
+- id: McClureThompson_9thCircuit2003
+  authority: 9th Circuit
+  citation-key: McClureThompson_9thCircuit2003
+  container-title: F. 3d
+  issued:
+    - year: 2003
+  page: '1233'
+  title: McClure v. Thompson
+  type: legal_case
+  volume: '323'
+
 - id: MillerRegionsBank_NDAla2026
   authority: N.D. Ala.
   citation-key: MillerRegionsBank_NDAla2026
@@ -410,12 +513,12 @@ references:
   title: Miller v. Regions Bank
   type: legal_case
 
-- id: NAACPButton_US05
+- id: NAACPButton_US1963
   authority: U.S.
-  citation-key: NAACPButton_US05
+  citation-key: NAACPButton_US1963
   container-title: US
   issued:
-    - year: 5
+    - year: 1963
   page: '415'
   title: NAACP v. Button
   type: legal_case
@@ -434,6 +537,58 @@ references:
   title: Negotiating Private Employment with Opposing Counsel
   type: legal_case
   volume: '2016'
+
+- id: NiesigTeam_NewYorkAppDiv2ndDept1989
+  authority: New York App. Div., 2nd Dept.
+  citation-key: NiesigTeam_NewYorkAppDiv2ndDept1989
+  container-title: AD 2d
+  issued:
+    - year: 1989
+  jurisdiction: NY
+  page: '94'
+  title: Niesig v. Team I
+  type: legal_case
+  volume: '149'
+
+- id: NixWhiteside_US1986
+  authority: US
+  citation-key: NixWhiteside_US1986
+  container-title: US
+  issued:
+    - year: 1986
+  page: '157'
+  title: Nix v. Whiteside
+  type: legal_case
+  volume: '475'
+
+- id: NorthCarolinaStateBar_NCCourtofAppeals2019
+  accessed:
+    - year: 2026
+      month: 8
+      day: 8
+  authority: N.C. Court of Appeals
+  citation-key: NorthCarolinaStateBar_NCCourtofAppeals2019
+  issued:
+    - year: 2019
+      month: 6
+      day: 4
+  number: No. COA18-866
+  title: North Carolina State Bar v. Weckworth
+  type: legal_case
+
+- id: NuStarFarmsLLCZylstra_Iowa2016
+  authority: Iowa
+  citation-key: NuStarFarmsLLCZylstra_Iowa2016
+  container-title: NW 2d
+  issued:
+    - year: 2016
+      month: 5
+      day: 13
+  jurisdiction: Iowa
+  page: '478'
+  title: NuStar Farms, LLC v. Zylstra
+  type: legal_case
+  volume: '880'
 
 - id: OhralikOhioStateBar_US1978
   authority: US
@@ -463,13 +618,23 @@ references:
   container-title: Misc. 2d
   issued:
     - year: 1975
-      month: 8
-      day: 1
   jurisdiction: NY
   page: '186'
   title: People v. Belge
   type: legal_case
   volume: '83'
+
+- id: PeopleDePallo_NewYork2001
+  authority: New York
+  citation-key: PeopleDePallo_NewYork2001
+  container-title: NE 2d
+  issued:
+    - year: 2001
+  jurisdiction: NY
+  page: '751'
+  title: People v. DePallo
+  type: legal_case
+  volume: '754'
 
 - id: PolaskiLee_EDNC2024
   authority: E.D.N.C.
@@ -490,13 +655,34 @@ references:
   container-title: NW 2d
   issued:
     - year: 1999
-      month: 11
-      day: 19
   jurisdiction: Neb
   page: '500'
   title: In re Converse
   type: legal_case
   volume: '602'
+
+- id: ReDisciplinaryProceedingHaley_Washington2006
+  authority: Washington
+  citation-key: ReDisciplinaryProceedingHaley_Washington2006
+  container-title: P. 3d
+  issued:
+    - year: 2006
+  jurisdiction: Wash
+  page: '1262'
+  title: In re Disciplinary Proceeding Against Haley
+  type: legal_case
+  volume: '126'
+
+- id: ReDresserIndustriesInc_5thCircuit1992
+  authority: 5th Circuit
+  citation-key: ReDresserIndustriesInc_5thCircuit1992
+  container-title: F. 2d
+  issued:
+    - year: 1992
+  page: '540'
+  title: In re Dresser Industries, Inc.
+  type: legal_case
+  volume: '972'
 
 - id: ReGrandJurySubpoena_4thCircuit2005
   authority: 4th Circuit
@@ -511,6 +697,45 @@ references:
   title-short: In re Grand Jury Subpoena
   type: legal_case
   volume: '415'
+
+- id: ReJordan_Louisiana2005
+  authority: Louisiana
+  citation-key: ReJordan_Louisiana2005
+  container-title: So. 2d
+  container-title-short: 2d
+  issued:
+    - year: 2005
+      month: 6
+      day: 29
+  jurisdiction: La
+  page: '775'
+  title: In re Jordan
+  type: legal_case
+  volume: '913'
+
+- id: ReLitz_Indiana1999
+  authority: Indiana
+  citation-key: ReLitz_Indiana1999
+  container-title: NE 2d
+  issued:
+    - year: 1999
+  jurisdiction: Ind
+  page: '258'
+  title: In re Litz
+  type: legal_case
+  volume: '721'
+
+- id: ReMorse_Georgia2013
+  authority: Georgia
+  citation-key: ReMorse_Georgia2013
+  container-title: SE 2d
+  issued:
+    - year: 2013
+  jurisdiction: Ga
+  page: '921'
+  title: In re Morse
+  type: legal_case
+  volume: '748'
 
 - id: RepresentationPartiesCommercialReal_NCStateBar2015
   authority: N.C. State Bar
@@ -573,13 +798,37 @@ references:
   container-title-short: 2d
   issued:
     - year: 2000
-      month: 11
-      day: 20
   jurisdiction: RI
   page: '1161'
   title: In re Roots
   type: legal_case
   volume: '762'
+
+- id: ReStateGrandJury_NewJersey2009
+  authority: New Jersey
+  citation-key: ReStateGrandJury_NewJersey2009
+  container-title: A. 2d
+  container-title-short: 2d
+  issued:
+    - year: 2009
+  jurisdiction: NJ
+  page: '1097'
+  title: In re State Grand Jury Investigation
+  type: legal_case
+  volume: '983'
+
+- id: SaladiniRighellisGoldstein_Massachusetts1997
+  authority: Massachusetts
+  citation-key: SaladiniRighellisGoldstein_Massachusetts1997
+  container-title: Mass.
+  container-title-short: Mass.
+  issued:
+    - year: 1997
+  jurisdiction: Mass
+  page: '231'
+  title: Saladini v. Righellis; Goldstein
+  type: legal_case
+  volume: '426'
 
 - id: ScreeningLateralHireWho_NCStateBar2013
   authority: N.C. State Bar
@@ -595,6 +844,30 @@ references:
   type: legal_case
   volume: '2012'
 
+- id: StateHischke_Iowa2002
+  authority: Iowa
+  citation-key: StateHischke_Iowa2002
+  container-title: NW 2d
+  issued:
+    - year: 2002
+  jurisdiction: Iowa
+  page: '6'
+  title: State v. Hischke
+  type: legal_case
+  volume: '639'
+
+- id: StateLensegrav_NewMexico2025
+  authority: New Mexico
+  citation-key: StateLensegrav_NewMexico2025
+  container-title: P. 3d
+  issued:
+    - year: 2025
+  jurisdiction: NM
+  page: '924'
+  title: State v. Lensegrav
+  type: legal_case
+  volume: '572'
+
 - id: StricklandWashington_SupremeCourt1984
   authority: Supreme Court
   citation-key: StricklandWashington_SupremeCourt1984
@@ -605,6 +878,17 @@ references:
   title: Strickland v. Washington
   type: legal_case
   volume: '466'
+
+- id: TaylorKavanagh_2ndCircuit1981
+  authority: 2nd Circuit
+  citation-key: TaylorKavanagh_2ndCircuit1981
+  container-title: F. 2d
+  issued:
+    - year: 1981
+  page: '450'
+  title: Taylor v. Kavanagh
+  type: legal_case
+  volume: '640'
 
 - id: TogstadVeselyOttoMiller_Minnesota1980
   authority: Minnesota
@@ -628,6 +912,28 @@ references:
   title: Upjohn Co. v. United States
   type: legal_case
   volume: '449'
+
+- id: USDeloitteLLP_DCCircuit2010
+  authority: D.C. Circuit
+  citation-key: USDeloitteLLP_DCCircuit2010
+  container-title: F. 3d
+  issued:
+    - year: 2010
+  page: '129'
+  title: US v. Deloitte LLP
+  type: legal_case
+  volume: '610'
+
+- id: USLong_8thCircuit1988
+  authority: 8th Circuit
+  citation-key: USLong_8thCircuit1988
+  container-title: F. 2d
+  issued:
+    - year: 1988
+  page: '436'
+  title: US v. Long
+  type: legal_case
+  volume: '857'
 
 - id: USStein_SDNY2006
   authority: S.D.N.Y.

@@ -38,7 +38,7 @@ In representing a client, a lawyer shall not communicate about the subject of th
 
 :::
 
-#### N.C. State Bar v. Weckworth, No. COA18-866 (N.C, Ct. App. June 4, 2019)
+#### @NorthCarolinaStateBar_NCCourtofAppeals2019
 
 [Factual and Procedural Background]{.casesection}
 
@@ -120,7 +120,7 @@ In dealing on behalf of a client with a person who is not represented by counsel
 
 :::
 
-#### In re Disciplinary Proceeding Against Haley, 126 P.3d 1262 (Wash. 2006)
+#### @ReDisciplinaryProceedingHaley_Washington2006
 
 ##### Owens, J.
 
@@ -240,7 +240,7 @@ Thus, this court has long rejected the notion that attorney discipline is penal,
 
 In sum, because the purpose of attorney discipline is to protect the public, it is our duty to enforce RPC 4.2(a) in this case. The majority provides no authority for applying RPC 4.2(a) to pro se attorneys prospectively only. I would apply the rule to Haley and suspend him for six months.
 
-#### Niesig v. Team I, 76 N.Y.2d 363 (N.Y. 1990)
+#### @NiesigTeam_NewYorkAppDiv2ndDept1989
 
 Plaintiff in this personal injury litigation, wishing to have his counsel privately interview a corporate defendant's employees who witnessed the accident, puts before us a question that has generated wide interest: are the employees of a corporate party also considered "parties" under Disciplinary Rule 7-104 (A) (1) of the Code of Professional Responsibility, which prohibits a lawyer from communicating directly with a "party" known to have counsel in the matter? The trial court and the Appellate Division both answered that an employee of a counseled corporate party in litigation is by definition also a "party" within the rule, and prohibited the interviews. For reasons of policy, we disagree.
 

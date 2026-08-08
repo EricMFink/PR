@@ -19,7 +19,7 @@
 
 :::
 
-#### In re Dresser Industries, Inc., 972 F. 2d 540 (5th Cir. 1992)
+#### @ReDresserIndustriesInc_5thCircuit1992
 
 In this petition for a writ of mandamus, we determine whether a law firm may sue its own client, which it concurrently represents in other matters. In a word, no; and most certainly not here, where the motivation appears only to be the law firm's self-interest. We therefore grant the writ, directing the district judge to disqualify counsel.
 
@@ -71,7 +71,7 @@ Unquestionably, the national standards of attorney conduct forbid a lawyer from 
 
 Exceptional circumstances may sometimes mean that what is ordinarily a clear impropriety will not, always and inevitably, determine a conflicts case. Within the framework we announced in _Woods,_ Susman, for example, might have been able to continue his dual representation if he could have shown some social interest to be served by his representation that would outweigh the public perception of his impropriety. Susman, however, can present no such reason. There is no suggestion that other lawyers could not ably perform his offices for the plaintiffs, nor is there any basis for a suggestion of any societal or professional interest to be served. This fact suggests a rule of thumb for use in future motions for disqualification based on concurrent representation: However a lawyer's motives may be clothed, if the sole reason for suing his own client is the lawyer's self-interest, disqualification should be granted.
 
-#### Representation in Purchase of Foreclosed Property, 2013 Formal Ethics Op. 4 (N.C. State Bar, July 19, 2013)
+#### @RepresentationPurchaseForeclosedProperty_NCStateBar2013
 
 Opinion examines the ethical duties of a lawyer representing both the buyer and the seller on the purchase of a foreclosure property and the lawyer’s duties when the representation is limited to the seller.
 
@@ -135,7 +135,7 @@ In representing Seller, Law Firm X may provide an opinion on title to the title 
 
 CPR 100 and RPC 210 provide that a lawyer who is representing the buyer, the lender, and the seller (or any one or more of them) may provide the title insurer with an opinion on title sufficient to issue a mortgagee title insurance policy, when the premium is paid by the buyer. CPR 100 further recommends that, because a buyer-borrower is usually inexperienced in the purchase of real estate and the securing of loans thereon, “any lawyer involved in the transaction, even though not representing the borrower, should be alert to inform the borrower of the availability of an owner's title insurance policy which is usually available to the borrower up to the amount of the loan at little or no expense to the borrower, and assist the borrower in obtaining an owner's title insurance policy.”
 
-#### Representation of Parties to a Commercial Real Estate Loan Closing, 2013 Formal Ethics Op. 14 (N.C. State Bar January 23, 2015)
+#### @RepresentationPartiesCommercialReal_NCStateBar2015
 
 Opinion rules that common representation in a commercial real estate loan closing is, in most instances, a “nonconsentable” conflict meaning that a lawyer may not ask the borrower and the lender to consent to common representation.
 
@@ -203,7 +203,7 @@ Consistent with the holding in 2006 FEO 3, in a commercial loan closing, the len
 
 This opinion cannot address all of the concerns expressed in the Background section above relative to the additional risks to the borrower if the lawyer for the closing is the lender’s lawyer. However, if the closing funds are deposited to and disbursed from the trust account of the lender’s lawyer in accordance with the requirements of the trust accounting rule, Rule 1.15, the funds should not be at risk. To the extent that there are other risks to the interests of the borrower, the borrower’s lawyer must analyze those risks and advise the borrower about steps that may be taken to minimize the risks including negotiating with the lender’s lawyer for aspects of the closing to be handled by the borrower’s lawyer.
 
-#### Contemporaneous Residential Real Estate Closings, 2021 Formal Ethics Op. 1 (N.C. State Bar April 16, 2021)
+#### @ContemporaneousResidentialRealEstate_NCStateBar2021 
 
 Opinion addresses conflicts of interest, communication, funding issues, and accountings in contemporaneous closings for residential real property.
 
@@ -376,7 +376,7 @@ The same issues and considerations discussed above would apply if Lawyer wished 
 
 :::
 
-#### In re Morse, 748 S.E.2d 921 (Ga. 2013)
+#### @ReMorse_Georgia2013
 
 ##### Per Curium
 
@@ -398,7 +398,7 @@ This understanding not only is required by the plain terms of the Rule, but it a
 
 This case is a little troubling to me because it appears from the record that Morse has been a friend of his client for a long time, such that he might have provided financial assistance to his client independent of the attorney-client relationship or the litigation, and indeed, even in the absence of an attorney-client relationship or litigation. Lawyers can be generous, and it is not uncommon for lawyers to help out their kin, their friends, and their neighbors. Nevertheless, Morse has unequivocally admitted a violation of Rule 1.8(e), and as such, he has implicitly admitted a connection between the financial assistance he provided and the litigation in which he represented his client. For that reason, I am content to join the Court in accepting his petition for voluntary discipline, and I am satisfied with the discipline that the Court has seen fit to impose. I am authorized to state that Justice Hunstein joins in this concurrence.
 
-#### Committee on Prof. Ethics v. Mershon, 316 N.W.2d 895 (Iowa 1982)
+#### @CommitteeProfEthicsEtc_Iowa1982
 
 This case involves review of a Grievance Commission report recommending that respondent be reprimanded for alleged ethical violations arising from a business transaction with a client. We adopt the recommendation.
 
@@ -446,7 +446,7 @@ Having chosen to enter the transaction without recommending that Miller obtain i
 
 In accordance with the Commission recommendation, we reprimand him for the violation.
 
-#### Saladini v. Righellis, 426 Mass. 231 (1997)
+#### @SaladiniRighellisGoldstein_Massachusetts1997
 
 The plaintiff, Lisa Saladini, appeals from the decision of a judge in the Superior Court dismissing her complaint, sua sponte, on the ground that a written agreement she had with the defendant, George P. Righellis, was champertous and unenforceable. Saladini had sought a declaratory judgment establishing her rights under the agreement. We granted Saladini's application for direct appellate review to consider whether we should continue to enforce the doctrine. We rule that the common law doctrines of champerty, barratry, and maintenance no longer shall be recognized in Massachusetts. We reverse the judgment entered in the Superior Court and remand this case for further proceedings.
 
@@ -476,7 +476,7 @@ We also no longer are persuaded that the champerty doctrine is needed to protect
 
 Other States that no longer recognize the doctrine of champerty have continued to scrutinize an agreement to finance a lawsuit with care. We shall do likewise. This means that if an agreement to finance a lawsuit is challenged, we will consider whether the fees charged are excessive or whether any recovery by a prevailing party is vitiated because of some impermissible overreaching by the financier. Judges also retain their inherent power to disapprove an attorney's fee that is unreasonable. We shall be guided in our analysis by a rule of what is fair and reasonable, looking to all of the circumstances at the time the arrangement is made to determine whether the agreement should be set aside or modified. In this case, for example, had the agreement been challenged, relevant factors might have included the respective bargaining position of the parties at the time the agreement was made, whether both parties were aware of the terms and consequences of the agreement, whether Righellis may have been unable to pursue the lawsuit at all without Saladini's funds, and whether the claim by Righellis that he will receive but $35,000 of the total $130,000 settlement award if Saladini prevails is unreasonable in the circumstances. We observe that before the judge raised the issue, Righellis had never challenged the validity of his agreement with Saladini. The record before us does not permit any conclusion regarding the reasonableness of the agreement between Righellis and Saladini on the one hand, or Righellis and Potters on the other. We see no reason why Righellis should be the beneficiary of any windfall, or why any adjustment to the financing arrangement---if appropriate at all---should be made solely at Saladini's expense. If pursued, those matters can be decided by the trial judge.
 
-#### In re State Grand Jury Investigation, 983 A.2d 1097 (N.J. 2009)
+#### @ReStateGrandJury_NewJersey2009
 
 Confronted with a grand jury inquiry that commanded the testimony of several of its employees, an employer elected to provide and pay for counsel to those employees for purposes of that investigation. Fearing that having individual employees/grand jury witnesses represented by counsel retained and compensated by the putative target of the grand jury inquiry violated several of the Rules of Professional Conduct, the State moved to disqualify those counsel. The trial court denied that application, limited the amount of information to be transmitted by such counsel to the employer, and, further, imposed restrictions both on the ability of the employer to discontinue paying the fees of counsel for the employees as well as on the ability of those counsel to discontinue representing the subpoenaed employees.
 
@@ -590,7 +590,7 @@ _Prompt and continued payment._ Once an employer commits to paying the legal fee
 
 In sum, through the combined product of the good faith of an employer, the diligence of competent counsel and the exercise of a trial court's supervisory authority, the net result of the company's retention and payment of counsel for its employees complies with the Rules of Professional Conduct. For these reasons, the trial court properly denied the State's motion to disqualify counsel.
 
-#### Negotiating Private Employment with Opposing Counsel, 2016 Formal Ethics Op. 3 (N.C. State Bar Jan. 27, 2017)
+#### @NegotiatingPrivateEmploymentOpposing_NCStateBar2017
 
 Opinion rules that a lawyer may not negotiate for employment with another firm if the firm represents a party adverse to the lawyer’s client unless both clients give informed consent.
 
@@ -624,7 +624,7 @@ Similarly, the hiring law firm must not engage in substantive employment negotia
 
 [^2016feo3]: (n.1 in opinion) A substantive discussion entails a communication between the job-seeking lawyer and the hiring law firm about the job-seeking lawyer’s skills, experience, and the ability to bring clients to the firm; and the terms of association. ABA Formal Ethics Op. 96-400 (1996). Thus there is a two-prong test for “substantive discussions.” There must be (1) a discussion/negotiation that is (2) substantive. Sending a resume blind to a potential employer is not a “discussion.” Speaking generally with a colleague at a social event about employment opportunities is not “substantive.”
 
-#### Disciplinary Counsel v. Sarver, 119 N.E.3d 405 (Ohio 2018)
+#### @DisciplinaryCounselSarver_Ohio2018
 
 Respondent, Jason Allan Sarver, of Rockbridge, Ohio, Attorney Registration No. 0082073, was admitted to the practice of law in Ohio in 2007.
 
@@ -703,7 +703,7 @@ The board's finding that J.B. freely engaged in a relationship with Sarver ignor
 Accordingly, Jason Allan Sarver is suspended from the practice of law in Ohio for two years, with 18 months of the suspension stayed on the conditions that he (1) comply with his December 12, 2017 OLAP contract, (2) take the Multistate Professional Responsibility Exam and receive a passing score, (3) complete 12 hours of continuing legal education focused on professional ethics or attorney-client relationships, (4) serve a two-year period of monitored probation, and (5) engage in no further misconduct. If Sarver fails to comply with any condition of the stay, the stay will be lifted and he will serve the full two-year suspension. 
 
 ::: {.callout-note}
-**Postscript to _Sarver_:** Sarver's disciplinary woes did not end here. Two years after his suspension, he was permanently disbarred and ordered to pay $50,000 in restitution for "filing a false affidavit of compliance with [the Ohio Supreme Court], continuing to practice law while under suspension, and committing other professional misconduct during the course of his suspension and the ensuing disciplinary investigation." [_Disciplinary Counsel v. Sarver_](https://scholar.google.com/scholar_case?case=11286210687675325700), 170 NE 3d 799 (Ohio 2020). 
+**Postscript to _Sarver_:** Sarver's disciplinary woes did not end here. Two years after his suspension, he was permanently disbarred and ordered to pay $50,000 in restitution for "filing a false affidavit of compliance with [the Ohio Supreme Court], continuing to practice law while under suspension, and committing other professional misconduct during the course of his suspension and the ensuing disciplinary investigation." [@DisciplinaryCounselSarver_Ohio2020](https://scholar.google.com/scholar_case?case=11286210687675325700).
 :::
 
 ## Conflicts Involving Former Clients
@@ -763,7 +763,7 @@ Accordingly, Jason Allan Sarver is suspended from the practice of law in Ohio fo
 
 :::
 
-#### NuStar Farms, LLC v. Zylstra, 880 N.W.2d 478 (Iowa 2016)
+#### @NuStarFarmsLLCZylstra_Iowa2016
 
 In this interlocutory appeal, we are asked to decide whether an attorney should be disqualified from representing one party in a lawsuit, either because his representation of the two parties was concurrent or because he had previously represented the opposing party in a similar matter. The district court concluded that the attorney need not be disqualified. For the reasons stated below, we conclude that the district court did not abuse its discretion in concluding that the prior attorney-client relationship failed the "substantial relationship" test. However, we conclude that the attorney did have a concurrent conflict of interest. Therefore, we find the district court abused its discretion in not disqualifying the attorney.
 
@@ -873,7 +873,7 @@ We find that the district court did not abuse its discretion in concluding that 
 
 :::
 
-#### Screening Lateral Hire Who Formerly Represented Adverse Organization, 2012 Formal Ethics Op. 4 (N.C. State Bar, January 25, 2013)
+#### @ScreeningLateralHireWho_NCStateBar2013
 
 Opinion rules that a lawyer who represented an organization while employed with another firm must be screened from participation in any matter, or any matter substantially related thereto, in which she previously represented the organization, and from any matter against the organization if she acquired confidential information of the organization that is relevant to the matter and which has not become generally known.
 
