@@ -7,16 +7,9 @@ references:
   title: Discipline and disbarment
   type: legislation
 
-- id: FedCiv_Rule26
-  citation-key: FedCiv_Rule26
-  number: Rule 26
-  title: Fed. R. Civ. P.
-  type: standard
-
-- id: FedEvid_Rule502
-  citation-key: FedEvid_Rule502
-  number: Rule 502
-  title: Fed. R. Evid.
+- id: FederalRulesEvidenceRule502
+  citation-key: FederalRulesEvidenceRule502
+  title: Federal Rules of Evidence Rule 502
   type: standard
 
 - id: NCRulesProfessional_Rule86

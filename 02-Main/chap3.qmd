@@ -17,7 +17,7 @@ A relationship of client and lawyer arises when:
 
 :::
 
-#### @ABAModelRulesProfessional_Rule62
+#### @ModelRulesProfessionalConductRule62
 
 ::: {.legalcode}
 
@@ -135,7 +135,7 @@ This is not a case in which a layperson might have perceived or reasonably mispe
 
 ## Prospective Clients
 
-#### @ABAModelRulesProfessional_Rule118
+#### @ModelRulesProfessionalConductRule118
 
 ::: {.legalcode}
 
@@ -212,7 +212,7 @@ I am not persuaded by Annuity's argument that disqualification of Dilworth is ne
 
 ## Declining and Terminating Representation
 
-#### @ABAModelRulesProfessional_Rule116
+#### @ModelRulesProfessionalConductRule116
 
 ::: {.legalcode}
 
@@ -333,7 +333,7 @@ We therefore reverse and order the district court to grant appellant's motion to
 
 ## Scope of Representation & Allocation of Authority
 
-#### @ABAModelRulesProfessional_Rule12
+#### @ModelRulesProfessionalConductRule12
 
 ::: {.legalcode}
 
@@ -346,7 +346,7 @@ We therefore reverse and order the district court to grant appellant's motion to
 
 :::
 
-#### @ABAModelRulesProfessional_Rule18
+#### @ModelRulesProfessionalConductRule18
 
 ::: {.legalcode}
 
@@ -436,13 +436,13 @@ At the _en banc_ argument, counsel for the District characterized the record as 
 
 Since Ms. Makins, as principal, did not make any manifestation of authority to the District's attorneys, other than retaining Harrison, under the facts as certified in the question, a finding of apparent authority is precluded under the law of this jurisdiction. The District also presents several policy arguments supporting enforcement of settlement agreements on apparent authority grounds, none of which we find compelling. To be sure, settlement of disputes, both in trial courts and on appeal, is to be encouraged as sound public policy. However, we are not persuaded that the settlement process will be impeded simply by requiring some manifestation of the client's authorization to support a claim of apparent authority in these cases where the client challenges the authority of his attorney to settle the claim. In addition, "apparent authority is an equitable doctrine that places the loss on one whose manifestations to another have misled the latter." Our holding is consistent with this principle. Since Makins manifested nothing by words or conduct on which reliance could be placed (she merely continued to retain Harrison), our answer to the certified question is not erosive to that policy.
 
-## Clients with Diminished Capacity
+## Client with Decision-Making Limitations
 
-#### @ABAModelRulesProfessional_Rule62
+#### @ModelRulesProfessionalConductRule114
 
 ::: {.legalcode}
 
-##### Clients with Diminished Capacity
+##### Client with Decision-Making Limitations
 
 - (a\) When a client's capacity to make adequately considered decisions in connection with a representation is diminished, whether because of minority, mental impairment or for some other reason, the lawyer shall, as far as reasonably possible, maintain a normal client-lawyer relationship with the client.
 - (b\) When the lawyer reasonably believes that the client has diminished capacity, is at risk of substantial physical, financial or other harm unless action is taken and cannot adequately act in the client's own interest, the lawyer may take reasonably necessary protective action, including consulting with individuals or entities that have the ability to take action to protect the client and, in appropriate cases, seeking the appointment of a guardian ad litem, conservator or guardian.
@@ -541,7 +541,7 @@ Accordingly, Timothy Paul Jarvis is suspended from the practice of law in Ohio f
 
 ## Organizational Clients 
 
-#### @ABAModelRulesProfessional_Rule113
+#### @ModelRulesProfessionalConductRule113
 
 ::: {.legalcode}
 
@@ -703,7 +703,7 @@ In the end, Warley's showings amount merely to a claim of her subjective belief 
 
 ## Attorney Fees 
 
-#### @ABAModelRulesProfessional_Rule15
+#### @ModelRulesProfessionalConductRule15
 
 ::: {.legalcode}
 
@@ -730,7 +730,7 @@ In the end, Warley's showings amount merely to a claim of her subjective belief 
 
 :::
 
-#### @ABAModelRulesProfessional_Rule18
+#### @ModelRulesProfessionalConductRule18
 
 ::: {.legalcode}
 
@@ -919,7 +919,7 @@ In summary, we find that Mr. Culpepper did not obtain any recovery on behalf of 
 
 ## Client Property
 
-#### @ABAModelRulesProfessional_Rule62
+#### @ModelRulesProfessionalConductRule115
 
 ::: {.legalcode}
 

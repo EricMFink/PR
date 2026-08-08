@@ -153,11 +153,7 @@
 		</choose>
 	  </else-if>
       <else-if type="standard">
-	  		<group delimiter=" ">
-        		<text variable="authority"/>
-        		<text variable="title"/>
-        		<text variable="number"/>
-			</group>
+        	<text form="short" variable="title" font-variant="normal"/>
       </else-if>
       <else-if type="article-newspaper article-magazine" match="any">
         <group delimiter=", ">

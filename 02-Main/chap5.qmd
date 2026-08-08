@@ -2,8 +2,7 @@
 
 ## Duty of Confidentiality
 
-#### @ABAModelRulesProfessional_Rule1_6
-
+#### @ModelRulesProfessionalConductRule16
 ::: legalcode
 ##### Confidentiality of Information
 
@@ -19,8 +18,7 @@
 -   \(c\) A lawyer shall make reasonable efforts to prevent the inadvertent or unauthorized disclosure of, or unauthorized access to, information relating to the representation of a client.
 :::
 
-#### @ABAModelRulesProfessional_Rule1_9
-
+#### @ModelRulesProfessionalConductRule19
 ::: legalcode
 ##### Duties to Former Clients
 
@@ -29,8 +27,7 @@
     -   \(2\) reveal information relating to the representation except as these Rules would permit or require with respect to a client.
 :::
 
-#### @ABAModelRulesProfessional_Rule1_18
-
+#### @ModelRulesProfessionalConductRule118
 ::: legalcode
 ##### Duties to Prospective Client
 
@@ -43,8 +40,7 @@
         -   \(ii\) written notice is promptly given to the prospective client.
 :::
 
-#### @ABAModelRulesProfessional_Rule4_4
-
+#### @ModelRulesProfessionalConductRule44
 ::: legalcode
 ##### Respect for Rights of Third Persons
 

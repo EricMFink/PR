@@ -4,7 +4,7 @@
 
 #### Model Rules of Professional Conduct
 
-#### @ABAModelRulesProfessional_Rule71
+#### @ModelRulesProfessionalConductRule71
 
 ::: {.legalcode}
 
@@ -14,7 +14,7 @@
 
 :::
 
-#### @ABAModelRulesProfessional_Rule72
+#### @ModelRulesProfessionalConductRule72
 
 ::: {.legalcode}
 
@@ -428,7 +428,7 @@ Accordingly, I would hold that Hunter's speech is political, is entitled to the 
 
 ## Solicitation
 
-#### @ABAModelRulesProfessional_Rule73
+#### @ModelRulesProfessionalConductRule73
 
 ::: {.legalcode}
 
@@ -447,7 +447,7 @@ Accordingly, I would hold that Hunter's speech is political, is entitled to the 
 
 :::
 
-#### @ABAModelRulesProfessional_Rule76
+#### @ModelRulesProfessionalConductRule76
 
 ::: {.legalcode}
 

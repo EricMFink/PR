@@ -1,6 +1,6 @@
 ---
 title: Syllabus
-revised: 2026-08-04T11:10:44-0400-04:00
+revised: 2026-08-08T05:10:48-0400-04:00
 
 subject: Professional Responsibility
 term: 'Fall 2026'

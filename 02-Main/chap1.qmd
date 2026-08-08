@@ -41,7 +41,7 @@ Nevertheless, courts, commentators, and legal ethics regulators continue to conc
 
 :::
 
-#### @ABAModelRulesProfessional_Rule10
+#### @ModelRulesProfessionalConductRule10
 
 ::: {.legalcode}
 
@@ -118,7 +118,7 @@ For example, in Section 307 of the Sarbanes-Oxley Act of 2002, Congress directed
 
 ::: 
 
-#### @ABAModelRulesProfessional_Rule82
+#### @ModelRulesProfessionalConductRule82
 
 ::: {.legalcode}
 
@@ -129,7 +129,7 @@ For example, in Section 307 of the Sarbanes-Oxley Act of 2002, Congress directed
 
 :::
 
-#### @ABAModelRulesProfessional_Rule83
+#### @ModelRulesProfessionalConductRule83
 
 ::: {.legalcode}
 
@@ -141,7 +141,7 @@ For example, in Section 307 of the Sarbanes-Oxley Act of 2002, Congress directed
 
 :::
 
-#### @ABAModelRulesProfessional_Rule84
+#### @ModelRulesProfessionalConductRule84
 
 ::: {.legalcode}
 
@@ -159,7 +159,7 @@ It is professional misconduct for a lawyer to:
 
 :::
 
-#### @ABAModelRulesProfessional_Rule85
+#### @ModelRulesProfessionalConductRule85
 
 ::: {.legalcode}
 
@@ -681,7 +681,7 @@ The NC Board of Law Examiners has also issued [Character & Fitness Guidelines](h
 > 
 > The Board will not consider witness testimony or evidence offered by a witness in support of the applicant on any issue listed above unless the witness has been fully informed of the misconduct before offering the evidence.
 
-#### @ABAModelRulesProfessional_Rule81
+#### @ModelRulesProfessionalConductRule81
 
 ::: {.legalcode}
 
@@ -926,7 +926,7 @@ Applicant has disclosed various student loans with balances now totaling about $
 
 :::
 
-#### @ABAModelRulesProfessional_Rule55
+#### @ModelRulesProfessionalConductRule55
 
 ::: {.legalcode}
 
@@ -1200,7 +1200,7 @@ Moreover, the restriction on the provision of legal advice does not prevent plai
 
 ## Law Firms
 
-#### @ABAModelRulesProfessional_Rule51
+#### @ModelRulesProfessionalConductRule51
 
 ::: {.legalcode}
 
@@ -1214,7 +1214,7 @@ Moreover, the restriction on the provision of legal advice does not prevent plai
 
 :::
 
-#### @ABAModelRulesProfessional_Rule52
+#### @ModelRulesProfessionalConductRule52
 
 ::: {.legalcode}
 
@@ -1225,7 +1225,7 @@ Moreover, the restriction on the provision of legal advice does not prevent plai
 
 :::
 
-#### @ABAModelRulesProfessional_Rule53
+#### @ModelRulesProfessionalConductRule53
 
 ::: {.legalcode}
 
@@ -1240,7 +1240,7 @@ Moreover, the restriction on the provision of legal advice does not prevent plai
 
 :::
 
-#### @ABAModelRulesProfessional_Rule54
+#### @ModelRulesProfessionalConductRule54
 
 ::: {.legalcode}
 
@@ -1260,7 +1260,7 @@ Moreover, the restriction on the provision of legal advice does not prevent plai
 
 :::
 
-#### @ABAModelRulesProfessional_Rule56
+#### @ModelRulesProfessionalConductRule56
 
 ::: {.legalcode}
 
@@ -1272,7 +1272,7 @@ Moreover, the restriction on the provision of legal advice does not prevent plai
 
 :::
 
-#### @ABAModelRulesProfessional_Rule57
+#### @ModelRulesProfessionalConductRule57
 
 ::: {.legalcode}
 

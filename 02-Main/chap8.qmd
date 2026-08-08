@@ -2,8 +2,7 @@
 
 ## Truthfulness and Respect
 
-#### @ABAModelRulesProfessional_Rule4_1
-
+#### @ModelRulesProfessionalConductRule41
 ::: {.legalcode}
 
 ##### Truthfulness in Statements to Others
@@ -15,8 +14,7 @@ In the course of representing a client a lawyer shall not knowingly:
 
 :::
 
-#### @ABAModelRulesProfessional_Rule4_4
-
+#### @ModelRulesProfessionalConductRule44
 ::: {.legalcode}
 
 ##### Respect for Rights of Third Persons
@@ -28,8 +26,7 @@ In the course of representing a client a lawyer shall not knowingly:
 
 ## Represented Persons
 
-#### @ABAModelRulesProfessional_Rule4_2
-
+#### @ModelRulesProfessionalConductRule42
 ::: {.legalcode}
 
 ##### Communication with Person Represented by Counsel
@@ -110,8 +107,7 @@ Here, the matter under discussion was custody of Sally. Louise was represented b
 
 ## Unrepresented Persons
 
-#### @ABAModelRulesProfessional_Rule4_3
-
+#### @ModelRulesProfessionalConductRule43
 ::: {.legalcode}
 
 ##### Dealing with Unrepresented Person

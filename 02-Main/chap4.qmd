@@ -4,8 +4,7 @@
 
 #### Model Rules of Professional Conduct
 
-#### @ABAModelRulesProfessional_Rule1_1
-
+#### @ModelRulesProfessionalConductRule11
 ::: {.legalcode}
 
 ##### Competence
@@ -36,8 +35,7 @@ _Maintaining Competence_
 
 :::
 
-#### @ABAModelRulesProfessional_Rule1_3
-
+#### @ModelRulesProfessionalConductRule13
 ::: {.legalcode}
 
 ##### Diligence
@@ -46,8 +44,7 @@ _Maintaining Competence_
 
 :::
 
-#### @ABAModelRulesProfessional_Rule1_4
-
+#### @ModelRulesProfessionalConductRule14
 ::: {.legalcode}
 
 ##### Communication
@@ -62,8 +59,7 @@ _Maintaining Competence_
 
 :::
 
-#### @ABAModelRulesProfessional_Rule2_1
-
+#### @ModelRulesProfessionalConductRule21
 ::: {.legalcode}
 
 ##### Advisor
@@ -72,8 +68,7 @@ _Maintaining Competence_
 
 :::
 
-#### @ABAModelRulesProfessional_Rule2_2
-
+#### @ModelRulesProfessionalConductRule22
 ::: {.legalcode}
 
 ##### Evaluation for Use by Third Persons
@@ -174,8 +169,7 @@ Except as provided in § 57 and in addition to liability under §§ 48-55, a law
 
 :::
 
-#### @ABAModelRulesProfessional_Rule1_8
-
+#### @ModelRulesProfessionalConductRule18
 ::: {.legalcode}
 
 ##### Current Clients: Specific Rules

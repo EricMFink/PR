@@ -2,8 +2,7 @@
 
 ## Fairness & Impartiality
 
-#### @ABAModelRulesProfessional_Rule3_1
-
+#### @ModelRulesProfessionalConductRule31
 ::: {.legalcode}
 
 ##### Meritorious Claims & Defenses 
@@ -12,8 +11,7 @@ A lawyer shall not bring or defend a proceeding, or assert or controvert an issu
 
 :::
 
-#### @ABAModelRulesProfessional_Rule3_2
-
+#### @ModelRulesProfessionalConductRule32
 ::: {.legalcode}
 
 ##### Expediting Litigation 
@@ -22,8 +20,7 @@ A lawyer shall make reasonable efforts to expedite litigation consistent with th
 
 :::
 
-#### @ABAModelRulesProfessional_Rule3_3
-
+#### @ModelRulesProfessionalConductRule33
 ::: {.legalcode}
 
 ##### Candor Toward the Tribunal
@@ -38,8 +35,7 @@ A lawyer shall make reasonable efforts to expedite litigation consistent with th
 
 :::
 
-#### @ABAModelRulesProfessional_Rule3_4
-
+#### @ModelRulesProfessionalConductRule34
 ::: {.legalcode}
 
 ##### Fairness to Opposing Party & Counsel
@@ -57,8 +53,7 @@ A lawyer shall not:
 
 :::
 
-#### @ABAModelRulesProfessional_Rule3_5
-
+#### @ModelRulesProfessionalConductRule35
 ::: {.legalcode}
 
 ##### Impartiality and Decorum of the Tribunal
@@ -75,8 +70,7 @@ A lawyer shall not:
 
 :::
 
-#### @ABAModelRulesProfessional_Rule3_6
-
+#### @ModelRulesProfessionalConductRule36
 ::: {.legalcode}
 
 ##### Trial Publicity
@@ -99,8 +93,7 @@ A lawyer shall not:
 
 :::
 
-#### @ABAModelRulesProfessional_Rule3_7
-
+#### @ModelRulesProfessionalConductRule37
 ::: {.legalcode}
 
 ##### Lawyer as Witness
@@ -642,8 +635,7 @@ Here, none of the five factors weigh in favor of disqualification. As discussed 
 
 ## Prosecutorial Misconduct
 
-#### @ABAModelRulesProfessional_Rule3_8
-
+#### @ModelRulesProfessionalConductRule38
 ::: {.legalcode}
 
 ##### Special Responsibilities of a Prosecutor
@@ -675,7 +667,7 @@ The prosecutor in a criminal case shall:
 
 :::
 
-#### @ABACriminalJusticeStandards
+#### @ABACriminalJusticeStandardsProsecutionFunction
 
 ::: {.legalcode}
 
