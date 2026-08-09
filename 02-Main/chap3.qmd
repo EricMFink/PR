@@ -17,7 +17,7 @@ A relationship of client and lawyer arises when:
 
 :::
 
-#### @ModelRulesProfessionalConductRule62
+#### @MRPCRule62
 
 ::: {.legalcode}
 
@@ -135,7 +135,7 @@ This is not a case in which a layperson might have perceived or reasonably mispe
 
 ## Prospective Clients
 
-#### @ModelRulesProfessionalConductRule118
+#### @MRPCRule118
 
 ::: {.legalcode}
 
@@ -212,7 +212,7 @@ I am not persuaded by Annuity's argument that disqualification of Dilworth is ne
 
 ## Declining and Terminating Representation
 
-#### @ModelRulesProfessionalConductRule116
+#### @MRPCRule116
 
 ::: {.legalcode}
 
@@ -333,7 +333,7 @@ We therefore reverse and order the district court to grant appellant's motion to
 
 ## Scope of Representation & Allocation of Authority
 
-#### @ModelRulesProfessionalConductRule12
+#### @MRPCRule12
 
 ::: {.legalcode}
 
@@ -346,7 +346,7 @@ We therefore reverse and order the district court to grant appellant's motion to
 
 :::
 
-#### @ModelRulesProfessionalConductRule18
+#### @MRPCRule18
 
 ::: {.legalcode}
 
@@ -438,7 +438,7 @@ Since Ms. Makins, as principal, did not make any manifestation of authority to t
 
 ## Client with Decision-Making Limitations
 
-#### @ModelRulesProfessionalConductRule114
+#### @MRPCRule114
 
 ::: {.legalcode}
 
@@ -541,7 +541,7 @@ Accordingly, Timothy Paul Jarvis is suspended from the practice of law in Ohio f
 
 ## Organizational Clients 
 
-#### @ModelRulesProfessionalConductRule113
+#### @MRPCRule113
 
 ::: {.legalcode}
 
@@ -703,7 +703,7 @@ In the end, Warley's showings amount merely to a claim of her subjective belief 
 
 ## Attorney Fees 
 
-#### @ModelRulesProfessionalConductRule15
+#### @MRPCRule15
 
 ::: {.legalcode}
 
@@ -730,7 +730,7 @@ In the end, Warley's showings amount merely to a claim of her subjective belief 
 
 :::
 
-#### @ModelRulesProfessionalConductRule18
+#### @MRPCRule18
 
 ::: {.legalcode}
 
@@ -919,7 +919,7 @@ In summary, we find that Mr. Culpepper did not obtain any recovery on behalf of 
 
 ## Client Property
 
-#### @ModelRulesProfessionalConductRule115
+#### @MRPCRule115
 
 ::: {.legalcode}
 

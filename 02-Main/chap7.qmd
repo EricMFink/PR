@@ -2,7 +2,7 @@
 
 ## Fairness & Impartiality
 
-#### @ModelRulesProfessionalConductRule31
+#### @MRPCRule31
 ::: {.legalcode}
 
 ##### Meritorious Claims & Defenses 
@@ -11,7 +11,7 @@ A lawyer shall not bring or defend a proceeding, or assert or controvert an issu
 
 :::
 
-#### @ModelRulesProfessionalConductRule32
+#### @MRPCRule32
 ::: {.legalcode}
 
 ##### Expediting Litigation 
@@ -20,7 +20,7 @@ A lawyer shall make reasonable efforts to expedite litigation consistent with th
 
 :::
 
-#### @ModelRulesProfessionalConductRule33
+#### @MRPCRule33
 ::: {.legalcode}
 
 ##### Candor Toward the Tribunal
@@ -35,7 +35,7 @@ A lawyer shall make reasonable efforts to expedite litigation consistent with th
 
 :::
 
-#### @ModelRulesProfessionalConductRule34
+#### @MRPCRule34
 ::: {.legalcode}
 
 ##### Fairness to Opposing Party & Counsel
@@ -53,7 +53,7 @@ A lawyer shall not:
 
 :::
 
-#### @ModelRulesProfessionalConductRule35
+#### @MRPCRule35
 ::: {.legalcode}
 
 ##### Impartiality and Decorum of the Tribunal
@@ -70,7 +70,7 @@ A lawyer shall not:
 
 :::
 
-#### @ModelRulesProfessionalConductRule36
+#### @MRPCRule36
 ::: {.legalcode}
 
 ##### Trial Publicity
@@ -93,7 +93,7 @@ A lawyer shall not:
 
 :::
 
-#### @ModelRulesProfessionalConductRule37
+#### @MRPCRule37
 ::: {.legalcode}
 
 ##### Lawyer as Witness
@@ -635,7 +635,7 @@ Here, none of the five factors weigh in favor of disqualification. As discussed 
 
 ## Prosecutorial Misconduct
 
-#### @ModelRulesProfessionalConductRule38
+#### @MRPCRule38
 ::: {.legalcode}
 
 ##### Special Responsibilities of a Prosecutor

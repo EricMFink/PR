@@ -2,7 +2,7 @@
 
 ## Duty of Confidentiality
 
-#### @ModelRulesProfessionalConductRule16
+#### @MRPCRule16
 ::: legalcode
 ##### Confidentiality of Information
 
@@ -18,7 +18,7 @@
 -   \(c\) A lawyer shall make reasonable efforts to prevent the inadvertent or unauthorized disclosure of, or unauthorized access to, information relating to the representation of a client.
 :::
 
-#### @ModelRulesProfessionalConductRule19
+#### @MRPCRule19
 ::: legalcode
 ##### Duties to Former Clients
 
@@ -27,7 +27,7 @@
     -   \(2\) reveal information relating to the representation except as these Rules would permit or require with respect to a client.
 :::
 
-#### @ModelRulesProfessionalConductRule118
+#### @MRPCRule118
 ::: legalcode
 ##### Duties to Prospective Client
 
@@ -40,7 +40,7 @@
         -   \(ii\) written notice is promptly given to the prospective client.
 :::
 
-#### @ModelRulesProfessionalConductRule44
+#### @MRPCRule44
 ::: legalcode
 ##### Respect for Rights of Third Persons
 

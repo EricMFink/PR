@@ -2,7 +2,7 @@
 
 ## Conflicts Between Current Clients
 
-#### @ModelRulesProfessionalConductRule17
+#### @MRPCRule17
 ::: {.legalcode}
 
 ##### Conflict of Interest: Current Clients
@@ -707,7 +707,7 @@ Accordingly, Jason Allan Sarver is suspended from the practice of law in Ohio fo
 
 ## Conflicts Involving Former Clients
 
-#### @ModelRulesProfessionalConductRule19
+#### @MRPCRule19
 ::: {.legalcode}
 
 ##### Duties to Former Clients
@@ -722,7 +722,7 @@ Accordingly, Jason Allan Sarver is suspended from the practice of law in Ohio fo
 
 :::
 
-#### @ModelRulesProfessionalConductRule111
+#### @MRPCRule111
 ::: {.legalcode}
 
 ##### Special Conflicts of Interest for Former & Current Government Officers & Employees
@@ -745,7 +745,7 @@ Accordingly, Jason Allan Sarver is suspended from the practice of law in Ohio fo
 
 :::
 
-#### @ModelRulesProfessionalConductRule112
+#### @MRPCRule112
 ::: {.legalcode}
 
 ##### Former Judge, Arbitrator, Mediator or Other Third-Party Neutral
@@ -849,7 +849,7 @@ We find that the district court did not abuse its discretion in concluding that 
 
 ## Imputed Conflicts
 
-#### @ModelRulesProfessionalConductRule112
+#### @MRPCRule112
 ::: {.legalcode}
 
 ##### Imputation of Conflicts of Interest: General Rule

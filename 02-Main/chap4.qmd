@@ -4,7 +4,7 @@
 
 #### Model Rules of Professional Conduct
 
-#### @ModelRulesProfessionalConductRule11
+#### @MRPCRule11
 ::: {.legalcode}
 
 ##### Competence
@@ -35,7 +35,7 @@ _Maintaining Competence_
 
 :::
 
-#### @ModelRulesProfessionalConductRule13
+#### @MRPCRule13
 ::: {.legalcode}
 
 ##### Diligence
@@ -44,7 +44,7 @@ _Maintaining Competence_
 
 :::
 
-#### @ModelRulesProfessionalConductRule14
+#### @MRPCRule14
 ::: {.legalcode}
 
 ##### Communication
@@ -59,7 +59,7 @@ _Maintaining Competence_
 
 :::
 
-#### @ModelRulesProfessionalConductRule21
+#### @MRPCRule21
 ::: {.legalcode}
 
 ##### Advisor
@@ -68,7 +68,7 @@ _Maintaining Competence_
 
 :::
 
-#### @ModelRulesProfessionalConductRule23
+#### @MRPCRule23
 
 ::: {.legalcode}
 
@@ -170,7 +170,7 @@ Except as provided in § 57 and in addition to liability under §§ 48-55, a law
 
 :::
 
-#### @ModelRulesProfessionalConductRule18
+#### @MRPCRule18
 ::: {.legalcode}
 
 ##### Current Clients: Specific Rules

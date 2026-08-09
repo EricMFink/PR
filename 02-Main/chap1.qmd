@@ -8,7 +8,7 @@ Law in the United States is a heavily regulated industry. Lawyers are licensed i
 
 Nevertheless, courts, commentators, and legal ethics regulators continue to conceptualize law as a "self-regulated profession." ... The preamble to the ... ABA Model Rules of Professional Conduct maintains an emphasis on the importance of self-regulation despite the fact that the Rules are intended to be adopted as enforceable by state supreme courts. 
 
-#### @ModelRulesProfessionalConductPreambleScope
+#### @MRPCPreambleScope
 
 ::: {.legalcode}
 
@@ -41,7 +41,7 @@ Nevertheless, courts, commentators, and legal ethics regulators continue to conc
 
 :::
 
-#### @ModelRulesProfessionalConductRule10
+#### @MRPCRule10
 
 ::: {.legalcode}
 
@@ -118,7 +118,7 @@ For example, in Section 307 of the Sarbanes-Oxley Act of 2002, Congress directed
 
 :::
 
-#### @ModelRulesProfessionalConductRule82
+#### @MRPCRule82
 
 ::: {.legalcode}
 
@@ -129,7 +129,7 @@ For example, in Section 307 of the Sarbanes-Oxley Act of 2002, Congress directed
 
 :::
 
-#### @ModelRulesProfessionalConductRule83
+#### @MRPCRule83
 
 ::: {.legalcode}
 
@@ -141,7 +141,7 @@ For example, in Section 307 of the Sarbanes-Oxley Act of 2002, Congress directed
 
 :::
 
-#### @ModelRulesProfessionalConductRule84
+#### @MRPCRule84
 
 ::: {.legalcode}
 
@@ -159,7 +159,7 @@ It is professional misconduct for a lawyer to:
 
 :::
 
-#### @ModelRulesProfessionalConductRule85
+#### @MRPCRule85
 
 ::: {.legalcode}
 
@@ -642,7 +642,7 @@ In addition to the educational and examination requirements, applicants must als
 
 :::
 
-#### @ModelRulesProfessionalConductRule81
+#### @MRPCRule81
 
 ::: {.legalcode}
 
@@ -887,7 +887,7 @@ Applicant has disclosed various student loans with balances now totaling about $
 
 :::
 
-#### @ModelRulesProfessionalConductRule55
+#### @MRPCRule55
 
 ::: {.legalcode}
 
@@ -1161,7 +1161,7 @@ Moreover, the restriction on the provision of legal advice does not prevent plai
 
 ## Law Firms
 
-#### @ModelRulesProfessionalConductRule117
+#### @MRPCRule117
 
 ::: {.legalcode}
 
@@ -1179,7 +1179,7 @@ Moreover, the restriction on the provision of legal advice does not prevent plai
 
 :::
 
-#### @ModelRulesProfessionalConductRule51
+#### @MRPCRule51
 
 ::: {.legalcode}
 
@@ -1193,7 +1193,7 @@ Moreover, the restriction on the provision of legal advice does not prevent plai
 
 :::
 
-#### @ModelRulesProfessionalConductRule52
+#### @MRPCRule52
 
 ::: {.legalcode}
 
@@ -1204,7 +1204,7 @@ Moreover, the restriction on the provision of legal advice does not prevent plai
 
 :::
 
-#### @ModelRulesProfessionalConductRule53
+#### @MRPCRule53
 
 ::: {.legalcode}
 
@@ -1219,7 +1219,7 @@ Moreover, the restriction on the provision of legal advice does not prevent plai
 
 :::
 
-#### @ModelRulesProfessionalConductRule54
+#### @MRPCRule54
 
 ::: {.legalcode}
 
@@ -1239,7 +1239,7 @@ Moreover, the restriction on the provision of legal advice does not prevent plai
 
 :::
 
-#### @ModelRulesProfessionalConductRule56
+#### @MRPCRule56
 
 ::: {.legalcode}
 
@@ -1251,7 +1251,7 @@ Moreover, the restriction on the provision of legal advice does not prevent plai
 
 :::
 
-#### @ModelRulesProfessionalConductRule57
+#### @MRPCRule57
 
 ::: {.legalcode}
 
