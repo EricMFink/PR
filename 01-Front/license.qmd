@@ -1,6 +1,10 @@
-# License {.unnumbered}
+---
+toc: false
+---
 
 ::: {.license}
+
+# License {.unnumbered}
 
 [{{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-nc >}} {{< fa brands creative-commons-sa >}}]{.license-i}
 
@@ -16,8 +20,8 @@ All original content is licensed under a [Creative Commons Attribution NonCommer
 
 #### [emfink.net/ElonLaw](https://www.emfink.net/ElonLaw/)
 
-### Source Code: [[github.com/EricMFink/PR]{.mono-font-smaller}](https://github.com/EricMFink/PR)
+### Source Code: [[github.com/EricMFink/{{< var repo >}}]{.mono-font-smaller}](https://github.com/EricMFink/{{< var repo >}})
 
-### Version 5.0, August 2026
+### Version {{< var version >}}, {{< now month >}} {{< now year >}}
 
 :::
