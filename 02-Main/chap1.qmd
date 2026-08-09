@@ -41,7 +41,7 @@ Nevertheless, courts, commentators, and legal ethics regulators continue to conc
 
 :::
 
-#### @MRPCRule10
+#### @MRPC10
 
 ::: {.legalcode}
 
@@ -118,7 +118,7 @@ For example, in Section 307 of the Sarbanes-Oxley Act of 2002, Congress directed
 
 :::
 
-#### @MRPCRule82
+#### @MRPC82
 
 ::: {.legalcode}
 
@@ -129,7 +129,7 @@ For example, in Section 307 of the Sarbanes-Oxley Act of 2002, Congress directed
 
 :::
 
-#### @MRPCRule83
+#### @MRPC83
 
 ::: {.legalcode}
 
@@ -141,7 +141,7 @@ For example, in Section 307 of the Sarbanes-Oxley Act of 2002, Congress directed
 
 :::
 
-#### @MRPCRule84
+#### @MRPC84
 
 ::: {.legalcode}
 
@@ -159,7 +159,7 @@ It is professional misconduct for a lawyer to:
 
 :::
 
-#### @MRPCRule85
+#### @MRPC85
 
 ::: {.legalcode}
 
@@ -642,7 +642,7 @@ In addition to the educational and examination requirements, applicants must als
 
 :::
 
-#### @MRPCRule81
+#### @MRPC81
 
 ::: {.legalcode}
 
@@ -887,7 +887,7 @@ Applicant has disclosed various student loans with balances now totaling about $
 
 :::
 
-#### @MRPCRule55
+#### @MRPC55
 
 ::: {.legalcode}
 
@@ -1161,7 +1161,7 @@ Moreover, the restriction on the provision of legal advice does not prevent plai
 
 ## Law Firms
 
-#### @MRPCRule117
+#### @MRPC117
 
 ::: {.legalcode}
 
@@ -1179,7 +1179,7 @@ Moreover, the restriction on the provision of legal advice does not prevent plai
 
 :::
 
-#### @MRPCRule51
+#### @MRPC51
 
 ::: {.legalcode}
 
@@ -1193,7 +1193,7 @@ Moreover, the restriction on the provision of legal advice does not prevent plai
 
 :::
 
-#### @MRPCRule52
+#### @MRPC52
 
 ::: {.legalcode}
 
@@ -1204,7 +1204,7 @@ Moreover, the restriction on the provision of legal advice does not prevent plai
 
 :::
 
-#### @MRPCRule53
+#### @MRPC53
 
 ::: {.legalcode}
 
@@ -1219,7 +1219,7 @@ Moreover, the restriction on the provision of legal advice does not prevent plai
 
 :::
 
-#### @MRPCRule54
+#### @MRPC54
 
 ::: {.legalcode}
 
@@ -1239,7 +1239,7 @@ Moreover, the restriction on the provision of legal advice does not prevent plai
 
 :::
 
-#### @MRPCRule56
+#### @MRPC56
 
 ::: {.legalcode}
 
@@ -1251,7 +1251,7 @@ Moreover, the restriction on the provision of legal advice does not prevent plai
 
 :::
 
-#### @MRPCRule57
+#### @MRPC57
 
 ::: {.legalcode}
 

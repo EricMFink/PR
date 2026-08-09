@@ -340,6 +340,12 @@ references:
   type: legal_case
   volume: '515'
 
+- id: FRCP26
+  citation-key: FRCP26
+  genre: Fed. R. Civ. P.
+  title: Fed. R. Civ. P. Rule 26
+  type: document
+
 - id: Green2022
   abstract: >-
     After lawsuits challenging the results of the 2020 presidential election

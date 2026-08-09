@@ -2,7 +2,7 @@
 
 ## Truthfulness and Respect
 
-#### @MRPCRule41
+#### @MRPC41
 ::: {.legalcode}
 
 ##### Truthfulness in Statements to Others
@@ -14,7 +14,7 @@ In the course of representing a client a lawyer shall not knowingly:
 
 :::
 
-#### @MRPCRule44
+#### @MRPC44
 ::: {.legalcode}
 
 ##### Respect for Rights of Third Persons
@@ -26,7 +26,7 @@ In the course of representing a client a lawyer shall not knowingly:
 
 ## Represented Persons
 
-#### @MRPCRule42
+#### @MRPC42
 ::: {.legalcode}
 
 ##### Communication with Person Represented by Counsel
@@ -107,7 +107,7 @@ Here, the matter under discussion was custody of Sally. Louise was represented b
 
 ## Unrepresented Persons
 
-#### @MRPCRule43
+#### @MRPC43
 ::: {.legalcode}
 
 ##### Dealing with Unrepresented Person

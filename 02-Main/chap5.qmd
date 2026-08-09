@@ -2,7 +2,7 @@
 
 ## Duty of Confidentiality
 
-#### @MRPCRule16
+#### @MRPC16
 ::: legalcode
 ##### Confidentiality of Information
 
@@ -18,7 +18,7 @@
 -   \(c\) A lawyer shall make reasonable efforts to prevent the inadvertent or unauthorized disclosure of, or unauthorized access to, information relating to the representation of a client.
 :::
 
-#### @MRPCRule19
+#### @MRPC19
 ::: legalcode
 ##### Duties to Former Clients
 
@@ -27,7 +27,7 @@
     -   \(2\) reveal information relating to the representation except as these Rules would permit or require with respect to a client.
 :::
 
-#### @MRPCRule118
+#### @MRPC118
 ::: legalcode
 ##### Duties to Prospective Client
 
@@ -40,7 +40,7 @@
         -   \(ii\) written notice is promptly given to the prospective client.
 :::
 
-#### @MRPCRule44
+#### @MRPC44
 ::: legalcode
 ##### Respect for Rights of Third Persons
 
@@ -523,7 +523,7 @@ When work product protection is invoked as described in § 90, opinion work prod
 -   \(3\) Once a claim of work product has been adequately supported, a person entitled to invoke a waiver or exception must assert it and, if the assertion is contested, demonstrate each element of the waiver or exception.
 :::
 
-##### @FedCiv_Rule26
+##### @FRCP26
 
 ::: legalcode
 ##### Duty to Disclose; General Provisions Governing Discovery

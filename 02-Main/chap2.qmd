@@ -2,7 +2,7 @@
 
 ## Advertising
 
-#### @MRPCRule71
+#### @MRPC71
 
 ::: {.legalcode}
 
@@ -12,7 +12,7 @@
 
 :::
 
-#### @MRPCRule72
+#### @MRPC72
 
 ::: {.legalcode}
 
@@ -426,7 +426,7 @@ Accordingly, I would hold that Hunter's speech is political, is entitled to the 
 
 ## Solicitation
 
-#### @MRPCRule73
+#### @MRPC73
 
 ::: {.legalcode}
 
@@ -445,7 +445,7 @@ Accordingly, I would hold that Hunter's speech is political, is entitled to the 
 
 :::
 
-#### @MRPCRule76
+#### @MRPC76
 
 ::: {.legalcode}
 
