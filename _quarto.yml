@@ -54,7 +54,6 @@ book:
         - 02-Main/chap6.qmd
         - 02-Main/chap7.qmd
         - 02-Main/chap8.qmd
-        - 03-Back/references.qmd
         - 03-Back/ack.qmd
         - 03-Back/colophon.qmd
     - part: Discussion Questions
@@ -96,12 +95,7 @@ book:
     - text: Links
       href: links.qmd
 
-filters:
-  - citetools
-bibliography_cases: refs/cases.yaml
-bibliography_mrpc: refs/mrpc.yaml
-bibliography_other: refs/other.yaml
-bibliography_statutes: refs/statutes.yaml
+bibliography: refs/PR.yaml
 csl: refs/casebook.csl
 citation-abbreviations: refs/abbreviations.json
 

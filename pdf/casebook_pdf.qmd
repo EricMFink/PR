@@ -21,6 +21,7 @@ format:
     number-depth: 2
     template-partials:
       - "partials/before-body.tex"
+      - "partials/after-body.tex"
     include-in-header:
       - "partials/in-header.tex"
     linkcolor: HopkinsBlue
@@ -34,13 +35,9 @@ format:
     output-file: PRCasebook
 filters:
   - latex-environment
-  - citetools
 environments: [legalcode]
 commands: [casesection,casesubsection,casesubsubsection,bibsection,bibsubsection]
-bibliography_cases: ../refs/cases.yaml
-bibliography_mrpc: ../refs/mrpc.yaml
-bibliography_other: ../refs/other.yaml
-bibliography_statutes: ../refs/statutes.yaml
+bibliography: ../refs/PR.yaml
 csl: ../refs/casebook.csl
 citation-abbreviations: ../refs/abbreviations.json
 ---
@@ -61,12 +58,3 @@ citation-abbreviations: ../refs/abbreviations.json
 
 {{< include ../02-Main/chap8.qmd >}}
 
-\backmatter
-
-\pagestyle{plain.scrheadings}
-
-{{< include ../03-Back/references.qmd >}}
-
-{{< include ../03-Back/ack.qmd >}}
-
-{{< include ../03-Back/colophon.qmd >}}

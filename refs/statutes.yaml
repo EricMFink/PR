@@ -4,34 +4,38 @@ references:
   citation-key: DisciplineDisbarment_NCGenStat84-28
   container-title: N.C. Gen. Stat.
   section: 84-28
-  title: Discipline and disbarment
+  title: NCGS 84-28 Discipline and disbarment
   type: legislation
 
 - id: FederalRulesEvidenceRule502
   citation-key: FederalRulesEvidenceRule502
-  title: Federal Rules of Evidence Rule 502
+  genre: Fed. R. Evid.
+  number: '502'
+  title: Federal Rules of Evidence 502
   type: standard
 
 - id: NCBoardLawExaminersCharacterFitness
   citation-key: NCBoardLawExaminersCharacterFitness
   title: N.C. Board of Law Examiners, Character and Fitness Guidelines
-  type: standard
+  type: document
 
 - id: NCRulesProfessional_Rule86
   citation-key: NCRulesProfessional_Rule86
-  number: Rule 8.6
-  title: N.C. Rules of Professional Conduct
+  genre: N.C.R.P.C.
+  number: '8.6'
+  title: N.C. Rules of Professional Conduct 8.6
   type: standard
 
 - id: PracticeLawDefined_NCGenStat84-21
   citation-key: PracticeLawDefined_NCGenStat84-21
   container-title: N.C. Gen. Stat.
   section: 84-2.1
-  title: '"Practice law" defined'
+  title: NCGS 84-21 Practice of law defined
   type: legislation
 
 - id: Rest2dLawGoverningLawyers
   citation-key: Rest2dLawGoverningLawyers
+  genre: Rest. (2d) of the Law Governing Lawyers
   title: Rest. (2d) of the Law Governing Lawyers
   type: standard
 
