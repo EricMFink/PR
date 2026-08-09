@@ -42,6 +42,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap-1e20ad44f75e5f149600bdbb7c6c02b9.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -251,7 +254,13 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../02-Main/chap8.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Interactions with Non-Clients</span></span></a>
+ <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Duties to Those Who Are Not Clients</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../03-Back/references.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Sources</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -412,7 +421,7 @@ ul.task-list li input[type="checkbox"] {
 <p>Set in <a href="https://www.type-together.com/literata-font">Literata</a> and <a href="https://www.type-together.com/adelle-sans-font">Adelle Sans</a> by <a href="https://www.type-together.com/veronika-burian">Veronika Burian</a> &amp; <a href="https://www.type-together.com/jose-scaglione">José Scaglione</a>, and <a href="https://www.type-together.com/lft-etica-mono-font">LFT Etica Mono</a> by <a href="https://www.type-together.com/leftloft">Leftloft</a>.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="../img/gutenberg_press.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:30.0%"></p>
+<p><a href="../img/gutenberg_press.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="../img/gutenberg_press.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:30.0%"></a></p>
 </figure>
 </div>
 
@@ -839,7 +848,7 @@ ul.task-list li input[type="checkbox"] {
     <div class="nav-footer-center">
       <ul class="footer-items list-unstyled">
     <li class="nav-item">
- Last updated: 2026-01-03 14:33:30
+ Last updated: 2026-08-08 19:35:56
   </li>  
 </ul>
     </div>
@@ -848,6 +857,38 @@ ul.task-list li input[type="checkbox"] {
     </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 
