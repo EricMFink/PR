@@ -386,7 +386,7 @@ references:
   volume: '313'
 
 - id: MatterAnonymous_NYAppDiv3rdDept2009
-  authority: N.Y. App. Div., 3rd Dept.
+  authority: N.Y. App. Div.
   citation-key: MatterAnonymous_NYAppDiv3rdDept2009
   container-title: AD 3d
   issued:
@@ -400,7 +400,7 @@ references:
   volume: '61'
 
 - id: MatterAnonymous_NYAppDiv3rdDept2023
-  authority: N.Y. App. Div., 3rd Dept.
+  authority: N.Y. App. Div.
   citation-key: MatterAnonymous_NYAppDiv3rdDept2023
   container-title: AD 3d
   issued:
@@ -539,7 +539,7 @@ references:
   volume: '2016'
 
 - id: NiesigTeam_NewYorkAppDiv2ndDept1989
-  authority: New York App. Div., 2nd Dept.
+  authority: N.Y, App. Div.
   citation-key: NiesigTeam_NewYorkAppDiv2ndDept1989
   container-title: AD 2d
   issued:

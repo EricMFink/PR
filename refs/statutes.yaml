@@ -12,6 +12,11 @@ references:
   title: Federal Rules of Evidence Rule 502
   type: standard
 
+- id: NCBoardLawExaminersCharacterFitness
+  citation-key: NCBoardLawExaminersCharacterFitness
+  title: N.C. Board of Law Examiners, Character and Fitness Guidelines
+  type: standard
+
 - id: NCRulesProfessional_Rule86
   citation-key: NCRulesProfessional_Rule86
   number: Rule 8.6
@@ -29,4 +34,14 @@ references:
   citation-key: Rest2dLawGoverningLawyers
   title: Rest. (2d) of the Law Governing Lawyers
   type: standard
+
+- id: RulesGoverningAdmission_2727NCAdminCode030600
+  citation-key: RulesGoverningAdmission_2727NCAdminCode030600
+  container-title: 27 N.C. Admin Code
+  section: 03 .0600
+  title: >-
+    Rules Governing Admission to the Practice of Law in the State of North
+    Carolina
+  type: legislation
+  volume: '27'
 ...
