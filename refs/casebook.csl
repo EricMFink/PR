@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.2" demote-non-dropping-particle="sort-only" default-locale="en-US">
   <info>
-    <title>Casebook Bibliography</title>
+    <title>Casebook</title>
 	<id>https://emfink.net/Zotero/CSL-styles/indig-casebook.csl</id>
-	<link href="https://github.com/EricMFink/Zotero/CSL-styles/casebook-bibliography.csl" rel="self"/>
+	<link href="https://github.com/EricMFink/Zotero/CSL-styles/casebook.csl" rel="self"/>
 	<link href="https://law.resource.org/pub/us/code/blue/IndigoBook.html" rel="documentation"/>
 	<author>
 		<name>Eric M. Fink</name>
@@ -11,8 +11,8 @@
 	</author>
     <category citation-format="in-text"/>
     <category field="law"/>
-    <summary>Reference style for casebooks, with inline short cites (case_name-date; author-title-date) and bibliography. Based on Bluebook Law Review and Chicago author-date</summary>
-    <updated>2026-08-04T06:15:27-0400-04:00</updated>
+    <summary>Reference style for casebooks, with inline short cites (case_name-date; author-title-date). Based on Bluebook Law Review and Chicago author-date</summary>
+    <updated>2026-08-09T06:40:11-0400-04:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale>
@@ -153,7 +153,13 @@
 		</choose>
 	  </else-if>
       <else-if type="standard">
-        	<text form="short" variable="title" font-variant="normal"/>
+	  	<group delimiter=" ">
+        	<text variable="genre" font-variant="normal"/>
+			<number variable="number" prefix="Rule "/>
+		</group>
+      </else-if>
+	  <else-if type="document">
+        <text variable="title" font-variant="normal"/>
       </else-if>
       <else-if type="article-newspaper article-magazine" match="any">
         <group delimiter=", ">
@@ -423,54 +429,4 @@
 	</choose>
     </layout>
   </citation>
-  
-  <!-- Bibliography -->
-  <macro name="bibliography-author-title">
-    <choose>
-      <if match="any" type="bill hearing legal_case legislation regulation treaty">
-        <!-- Legal items have different orders and delimiters -->
-        <text macro="source"/>
-      </if>
-      <else>
-        <group delimiter=", ">
-          <text macro="author" suffix=", "/>
-          <text macro="source"/>
-        </group>
-      </else>
-    </choose>
-  </macro>
-
-	<macro name="sort-key">
-    <choose>
-      <if type="legal_case" match="any">
-        <text value="1"/>
-      </if>
-      <else>
-        <text value="2"/>
-      </else>
-    </choose>
-	</macro>
-
-<macro name="year-sort">
-  <choose>
-    <if variable="issued">
-      <date variable="issued" form="numeric" date-parts="year"/>
-    </if>
-    <else>
-      <text term="no date" form="short"/>
-    </else>
-  </choose>
-</macro>
-
-  <bibliography et-al-min="7" et-al-use-first="3" hanging-indent="true">
-  <sort>
-    <key macro="sort-key"/>
-    <key macro="author"/>
-    <key macro="source"/>
-    <key macro="year-sort"/>
-  </sort>
-    <layout suffix="">
-      <text macro="bibliography-author-title"/>
-    </layout>
-  </bibliography>
 </style>

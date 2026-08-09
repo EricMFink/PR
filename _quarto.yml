@@ -98,6 +98,7 @@ book:
 bibliography: refs/PR.yaml
 csl: refs/casebook.csl
 citation-abbreviations: refs/abbreviations.json
+suppress-bibliography: true
 
 format:
   html:
