@@ -116,7 +116,7 @@ For example, in Section 307 of the Sarbanes-Oxley Act of 2002, Congress directed
 - (j\) The North Carolina State Bar may apply to appropriate courts for orders necessary to protect the interests of clients of missing, suspended, disbarred, disabled, or deceased attorneys.
 	- The senior regular resident judge of the superior court of any district wherein a member of the North Carolina State Bar resides or maintains an office shall have the authority and power to enter orders necessary to protect the interests of the clients, including the authority to order the payment of compensation by the member or the estate of a deceased or disabled member to any attorney appointed to administer or conserve the law practice of the member. Compensation awarded to a member serving under this section awarded from the estate of a deceased member shall be considered an administrative expense of the estate for purposes of determining priority of payment.
 
-::: 
+:::
 
 #### @ModelRulesProfessionalConductRule82
 
@@ -536,7 +536,7 @@ In addition to the educational and examination requirements, applicants must als
 
 #### @RulesGoverningAdmission_2727NCAdminCode030600
 
- ::: {.legalcode}
+::: {.legalcode}
 
 ##### § .0601 Burden of Proof
 
