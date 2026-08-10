@@ -123,8 +123,8 @@ The term "legal malpractice" is sometimes used generally to refer to any claim a
 - (1\) For purposes of liability under §§ 48 and 49, a lawyer who owes a duty of care must exercise the competence and diligence normally exercised by lawyers in similar circumstances.
 - (2\) Proof of a violation of a rule or statute regulating the conduct of lawyers:
 	- (a\) does not give rise to an implied cause of action for professional negligence or breach of fiduciary duty;
-	- (b\) does not preclude other proof concerning the duty of care in Subsection (1) or the fiduciary duty; and
-	- (c\) may be considered by a trier of fact as an aid in understanding and applying the standard of Subsection (1) or § 49 to the extent that (i) the rule or statute was designed for the protection of persons in the position of the claimant and (ii) proof of the content and construction of such a rule or statute is relevant to the claimant's claim.
+	- (b\) does not preclude other proof concerning the duty of care in Subsection (1\) or the fiduciary duty; and
+	- (c\) may be considered by a trier of fact as an aid in understanding and applying the standard of Subsection (1\) or § 49 to the extent that (i) the rule or statute was designed for the protection of persons in the position of the claimant and (ii) proof of the content and construction of such a rule or statute is relevant to the claimant's claim.
 
 ##### § 53. Causation and Damages
 
@@ -136,7 +136,7 @@ The term "legal malpractice" is sometimes used generally to refer to any claim a
 - (2\) An agreement prospectively limiting a lawyer's liability to a client for malpractice is unenforceable.
 - (3\) The client or former client may rescind an agreement settling a claim by the client or former client against the person's lawyer if:
 	- (a\) the client or former client was subjected to improper pressure by the lawyer in reaching the settlement; or
-	- (b\) (i) the client or former client was not independently represented in negotiating the settlement, and (ii) the settlement was not fair and reasonable to the client or former client.
+	- (b\)(i) the client or former client was not independently represented in negotiating the settlement, and (ii) the settlement was not fair and reasonable to the client or former client.
 - (4\) For purposes of professional discipline, a lawyer may not:
 	- (a\) make an agreement prospectively limiting the lawyer's liability to a client for malpractice; or
 	- (b\) settle a claim for such liability with an unrepresented client or former client
@@ -263,7 +263,7 @@ Appellant contends it is what Runner did not do that makes him liable for malpra
 
 The Fayette Circuit Court had determined that the statute of limitations began to run on the medical malpractice claim "on March 17, 1972, and certainly no later than July 20, 1972, when the record of the decedent's treatment was fully complete." From the evidence in the record and the legal briefs filed on behalf of the parties, it is unclear why the second attorney, who accepted a retainer fee, did not file the medical malpractice claim within the period of time permitted by the statute and case law of this Commonwealth.
 
-The appellant contends that the trial court erred in (1) submitting the question of the attorney's negligence to the jury; (2) allowing an expert opinion to be presented to the jury based upon improper evidence; and, (3) in failing to instruct the jury that the fact that other hired counsel might have been able to toll the statute of limitations was no defense to appellee Runner.
+The appellant contends that the trial court erred in (1\) submitting the question of the attorney's negligence to the jury; (2\) allowing an expert opinion to be presented to the jury based upon improper evidence; and, (3\) in failing to instruct the jury that the fact that other hired counsel might have been able to toll the statute of limitations was no defense to appellee Runner.
 
 The standard of care is generally composed of two elements---care and skill. The first has to do with care and diligence which the attorney must exercise. The second is concerned with the minimum degree of skill and knowledge which the attorney must display.
 
@@ -275,7 +275,7 @@ Having determined that the standard of care an attorney owes his client is not t
 
 The appellant Daugherty contends the trial court erred in submitting the negligence of appellee Runner to the jury. He in effect is saying he, Daugherty, was entitled to a directed verdict on this point because Runner was negligent as a matter of law.
 
-Appellant was required to prove in the legal malpractice suit (1) that Runner was employed by appellant; (2) that he neglected his duty to exercise the ordinary care of a reasonably competent attorney acting in the same or similar circumstances; and (3) that such negligence resulted in and was the substantially contributing factor in the loss to the client.
+Appellant was required to prove in the legal malpractice suit (1\) that Runner was employed by appellant; (2\) that he neglected his duty to exercise the ordinary care of a reasonably competent attorney acting in the same or similar circumstances; and (3\) that such negligence resulted in and was the substantially contributing factor in the loss to the client.
 
 The appellant has presented two theories in support of his argument that he was entitled to a directed verdict on the question of Runner's negligence. The first is that Runner was retained to bring all possible legal actions resulting from the injuries and death of Mrs. Roach, including a medical malpractice action, if appropriate, and that he failed to carry out this duty. This argument is clearly without merit. The written contract between the parties recited that Runner was retained "to institute a claim for damages against any and all responsible parties, as a result of injuries received upon the 22 day of February, 1972." While there was some testimony about a conversation with Runner regarding a medical malpractice action, the evidence was disputed on that matter, and the question of whether Runner had any duty to handle any medical malpractice case was certainly one for the jury.
 
@@ -347,7 +347,7 @@ Where a legal malpractice suit stems from the representation of clients in a cri
 
 Essential Elements of Legal Malpractice Claims against Criminal Defense Counsel. A plaintiff claiming negligent representation by an attorney in a civil matter bears the burden of proving four elements by a preponderance of the evidence:
 
-> (1\) The existence of an attorney-client relationship which gives rise to a duty of care on the part of the attorney to the client; (2) an act or omission by the attorney in breach of the duty of care; (3) damage to the client; and (4) proximate causation between the attorney's breach of the duty and the damage incurred.
+> (1\) The existence of an attorney-client relationship which gives rise to a duty of care on the part of the attorney to the client; (2\) an act or omission by the attorney in breach of the duty of care; (3\) damage to the client; and (4\) proximate causation between the attorney's breach of the duty and the damage incurred.
 
 The fourth element, proximate causation, includes "cause in fact and legal causation." Cause in fact, or "but for" causation, refers to "the physical connection between an act and an injury." In a legal malpractice trial, the "trier of fact will be asked to decide what a reasonable jury or fact finder in the underlying trial or ‘trial within the trial' would have done but for the attorney's negligence." Legal causation, however, presents a question of law: "It involves a determination of whether liability should attach as a matter of law given the existence of cause in fact." To determine whether the cause in fact of a plaintiff's harm should also be deemed the legal cause of that harm, a court may consider, among other things, the public policy implications of holding the defendant liable. In "criminal malpractice" suits, two elements related to proximate causation have been added. In _Falkner v. Foshaug_, the Court of Appeals "concluded that postconviction relief is a prerequisite to maintaining a criminal malpractice suit and proof of innocence is an additional element a criminal defendant/malpractice plaintiff must prove to prevail at trial in his legal malpractice action."
 
@@ -387,7 +387,7 @@ I dissent because the malpractice standard for criminal cases should be the same
 
 We have clearly stated the standard for legal malpractice:
 
-> To establish a claim for legal malpractice, a plaintiff must prove the following elements: (1) The existence of an attorney-client relationship which gives rise to a duty of care on the part of the attorney to the client; (2) an act or omission by the attorney in breach of the duty of care; (3) damage to the client; and (4) proximate causation between the attorney's breach of the duty and the damage incurred.
+> To establish a claim for legal malpractice, a plaintiff must prove the following elements: (1\) The existence of an attorney-client relationship which gives rise to a duty of care on the part of the attorney to the client; (2\) an act or omission by the attorney in breach of the duty of care; (3\) damage to the client; and (4\) proximate causation between the attorney's breach of the duty and the damage incurred.
 
 This rule does not suggest the additional requirements the majority adds to cases of criminal malpractice, namely, postconviction relief and proof of actual innocence. I see no reason to add them.
 
@@ -555,7 +555,7 @@ But, as the Magistrate Judge found, on the morning that the NGI phase was set to
 
 Although the parties disputed this point, the parents' later actions supported the Magistrate Judge's finding that the parents' reluctance to testify amounted to refusal:
 
-> Corroborating the Court's finding that Mirzayance's parents indicated a strong disinclination to testify at the NGI phase are the facts that (1) they did not testify later at his sentencing hearing, and (2) the reason for their choosing not to do so is that it would have been "too emotional" for them. If weeks after the guilty verdict and the withdrawal of their son's NGI plea, Mirzayance's parents' emotions still prevented them from testifying at the sentencing hearing, then surely those emotional obstacles to their testifying in the NGI phase would have been at least as potent, and probably more so.
+> Corroborating the Court's finding that Mirzayance's parents indicated a strong disinclination to testify at the NGI phase are the facts that (1\) they did not testify later at his sentencing hearing, and (2\) the reason for their choosing not to do so is that it would have been "too emotional" for them. If weeks after the guilty verdict and the withdrawal of their son's NGI plea, Mirzayance's parents' emotions still prevented them from testifying at the sentencing hearing, then surely those emotional obstacles to their testifying in the NGI phase would have been at least as potent, and probably more so.
 
 The Magistrate Judge found that counsel made a carefully reasoned decision not to go forward with the NGI plea:
 
