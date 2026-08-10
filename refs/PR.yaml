@@ -24,7 +24,8 @@ references:
 - id: AngMartin_Washington2005
   authority: Wash.
   citation-key: AngMartin_Washington2005
-  container-title: P. 3d
+  container-title: P.3d
+  container-title-short: P.3d
   issued:
     - year: 2005
   jurisdiction: Wash
@@ -138,7 +139,8 @@ references:
 - id: CommitteeProfEthicsEtc_Iowa1982
   authority: Iowa
   citation-key: CommitteeProfEthicsEtc_Iowa1982
-  container-title: NW 2d
+  container-title: N.W.2d
+  container-title-short: N.W.2d
   issued:
     - year: 1982
   jurisdiction: Iowa
@@ -176,8 +178,8 @@ references:
 - id: CulpepperCarrollPLLCCole_Louisiana2006
   authority: La.
   citation-key: CulpepperCarrollPLLCCole_Louisiana2006
-  container-title: So. 2d
-  container-title-short: 2d
+  container-title: So.2d
+  container-title-short: So.2d
   issued:
     - year: 2006
       month: 4
@@ -189,9 +191,10 @@ references:
   volume: '929'
 
 - id: DaimlerChryslerCorpKirkhart_NCCourtofAppeals2002
-  authority: N.C. Ct.App.
+  authority: N.C. Ct. App.
   citation-key: DaimlerChryslerCorpKirkhart_NCCourtofAppeals2002
-  container-title: SE 2d
+  container-title: S.E.2d
+  container-title-short: S.E.2d
   issued:
     - year: 2002
   jurisdiction: NC
@@ -201,9 +204,10 @@ references:
   volume: '561'
 
 - id: DaughertyRunner_KentuckyCourtofAppeals1978
-  authority: Ky. Ct.App.
+  authority: Ky. Ct. App.
   citation-key: DaughertyRunner_KentuckyCourtofAppeals1978
-  container-title: SW 2d
+  container-title: S.W.2d
+  container-title-short: S.W.2d
   issued:
     - year: 1978
   jurisdiction: Ky
@@ -215,7 +219,8 @@ references:
 - id: DisciplinaryCounselBlakeslee_Ohio2023
   authority: Ohio
   citation-key: DisciplinaryCounselBlakeslee_Ohio2023
-  container-title: NE 3d
+  container-title: N.E.3d
+  container-title-short: N.E.3d
   issued:
     - year: 2023
       month: 7
@@ -229,7 +234,8 @@ references:
 - id: DisciplinaryCounselBlakesleeII_Ohio2024
   authority: Ohio
   citation-key: DisciplinaryCounselBlakesleeII_Ohio2024
-  container-title: NE 3d
+  container-title: N.E.3d
+  container-title-short: N.E.3d
   issued:
     - year: 2024
       month: 6
@@ -243,7 +249,8 @@ references:
 - id: DisciplinaryCounselJarvis_Ohio2022
   authority: Ohio
   citation-key: DisciplinaryCounselJarvis_Ohio2022
-  container-title: NE 3d
+  container-title: N.E.3d
+  container-title-short: N.E.3d
   issued:
     - year: 2022
       month: 5
@@ -257,7 +264,8 @@ references:
 - id: DisciplinaryCounselSarver_Ohio2018
   authority: Ohio
   citation-key: DisciplinaryCounselSarver_Ohio2018
-  container-title: NE 3d
+  container-title: N.E.3d
+  container-title-short: N.E.3d
   issued:
     - year: 2018
   jurisdiction: Ohio
@@ -269,7 +277,8 @@ references:
 - id: DisciplinaryCounselSarver_Ohio2020
   authority: Ohio
   citation-key: DisciplinaryCounselSarver_Ohio2020
-  container-title: NE 3d
+  container-title: N.E.3d
+  container-title-short: N.E.3d
   issued:
     - year: 2020
   jurisdiction: Ohio
@@ -286,10 +295,10 @@ references:
   type: legislation
 
 - id: DoughertyPepperHamiltonLLP_PennsylvaniaSuperiorCourt2016
-  authority: Pa. Super.Ct.
+  authority: Pa. Super. Ct.
   citation-key: DoughertyPepperHamiltonLLP_PennsylvaniaSuperiorCourt2016
-  container-title: A. 3d
-  container-title-short: 3d
+  container-title: A.3d
+  container-title-short: A.3d
   issued:
     - year: 2016
   jurisdiction: Pa
@@ -320,8 +329,8 @@ references:
 - id: FloridaBarPape_Florida2005
   authority: Fla.
   citation-key: FloridaBarPape_Florida2005
-  container-title: So. 2d
-  container-title-short: 2d
+  container-title: So.2d
+  container-title-short: So.2d
   issued:
     - year: 2005
       month: 11
@@ -398,9 +407,10 @@ references:
   volume: '54'
 
 - id: HillmanNuecesCounty_Texas2019
-  authority: Tex
+  authority: Tex.
   citation-key: HillmanNuecesCounty_Texas2019
-  container-title: SW 3d
+  container-title: S.W.3d
+  container-title-short: S.W.3d
   issued:
     - year: 2019
   jurisdiction: Tex
@@ -412,7 +422,8 @@ references:
 - id: HunterVirginiaStateBar_Virginia2013
   authority: Va.
   citation-key: HunterVirginiaStateBar_Virginia2013
-  container-title: SE 2d
+  container-title: S.E.2d
+  container-title-short: S.E.2d
   issued:
     - year: 2013
   jurisdiction: Va
@@ -422,7 +433,7 @@ references:
   volume: '744'
 
 - id: IshmaelMillington_CaliforniaCourtofAppeal1966
-  authority: Cal. Ct.App.
+  authority: Cal. Ct. App.
   citation-key: IshmaelMillington_CaliforniaCourtofAppeal1966
   container-title: Cal. App. 2d
   issued:
@@ -434,10 +445,10 @@ references:
   volume: '241'
 
 - id: JonesUS_DCCourtofAppeals2003
-  authority: D.C. Ct.App.
+  authority: D.C. Ct. App.
   citation-key: JonesUS_DCCourtofAppeals2003
-  container-title: A. 2d
-  container-title-short: 2d
+  container-title: A.2d
+  container-title-short: A.2d
   issued:
     - year: 2003
   jurisdiction: DC
@@ -529,10 +540,10 @@ references:
   volume: '40'
 
 - id: MakinsDistrictColumbia_DCCourtofAppeals2004
-  authority: D.C. Ct. App.
+  authority: D.C. Ct.  App.
   citation-key: MakinsDistrictColumbia_DCCourtofAppeals2004
-  container-title: A. 2d
-  container-title-short: 2d
+  container-title: A.2d
+  container-title-short: A.2d
   issued:
     - year: 2004
   jurisdiction: DC
@@ -544,7 +555,8 @@ references:
 - id: MarkerGreenberg_Minnesota1981
   authority: Minn.
   citation-key: MarkerGreenberg_Minnesota1981
-  container-title: NW 2d
+  container-title: N.W.2d
+  container-title-short: N.W.2d
   issued:
     - year: 1981
   jurisdiction: Minn
@@ -556,7 +568,8 @@ references:
 - id: MatterAnonymous_NYAppDiv3rdDept2009
   authority: N.Y. App. Div.
   citation-key: MatterAnonymous_NYAppDiv3rdDept2009
-  container-title: AD 3d
+  container-title: A.D.2d
+  container-title-short: A.D.2d
   issued:
     - year: 2009
       month: 4
@@ -570,7 +583,8 @@ references:
 - id: MatterAnonymous_NYAppDiv3rdDept2023
   authority: N.Y. App. Div.
   citation-key: MatterAnonymous_NYAppDiv3rdDept2023
-  container-title: AD 3d
+  container-title: A.D.2d
+  container-title-short: A.D.2d
   issued:
     - year: 2023
       month: 6
@@ -584,7 +598,8 @@ references:
 - id: MatterCooperman_NY1994
   authority: N.Y.
   citation-key: MatterCooperman_NY1994
-  container-title: NE 2d
+  container-title: N.E.2d
+  container-title-short: N.E.2d
   issued:
     - year: 1994
   jurisdiction: NY
@@ -596,7 +611,8 @@ references:
 - id: MatterDisciplineLeavitt_Utah2025
   authority: Utah
   citation-key: MatterDisciplineLeavitt_Utah2025
-  container-title: P. 3d
+  container-title: P.3d
+  container-title-short: P.3d
   issued:
     - year: 2025
       month: 2
@@ -623,7 +639,8 @@ references:
 - id: MatterGrandJuryInvestigation_Massachusetts2009
   authority: Mass.
   citation-key: MatterGrandJuryInvestigation_Massachusetts2009
-  container-title: NE 2d
+  container-title: N.E.2d
+  container-title-short: N.E.2d
   issued:
     - year: 2009
   jurisdiction: Mass
@@ -635,8 +652,8 @@ references:
 - id: MatterSilva_RhodeIsland1994
   authority: R.I.
   citation-key: MatterSilva_RhodeIsland1994
-  container-title: A. 2d
-  container-title-short: 2d
+  container-title: A.2d
+  container-title-short: A.2d
   issued:
     - year: 1994
   jurisdiction: RI
@@ -648,7 +665,8 @@ references:
 - id: MatterTennant_Montana2017
   authority: Mont.
   citation-key: MatterTennant_Montana2017
-  container-title: P. 3d
+  container-title: P.3d
+  container-title-short: P.3d
   issued:
     - year: 2017
       month: 3
@@ -1006,9 +1024,10 @@ references:
   volume: '2016'
 
 - id: NiesigTeam_NewYorkAppDiv2ndDept1989
-  authority: N.Y, App. Div.
+  authority: N.Y. App. Div.
   citation-key: NiesigTeam_NewYorkAppDiv2ndDept1989
-  container-title: AD 2d
+  container-title: A.D.2d
+  container-title-short: A.D.2d
   issued:
     - year: 1989
   jurisdiction: NY
@@ -1034,7 +1053,7 @@ references:
     - year: 2026
       month: 8
       day: 8
-  authority: N.C. Ct.App.
+  authority: N.C. Ct. App.
   citation-key: NorthCarolinaStateBar_NCCourtofAppeals2019
   issued:
     - year: 2019
@@ -1047,7 +1066,8 @@ references:
 - id: NuStarFarmsLLCZylstra_Iowa2016
   authority: Iowa
   citation-key: NuStarFarmsLLCZylstra_Iowa2016
-  container-title: NW 2d
+  container-title: N.W.2d
+  container-title-short: N.W.2d
   issued:
     - year: 2016
       month: 5
@@ -1082,7 +1102,7 @@ references:
   type: legal_case
 
 - id: PeopleBelge_NYCountyCourtOnandagaCounty1975
-  authority: N.Y. Cty.Ct., Onandaga Cty.
+  authority: N.Y. Cty .Ct., Onandaga Cty.
   citation-key: PeopleBelge_NYCountyCourtOnandagaCounty1975
   container-title: Misc. 2d
   issued:
@@ -1096,7 +1116,8 @@ references:
 - id: PeopleDePallo_NewYork2001
   authority: N.Y.
   citation-key: PeopleDePallo_NewYork2001
-  container-title: NE 2d
+  container-title: N.E.2d
+  container-title-short: N.E.2d
   issued:
     - year: 2001
   jurisdiction: NY
@@ -1128,7 +1149,8 @@ references:
 - id: ReConverse_Nebraska1999
   authority: Neb.
   citation-key: ReConverse_Nebraska1999
-  container-title: NW 2d
+  container-title: N.W.2d
+  container-title-short: N.W.2d
   issued:
     - year: 1999
   jurisdiction: Neb
@@ -1140,7 +1162,8 @@ references:
 - id: ReDisciplinaryProceedingHaley_Washington2006
   authority: Wash.
   citation-key: ReDisciplinaryProceedingHaley_Washington2006
-  container-title: P. 3d
+  container-title: P.3d
+  container-title-short: P.3d
   issued:
     - year: 2006
   jurisdiction: Wash
@@ -1177,8 +1200,8 @@ references:
 - id: ReJordan_Louisiana2005
   authority: La.
   citation-key: ReJordan_Louisiana2005
-  container-title: So. 2d
-  container-title-short: 2d
+  container-title: So.2d
+  container-title-short: So.2d
   issued:
     - year: 2005
       month: 6
@@ -1192,7 +1215,8 @@ references:
 - id: ReLitz_Indiana1999
   authority: Ind.
   citation-key: ReLitz_Indiana1999
-  container-title: NE 2d
+  container-title: N.E.2d
+  container-title-short: N.E.2d
   issued:
     - year: 1999
   jurisdiction: Ind
@@ -1204,7 +1228,8 @@ references:
 - id: ReMorse_Georgia2013
   authority: Ga.
   citation-key: ReMorse_Georgia2013
-  container-title: SE 2d
+  container-title: S.E.2d
+  container-title-short: S.E.2d
   issued:
     - year: 2013
   jurisdiction: Ga
@@ -1256,8 +1281,8 @@ references:
 - id: ReRiehlmann_Louisiana2005
   authority: La
   citation-key: ReRiehlmann_Louisiana2005
-  container-title: So. 2d
-  container-title-short: 2d
+  container-title: So.2d
+  container-title-short: So.2d
   issued:
     - year: 2005
       month: 1
@@ -1271,8 +1296,8 @@ references:
 - id: ReRoots_RhodeIsland2000
   authority: R.I.
   citation-key: ReRoots_RhodeIsland2000
-  container-title: A. 2d
-  container-title-short: 2d
+  container-title: A.2d
+  container-title-short: A.2d
   issued:
     - year: 2000
   jurisdiction: RI
@@ -1290,8 +1315,8 @@ references:
 - id: ReStateGrandJury_NewJersey2009
   authority: N.J.
   citation-key: ReStateGrandJury_NewJersey2009
-  container-title: A. 2d
-  container-title-short: 2d
+  container-title: A.2d
+  container-title-short: A.2d
   issued:
     - year: 2009
   jurisdiction: NJ
@@ -1456,7 +1481,8 @@ references:
 - id: StateHischke_Iowa2002
   authority: Iowa
   citation-key: StateHischke_Iowa2002
-  container-title: NW 2d
+  container-title: N.W.2d
+  container-title-short: N.W.2d
   issued:
     - year: 2002
   jurisdiction: Iowa
@@ -1468,7 +1494,8 @@ references:
 - id: StateLensegrav_NewMexico2025
   authority: N.M.
   citation-key: StateLensegrav_NewMexico2025
-  container-title: P. 3d
+  container-title: P.3d
+  container-title-short: P.3d
   issued:
     - year: 2025
   jurisdiction: NM
@@ -1503,7 +1530,8 @@ references:
 - id: TogstadVeselyOttoMiller_Minnesota1980
   authority: Minn.
   citation-key: TogstadVeselyOttoMiller_Minnesota1980
-  container-title: NW 2d
+  container-title: N.W.2d
+  container-title-short: N.W.2d
   issued:
     - year: 1980
   jurisdiction: Minn
