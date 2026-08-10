@@ -146,11 +146,11 @@ A large regional bank recently changed its commercial loan closing policies to r
 
 Lawyers who traditionally represent the borrower in a commercial loan closing are concerned about this policy for a number of reasons including the following:
 
-- • Having closing funds delivered to the lender’s lawyer instead of the borrower’s lawyer subjects the borrower to responsibility for the funds without the benefit of its own legal counsel’s guidance, protection, and assistance;
-- • Once the loan funds are committed to the borrower by the lender, they become the responsibility of the borrower. When there is separate, independent representation of the borrower, the protections of malpractice insurance and the closing protection letter are available to the borrower.
-- • The borrower’s recourses may be limited if closing funds are mishandled and the borrower suffers a loss in connection with Bank’s Counsel’s preparation of the closing statement and disbursement of the loan proceeds. However, when the borrower's lawyer performs the escrow and closing functions, the lender gets an insured closing letter and a legal opinion relative to authority and enforceability from the borrower's lawyer and has protection.
-- • Having the lender’s lawyer perform the property and business due diligence functions may result in the disclosure of confidential information relative to the borrower’s property or its business interests that would not be disclosed if the borrower’s lawyer performed these functions.
-- • Unless the borrower is sophisticated and instructs its lawyer to be actively involved, the borrower’s lawyer may be placed in the role of “outsider” or passive observer, which may limit the quality and scope of the representation that the borrower receives. It will also invite, notwithstanding disclosure, the perception that the lender's lawyer is looking out for the interests of all of the parties.
+- Having closing funds delivered to the lender’s lawyer instead of the borrower’s lawyer subjects the borrower to responsibility for the funds without the benefit of its own legal counsel’s guidance, protection, and assistance;
+- Once the loan funds are committed to the borrower by the lender, they become the responsibility of the borrower. When there is separate, independent representation of the borrower, the protections of malpractice insurance and the closing protection letter are available to the borrower.
+- The borrower’s recourses may be limited if closing funds are mishandled and the borrower suffers a loss in connection with Bank’s Counsel’s preparation of the closing statement and disbursement of the loan proceeds. However, when the borrower's lawyer performs the escrow and closing functions, the lender gets an insured closing letter and a legal opinion relative to authority and enforceability from the borrower's lawyer and has protection.
+- Having the lender’s lawyer perform the property and business due diligence functions may result in the disclosure of confidential information relative to the borrower’s property or its business interests that would not be disclosed if the borrower’s lawyer performed these functions.
+- Unless the borrower is sophisticated and instructs its lawyer to be actively involved, the borrower’s lawyer may be placed in the role of “outsider” or passive observer, which may limit the quality and scope of the representation that the borrower receives. It will also invite, notwithstanding disclosure, the perception that the lender's lawyer is looking out for the interests of all of the parties.
 
 [Inquiry #1:]{.casesection}
 
@@ -228,11 +228,11 @@ To provide competent and diligent representation to C, Lawyer would need to disc
 
 Matters about which Lawyer would need to communicate with C include:
 
-1\. That B does not own the property and whether the contract entered into between B and C for the sale of the property is valid;
+1. That B does not own the property and whether the contract entered into between B and C for the sale of the property is valid;
 
-2\. That C’s money will be used by B to purchase the property from A, for which C’s informed consent would need to be given (_see_ Opinion #4 below); and
+2. That C’s money will be used by B to purchase the property from A, for which C’s informed consent would need to be given (_see_ Opinion #4 below); and
 
-3\. The price at which B is purchasing the property from A, which is a fact that may not otherwise be known by C and might bear upon the true market value of the property and/or whether C would consider it in C’s best interest to proceed.
+3. The price at which B is purchasing the property from A, which is a fact that may not otherwise be known by C and might bear upon the true market value of the property and/or whether C would consider it in C’s best interest to proceed.
 
 Certain of these facts will be confidential information known to Lawyer from his representation of B and protected from disclosure under Rule 1.6. Certain of these facts may be matters B does not want disclosed to C or may involve information the disclosure of which would harm B’s interests, which Lawyer must consider in determining whether Lawyer can provide competent and diligent representation to both B and C.
 
@@ -300,9 +300,9 @@ Yes, there are other issues Lawyer will have to consider before determining whet
 
 Such issues may include the following:
 
-1\. Whether Lawyer would be assisting any other person in engaging in a criminal offense or would be engaging in conduct constituting a criminal offense, implicating Rules 1.2(d), 8.4(a), and 8.4(b). 
+1. Whether Lawyer would be assisting any other person in engaging in a criminal offense or would be engaging in conduct constituting a criminal offense, implicating Rules 1.2(d), 8.4(a), and 8.4(b). 
 
-2\. Whether Lawyer would be engaging in conduct involving dishonesty, fraud, deceit, or misrepresentation, implicating Rule 8.4(c), such as in the identification of the owner in the preliminary opinion of title for the B to C transaction or in any other aspect. All documentation prepared by Lawyer must be accurate, including identifying the record owner in any preliminary opinion of title for a search period during which A is the record owner.
+2. Whether Lawyer would be engaging in conduct involving dishonesty, fraud, deceit, or misrepresentation, implicating Rule 8.4(c), such as in the identification of the owner in the preliminary opinion of title for the B to C transaction or in any other aspect. All documentation prepared by Lawyer must be accurate, including identifying the record owner in any preliminary opinion of title for a search period during which A is the record owner.
 
 [Inquiry #7:]{.casesection}
 
@@ -338,7 +338,7 @@ The same issues and considerations discussed above would apply if Lawyer wished 
 
 ## Conflicts Involving the Lawyer's Business & Personal Interests
 
-##### @MRPC18
+#### @MRPC18
 
 ::: {.legalcode}
 

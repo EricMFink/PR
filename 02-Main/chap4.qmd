@@ -2,14 +2,12 @@
 
 ## Competence, Diligence, & Communication
 
-#### Model Rules of Professional Conduct
-
 #### @MRPC11
 ::: {.legalcode}
 
 ##### Competence
 
-A lawyer shall provide competent representation to a client. Competent representation requires the legal knowledge, skill, thoroughness and preparation reasonably necessary for the representation.
+- A lawyer shall provide competent representation to a client. Competent representation requires the legal knowledge, skill, thoroughness and preparation reasonably necessary for the representation.
 
 **Comment**
 
@@ -90,37 +88,37 @@ The term "legal malpractice" is sometimes used generally to refer to any claim a
 
 ::: {.legalcode}
 
-##### § 48 -- Professional Negligence—Elements and Defenses Generally
+##### § 48. Professional Negligence—Elements and Defenses Generally
 
-In addition to the other possible bases of civil liability described in §§ 49, 55, and 56, a lawyer is civilly liable for professional negligence to a person to whom the lawyer owes a duty of care within the meaning of § 50 or § 51, if the lawyer fails to exercise care within the meaning of § 52 and if that failure is a legal cause of injury within the meaning of § 53, unless the lawyer has a defense within the meaning of § 54.
+- In addition to the other possible bases of civil liability described in §§ 49, 55, and 56, a lawyer is civilly liable for professional negligence to a person to whom the lawyer owes a duty of care within the meaning of § 50 or § 51, if the lawyer fails to exercise care within the meaning of § 52 and if that failure is a legal cause of injury within the meaning of § 53, unless the lawyer has a defense within the meaning of § 54.
 
-##### § 49 -- Breach of Fiduciary Duty—Generally
+##### § 49. Breach of Fiduciary Duty—Generally
 
-In addition to the other possible bases of civil liability described in §§ 48, 55, and 56, a lawyer is civilly liable to a client if the lawyer breaches a fiduciary duty to the client set forth in § 16(3) and if that failure is a legal cause of injury within the meaning of § 53, unless the lawyer has a defense within the meaning of § 54.
+- In addition to the other possible bases of civil liability described in §§ 48, 55, and 56, a lawyer is civilly liable to a client if the lawyer breaches a fiduciary duty to the client set forth in § 16(3) and if that failure is a legal cause of injury within the meaning of § 53, unless the lawyer has a defense within the meaning of § 54.
 
-##### § 50 -- Duty of Care to a Client
+##### § 50. Duty of Care to a Client
 
-For purposes of liability under § 48, a lawyer owes a client the duty to exercise care within the meaning of § 52 in pursuing the client's lawful objectives in matters covered by the representation.
+- For purposes of liability under § 48, a lawyer owes a client the duty to exercise care within the meaning of § 52 in pursuing the client's lawful objectives in matters covered by the representation.
 
-##### § 51 -- Duty of Care to Certain Nonclients
+##### § 51. Duty of Care to Certain Nonclients
 
-For purposes of liability under § 48, a lawyer owes a duty to use care within the meaning of § 52 in each of the following circumstances:
+- For purposes of liability under § 48, a lawyer owes a duty to use care within the meaning of § 52 in each of the following circumstances:
 
-- (1\) to a prospective client, as stated in § 15;
-- (2\) to a nonclient when and to the extent that:
-	- (a\) the lawyer or (with the lawyer's acquiescence) the lawyer's client invites the nonclient to rely on the lawyer's opinion or provision of other legal services, and the nonclient so relies; and
-	- (b\) the nonclient is not, under applicable tort law, too remote from the lawyer to be entitled to protection;
-- (3\) to a nonclient when and to the extent that:
-	- (a\) the lawyer knows that a client intends as one of the primary objectives of the representation that the lawyer's services benefit the nonclient;
-	- (b\) such a duty would not significantly impair the lawyer's performance of obligations to the client; and
-	- (c\) the absence of such a duty would make enforcement of those obligations to the client unlikely; and
-- (4\) to a nonclient when and to the extent that:
-	- (a\) the lawyer's client is a trustee, guardian, executor, or fiduciary acting primarily to perform similar functions for the nonclient;
-	- (b\) the lawyer knows that appropriate action by the lawyer is necessary with respect to a matter within the scope of the representation to prevent or rectify the breach of a fiduciary duty owed by the client to the nonclient, where (i) the breach is a crime or fraud or (ii) the lawyer has assisted or is assisting the breach;
-	- (c\) the nonclient is not reasonably able to protect its rights; and
-	- (d\) such a duty would not significantly impair the performance of the lawyer's obligations to the client.
+	- (1\) to a prospective client, as stated in § 15;
+	- (2\) to a nonclient when and to the extent that:
+		- (a\) the lawyer or (with the lawyer's acquiescence) the lawyer's client invites the nonclient to rely on the lawyer's opinion or provision of other legal services, and the nonclient so relies; and
+		- (b\) the nonclient is not, under applicable tort law, too remote from the lawyer to be entitled to protection;
+	- (3\) to a nonclient when and to the extent that:
+		- (a\) the lawyer knows that a client intends as one of the primary objectives of the representation that the lawyer's services benefit the nonclient;
+		- (b\) such a duty would not significantly impair the lawyer's performance of obligations to the client; and
+		- (c\) the absence of such a duty would make enforcement of those obligations to the client unlikely; and
+	- (4\) to a nonclient when and to the extent that:
+		- (a\) the lawyer's client is a trustee, guardian, executor, or fiduciary acting primarily to perform similar functions for the nonclient;
+		- (b\) the lawyer knows that appropriate action by the lawyer is necessary with respect to a matter within the scope of the representation to prevent or rectify the breach of a fiduciary duty owed by the client to the nonclient, where (i) the breach is a crime or fraud or (ii) the lawyer has assisted or is assisting the breach;
+		- (c\) the nonclient is not reasonably able to protect its rights; and
+		- (d\) such a duty would not significantly impair the performance of the lawyer's obligations to the client.
 
-##### § 52 -- The Standard of Care
+##### § 52. The Standard of Care
 
 - (1\) For purposes of liability under §§ 48 and 49, a lawyer who owes a duty of care must exercise the competence and diligence normally exercised by lawyers in similar circumstances.
 - (2\) Proof of a violation of a rule or statute regulating the conduct of lawyers:
@@ -128,11 +126,11 @@ For purposes of liability under § 48, a lawyer owes a duty to use care within t
 	- (b\) does not preclude other proof concerning the duty of care in Subsection (1) or the fiduciary duty; and
 	- (c\) may be considered by a trier of fact as an aid in understanding and applying the standard of Subsection (1) or § 49 to the extent that (i) the rule or statute was designed for the protection of persons in the position of the claimant and (ii) proof of the content and construction of such a rule or statute is relevant to the claimant's claim.
 
-##### § 53 -- Causation and Damages
+##### § 53. Causation and Damages
 
-A lawyer is liable under § 48 or § 49 only if the lawyer's breach of a duty of care or breach of fiduciary duty was a legal cause of injury, as determined under generally applicable principles of causation and damages.
+- A lawyer is liable under § 48 or § 49 only if the lawyer's breach of a duty of care or breach of fiduciary duty was a legal cause of injury, as determined under generally applicable principles of causation and damages.
 
-##### § 54 -- Defenses; Prospective Liability Waiver; Settlement with a Client
+##### § 54. Defenses; Prospective Liability Waiver; Settlement with a Client
 
 - (1\) Except as otherwise provided in this Section, liability under §§ 48 and 49 is subject to the defenses available under generally applicable principles of law governing respectively actions for professional negligence and breach of fiduciary duty. A lawyer is not liable under § 48 or § 49 for any action or inaction the lawyer reasonably believed to be required by law, including a professional rule.
 - (2\) An agreement prospectively limiting a lawyer's liability to a client for malpractice is unenforceable.
@@ -144,16 +142,16 @@ A lawyer is liable under § 48 or § 49 only if the lawyer's breach of a duty of
 	- (b\) settle a claim for such liability with an unrepresented client or former client
 - without first advising that person in writing that independent representation is appropriate in connection therewith.
 
-##### § 55 -- Civil Remedies of a Client Other Than for Malpractice
+##### § 55. Civil Remedies of a Client Other Than for Malpractice
 
 - (1\) A lawyer is subject to liability to a client for injury caused by breach of contract in the circumstances and to the extent provided by contract law.
 - (2\) A client is entitled to restitutionary, injunctive, or declaratory remedies against a lawyer in the circumstances and to the extent provided by generally applicable law governing such remedies.
 
-##### § 56 -- Liability to a Client or Nonclient Under General Law
+##### § 56. Liability to a Client or Nonclient Under General Law
 
-Except as provided in § 57 and in addition to liability under §§ 48-55, a lawyer is subject to liability to a client or nonclient when a nonlawyer would be in similar circumstances.
+- Except as provided in § 57 and in addition to liability under §§ 48-55, a lawyer is subject to liability to a client or nonclient when a nonlawyer would be in similar circumstances.
 
-##### § 57 -- Nonclient Claims—Certain Defenses and Exceptions to Liability
+##### § 57. Nonclient Claims—Certain Defenses and Exceptions to Liability
 
 - (1\) In addition to other absolute or conditional privileges, a lawyer is absolutely privileged to publish matter concerning a nonclient if:
 	- (a\) the publication occurs in communications preliminary to a reasonably anticipated proceeding before a tribunal or in the institution or during the course and as a part of such a proceeding;
@@ -162,7 +160,7 @@ Except as provided in § 57 and in addition to liability under §§ 48-55, a law
 - (2\) A lawyer representing a client in a civil proceeding or procuring the institution of criminal proceedings by a client is not liable to a nonclient for wrongful use of civil proceedings or for malicious prosecution if the lawyer has probable cause for acting, or if the lawyer acts primarily to help the client obtain a proper adjudication of the client's claim in that proceeding.
 - (3\) A lawyer who advises or assists a client to make or break a contract, to enter or dissolve a legal relationship, or to enter or not enter a contractual relation, is not liable to a nonclient for interference with contract or with prospective contractual relations or with a legal relationship, if the lawyer acts to advance the client's objectives without using wrongful means.
 
-##### § 58 -- Vicarious Liability
+##### § 58. Vicarious Liability
 
 - (1\) A law firm is subject to civil liability for injury legally caused to a person by any wrongful act or omission of any principal or employee of the firm who was acting in the ordinary course of the firm's business or with actual or apparent authority.
 - (2\) Each of the principals of a law firm organized as a general partnership without limited liability is liable jointly and severally with the firm.

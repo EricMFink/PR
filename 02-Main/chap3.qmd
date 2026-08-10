@@ -6,7 +6,7 @@
 
 ::: {.legalcode}
 
-##### § 14 -- Formation of a Client-Lawyer Relationship
+##### § 14. Formation of a Client-Lawyer Relationship
 
 A relationship of client and lawyer arises when:
 
@@ -239,7 +239,7 @@ I am not persuaded by Annuity's argument that disqualification of Dilworth is ne
 
 ::: {.legalcode}
 
-##### § 31 -- Termination of a Lawyer's Authority
+##### § 31. Termination of a Lawyer's Authority
 
 - (1\) A lawyer must comply with applicable law requiring notice to or permission of a tribunal when terminating a representation and with an order of a tribunal requiring the representation to continue.
 - (2\) Subject to Subsection (1) and § 33, a lawyer's actual authority to represent a client ends when:
@@ -250,7 +250,7 @@ I am not persuaded by Annuity's argument that disqualification of Dilworth is ne
 	- (e\) the representation ends as provided by contract or because the lawyer has completed the contemplated services.
 - (3\) A lawyer's apparent authority to act for a client with respect to another person ends when the other person knows or should know of facts from which it can be reasonably inferred that the lawyer lacks actual authority, including knowledge of any event described in Subsection (2).
 
-##### § 32 -- Discharge by a Client and Withdrawal by a Lawyer
+##### § 32. Discharge by a Client and Withdrawal by a Lawyer
 
 - (1\) Subject to Subsection (5), a client may discharge a lawyer at any time.
 - (2\) Subject to Subsection (5), a lawyer may not represent a client or, where representation has commenced, must withdraw from the representation of a client if:
@@ -270,7 +270,7 @@ I am not persuaded by Annuity's argument that disqualification of Dilworth is ne
 - (4\) In the case of permissive withdrawal under Subsections (3)(f)-(i), a lawyer may not withdraw if the harm that withdrawal would cause significantly exceeds the harm to the lawyer or others in not withdrawing.
 - (5\) Notwithstanding Subsections (1)-(4), a lawyer must comply with applicable law requiring notice to or permission of a tribunal when terminating a representation and with a valid order of a tribunal requiring the representation to continue.
 
-##### § 33 -- A Lawyer's Duties When a Representation Terminates
+##### § 33. A Lawyer's Duties When a Representation Terminates
 
 - (1\) In terminating a representation, a lawyer must take steps to the extent reasonably practicable to protect the client's interests, such as giving notice to the client of the termination, allowing time for employment of other counsel, surrendering papers and property to which the client is entitled, and refunding any advance payment of fee the lawyer has not earned.
 - (2\) Following termination of a representation, a lawyer must:
@@ -360,7 +360,7 @@ We therefore reverse and order the district court to grant appellant's motion to
 
 ::: {.legalcode}
 
-##### § 21 -- Allocating the Authority to Decide Between a Client and a Lawyer
+##### § 21. Allocating the Authority to Decide Between a Client and a Lawyer
 
 As between client and lawyer:
 
@@ -369,24 +369,24 @@ As between client and lawyer:
 - (3\) Subject to Subsections (1) and (2) a lawyer may take any lawful measure within the scope of representation that is reasonably calculated to advance a client's objectives as defined by the client, consulting with the client as required by § 20.
 - (4\) A client may ratify an act of a lawyer that was not previously authorized.
 
-##### § 22 -- Authority Reserved to a Client
+##### § 22. Authority Reserved to a Client
 
 - (1\) As between client and lawyer, subject to Subsection (2) and § 23, the following and comparable decisions are reserved to the client except when the client has validly authorized the lawyer to make the particular decision: whether and on what terms to settle a claim; how a criminal defendant should plead; whether a criminal defendant should waive jury trial; whether a criminal defendant should testify; and whether to appeal in a civil proceeding or criminal prosecution.
 - (2\) A client may not validly authorize a lawyer to make the decisions described in Subsection (1) when other law (such as criminal-procedure rules governing pleas, jury-trial waiver, and defendant testimony) requires the client's personal participation or approval.
 - (3\) Regardless of any contrary contract with a lawyer, a client may revoke a lawyer's authority to make the decisions described in Subsection (1).
 
-##### § 23 -- Authority Reserved to a Lawyer
+##### § 23. Authority Reserved to a Lawyer
 
 As between client and lawyer, a lawyer retains authority that may not be overridden by a contract with or an instruction from the client:
 
 - (1\) to refuse to perform, counsel, or assist future or ongoing acts in the representation that the lawyer reasonably believes to be unlawful;
 - (2\) to make decisions or take actions in the representation that the lawyer reasonably believes to be required by law or an order of a tribunal.
 
-##### § 25 -- Appearance Before a Tribunal
+##### § 25. Appearance Before a Tribunal
 
 A lawyer who enters an appearance before a tribunal on behalf of a person is presumed to represent that person as a client. The presumption may be rebutted.
 
-##### § 26 -- A Lawyer's Actual Authority
+##### § 26. A Lawyer's Actual Authority
 
 A lawyer's act is considered to be that of a client in proceedings before a tribunal or in dealings with third persons when:
 
@@ -394,7 +394,7 @@ A lawyer's act is considered to be that of a client in proceedings before a trib
 - (2\) authority concerning the act is reserved to the lawyer as stated in § 23; or
 - (3\) the client ratifies the act.
 
-##### § 27 -- A Lawyer's Apparent Authority
+##### § 27. A Lawyer's Apparent Authority
 
 A lawyer's act is considered to be that of the client in proceedings before a tribunal or in dealings with a third person if the tribunal or third person reasonably assumes that the lawyer is authorized to do the act on the basis of the client's (and not the lawyer's) manifestations of such authorization.
 
@@ -454,7 +454,7 @@ Since Ms. Makins, as principal, did not make any manifestation of authority to t
 
 ::: {.legalcode}
 
-##### § 24 -- A Client with Diminished Capacity
+##### § 24. A Client with Diminished Capacity
 
 - (1\) When a client's capacity to make adequately considered decisions in connection with the representation is diminished, whether because of minority, physical illness, mental disability, or other cause, the lawyer must, as far as reasonably possible, maintain a normal client-lawyer relationship with the client and act in the best interests of the client as stated in Subsection (2).
 - (2\) A lawyer representing a client with diminished capacity as described in Subsection (1) and for whom no guardian or other representative is available to act, must, with respect to a matter within the scope of the representation, pursue the lawyer's reasonable view of the client's objectives or interests as the client would define them if able to make adequately considered decisions on the matter, even if the client expresses no wishes or gives contrary instructions.
@@ -563,7 +563,7 @@ Accordingly, Timothy Paul Jarvis is suspended from the practice of law in Ohio f
 
 ::: {.legalcode}
 
-##### § 96 -- Representing an Organization as Client
+##### § 96. Representing an Organization as Client
 
 - (1\) When a lawyer is employed or retained to represent an organization:
 	- (a\) the lawyer represents the interests of the organization as defined by its responsible agents acting pursuant to the organization's decision-making procedures; and
@@ -571,7 +571,7 @@ Accordingly, Timothy Paul Jarvis is suspended from the practice of law in Ohio f
 - (2\) If a lawyer representing an organization knows of circumstances indicating that a constituent of the organization has engaged in action or intends to act in a way that violates a legal obligation to the organization that will likely cause substantial injury to it, or that reasonably can be foreseen to be imputable to the organization and likely to result in substantial injury to it, the lawyer must proceed in what the lawyer reasonably believes to be the best interests of the organization.
 - (3\) In the circumstances described in Subsection (2), the lawyer may, in circumstances warranting such steps, ask the constituent to reconsider the matter, recommend that a second legal opinion be sought, and seek review by appropriate supervisory authority within the organization, including referring the matter to the highest authority that can act in behalf of the organization.
 
-##### § 97 -- Representing a Governmental Client
+##### § 97. Representing a Governmental Client
 
 - A lawyer representing a governmental client must proceed in the representation as stated in § 96, except that the lawyer:
 - (1\) possesses such rights and responsibilities as may be defined by law to make decisions on behalf of the governmental client that are within the authority of a client under §§ 22 and 21(2);
@@ -889,7 +889,7 @@ Connie Daniel Cole seeks review of a judgment of the court of appeal affirming a
 
 Connie Daniel Cole retained attorney Bobby Culpepper of the law firm of Culpepper & Carroll, PLLC to represent him in a contest of his mother's will. Mr. Cole requested that the firm handle the matter on a one-third contingent fee basis, and Mr. Culpepper agreed to do so. On September 20, 2000, Mr. Culpepper sent Mr. Cole a letter in which he confirmed that he would accept the representation on a contingent fee basis of one-third "of whatever additional property or money we can get for you."
 
-After negotiation between Mr. Culpepper and counsel for the estate of Mr. Cole's mother, Mr. Cole was offered property worth $21,600.03 over and above what he would have received under the terms of the decedent's will. Mr. Culpepper thought the compromise was reasonable and recommended to Mr. Cole that he accept the offer. However, Mr. Cole refused to settle his claim for that amount, believing he was entitled to a larger share of his mother's succession as a forced heir. When Mr. Culpepper refused to file suit in the matter, Mr. Cole terminated his representation. Mr. Cole then proceeded in proper person["_In propria persona_ is a Latin phrase meaning 'for one's self.' The phrase is used for a person who appears before a court or represents themself in absence of a lawyer. It is synonymous with the term _pro se_." [Wex Legal Dictionary](https://www.law.cornell.edu/wex/in_propria_persona)]{.aside} to challenge his mother's will, but he was unsuccessful and recovered nothing. 
+After negotiation between Mr. Culpepper and counsel for the estate of Mr. Cole's mother, Mr. Cole was offered property worth $21,600.03 over and above what he would have received under the terms of the decedent's will. Mr. Culpepper thought the compromise was reasonable and recommended to Mr. Cole that he accept the offer.["_In propria persona_ is a Latin phrase meaning 'for one's self.' The phrase is used for a person who appears before a court or represents themself in absence of a lawyer. It is synonymous with the term _pro se_." [Wex Legal Dictionary](https://www.law.cornell.edu/wex/in_propria_persona)]{.aside} However, Mr. Cole refused to settle his claim for that amount, believing he was entitled to a larger share of his mother's succession as a forced heir. When Mr. Culpepper refused to file suit in the matter, Mr. Cole terminated his representation. Mr. Cole then proceeded in propria persona to challenge his mother's will, but he was unsuccessful and recovered nothing. 
 
 On April 12, 2004, Mr. Culpepper filed a "Petition on Open Account" on behalf of the Culpepper law firm. The suit was filed in Ruston City Court against Mr. Cole, seeking the sum of $6,950.01, plus legal interest, together with 25% on the principal and interest as additional attorney's fees. Attached to the petition were Mr. Culpepper's invoice for attorney's fees and a demand letter to Mr. Cole seeking the payment of "the entire balance of $6,950.01 that you owe Culpepper & Carroll, PLLC."
 

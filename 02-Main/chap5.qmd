@@ -256,7 +256,7 @@ This is a close case, even after we give the required deference to the state and
 #### @Rest2dLawGoverningLawyers
 
 ::: legalcode
-##### § 68 -- Attorney-Client Privilege
+##### § 68. Attorney-Client Privilege
 
 Except as otherwise provided in this Restatement, the attorney-client privilege may be invoked as provided in § 86 with respect to:
 
@@ -265,42 +265,42 @@ Except as otherwise provided in this Restatement, the attorney-client privilege 
 -   \(3\) in confidence
 -   \(4\) for the purpose of obtaining or providing legal assistance for the client.
 
-##### § 69 -- Attorney-Client Privilege—"Communication"
+##### § 69. Attorney-Client Privilege—"Communication"
 
 A communication within the meaning of § 68 is any expression through which a privileged person, as defined in § 70, undertakes to convey information to another privileged person and any document or other record revealing such an expression.
 
-##### § 70 -- Attorney-Client Privilege—"Privileged Persons"
+##### § 70. Attorney-Client Privilege—"Privileged Persons"
 
 Privileged persons within the meaning of § 68 are the client (including a prospective client), the client's lawyer, agents of either who facilitate communications between them, and agents of the lawyer who facilitate the representation.
 
-##### § 71 -- Attorney-Client Privilege—"In Confidence"
+##### § 71. Attorney-Client Privilege—"In Confidence"
 
 A communication is in confidence within the meaning of § 68 if, at the time and in the circumstances of the communication, the communicating person reasonably believes that no one will learn the contents of the communication except a privileged person as defined in § 70 or another person with whom communications are protected under a similar privilege.
 
-##### § 72 -- Attorney-Client Privilege—Legal Assistance as the Object of a Privileged Communication
+##### § 72. Attorney-Client Privilege—Legal Assistance as the Object of a Privileged Communication
 
 A communication is made for the purpose of obtaining or providing legal assistance within the meaning of § 68 if it is made to or to assist a person:
 
 -   \(1\) who is a lawyer or who the client or prospective client reasonably believes to be a lawyer; and
 -   \(2\) whom the client or prospective client consults for the purpose of obtaining legal assistance.
 
-##### § 75 -- The Privilege of Co-Clients
+##### § 75. The Privilege of Co-Clients
 
 -   \(1\) If two or more persons are jointly represented by the same lawyer in a matter, a communication of either co-client that otherwise qualifies as privileged under §§ 68-72 and relates to matters of common interest is privileged as against third persons, and any co-client may invoke the privilege, unless it has been waived by the client who made the communication.
 -   \(2\) Unless the co-clients have agreed otherwise, a communication described in Subsection (1) is not privileged as between the co-clients in a subsequent adverse proceeding between them.
 
-##### § 76 -- The Privilege in Common-Interest Arrangements
+##### § 76. The Privilege in Common-Interest Arrangements
 
 -   \(1\) If two or more clients with a common interest in a litigated or nonlitigated matter are represented by separate lawyers and they agree to exchange information concerning the matter, a communication of any such client that otherwise qualifies as privileged under §§ 68-72 that relates to the matter is privileged as against third persons. Any such client may invoke the privilege, unless it has been waived by the client who made the communication.
 -   \(2\) Unless the clients have agreed otherwise, a communication described in Subsection (1) is not privileged as between clients described in Subsection (1) in a subsequent adverse proceeding between them.
 :::
 
 ::: legalcode
-##### § 77 -- Duration of the Privilege
+##### § 77. Duration of the Privilege
 
 Unless waived (see §§ 78-80) or subject to exception (see §§ 81-85), the attorney-client privilege may be invoked as provided in § 86 at any time during or after termination of the relationship between client or prospective client and lawyer.
 
-##### § 86 -- Invoking the Privilege and Its Exceptions
+##### § 86. Invoking the Privilege and Its Exceptions
 
 -   \(1\) When an attempt is made to introduce in evidence or obtain discovery of a communication privileged under § 68:
     -   \(a\) A client, a personal representative of an incompetent or deceased client, or a person succeeding to the interest of a client may invoke or waive the privilege, either personally or through counsel or another authorized agent.
@@ -499,24 +499,24 @@ In sum, we reaffirm that a client's communications to his lawyer threatening har
 #### @Rest2dLawGoverningLawyers
 
 ::: legalcode
-##### § 87 -- Lawyer Work-Product Immunity
+##### § 87. Lawyer Work-Product Immunity
 
 -   \(1\) Work product consists of tangible material or its intangible equivalent in unwritten or oral form, other than underlying facts, prepared by a lawyer for litigation then in progress or in reasonable anticipation of future litigation.
 -   \(2\) Opinion work product consists of the opinions or mental impressions of a lawyer; all other work product is ordinary work product.
 -   \(3\) Except for material which by applicable law is not so protected, work product is immune from discovery or other compelled disclosure to the extent stated in §§ 88 (ordinary work product) and 89 (opinion work product) when the immunity is invoked as described in § 90.
 
-##### § 88 -- Ordinary Work Product
+##### § 88. Ordinary Work Product
 
 When work product protection is invoked as described in § 90, ordinary work product (§ 87(2)) is immune from discovery or other compelled disclosure unless either an exception recognized in §§ 91-93 applies or the inquiring party:
 
 -   \(1\) has a substantial need for the material in order to prepare for trial; and
 -   \(2\) is unable without undue hardship to obtain the substantial equivalent of the material by other means.
 
-##### § 89 -- Opinion Work Product
+##### § 89. Opinion Work Product
 
 When work product protection is invoked as described in § 90, opinion work product (§ 87(2)) is immune from discovery or other compelled disclosure unless either the immunity is waived or an exception applies (§§ 91-93) or extraordinary circumstances justify disclosure.
 
-##### § 90 -- Invoking the Lawyer Work-Product Immunity and Its Exceptions
+##### § 90. Invoking the Lawyer Work-Product Immunity and Its Exceptions
 
 -   \(1\) Work-product immunity may be invoked by or for a person on whose behalf the work product was prepared.
 -   \(2\) The person invoking work-product immunity must object and, if the objection is contested, demonstrate each element of the immunity.
@@ -573,7 +573,7 @@ Rule 26(b)(3) allows a court to order disclosure when the requesting party can s
 
 The government makes two categorical arguments that the Deloitte Memorandum cannot be work product. First, it argues that the Deloitte Memorandum cannot be work product because it was created by Deloitte, not Dow or its representative. Second, it argues that the Deloitte Memorandum cannot be work product because it was generated as part of the routine audit process, not in anticipation of litigation. If either argument is correct, the Deloitte Memorandum cannot be work product, regardless of its contents. We reject both arguments, but nevertheless conclude that the district court lacked sufficient information to determine that the entire Deloitte Memorandum is work product.
 
-*1*
+[1]{.casesubsubsection}
 
 The government first contends that Dow cannot claim work-product protection for the Deloitte Memorandum because it was prepared by Deloitte. Rule 26(b)(3) only protects "documents and tangible things that are prepared by or for another party or its representative." Given this language, the government argues that the Deloitte Memorandum is not work product because Deloitte is not Dow's representative. It relies principally on *United States v. Arthur Young & Co.*, in which the Supreme Court refused to recognize an accountant work-product privilege. In *Arthur Young*, the Court contrasted the role of an attorney with that of an accountant, explaining that an attorney is "a loyal representative whose duty it is to present the client's case in the most favorable possible light," whereas an independent certified public accountant has a "public responsibility" and "owes ultimate allegiance to the corporation's creditors and stockholders, as well as to the investing public." In the government's view, *Arthur Young* demonstrates that Deloitte cannot be Dow's representative, which in turn means that the Deloitte Memorandum cannot be work product under the plain language of Rule 26(b)(3). Dow counters that the "representative" for purposes of Rule 26(b)(3) is its counsel, whose thoughts and opinions are recorded in the document. In addition, it argues that the Deloitte Memorandum is work product because it contains the same type of opinion work product that is found in the Dow Documents, which the government concedes are work product.
 
@@ -581,7 +581,7 @@ Even if the government is correct in asserting that the Deloitte Memorandum fall
 
 The government focuses on Deloitte's role in creating the document and on its relationship to Dow. Under *Hickman*, however, the question is not who created the document or how they are related to the party asserting work-product protection, but whether the document contains work product---the thoughts and opinions of counsel developed in anticipation of litigation. The district court found that the memorandum records those thoughts, even though Deloitte and not Dow or its attorney committed them to paper. The work product privilege does not depend on whether the thoughts and opinions were communicated orally or in writing, but on whether they were prepared in anticipation of litigation. Thus Deloitte's preparation of the document does not exclude the possibility that it contains Dow's work product.
 
-*2*
+[2]{.casesubsubsection}
 
 The government next contends that the Deloitte Memorandum cannot be work product because it was generated during an annual audit, not prepared in anticipation of litigation. The courts are not unanimous on the proper test for determining whether a document was prepared "in anticipation of litigation." Under the test adopted by most circuits, the question is whether the document was created "because of" the anticipated litigation. The Fifth Circuit, however, requires that anticipation of litigation be the "primary motivating purpose" behind the document's creation.
 
@@ -593,7 +593,7 @@ We think the government misreads *Delaney*. While *Delaney* used the term "funct
 
 In short, a document can contain protected work-product material even though it serves multiple purposes, so long as the protected material was prepared because of the prospect of litigation.
 
-*3*
+[3]{.casesubsubsection}
 
 Rejecting the government's categorical arguments establishes only that the Deloitte Memorandum may be protected work product under the law; we must now determine whether it is. On examination of the record, we conclude that the district court did not have a sufficient evidentiary foundation for its holding that the memorandum was purely work product. According to the record, the document was created during Deloitte's preparation of an audit report which in Deloitte's view required consideration of potential litigation. The meeting generating the document included both Deloitte and Dow employees, as well as Dow's outside counsel. The document itself was prepared by a third party. While none of this negates the possibility of work-product privilege, it could make it likely that the document includes other information that is not work product. According to Dow's privilege log and the Curry declaration, the memorandum does contain thoughts and analyses by legal counsel, but this does not rule out or even render unlikely the possibility that it also includes other facts, other thoughts, other analyses by non-attorneys which may not be so intertwined with the legal analysis as to warrant protection under the work-product doctrine. We will therefore remand this question to the district court for the purpose of independently assessing whether the document was entirely work product, or whether a partial or redacted version of the document could have been disclosed. Accordingly, we vacate the district court's decision that the Deloitte Memorandum was work product and remand so that the district court can examine the document in camera to determine whether it is entirely work product.
 
@@ -605,13 +605,13 @@ While voluntary disclosure waives the attorney-client privilege, it does not nec
 
 Applying this standard, the government contends that Dow has waived work-product protection for the Dow Documents because Deloitte is (1) a potential adversary and (2) a conduit to other adversaries. We reject both contentions and conclude that Dow has not waived the protection.
 
-*1*
+[1]{.casesubsubsection}
 
 The government contends that Deloitte is a potential adversary of Dow because disputes sometimes arise between independent auditors and their clients and because independent auditors have the power to issue opinions that adversely affect their clients. Neither argument demonstrates that Deloitte is a potential adversary for purposes of waiver analysis. First, as an independent auditor, Deloitte cannot be Dow's adversary. Even the threat of litigation between an independent auditor and its client can compromise the auditor's independence and necessitate withdrawal. Further, Deloitte's power to issue an adverse opinion, while significant, does not make it the sort of litigation adversary contemplated by the waiver standard. Similarly, "any tension between an auditor and a corporation that arises from an auditor's need to scrutinize and investigate a corporation's records and book-keeping practices simply is not the equivalent of an adversarial relationship contemplated by the work product doctrine." Second, the possibility of a future dispute between Deloitte and Dow does not render Deloitte a potential adversary for the present purpose. If it did, any voluntary disclosure would constitute waiver. Yet the work-product doctrine allows disclosures as long as they do not undercut the adversary process.
 
 Here, the question is not whether Deloitte could be Dow's adversary in any conceivable future litigation, but whether Deloitte could be Dow's adversary in the sort of litigation the Dow Documents address. We conclude that the answer must be no. In preparing the Dow Documents, Dow anticipated a dispute with the IRS, not a dispute with Deloitte. The documents, which concern the tax implications of the Chemtech partnerships, would not likely be relevant in any dispute Dow might have with Deloitte. Thus Deloitte cannot be considered a potential adversary with respect to the Dow Documents.
 
-*2*
+[2]{.casesubsubsection}
 
 The government also asserts that Deloitte is a conduit to Dow's adversaries. It claims the district court failed to address this question, but this ignores the district court's explicit statement that "no evidence suggests that it was unreasonable for Dow to expect Deloitte USA to maintain confidentiality." Like the district court, we conclude that Deloitte is not a conduit to Dow's adversaries.
 
@@ -638,7 +638,7 @@ Furthermore, we are mindful that independent auditors have significant leverage 
 #### @Rest2dLawGoverningLawyers
 
 ::: legalcode
-##### § 73 -- The Privilege for an Organizational Client
+##### § 73. The Privilege for an Organizational Client
 
 When a client is a corporation, unincorporated association, partnership, trust, estate, sole proprietorship, or other for-profit or not-for-profit organization, the attorney-client privilege extends to a communication that:
 
@@ -649,7 +649,7 @@ When a client is a corporation, unincorporated association, partnership, trust, 
     -   \(a\) privileged persons as defined in § 70; and
     -   \(b\) other agents of the organization who reasonably need to know of the communication in order to act for the organization.
 
-##### § 74 -- The Privilege for a Governmental Client
+##### § 74. The Privilege for a Governmental Client
 
 Unless applicable law otherwise provides, the attorney-client privilege extends to a communication of a governmental organization as stated in § 73 and of an individual employee or other agent of a governmental organization as a client with respect to his or her personal interest as stated in §§ 68-72.
 :::
@@ -703,7 +703,8 @@ Needless to say, we decide only the case before us, and do not undertake to draf
 #### @Rest2dLawGoverningLawyers
 
 ::: legalcode
-##### § 78 -- Agreement, Disclaimer, or Failure to Object
+
+##### § 78. Agreement, Disclaimer, or Failure to Object
 
 The attorney-client privilege is waived if the client, the client's lawyer, or another authorized agent of the client:
 
@@ -713,11 +714,11 @@ The attorney-client privilege is waived if the client, the client's lawyer, or a
     -   \(b\) reasons of judicial administration require that the client not be permitted to revoke the disclaimer; or
 -   \(3\) in a proceeding before a tribunal, fails to object properly to an attempt by another person to give or exact testimony or other evidence of a privileged communication.
 
-##### § 79 -- Subsequent Disclosure
+##### § 79. Subsequent Disclosure
 
 The attorney-client privilege is waived if the client, the client's lawyer, or another authorized agent of the client voluntarily discloses the communication in a nonprivileged communication.
 
-##### § 80 -- Putting Assistance or a Communication in Issue
+##### § 80. Putting Assistance or a Communication in Issue
 
 -   \(1\) The attorney-client privilege is waived for any relevant communication if the client asserts as to a material issue in a proceeding that:
     -   \(a\) the client acted upon the advice of a lawyer or that the advice was otherwise relevant to the legal significance of the client's conduct; or
@@ -726,32 +727,32 @@ The attorney-client privilege is waived if the client, the client's lawyer, or a
     -   \(a\) employs the communication to aid the witness while testifying; or
     -   \(b\) employed the communication in preparing to testify, and the tribunal finds that disclosure is required in the interests of justice.
 
-##### § 81 -- A Dispute Concerning a Decedent's Disposition of Property
+##### § 81. A Dispute Concerning a Decedent's Disposition of Property
 
 The attorney-client privilege does not apply to a communication from or to a decedent relevant to an issue between parties who claim an interest through the same deceased client, either by testate or intestate succession or by an inter vivos transaction.
 
-##### § 82 -- Client Crime or Fraud
+##### § 82. Client Crime or Fraud
 
 The attorney-client privilege does not apply to a communication occurring when a client:
 
 -   \(a\) consults a lawyer for the purpose, later accomplished, of obtaining assistance to engage in a crime or fraud or aiding a third person to do so, or
 -   \(b\) regardless of the client's purpose at the time of consultation, uses the lawyer's advice or other services to engage in or assist a crime or fraud.
 
-##### § 83 -- Lawyer Self-Protection
+##### § 83. Lawyer Self-Protection
 
 The attorney-client privilege does not apply to a communication that is relevant and reasonably necessary for a lawyer to employ in a proceeding:
 
 -   \(1\) to resolve a dispute with a client concerning compensation or reimbursement that the lawyer reasonably claims the client owes the lawyer; or
 -   \(2\) to defend the lawyer or the lawyer's associate or agent against a charge by any person that the lawyer, associate, or agent acted wrongfully during the course of representing a client.
 
-##### § 84 -- Fiduciary-Lawyer Communications
+##### § 84. Fiduciary-Lawyer Communications
 
 In a proceeding in which a trustee of an express trust or similar fiduciary is charged with breach of fiduciary duties by a beneficiary, a communication otherwise within § 68 is nonetheless not privileged if the communication:
 
 -   \(a\) is relevant to the claimed breach; and
 -   \(b\) was between the trustee and a lawyer (or other privileged person within the meaning of § 70) who was retained to advise the trustee concerning the administration of the trust.
 
-##### § 85 -- Communications Involving a Fiduciary Within an Organization
+##### § 85. Communications Involving a Fiduciary Within an Organization
 
 In a proceeding involving a dispute between an organizational client and shareholders, members, or other constituents of the organization toward whom the directors, officers, or similar persons managing the organization bear fiduciary responsibilities, the attorney-client privilege of the organization may be withheld from a communication otherwise within § 68 if the tribunal finds that:
 
@@ -759,7 +760,7 @@ In a proceeding involving a dispute between an organizational client and shareho
 -   \(b\) the communication occurred prior to the assertion of the charges and relates directly to those charges; and
 -   \(c\) the need of the requesting party to discover or introduce the communication is sufficiently compelling and the threat to confidentiality sufficiently confined to justify setting the privilege aside.
 
-##### § 91 -- Voluntary Acts
+##### § 91. Voluntary Acts
 
 Work-product immunity is waived if the client, the client's lawyer, or another authorized agent of the client:
 
@@ -770,7 +771,7 @@ Work-product immunity is waived if the client, the client's lawyer, or another a
 -   \(3\) in a proceeding before a tribunal, fails to object properly to an attempt by another person to give or exact testimony or other evidence of work product; or
 -   \(4\) discloses the material to third persons in circumstances in which there is a significant likelihood that an adversary or potential adversary in anticipated litigation will obtain it.
 
-##### § 92 -- Use of Lawyer Work Product in Litigation
+##### § 92. Use of Lawyer Work Product in Litigation
 
 -   \(1\) Work-product immunity is waived for any relevant material if the client asserts as to a material issue in a proceeding that:
     -   \(a\) the client acted upon the advice of a lawyer or that the advice was otherwise relevant to the legal significance of the client's conduct; or
@@ -779,7 +780,7 @@ Work-product immunity is waived if the client, the client's lawyer, or another a
     -   \(a\) employs the material to aid the witness while testifying, or
     -   \(b\) employed the material in preparing to testify, and the tribunal finds that disclosure is required in the interests of justice.
 
-##### § 93 -- Client Crime or Fraud
+##### § 93. Client Crime or Fraud
 
 Work-product immunity does not apply to materials prepared when a client consults a lawyer for the purpose, later accomplished, of obtaining assistance to engage in a crime or fraud or to aid a third person to do so or uses the materials for such a purpose.
 :::

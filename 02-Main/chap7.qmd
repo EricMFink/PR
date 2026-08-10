@@ -3,24 +3,27 @@
 ## Fairness & Impartiality
 
 #### @MRPC31
+
 ::: {.legalcode}
 
 ##### Meritorious Claims & Defenses 
 
-A lawyer shall not bring or defend a proceeding, or assert or controvert an issue therein, unless there is a basis in law and fact for doing so that is not frivolous, which includes a good faith argument for an extension, modification or reversal of existing law. A lawyer for the defendant in a criminal proceeding, or the respondent in a proceeding that could result in incarceration, may nevertheless so defend the proceeding as to require that every element of the case be established.
+- A lawyer shall not bring or defend a proceeding, or assert or controvert an issue therein, unless there is a basis in law and fact for doing so that is not frivolous, which includes a good faith argument for an extension, modification or reversal of existing law. A lawyer for the defendant in a criminal proceeding, or the respondent in a proceeding that could result in incarceration, may nevertheless so defend the proceeding as to require that every element of the case be established.
 
 :::
 
 #### @MRPC32
+
 ::: {.legalcode}
 
 ##### Expediting Litigation 
 
-A lawyer shall make reasonable efforts to expedite litigation consistent with the interests of the client.
+- A lawyer shall make reasonable efforts to expedite litigation consistent with the interests of the client.
 
 :::
 
 #### @MRPC33
+
 ::: {.legalcode}
 
 ##### Candor Toward the Tribunal
@@ -36,41 +39,42 @@ A lawyer shall make reasonable efforts to expedite litigation consistent with th
 :::
 
 #### @MRPC34
+
 ::: {.legalcode}
 
 ##### Fairness to Opposing Party & Counsel
 
-A lawyer shall not:
-
-- (a\) unlawfully obstruct another party's access to evidence or unlawfully alter, destroy or conceal a document or other material having potential evidentiary value. A lawyer shall not counsel or assist another person to do any such act;
-- (b\) falsify evidence, counsel or assist a witness to testify falsely, or offer an inducement to a witness that is prohibited by law;
-- (c\) knowingly disobey an obligation under the rules of a tribunal except for an open refusal based on an assertion that no valid obligation exists;
-- (d\) in pretrial procedure, make a frivolous discovery request or fail to make reasonably diligent effort to comply with a legally proper discovery request by an opposing party;
-- (e\) in trial, allude to any matter that the lawyer does not reasonably believe is relevant or that will not be supported by admissible evidence, assert personal knowledge of facts in issue except when testifying as a witness, or state a personal opinion as to the justness of a cause, the credibility of a witness, the culpability of a civil litigant or the guilt or innocence of an accused; or
-- (f\) request a person other than a client to refrain from voluntarily giving relevant information to another party unless:
-	- (1\) the person is a relative or an employee or other agent of a client; and
-	- (2\) the lawyer reasonably believes that the person's interests will not be adversely affected by refraining from giving such information.
+- A lawyer shall not:
+	- (a\) unlawfully obstruct another party's access to evidence or unlawfully alter, destroy or conceal a document or other material having potential evidentiary value. A lawyer shall not counsel or assist another person to do any such act;
+	- (b\) falsify evidence, counsel or assist a witness to testify falsely, or offer an inducement to a witness that is prohibited by law;
+	- (c\) knowingly disobey an obligation under the rules of a tribunal except for an open refusal based on an assertion that no valid obligation exists;
+	- (d\) in pretrial procedure, make a frivolous discovery request or fail to make reasonably diligent effort to comply with a legally proper discovery request by an opposing party;
+	- (e\) in trial, allude to any matter that the lawyer does not reasonably believe is relevant or that will not be supported by admissible evidence, assert personal knowledge of facts in issue except when testifying as a witness, or state a personal opinion as to the justness of a cause, the credibility of a witness, the culpability of a civil litigant or the guilt or innocence of an accused; or
+	- (f\) request a person other than a client to refrain from voluntarily giving relevant information to another party unless:
+		- (1\) the person is a relative or an employee or other agent of a client; and
+		- (2\) the lawyer reasonably believes that the person's interests will not be adversely affected by refraining from giving such information.
 
 :::
 
 #### @MRPC35
+
 ::: {.legalcode}
 
 ##### Impartiality and Decorum of the Tribunal
 
-A lawyer shall not:
-
-- (a\) seek to influence a judge, juror, prospective juror or other official by means prohibited by law;
-- (b\) communicate ex parte with such a person during the proceeding unless authorized to do so by law or court order;
-- (c\) communicate with a juror or prospective juror after discharge of the jury if:
-	- (1\) the communication is prohibited by law or court order;
-	- (2\) the juror has made known to the lawyer a desire not to communicate; or
-	- (3\) the communication involves misrepresentation, coercion, duress or harassment; or
-- (d\) engage in conduct intended to disrupt a tribunal.
+- A lawyer shall not:
+	- (a\) seek to influence a judge, juror, prospective juror or other official by means prohibited by law;
+	- (b\) communicate ex parte with such a person during the proceeding unless authorized to do so by law or court order;
+	- (c\) communicate with a juror or prospective juror after discharge of the jury if:
+		- (1\) the communication is prohibited by law or court order;
+		- (2\) the juror has made known to the lawyer a desire not to communicate; or
+		- (3\) the communication involves misrepresentation, coercion, duress or harassment; or
+	- (d\) engage in conduct intended to disrupt a tribunal.
 
 :::
 
 #### @MRPC36
+
 ::: {.legalcode}
 
 ##### Trial Publicity
@@ -94,6 +98,7 @@ A lawyer shall not:
 :::
 
 #### @MRPC37
+
 ::: {.legalcode}
 
 ##### Lawyer as Witness
@@ -227,8 +232,6 @@ The intent to commit a crime is not a protected confidence or secret. Moreover, 
 Finally, defendant contends that his counsel should have sought to withdraw from the case. However, substitution of counsel would do little to resolve the problem and might, in fact, have facilitated any fraud defendant wished to perpetrate upon the court. Withdrawal of counsel could present other unsatisfactory scenarios which ultimately could lead to introduction of the perjured testimony in any event or further delay the proceedings.
 
 In this case, defendant was allowed to present his testimony in narrative form to the jury. The remainder of defense counsel's representation throughout the trial was more than competent. The lawyer's actions properly balanced the duties he owed to his client and to the court and criminal justice system; "since there has been no breach of any recognized professional duty, it follows that there can be no deprivation of the right to assistance of counsel".
-
-Accordingly, the order of the Appellate Division should be affirmed.
 
 #### @StateHischke_Iowa2002
 
@@ -383,8 +386,6 @@ We therefore affirm the judgment of the district court but without prejudice to 
 ### Trial Publicity
 
 #### @MatterDisciplineLeavitt_Utah2025
-
-##### Justice Petersen, opinion of the Court:
 
 [Introduction]{.casesection}
 
@@ -636,6 +637,7 @@ Here, none of the five factors weigh in favor of disqualification. As discussed 
 ## Prosecutorial Misconduct
 
 #### @MRPC38
+
 ::: {.legalcode}
 
 ##### Special Responsibilities of a Prosecutor
@@ -671,7 +673,7 @@ The prosecutor in a criminal case shall:
 
 ::: {.legalcode}
 
-##### Standard 3-1.2 -- Functions and Duties of the Prosecutor
+##### Standard 3-1.2. Functions and Duties of the Prosecutor
 
 - (a\) The prosecutor is an administrator of justice, a zealous advocate, and an officer of the court. The prosecutor's office should exercise sound discretion and independent judgment in the performance of the prosecution function.
 - (b\) The primary duty of the prosecutor is to seek justice within the bounds of the law, not merely to convict. The prosecutor serves the public interest and should act with integrity and balanced judgment to increase public safety both by pursuing appropriate criminal charges of appropriate severity, and by exercising discretion to not pursue criminal charges in appropriate circumstances. The prosecutor should seek to protect the innocent and convict the guilty, consider the interests of victims and witnesses, and respect the constitutional and legal rights of all persons, including suspects and defendants.
@@ -680,22 +682,22 @@ The prosecutor in a criminal case shall:
 - (e\) The prosecutor should be knowledgeable about, consider, and where appropriate develop or assist in developing alternatives to prosecution or conviction that may be applicable in individual cases or classes of cases. The prosecutor's office should be available to assist community efforts addressing problems that lead to, or result from, criminal activity or perceived flaws in the criminal justice system.
 - (f\) The prosecutor is not merely a case-processor but also a problem-solver responsible for considering broad goals of the criminal justice system. The prosecutor should seek to reform and improve the administration of criminal justice, and when inadequacies or injustices in the substantive or procedural law come to the prosecutor's attention, the prosecutor should stimulate and support efforts for remedial action. The prosecutor should provide service to the community, including involvement in public service and Bar activities, public education, community service activities, and Bar leadership positions. A prosecutorial office should support such activities, and the office's budget should include funding and paid release time for such activities.
 
-##### Standard 3-1.3 -- The Client of the Prosecutor
+##### Standard 3-1.3. The Client of the Prosecutor
 
 The prosecutor generally serves the public and not any particular government agency, law enforcement officer or unit, witness or victim. When investigating or prosecuting a criminal matter, the prosecutor does not represent law enforcement personnel who have worked on the matter and such law enforcement personnel are not the prosecutor's clients. The public's interests and views should be determined by the chief prosecutor and designated assistants in the jurisdiction.
 
-##### Standard 3-1.4 -- The Prosecutor's Heightened Duty of Candor
+##### Standard 3-1.4. The Prosecutor's Heightened Duty of Candor
 
 - (a\) In light of the prosecutor's public responsibilities, broad authority and discretion, the prosecutor has a heightened duty of candor to the courts and in fulfilling other professional obligations. However, the prosecutor should be circumspect in publicly commenting on specific cases or aspects of the business of the office.
 - (b\) The prosecutor should not make a statement of fact or law, or offer evidence, that the prosecutor does not reasonably believe to be true, to a court, lawyer, witness, or third party, except for lawfully authorized investigative purposes. In addition, while seeking to accommodate legitimate confidentiality, safety or security concerns, a prosecutor should correct a prosecutor's representation of material fact or law that the prosecutor reasonably believes is, or later learns was, false, and should disclose a material fact or facts when necessary to avoid assisting a fraudulent or criminal act or to avoid misleading a judge or factfinder.
 - (c\) The prosecutor should disclose to a court legal authority in the controlling jurisdiction known to the prosecutor to be directly adverse to the prosecution's position and not disclosed by others.
 
-##### Standard 3-1.6 -- Improper Bias Prohibited
+##### Standard 3-1.6. Improper Bias Prohibited
 
 - (a\) The prosecutor should not manifest or exercise, by words or conduct, bias or prejudice based upon race, sex, religion, national origin, disability, age, sexual orientation, gender identity, or socioeconomic status. A prosecutor should not use other improper considerations, such as partisan or political or personal considerations, in exercising prosecutorial discretion. A prosecutor should strive to eliminate implicit biases, and act to mitigate any improper bias or prejudice when credibly informed that it exists within the scope of the prosecutor's authority.
 - (b\) A prosecutor's office should be proactive in efforts to detect, investigate, and eliminate improper biases, with particular attention to historically persistent biases like race, in all of its work. A prosecutor's office should regularly assess the potential for biased or unfairly disparate impacts of its policies on communities within the prosecutor's jurisdiction, and eliminate those impacts that cannot be properly justified.
 
-##### Standard 3-1.12 -- Duty to Report and Respond to Prosecutorial Misconduct
+##### Standard 3-1.12. Duty to Report and Respond to Prosecutorial Misconduct
 
 - (a\) The prosecutor's office should adopt policies to address allegations of professional misconduct, including violations of law, by prosecutors. At a minimum such policies should require internal reporting of reasonably suspected misconduct to supervisory staff within the office, and authorize supervisory staff to quickly address the allegations. Investigations of allegations of professional misconduct within the prosecutor's office should be handled in an independent and conflict-free manner.
 - (b\) When a prosecutor reasonably believes that another person associated with the prosecutor's office intends or is about to engage in misconduct, the prosecutor should attempt to dissuade the person. If such attempt fails or is not possible, and the prosecutor reasonably believes that misconduct is ongoing, will occur, or has occurred, the prosecutor should promptly refer the matter to higher authority in the prosecutor's office including, if warranted by the seriousness of the matter, to the chief prosecutor.

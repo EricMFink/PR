@@ -562,7 +562,7 @@ In addition to the educational and examination requirements, applicants must als
 
 :::
 
-#### NCBoardLawExaminersCharacterFitness
+#### @NCBoardLawExaminersCharacterFitness
 
 ::: {.legalcode}
 

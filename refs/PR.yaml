@@ -22,7 +22,7 @@ references:
   type: book
 
 - id: AngMartin_Washington2005
-  authority: Washington
+  authority: Wash.
   citation-key: AngMartin_Washington2005
   container-title: P. 3d
   issued:
@@ -36,7 +36,8 @@ references:
 - id: BatesStateBarAriz_US1977
   authority: U.S.
   citation-key: BatesStateBarAriz_US1977
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1977
   page: '350'
@@ -45,9 +46,10 @@ references:
   volume: '433'
 
 - id: BergerUnitedStates_US1935
-  authority: US
+  authority: U.S.
   citation-key: BergerUnitedStates_US1935
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1935
   page: '78'
@@ -56,7 +58,7 @@ references:
   volume: '295'
 
 - id: BlumenthalKimberMfgInc_Connecticut2003
-  authority: Connecticut
+  authority: Conn.
   citation-key: BlumenthalKimberMfgInc_Connecticut2003
   container-title: Conn.
   container-title-short: Conn.
@@ -89,7 +91,7 @@ references:
       month: 4
       day: 19
   page: '198'
-  title: Capital Associated Industries, Inc. v. Stein
+  title: Capital Assoc. Indus., Inc. v. Stein
   type: legal_case
   volume: '922'
 
@@ -117,14 +119,15 @@ references:
     - year: 2001
   jurisdiction: ED Pennsylvania
   page: '193'
-  title: Clark Capital Management v. Annuity Investors Life Ins. Co.
+  title: Clark Capital Mgmt v. Annuity Inv'rs Life Ins. Co.
   type: legal_case
   volume: '149'
 
 - id: ClarkUnitedStates_US1933
-  authority: US
+  authority: U.S.
   citation-key: ClarkUnitedStates_US1933
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1933
   page: '1'
@@ -159,7 +162,7 @@ references:
   volume: '2021'
 
 - id: CorpDoe_EDVirginia1992
-  authority: E.D. Virginia
+  authority: E.D. Va.
   citation-key: CorpDoe_EDVirginia1992
   container-title: F. Supp.
   issued:
@@ -171,7 +174,7 @@ references:
   volume: '805'
 
 - id: CulpepperCarrollPLLCCole_Louisiana2006
-  authority: Louisiana
+  authority: La.
   citation-key: CulpepperCarrollPLLCCole_Louisiana2006
   container-title: So. 2d
   container-title-short: 2d
@@ -186,7 +189,7 @@ references:
   volume: '929'
 
 - id: DaimlerChryslerCorpKirkhart_NCCourtofAppeals2002
-  authority: N.C. Court of Appeals
+  authority: N.C. Ct.App.
   citation-key: DaimlerChryslerCorpKirkhart_NCCourtofAppeals2002
   container-title: SE 2d
   issued:
@@ -198,7 +201,7 @@ references:
   volume: '561'
 
 - id: DaughertyRunner_KentuckyCourtofAppeals1978
-  authority: Kentucky Court of Appeals
+  authority: Ky. Ct.App.
   citation-key: DaughertyRunner_KentuckyCourtofAppeals1978
   container-title: SW 2d
   issued:
@@ -283,7 +286,7 @@ references:
   type: legislation
 
 - id: DoughertyPepperHamiltonLLP_PennsylvaniaSuperiorCourt2016
-  authority: Pennsylvania Superior Court
+  authority: Pa. Super.Ct.
   citation-key: DoughertyPepperHamiltonLLP_PennsylvaniaSuperiorCourt2016
   container-title: A. 3d
   container-title-short: 3d
@@ -315,7 +318,7 @@ references:
   volume: '767'
 
 - id: FloridaBarPape_Florida2005
-  authority: Florida
+  authority: Fla.
   citation-key: FloridaBarPape_Florida2005
   container-title: So. 2d
   container-title-short: 2d
@@ -330,9 +333,10 @@ references:
   volume: '918'
 
 - id: FloridaBarWentIt_US1995
-  authority: US
+  authority: U.S.
   citation-key: FloridaBarWentIt_US1995
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1995
   page: '618'
@@ -394,19 +398,19 @@ references:
   volume: '54'
 
 - id: HillmanNuecesCounty_Texas2019
-  authority: Texas
+  authority: Tex
   citation-key: HillmanNuecesCounty_Texas2019
   container-title: SW 3d
   issued:
     - year: 2019
   jurisdiction: Tex
   page: '354'
-  title: Hillman v. Nueces County
+  title: Hillman v. Nueces Cty.
   type: legal_case
   volume: '579'
 
 - id: HunterVirginiaStateBar_Virginia2013
-  authority: Virginia
+  authority: Va.
   citation-key: HunterVirginiaStateBar_Virginia2013
   container-title: SE 2d
   issued:
@@ -418,7 +422,7 @@ references:
   volume: '744'
 
 - id: IshmaelMillington_CaliforniaCourtofAppeal1966
-  authority: California Court of Appeal
+  authority: Cal. Ct.App.
   citation-key: IshmaelMillington_CaliforniaCourtofAppeal1966
   container-title: Cal. App. 2d
   issued:
@@ -430,7 +434,7 @@ references:
   volume: '241'
 
 - id: JonesUS_DCCourtofAppeals2003
-  authority: D.C. Court of Appeals
+  authority: D.C. Ct.App.
   citation-key: JonesUS_DCCourtofAppeals2003
   container-title: A. 2d
   container-title-short: 2d
@@ -467,9 +471,10 @@ references:
   volume: '35'
 
 - id: KnowlesMirzayance_SupremeCourt2009
-  authority: Supreme Court
+  authority: U.S.
   citation-key: KnowlesMirzayance_SupremeCourt2009
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 2009
   page: '111'
@@ -478,9 +483,10 @@ references:
   volume: '556'
 
 - id: LeeUnitedStates_SupremeCourt2017
-  authority: Supreme Court
+  authority: U.S.
   citation-key: LeeUnitedStates_SupremeCourt2017
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 2017
   page: '357'
@@ -523,7 +529,7 @@ references:
   volume: '40'
 
 - id: MakinsDistrictColumbia_DCCourtofAppeals2004
-  authority: D.C. Court of Appeals
+  authority: D.C. Ct. App.
   citation-key: MakinsDistrictColumbia_DCCourtofAppeals2004
   container-title: A. 2d
   container-title-short: 2d
@@ -536,7 +542,7 @@ references:
   volume: '861'
 
 - id: MarkerGreenberg_Minnesota1981
-  authority: Minnesota
+  authority: Minn.
   citation-key: MarkerGreenberg_Minnesota1981
   container-title: NW 2d
   issued:
@@ -602,7 +608,7 @@ references:
   volume: '579'
 
 - id: MatterFordham_Massachusetts1996
-  authority: Massachusetts
+  authority: Mass.
   citation-key: MatterFordham_Massachusetts1996
   container-title: Mass.
   container-title-short: Mass.
@@ -610,24 +616,24 @@ references:
     - year: 1996
   jurisdiction: Mass
   page: '481'
-  title: In the Matter of Fordham
+  title: Matter of Fordham
   type: legal_case
   volume: '423'
 
 - id: MatterGrandJuryInvestigation_Massachusetts2009
-  authority: Massachusetts
+  authority: Mass.
   citation-key: MatterGrandJuryInvestigation_Massachusetts2009
   container-title: NE 2d
   issued:
     - year: 2009
   jurisdiction: Mass
   page: '929'
-  title: In the Matter of a Grand Jury Investigation
+  title: In re Grand Jury Investigation
   type: legal_case
   volume: '902'
 
 - id: MatterSilva_RhodeIsland1994
-  authority: Rhode Island
+  authority: R.I.
   citation-key: MatterSilva_RhodeIsland1994
   container-title: A. 2d
   container-title-short: 2d
@@ -635,12 +641,12 @@ references:
     - year: 1994
   jurisdiction: RI
   page: '316'
-  title: In the Matter of Silva
+  title: Matter of Silva
   type: legal_case
   volume: '636'
 
 - id: MatterTennant_Montana2017
-  authority: Montana
+  authority: Mont.
   citation-key: MatterTennant_Montana2017
   container-title: P. 3d
   issued:
@@ -654,7 +660,7 @@ references:
   volume: '392'
 
 - id: McClureThompson_9thCircuit2003
-  authority: 9th Circuit
+  authority: 9th Cir.
   citation-key: McClureThompson_9thCircuit2003
   container-title: F. 3d
   issued:
@@ -677,407 +683,294 @@ references:
 
 - id: MRPC10
   citation-key: MRPC10
-  container-title: MRPC
-  section: Rule 1.0
   title: MRPC Rule 1.0
-  type: legislation
+  type: document
 
 - id: MRPC11
   citation-key: MRPC11
-  container-title: MRPC
-  section: Rule 1.1
   title: MRPC Rule 1.1
-  type: legislation
+  type: document
 
 - id: MRPC110
   citation-key: MRPC110
-  container-title: MRPC
-  section: Rule 1.10
   title: MRPC Rule 1.10
-  type: legislation
+  type: document
 
 - id: MRPC111
   citation-key: MRPC111
-  container-title: MRPC
-  section: Rule 1.11
   title: MRPC Rule 1.11
-  type: legislation
+  type: document
 
 - id: MRPC112
   citation-key: MRPC112
-  container-title: MRPC
-  section: Rule 1.12
   title: MRPC Rule 1.12
-  type: legislation
+  type: document
 
 - id: MRPC113
   citation-key: MRPC113
-  container-title: MRPC
-  section: Rule 1.13
   title: MRPC Rule 1.13
-  type: legislation
+  type: document
 
 - id: MRPC114
   citation-key: MRPC114
-  container-title: MRPC
-  section: Rule 1.14
   title: MRPC Rule 1.14
-  type: legislation
+  type: document
 
 - id: MRPC115
   citation-key: MRPC115
-  container-title: MRPC
-  section: Rule 1.15
   title: MRPC Rule 1.15
-  type: legislation
+  type: document
 
 - id: MRPC116
   citation-key: MRPC116
-  container-title: MRPC
-  section: Rule 1.16
   title: MRPC Rule 1.16
-  type: legislation
+  type: document
 
 - id: MRPC117
   citation-key: MRPC117
-  container-title: MRPC
-  section: Rule 1.17
   title: MRPC Rule 1.17
-  type: legislation
+  type: document
 
 - id: MRPC118
   citation-key: MRPC118
-  container-title: MRPC
-  section: Rule 1.18
   title: MRPC Rule 1.18
-  type: legislation
+  type: document
 
 - id: MRPC12
   citation-key: MRPC12
-  container-title: MRPC
-  section: Rule 1.2
   title: MRPC Rule 1.2
-  type: legislation
+  type: document
 
 - id: MRPC13
   citation-key: MRPC13
-  container-title: MRPC
-  section: Rule 1.3
   title: MRPC Rule 1.3
-  type: legislation
+  type: document
 
 - id: MRPC14
   citation-key: MRPC14
-  container-title: MRPC
-  section: Rule 1.4
   title: MRPC Rule 1.4
-  type: legislation
+  type: document
 
 - id: MRPC15
   citation-key: MRPC15
-  container-title: MRPC
-  section: Rule 1.5
   title: MRPC Rule 1.5
-  type: legislation
+  type: document
 
 - id: MRPC16
   citation-key: MRPC16
-  container-title: MRPC
-  section: Rule 1.6
   title: MRPC Rule 1.6
-  type: legislation
+  type: document
 
 - id: MRPC17
   citation-key: MRPC17
-  container-title: MRPC
-  section: Rule 1.7
   title: MRPC Rule 1.7
-  type: legislation
+  type: document
 
 - id: MRPC18
   citation-key: MRPC18
-  container-title: MRPC
-  section: Rule 1.8
   title: MRPC Rule 1.8
-  type: legislation
+  type: document
 
 - id: MRPC19
   citation-key: MRPC19
-  container-title: MRPC
-  section: Rule 1.9
   title: MRPC Rule 1.9
-  type: legislation
+  type: document
 
 - id: MRPC21
   citation-key: MRPC21
-  container-title: MRPC
-  section: Rule 2.1
   title: MRPC Rule 2.1
-  type: legislation
+  type: document
 
 - id: MRPC23
   citation-key: MRPC23
-  container-title: MRPC
-  section: Rule 2.3
   title: MRPC Rule 2.3
-  type: legislation
+  type: document
 
 - id: MRPC24
   citation-key: MRPC24
-  container-title: MRPC
-  section: Rule 2.4
   title: MRPC Rule 2.4
-  type: legislation
+  type: document
 
 - id: MRPC31
   citation-key: MRPC31
-  container-title: MRPC
-  section: Rule 3.1
   title: MRPC Rule 3.1
-  type: legislation
+  type: document
 
 - id: MRPC32
   citation-key: MRPC32
-  container-title: MRPC
-  section: Rule 3.2
   title: MRPC Rule 3.2
-  type: legislation
+  type: document
 
 - id: MRPC33
   citation-key: MRPC33
-  container-title: MRPC
-  section: Rule 3.3
   title: MRPC Rule 3.3
-  type: legislation
+  type: document
 
 - id: MRPC34
   citation-key: MRPC34
-  container-title: MRPC
-  section: Rule 3.4
   title: MRPC Rule 3.4
-  type: legislation
+  type: document
 
 - id: MRPC35
   citation-key: MRPC35
-  container-title: MRPC
-  section: Rule 3.5
   title: MRPC Rule 3.5
-  type: legislation
+  type: document
 
 - id: MRPC36
   citation-key: MRPC36
-  container-title: MRPC
-  section: Rule 3.6
   title: MRPC Rule 3.6
-  type: legislation
+  type: document
 
 - id: MRPC37
   citation-key: MRPC37
-  container-title: MRPC
-  section: Rule 3.7
   title: MRPC Rule 3.7
-  type: legislation
+  type: document
 
 - id: MRPC38
   citation-key: MRPC38
-  container-title: MRPC
-  section: Rule 3.8
   title: MRPC Rule 3.8
-  type: legislation
+  type: document
 
 - id: MRPC39
   citation-key: MRPC39
-  container-title: MRPC
-  section: Rule 3.9
   title: MRPC Rule 3.9
-  type: legislation
+  type: document
 
 - id: MRPC41
   citation-key: MRPC41
-  container-title: MRPC
-  section: Rule 4.1
   title: MRPC Rule 4.1
-  type: legislation
+  type: document
 
 - id: MRPC42
   citation-key: MRPC42
-  container-title: MRPC
-  section: Rule 4.2
   title: MRPC Rule 4.2
-  type: legislation
+  type: document
 
 - id: MRPC43
   citation-key: MRPC43
-  container-title: MRPC
-  section: Rule 4.3
   title: MRPC Rule 4.3
-  type: legislation
+  type: document
 
 - id: MRPC44
   citation-key: MRPC44
-  container-title: MRPC
-  section: Rule 4.4
   title: MRPC Rule 4.4
-  type: legislation
+  type: document
 
 - id: MRPC51
   citation-key: MRPC51
-  container-title: MRPC
-  section: Rule 5.1
   title: MRPC Rule 5.1
-  type: legislation
+  type: document
 
 - id: MRPC52
   citation-key: MRPC52
-  container-title: MRPC
-  section: Rule 5.2
   title: MRPC Rule 5.2
-  type: legislation
+  type: document
 
 - id: MRPC53
   citation-key: MRPC53
-  container-title: MRPC
-  section: Rule 5.3
   title: MRPC Rule 5.3
-  type: legislation
+  type: document
 
 - id: MRPC54
   citation-key: MRPC54
-  container-title: MRPC
-  section: Rule 5.4
   title: MRPC Rule 5.4
-  type: legislation
+  type: document
 
 - id: MRPC55
   citation-key: MRPC55
-  container-title: MRPC
-  section: Rule 5.5
   title: MRPC Rule 5.5
-  type: legislation
+  type: document
 
 - id: MRPC56
   citation-key: MRPC56
-  container-title: MRPC
-  section: Rule 5.6
   title: MRPC Rule 5.6
-  type: legislation
+  type: document
 
 - id: MRPC57
   citation-key: MRPC57
-  container-title: MRPC
-  section: Rule 5.7
   title: MRPC Rule 5.7
-  type: legislation
+  type: document
 
 - id: MRPC61
   citation-key: MRPC61
-  container-title: MRPC
-  section: Rule 6.1
   title: MRPC Rule 6.1
-  type: legislation
+  type: document
 
 - id: MRPC62
   citation-key: MRPC62
-  container-title: MRPC
-  section: Rule 6.2
   title: MRPC Rule 6.2
-  type: legislation
+  type: document
 
 - id: MRPC63
   citation-key: MRPC63
-  container-title: MRPC
-  section: Rule 6.3
   title: MRPC Rule 6.3
-  type: legislation
+  type: document
 
 - id: MRPC64
   citation-key: MRPC64
-  container-title: MRPC
-  section: Rule 6.4
   title: MRPC Rule 6.4
-  type: legislation
+  type: document
 
 - id: MRPC65
   citation-key: MRPC65
-  container-title: MRPC
-  section: Rule 6.5
   title: MRPC Rule 6.5
-  type: legislation
+  type: document
 
 - id: MRPC71
   citation-key: MRPC71
-  container-title: MRPC
-  section: Rule 7.1
   title: MRPC Rule 7.1
-  type: legislation
+  type: document
 
 - id: MRPC72
   citation-key: MRPC72
-  container-title: MRPC
-  section: Rule 7.2
   title: MRPC Rule 7.2
-  type: legislation
+  type: document
 
 - id: MRPC73
   citation-key: MRPC73
-  container-title: MRPC
-  section: Rule 7.3
   title: MRPC Rule 7.3
-  type: legislation
+  type: document
 
 - id: MRPC76
   citation-key: MRPC76
-  container-title: MRPC
-  section: Rule 7.6
   title: MRPC Rule 7.6
-  type: legislation
+  type: document
 
 - id: MRPC81
   citation-key: MRPC81
-  container-title: MRPC
-  section: Rule 8.1
   title: MRPC Rule 8.1
-  type: legislation
+  type: document
 
 - id: MRPC82
   citation-key: MRPC82
-  container-title: MRPC
-  section: Rule 8.2
   title: MRPC Rule 8.2
-  type: legislation
+  type: document
 
 - id: MRPC83
   citation-key: MRPC83
-  container-title: MRPC
-  section: Rule 8.3
   title: MRPC Rule 8.3
-  type: legislation
+  type: document
 
 - id: MRPC84
   citation-key: MRPC84
-  container-title: MRPC
-  section: Rule 8.4
   title: MRPC Rule 8.4
-  type: legislation
+  type: document
 
 - id: MRPC85
   citation-key: MRPC85
-  container-title: MRPC
-  section: Rule 8.5
   title: MRPC Rule 8.5
-  type: legislation
+  type: document
 
 - id: MRPCPreambleScope
   citation-key: MRPCPreambleScope
-  container-title: MRPC
-  section: Preamble & Scope
   title: MRPC Preamble & Scope
-  type: legislation
+  type: document
 
 - id: NAACPButton_US1963
   authority: U.S.
   citation-key: NAACPButton_US1963
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1963
   page: '415'
@@ -1087,7 +980,8 @@ references:
 
 - id: NCBoardLawExaminersCharacterFitness
   citation-key: NCBoardLawExaminersCharacterFitness
-  title: N.C. Board of Law Examiners, Character and Fitness Guidelines
+  title: N.C. Bd. of Law Examiners, Character & Fitness Guidelines
+  title-short: Character & Fitness Guidelines
   type: document
 
 - id: NCRulesProfessional_Rule86
@@ -1124,9 +1018,10 @@ references:
   volume: '149'
 
 - id: NixWhiteside_US1986
-  authority: US
+  authority: U.S.
   citation-key: NixWhiteside_US1986
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1986
   page: '157'
@@ -1139,7 +1034,7 @@ references:
     - year: 2026
       month: 8
       day: 8
-  authority: N.C. Court of Appeals
+  authority: N.C. Ct.App.
   citation-key: NorthCarolinaStateBar_NCCourtofAppeals2019
   issued:
     - year: 2019
@@ -1164,9 +1059,10 @@ references:
   volume: '880'
 
 - id: OhralikOhioStateBar_US1978
-  authority: US
+  authority: U.S.
   citation-key: OhralikOhioStateBar_US1978
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1978
   page: '447'
@@ -1186,7 +1082,7 @@ references:
   type: legal_case
 
 - id: PeopleBelge_NYCountyCourtOnandagaCounty1975
-  authority: N.Y. County Court, Onandaga County
+  authority: N.Y. Cty.Ct., Onandaga Cty.
   citation-key: PeopleBelge_NYCountyCourtOnandagaCounty1975
   container-title: Misc. 2d
   issued:
@@ -1198,7 +1094,7 @@ references:
   volume: '83'
 
 - id: PeopleDePallo_NewYork2001
-  authority: New York
+  authority: N.Y.
   citation-key: PeopleDePallo_NewYork2001
   container-title: NE 2d
   issued:
@@ -1230,7 +1126,7 @@ references:
   type: legislation
 
 - id: ReConverse_Nebraska1999
-  authority: Nebraska
+  authority: Neb.
   citation-key: ReConverse_Nebraska1999
   container-title: NW 2d
   issued:
@@ -1242,30 +1138,30 @@ references:
   volume: '602'
 
 - id: ReDisciplinaryProceedingHaley_Washington2006
-  authority: Washington
+  authority: Wash.
   citation-key: ReDisciplinaryProceedingHaley_Washington2006
   container-title: P. 3d
   issued:
     - year: 2006
   jurisdiction: Wash
   page: '1262'
-  title: In re Disciplinary Proceeding Against Haley
+  title: In re Disciplinary Proc. Against Haley
   type: legal_case
   volume: '126'
 
 - id: ReDresserIndustriesInc_5thCircuit1992
-  authority: 5th Circuit
+  authority: 5th Cir.
   citation-key: ReDresserIndustriesInc_5thCircuit1992
   container-title: F. 2d
   issued:
     - year: 1992
   page: '540'
-  title: In re Dresser Industries, Inc.
+  title: In re Dresser Indus., Inc.
   type: legal_case
   volume: '972'
 
 - id: ReGrandJurySubpoena_4thCircuit2005
-  authority: 4th Circuit
+  authority: 4th Cir.
   citation-key: ReGrandJurySubpoena_4thCircuit2005
   container-title: F. 3d
   issued:
@@ -1279,7 +1175,7 @@ references:
   volume: '415'
 
 - id: ReJordan_Louisiana2005
-  authority: Louisiana
+  authority: La.
   citation-key: ReJordan_Louisiana2005
   container-title: So. 2d
   container-title-short: 2d
@@ -1294,7 +1190,7 @@ references:
   volume: '913'
 
 - id: ReLitz_Indiana1999
-  authority: Indiana
+  authority: Ind.
   citation-key: ReLitz_Indiana1999
   container-title: NE 2d
   issued:
@@ -1306,7 +1202,7 @@ references:
   volume: '721'
 
 - id: ReMorse_Georgia2013
-  authority: Georgia
+  authority: Ga.
   citation-key: ReMorse_Georgia2013
   container-title: SE 2d
   issued:
@@ -1346,9 +1242,10 @@ references:
   volume: '2013'
 
 - id: RePrimus_US1978
-  authority: US
+  authority: U.S.
   citation-key: RePrimus_US1978
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1978
   page: '412'
@@ -1357,7 +1254,7 @@ references:
   volume: '436'
 
 - id: ReRiehlmann_Louisiana2005
-  authority: Louisiana
+  authority: La
   citation-key: ReRiehlmann_Louisiana2005
   container-title: So. 2d
   container-title-short: 2d
@@ -1372,7 +1269,7 @@ references:
   volume: '891'
 
 - id: ReRoots_RhodeIsland2000
-  authority: Rhode Island
+  authority: R.I.
   citation-key: ReRoots_RhodeIsland2000
   container-title: A. 2d
   container-title-short: 2d
@@ -1391,7 +1288,7 @@ references:
   type: standard
 
 - id: ReStateGrandJury_NewJersey2009
-  authority: New Jersey
+  authority: N.J.
   citation-key: ReStateGrandJury_NewJersey2009
   container-title: A. 2d
   container-title-short: 2d
@@ -1448,7 +1345,7 @@ references:
 
 - id: RulesGoverningAdmission_2727NCAdminCode030600
   citation-key: RulesGoverningAdmission_2727NCAdminCode030600
-  container-title: 27 N.C. Admin Code
+  container-title: N.C. Admin Code
   section: 03 .0600
   title: >-
     Rules Governing Admission to the Practice of Law in the State of North
@@ -1457,7 +1354,7 @@ references:
   volume: '27'
 
 - id: SaladiniRighellisGoldstein_Massachusetts1997
-  authority: Massachusetts
+  authority: Mass.
   citation-key: SaladiniRighellisGoldstein_Massachusetts1997
   container-title: Mass.
   container-title-short: Mass.
@@ -1465,7 +1362,7 @@ references:
     - year: 1997
   jurisdiction: Mass
   page: '231'
-  title: Saladini v. Righellis; Goldstein
+  title: Saladini v. Righellis
   type: legal_case
   volume: '426'
 
@@ -1569,7 +1466,7 @@ references:
   volume: '639'
 
 - id: StateLensegrav_NewMexico2025
-  authority: New Mexico
+  authority: N.M.
   citation-key: StateLensegrav_NewMexico2025
   container-title: P. 3d
   issued:
@@ -1581,9 +1478,10 @@ references:
   volume: '572'
 
 - id: StricklandWashington_SupremeCourt1984
-  authority: Supreme Court
+  authority: U.S.
   citation-key: StricklandWashington_SupremeCourt1984
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1984
   page: '668'
@@ -1592,7 +1490,7 @@ references:
   volume: '466'
 
 - id: TaylorKavanagh_2ndCircuit1981
-  authority: 2nd Circuit
+  authority: 2nd Cir.
   citation-key: TaylorKavanagh_2ndCircuit1981
   container-title: F. 2d
   issued:
@@ -1603,7 +1501,7 @@ references:
   volume: '640'
 
 - id: TogstadVeselyOttoMiller_Minnesota1980
-  authority: Minnesota
+  authority: Minn.
   citation-key: TogstadVeselyOttoMiller_Minnesota1980
   container-title: NW 2d
   issued:
@@ -1615,9 +1513,10 @@ references:
   volume: '291'
 
 - id: UpjohnCoUnitedStates_US1981
-  authority: US
+  authority: U.S.
   citation-key: UpjohnCoUnitedStates_US1981
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1981
   page: '383'
@@ -1626,7 +1525,7 @@ references:
   volume: '449'
 
 - id: USDeloitteLLP_DCCircuit2010
-  authority: D.C. Circuit
+  authority: D.C. Cir.
   citation-key: USDeloitteLLP_DCCircuit2010
   container-title: F. 3d
   issued:
@@ -1637,7 +1536,7 @@ references:
   volume: '610'
 
 - id: USLong_8thCircuit1988
-  authority: 8th Circuit
+  authority: 8th Cir.
   citation-key: USLong_8thCircuit1988
   container-title: F. 2d
   issued:
@@ -1662,7 +1561,7 @@ references:
   volume: '463'
 
 - id: WhitingLacara_2ndCircuit1999
-  authority: 2nd Circuit
+  authority: 2nd Cir.
   citation-key: WhitingLacara_2ndCircuit1999
   container-title: F. 3d
   issued:
