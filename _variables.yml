@@ -1,8 +1,7 @@
 version: 5.0
-revision: 
 subject: Professional Responsibility
 repo: PR
-site-url: "https://emfink.net/PR"
+course-url: "https://emfink.net/PR"
 
 author: Eric M. Fink
 email: efink@elon.edu
