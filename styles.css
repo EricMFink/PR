@@ -109,7 +109,7 @@ p {
 ol, ul {
 	margin: .25rem 0 .25rem 0;
 	padding-left: 2rem;
-	font-size: .9rem;
+	font-size: 1rem;
 }
 li {
 	margin-bottom: .5rem;
@@ -226,10 +226,10 @@ img {
 .legalcode p { 
 	font-size: .9rem;
 }
-.legalcode h4 { 
+.legalcode h5 { 
 	font-size: 1rem;
 }
-.legalcode h5 { 
+.legalcode ol, ul {
 	font-size: .9rem;
 }
 .legalcode ul { 
