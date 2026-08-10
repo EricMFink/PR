@@ -1,23 +1,21 @@
 ---
-title: Syllabus
-revised: 2026-08-08T05:10:48-0400-04:00
-
-subject: Professional Responsibility
-term: 'Fall 2026'
-room: 'Room 207'
-meets: 'Mondays & Wednesdays, 1:45–2:55 pm'
-repo-url: 'emfink.net/PR'
+title: Professional Responsibility
+repo: PR
+course-url: "https://emfink.net/PR"
 
 author: Eric M. Fink
 phone: 336-279-9334
 appointments-url: 'calendly.com/emfink/'
-
 institution: Elon University School of Law
 address: 201 North Greene Street
 city-state: Greensboro, North Carolina
 
 ta: Yanila Noy
 ta-email: ynoy@elon.edu
+
+term: 'Fall 2026'
+room: 'Room 207'
+meets: 'Mondays & Wednesdays, 1:45–2:55 pm'
 
 format:
   pdf:
