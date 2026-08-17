@@ -1125,7 +1125,7 @@ Plaintiffs allege that they seek "to provide simple legal advice on a variety of
 
 Plaintiffs' complaint alleges two as-applied challenges to North Carolina's UPL statutes under the First Amendment: plaintiffs' right to provide free legal advice (Count I) and the individual plaintiffs' right to provide paid legal advice (Count II). Plaintiffs have limited their challenges "solely as applied to legal advice regarding court-created forms." Plaintiffs allege that the First Amendment's Free Speech Clause protects their oral and written legal advice as it relates to these forms, and that North Carolina's UPL statutes, as they are applied to plaintiffs' legal advice, are content-based prohibitions of "pure speech."
 
-{A\. Procedural posture]{.casesubsection}
+[A\. Procedural posture]{.casesubsection}
 
 The Court is considering plaintiffs' as-applied challenges at the pleadings stage. "In order to prevail on an as-applied First Amendment challenge, a plaintiff 'must show that the regulations are unconstitutional as applied to their particular speech activity.'" Typically, this is a fact-based inquiry. As is discussed more fully below, however, because defendants are permitted to show that the challenged statutes satisfy the applicable level of scrutiny using common sense, and need not rely on specific evidence, the Court determines that disposition at the pleadings stage in this instance is appropriate. 
 

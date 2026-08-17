@@ -139,18 +139,11 @@
         </group>
       </else-if>
       <else-if type="legislation">
-	  	<choose>
-		  <if variable="section">
-	  		<group delimiter=" ">
-				<text variable="volume"/>
-        		<text variable="container-title"/>
-        		<text variable="section" prefix="§ "/>
-			</group>
-		  </if>
-		  <else>
-			  <text variable="title"/>
-		  </else>
-		</choose>
+	  	<group delimiter=" ">
+			<text variable="volume"/>
+        	<text variable="container-title"/>
+        	<text variable="section" prefix="§ "/>
+		</group>
 	  </else-if>
       <else-if type="standard">
 	  	<group delimiter=" ">
