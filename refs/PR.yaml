@@ -356,8 +356,9 @@ references:
 - id: FRCP26
   citation-key: FRCP26
   genre: Fed. R. Civ. P.
-  title: Fed. R. Civ. P. Rule 26
-  type: document
+  number: Rule 26
+  title: FRCP 26
+  type: standard
 
 - id: Green2022
   abstract: >-
