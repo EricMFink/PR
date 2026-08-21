@@ -2,10 +2,11 @@
 references:
 - id: ABACriminalJusticeStandardsProsecutionFunction
   citation-key: ABACriminalJusticeStandardsProsecutionFunction
+  genre: A.B.A. Criminal Justice Standards for the Prosecution Function
   issued:
     - year: 2017
   title: A.B.A. Criminal Justice Standards for the Prosecution Function
-  type: legislation
+  type: standard
 
 - id: Abbott1988
   author:
@@ -702,288 +703,395 @@ references:
 
 - id: MRPC10
   citation-key: MRPC10
-  title: MRPC Rule 1.0
-  type: document
+  genre: MRPC
+  number: Rule 1.0
+  title: MRPC 1.0
+  type: standard
 
 - id: MRPC11
   citation-key: MRPC11
-  title: MRPC Rule 1.1
-  type: document
+  genre: MRPC
+  number: Rule 1.1
+  title: MRPC 1.1
+  type: standard
 
 - id: MRPC110
   citation-key: MRPC110
-  title: MRPC Rule 1.10
-  type: document
+  genre: MRPC
+  number: Rule 1.10
+  title: MRPC 1.10
+  type: standard
 
 - id: MRPC111
   citation-key: MRPC111
-  title: MRPC Rule 1.11
-  type: document
+  genre: MRPC
+  number: Rule 1.11
+  title: MRPC 1.11
+  type: standard
 
 - id: MRPC112
   citation-key: MRPC112
-  title: MRPC Rule 1.12
-  type: document
+  genre: MRPC
+  number: Rule 1.12
+  title: MRPC 1.12
+  type: standard
 
 - id: MRPC113
   citation-key: MRPC113
-  title: MRPC Rule 1.13
-  type: document
+  genre: MRPC
+  number: Rule 1.13
+  title: MRPC 1.13
+  type: standard
 
 - id: MRPC114
   citation-key: MRPC114
-  title: MRPC Rule 1.14
-  type: document
+  genre: MRPC
+  number: Rule 1.14
+  title: MRPC 1.14
+  type: standard
 
 - id: MRPC115
   citation-key: MRPC115
-  title: MRPC Rule 1.15
-  type: document
+  genre: MRPC
+  number: Rule 1.15
+  title: MRPC 1.15
+  type: standard
 
 - id: MRPC116
   citation-key: MRPC116
-  title: MRPC Rule 1.16
-  type: document
+  genre: MRPC
+  number: Rule 1.16
+  title: MRPC 1.16
+  type: standard
 
 - id: MRPC117
   citation-key: MRPC117
-  title: MRPC Rule 1.17
-  type: document
+  genre: MRPC
+  number: Rule 1.17
+  title: MRPC 1.17
+  type: standard
 
 - id: MRPC118
   citation-key: MRPC118
-  title: MRPC Rule 1.18
-  type: document
+  genre: MRPC
+  number: Rule 1.18
+  title: MRPC 1.18
+  type: standard
 
 - id: MRPC12
   citation-key: MRPC12
-  title: MRPC Rule 1.2
-  type: document
+  genre: MRPC
+  number: Rule 1.2
+  title: MRPC 1.2
+  type: standard
 
 - id: MRPC13
   citation-key: MRPC13
-  title: MRPC Rule 1.3
-  type: document
+  genre: MRPC
+  number: Rule 1.3
+  title: MRPC 1.3
+  type: standard
 
 - id: MRPC14
   citation-key: MRPC14
-  title: MRPC Rule 1.4
-  type: document
+  genre: MRPC
+  number: Rule 1.4
+  title: MRPC 1.4
+  type: standard
 
 - id: MRPC15
   citation-key: MRPC15
-  title: MRPC Rule 1.5
-  type: document
+  genre: MRPC
+  number: Rule 1.5
+  title: MRPC 1.5
+  type: standard
 
 - id: MRPC16
   citation-key: MRPC16
-  title: MRPC Rule 1.6
-  type: document
+  genre: MRPC
+  number: Rule 1.6
+  title: MRPC 1.6
+  type: standard
 
 - id: MRPC17
   citation-key: MRPC17
-  title: MRPC Rule 1.7
-  type: document
+  genre: MRPC
+  number: Rule 1.7
+  title: MRPC 1.7
+  type: standard
 
 - id: MRPC18
   citation-key: MRPC18
-  title: MRPC Rule 1.8
-  type: document
+  genre: MRPC
+  number: Rule 1.8
+  title: MRPC 1.8
+  type: standard
 
 - id: MRPC19
   citation-key: MRPC19
-  title: MRPC Rule 1.9
-  type: document
+  genre: MRPC
+  number: Rule 1.9
+  title: MRPC 1.9
+  type: standard
 
 - id: MRPC21
   citation-key: MRPC21
-  title: MRPC Rule 2.1
-  type: document
+  genre: MRPC
+  number: Rule 2.1
+  title: MRPC 2.1
+  type: standard
 
 - id: MRPC23
   citation-key: MRPC23
-  title: MRPC Rule 2.3
-  type: document
+  genre: MRPC
+  number: Rule 2.3
+  title: MRPC 2.3
+  type: standard
 
 - id: MRPC24
   citation-key: MRPC24
-  title: MRPC Rule 2.4
-  type: document
+  genre: MRPC
+  number: Rule 2.4
+  title: MRPC 2.4
+  type: standard
 
 - id: MRPC31
   citation-key: MRPC31
-  title: MRPC Rule 3.1
-  type: document
+  genre: MRPC
+  number: Rule 3.1
+  title: MRPC 3.1
+  type: standard
 
 - id: MRPC32
   citation-key: MRPC32
-  title: MRPC Rule 3.2
-  type: document
+  genre: MRPC
+  number: Rule 3.2
+  title: MRPC 3.2
+  type: standard
 
 - id: MRPC33
   citation-key: MRPC33
-  title: MRPC Rule 3.3
-  type: document
+  genre: MRPC
+  number: Rule 3.3
+  title: MRPC 3.3
+  type: standard
 
 - id: MRPC34
   citation-key: MRPC34
-  title: MRPC Rule 3.4
-  type: document
+  genre: MRPC
+  number: Rule 3.5
+  title: MRPC 3.4
+  type: standard
 
 - id: MRPC35
   citation-key: MRPC35
-  title: MRPC Rule 3.5
-  type: document
+  genre: MRPC
+  number: Rule 3.5
+  title: MRPC 3.5
+  type: standard
 
 - id: MRPC36
   citation-key: MRPC36
-  title: MRPC Rule 3.6
-  type: document
-
-- id: MRPC37
-  citation-key: MRPC37
-  title: MRPC Rule 3.7
-  type: document
+  genre: MRPC
+  number: Rule 3.6
+  title: MRPC 3.6
+  type: standard
 
 - id: MRPC38
   citation-key: MRPC38
-  title: MRPC Rule 3.8
-  type: document
+  genre: MRPC
+  number: Rule 3.8
+  title: MRPC 3.8
+  type: standard
 
 - id: MRPC39
   citation-key: MRPC39
-  title: MRPC Rule 3.9
-  type: document
+  genre: MRPC
+  number: Rule 3.9
+  title: MRPC 3.9
+  type: standard
 
 - id: MRPC41
   citation-key: MRPC41
-  title: MRPC Rule 4.1
-  type: document
+  genre: MRPC
+  number: Rule 4.1
+  title: MRPC 4.1
+  type: standard
 
 - id: MRPC42
   citation-key: MRPC42
-  title: MRPC Rule 4.2
-  type: document
+  genre: MRPC
+  number: Rule 4.1
+  title: MRPC 4.2
+  type: standard
 
 - id: MRPC43
   citation-key: MRPC43
-  title: MRPC Rule 4.3
-  type: document
+  genre: MRPC
+  number: Rule 4.3
+  title: MRPC 4.3
+  type: standard
 
 - id: MRPC44
   citation-key: MRPC44
-  title: MRPC Rule 4.4
-  type: document
+  genre: MRPC
+  number: Rule 4.4
+  title: MRPC 4.4
+  type: standard
 
 - id: MRPC51
   citation-key: MRPC51
-  title: MRPC Rule 5.1
-  type: document
+  genre: MRPC
+  number: Rule 5.1
+  title: MRPC 5.1
+  type: standard
 
 - id: MRPC52
   citation-key: MRPC52
-  title: MRPC Rule 5.2
-  type: document
+  genre: MRPC
+  number: Rule 5.2
+  title: MRPC 5.2
+  type: standard
 
 - id: MRPC53
   citation-key: MRPC53
-  title: MRPC Rule 5.3
-  type: document
+  genre: MRPC
+  number: Rule 5.3
+  title: MRPC 5.3
+  type: standard
 
 - id: MRPC54
   citation-key: MRPC54
-  title: MRPC Rule 5.4
-  type: document
+  genre: MRPC
+  number: Rule 5.4
+  title: MRPC 5.4
+  type: standard
 
 - id: MRPC55
   citation-key: MRPC55
-  title: MRPC Rule 5.5
-  type: document
+  genre: MRPC
+  number: Rule 5.5
+  title: MRPC 5.5
+  type: standard
 
 - id: MRPC56
   citation-key: MRPC56
-  title: MRPC Rule 5.6
-  type: document
+  genre: MRPC
+  number: Rule 5.6
+  title: MRPC 5.6
+  type: standard
 
 - id: MRPC57
   citation-key: MRPC57
-  title: MRPC Rule 5.7
-  type: document
+  genre: MRPC
+  number: Rule 5.7
+  title: MRPC 5.7
+  type: standard
 
 - id: MRPC61
   citation-key: MRPC61
-  title: MRPC Rule 6.1
-  type: document
+  genre: MRPC
+  number: Rule 6.1
+  title: MRPC 6.1
+  type: standard
 
 - id: MRPC62
   citation-key: MRPC62
-  title: MRPC Rule 6.2
-  type: document
+  genre: MRPC
+  number: Rule 6.2
+  title: MRPC 6.2
+  type: standard
 
 - id: MRPC63
   citation-key: MRPC63
-  title: MRPC Rule 6.3
-  type: document
+  genre: MRPC
+  number: Rule 6.3
+  title: MRPC 6.3
+  type: standard
 
 - id: MRPC64
   citation-key: MRPC64
-  title: MRPC Rule 6.4
-  type: document
+  genre: MRPC
+  number: Rule 6.4
+  title: MRPC 6.4
+  type: standard
 
 - id: MRPC65
   citation-key: MRPC65
-  title: MRPC Rule 6.5
-  type: document
+  genre: MRPC
+  number: Rule 6.5
+  title: MRPC 6.5
+  type: standard
 
 - id: MRPC71
   citation-key: MRPC71
-  title: MRPC Rule 7.1
-  type: document
+  genre: MRPC
+  number: Rule 7.1
+  title: MRPC 7.1
+  type: standard
 
 - id: MRPC72
   citation-key: MRPC72
-  title: MRPC Rule 7.2
-  type: document
+  genre: MRPC
+  number: Rule 7.2
+  title: MRPC 7.2
+  type: standard
 
 - id: MRPC73
   citation-key: MRPC73
-  title: MRPC Rule 7.3
-  type: document
+  genre: MRPC
+  number: Rule 7.3
+  title: MRPC 7.3
+  type: standard
 
 - id: MRPC76
   citation-key: MRPC76
-  title: MRPC Rule 7.6
-  type: document
+  genre: MRPC
+  number: Rule 7.6
+  title: MRPC 7.6
+  type: standard
 
 - id: MRPC81
   citation-key: MRPC81
-  title: MRPC Rule 8.1
-  type: document
+  genre: MRPC
+  number: Rule 8.1
+  title: MRPC 8.1
+  type: standard
 
 - id: MRPC82
   citation-key: MRPC82
-  title: MRPC Rule 8.2
-  type: document
+  genre: MRPC
+  number: Rule 8.2
+  title: MRPC 8.2
+  type: standard
 
 - id: MRPC83
   citation-key: MRPC83
-  title: MRPC Rule 8.3
-  type: document
+  genre: MRPC
+  number: Rule 8.3
+  title: MRPC 8.3
+  type: standard
 
 - id: MRPC84
   citation-key: MRPC84
-  title: MRPC Rule 8.4
-  type: document
+  genre: MRPC
+  number: Rule 8.4
+  title: MRPC 8.4
+  type: standard
 
 - id: MRPC85
   citation-key: MRPC85
-  title: MRPC Rule 8.5
-  type: document
+  genre: MRPC
+  number: Rule 8.5
+  title: MRPC 8.5
+  type: standard
 
 - id: MRPCPreambleScope
   citation-key: MRPCPreambleScope
+  genre: MRPC
+  number: Preamble & Scope
   title: MRPC Preamble & Scope
-  type: document
+  type: standard
 
 - id: NAACPButton_US1963
   authority: U.S.
