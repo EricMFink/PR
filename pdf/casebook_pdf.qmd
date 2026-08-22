@@ -38,7 +38,7 @@ filters:
 environments: [legalcode]
 commands: [casesection,casesubsection,casesubsubsection,bibsection,bibsubsection]
 bibliography: ../refs/PR.yaml
-csl: ../refs/casebook.csl
+csl: ../refs/casebook-bibliography.csl
 citation-abbreviations: ../refs/abbreviations.json
 suppress-bibliography: true
 ---
