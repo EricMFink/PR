@@ -1,7 +1,7 @@
 ---
 title: "Professional Responsibility"
 author: "Eric M. Fink"
-version: "5.0"
+version: "5.1"
 repo: "PRCasebook"
 frontispiece: "Der Fürsprech"
 description: This casebook presents material for use in a law school Professional Responsibility course. Topics covered include the organization and regulation of the legal profession, the nature of the attorney-client relationship, and the duties that attorneys owe to clients and others.
