@@ -95,7 +95,7 @@ book:
     - text: Links
       href: links.qmd
 
-bibliography: refs/PR.yaml
+bibliography: refs/Library.yaml
 csl: refs/casebook.csl
 citation-abbreviations: refs/abbreviations.json
 suppress-bibliography: true

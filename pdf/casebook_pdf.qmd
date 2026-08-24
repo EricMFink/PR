@@ -37,7 +37,7 @@ filters:
   - latex-environment
 environments: [legalcode]
 commands: [casesection,casesubsection,casesubsubsection,bibsection,bibsubsection]
-bibliography: ../refs/PR.yaml
+bibliography: ../refs/Library.yaml
 csl: ../refs/casebook.csl
 citation-abbreviations: ../refs/abbreviations.json
 suppress-bibliography: true
