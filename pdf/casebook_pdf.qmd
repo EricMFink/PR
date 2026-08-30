@@ -12,7 +12,7 @@ epigraph-source: The Savage Detectives (1998)
 format:
   pdf:
     documentclass: scrbook
-    classoption: [letterpaper, 11pt, DIV=9, openright]
+    classoption: [letterpaper, 12pt, DIV=9, openright]
     has-frontmatter: true
     toc: true
     toc-depth: 4

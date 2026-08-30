@@ -64,9 +64,7 @@ Nevertheless, courts, commentators, and legal ethics regulators continue to conc
 
 :::
 
-::: {.callout-note}
-
-**Judicial, Legislative, & Administrative Regulation**: 
+#### Judicial, Legislative, & Administrative Regulation
 
 Courts and other tribunals regulate the conduct of attorneys who appear before them. Court rules and judicial statutes may impose standards of conduct and authorize the imposition of sanctions on attorneys who breach those standards. See, e.g. [FRCP Rule 11](https://www.law.cornell.edu/rules/frcp/rule_11) (sanctions for asserting frivolous or bad faith claims, defenses, or arguments in pleadings and motions); [FRCP Rule 37](https://www.law.cornell.edu/rules/frcp/rule_37) (sanctions for failing to make required disclosures or cooperate in discovery); 28 U.S. Code § 1927 (sanctions against "attorney or other person admitted to conduct cases in any court of the United States or any Territory thereof who so multiplies the proceedings in any case unreasonably and vexatiously").
 
@@ -77,12 +75,10 @@ Attorney conduct is also subject to legislative and administrative regulation. S
 For example, in Section 307 of the Sarbanes-Oxley Act of 2002, Congress directed the Securities and Exchange Commission to "issue rules, in the public interest and for the protection of investors, setting forth minimum standards of professional conduct for attorneys appearing and practicing before the Commission in any way in the representation of issuers." The Act specifically calls for rules: 
 
 > (1\) requiring an attorney to report evidence of a material violation of securities law or breach of fiduciary duty or similar violation by the company or any agent thereof, to the chief legal counsel or the chief executive officer of the company (or the equivalent thereof); and
-- > 
+> 
 > (2\) if the counsel or officer does not appropriately respond to the evidence (adopting, as necessary, appropriate remedial measures or sanctions with respect to the violation), requiring the attorney to report the evidence to the audit committee of the board of directors of the issuer or to another committee of the board of directors comprised solely of directors not employed directly or indirectly by the issuer, or to the board of directors.
 
 15 U.S.C. § 7245. The SEC rules set out standards and procedures for mandatory reporting by attorneys ([17 C.F.R. §§ 205.3-205.5](https://www.law.cornell.edu/cfr/text/17/part-205)). Attorneys who violate those are subject to "the civil penalties and remedies for a violation of the federal securities laws available to the Commission in an action brought by the Commission thereunder," § 205.6(a), as well as disciplinary proceedings by the Commission," which "may result in an attorney being censured, or being temporarily or permanently denied the privilege of appearing or practicing before the Commission," § 205.6(b). They "may also be subject to discipline for the same conduct in a jurisdiction where the attorney is admitted or practices." § 205.6(b).
-
-:::
 
 ## Misconduct & Discipline
 
