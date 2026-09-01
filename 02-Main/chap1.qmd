@@ -530,7 +530,7 @@ The requirements for bar admission vary by state, but typically include graduati
 
 In addition to the educational and examination requirements, applicants must also satisfy a character and fitness standard. 
 
-#### @RulesGoverningAdmission_2727NCAdminCode030600
+#### Rules Governing Admission to the Practice of Law in the State of North Carolina, @RulesGoverningAdmission_2727NCAdminCode030600
 
 ::: {.legalcode}
 

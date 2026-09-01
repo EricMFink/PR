@@ -47,7 +47,7 @@
 -   \(b\) A lawyer who receives a document or electronically stored information relating to the representation of the lawyer's client and knows or reasonably should know that the document or electronically stored information was inadvertently sent shall promptly notify the sender.
 :::
 
-#### @NCRulesProfessional_Rule86
+#### @NCRulesProfessionalConduct86
 
 ::: legalcode
 ##### Information About a Possible Wrongful Conviction
@@ -462,7 +462,7 @@ Given this, in proving its claim that Doe is obligated to maintain its confidenc
 
 There may be circumstances where ongoing or contemplated frauds actually exist, but disclosure is impermissible because the evidence relied on by the attorney falls short of clearly establishing the fraud. This result might permit the fraud to continue. But neither mere suspicion of fraud, nor the mere risk of undiscovered fraud, justify abrogating the duty of attorney confidentiality. A windfall to a wrongdoer may be the price exacted for the benefits conferred on the public and the legal system by vigilantly-maintained attorney confidentiality.
 
-#### @MatterGrandJuryInvestigation_Mass2009
+#### @ReGrandJuryInvestigation_Mass2009
 
 This case requires us to decide whether the attorney-client privilege applies where a client leaves messages on his counsel's telephone answering machine threatening to harm others and the attorney discloses those communications in order to protect those threatened.
 
@@ -847,7 +847,7 @@ Our analysis as to the "in furtherance" requirement is informed largely by our r
 
 Therefore, we conclude that the trial court properly concluded that the e-mail is not subject to disclosure under the crime-fraud exception to the attorney-client privilege.
 
-## Confidentiality & Evidentiary Privileges Comparison
+## Confidentiality & Privileges Comparison
 
 | **Scope of Protection** | **Duty of Confidentiality** | **Attorney-Client Communication** | **Attorney Work Product** |
 |-----------------|-----------------|---------------------|-----------------|
