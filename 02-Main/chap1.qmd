@@ -168,7 +168,7 @@ It is professional misconduct for a lawyer to:
 
 :::
 
-#### @ReRiehlmann_Louisiana2005
+#### @ReRiehlmann_La2005
 
 This disciplinary matter arises from formal charges filed by the Office of Disciplinary Counsel ("ODC") against respondent, Michael G. Riehlmann, an attorney licensed to practice law in Louisiana.
 
@@ -558,7 +558,7 @@ In addition to the educational and examination requirements, applicants must als
 
 :::
 
-#### @NCBoardLawExaminersCharacterFitness
+#### @NCBdLaw_nd
 
 ::: {.legalcode}
 
@@ -650,7 +650,7 @@ In addition to the educational and examination requirements, applicants must als
 
 :::
 
-#### @ReConverse_Nebraska1999
+#### @ReConverse_Neb1999
 
 Paul Raymond Converse appeals a decision of the Nebraska State Bar Commission (Commission) denying his request to take the July 1998 Nebraska bar examination. Converse claims that the decision of the Commission should be reversed because the Commission rested its denial of Converse's application, at least in part, upon conduct protected by the First Amendment to the U.S. Constitution and, in the alternative, that Converse's conduct did not constitute sufficient cause under Nebraska law for denying his application on the ground of deficient moral character. For the reasons that follow, we affirm the decision of the Commission.
 
@@ -758,7 +758,7 @@ Converse has exhibited a clear lack of self-restraint and lack of judgment, and 
 
 The Commission correctly determined that Converse possessed insufficient moral character and was unfit to practice law in the State of Nebraska. This determination was based on an inquiry into Converse's moral character that was both proper and constitutionally permissible. Finding no error in the Commission's determination or the process used to reach that determination, we affirm the Commission's denial of application.
 
-#### @ReRoots_RhodeIsland2000
+#### @ReRoots_RI2000
 
 This case comes before us on an application by the petitioner Roger I. Roots (petitioner or Roots) seeking admission to the bar of the State of Rhode Island. Roots, who was born in October, 1967, is a 1999 graduate of the Roger Williams University School of Law. Following his law-school graduation, he took and passed the Rhode Island bar examination. In accordance with its usual procedures, this Court's Committee on Character and Fitness (committee) examined Roots's record and interviewed him after he had passed the bar examination. Because the committee had serious concerns relating to his character and fitness to become a member of the bar of this state, it conducted a number of hearings to determine whether it would recommend Roots's admission to the bar. [After the hearings, the majority of the committee, with two members dissenting, voted in favor of Roots's admission.] 
 
@@ -843,7 +843,7 @@ For the above reasons, we conclude that Roots's application to the bar should be
 
 Accordingly, we hereby deny Roots's application without prejudice to his reapplication at some later time (no sooner than two years) when a more accurate and adequate assessment of Roots's professed rehabilitation can be undertaken.
 
-#### @MatterAnonymous_NYAppDiv3rdDept2023
+#### @MatterAnonymous_NYAppDiv2023
 
 Applicant, a 47-year-old resident of New York, graduated from law school in 2000 and passed the bar examination in New York in February 2018. Following a hearing, this Court's Committee on Character and Fitness issued a decision recommending that applicant be admitted to the practice of law subject to certain conditions. The Committee's recommendation has now been referred to the Court for determination.
 
@@ -859,9 +859,9 @@ Accordingly, based on the foregoing, we conclude that applicant has failed to de
 
 Ordered that the application for admission is denied.
 
-[^Anon1] (n.2 in opinion) Applicant's lack of disclosure in this regard is significant given that the commission of such an egregious offense would have been grounds for the imposition of professional discipline if he had, in fact, been admitted to the practice of law in this State at that time.
+[^Anon1]: (n.2 in opinion) Applicant's lack of disclosure in this regard is significant given that the commission of such an egregious offense would have been grounds for the imposition of professional discipline if he had, in fact, been admitted to the practice of law in this State at that time.
 
-#### @MatterAnonymous_NYAppDiv3rdDept2009
+#### @MatterAnonymous_NYAppDiv2009
 
 Applicant passed the February 2008 New York State bar exam and the State Board of Law Examiners certified him for admission to this Court. The Committee on Character and Fitness has completed its investigation of his application for admission, including an interview of applicant.
 
@@ -975,7 +975,7 @@ One of the well-settled rules of statutory construction is that statutory offens
 
 I am of the opinion that the defendant was not guilty of violating section 270 of the Penal Law; that the Appellate Division was right in reversing the conviction and discharging him; and its judgment should, therefore, be affirmed.
 
-#### @CapitalAssociatedIndustriesInc_4thCir2019
+#### @CapitalAssocIndusInc_4thCir2019
 
 Capital Associated Industries, Inc. ("CAI") is a trade association representing North Carolina employers. As part of a plan to expand its membership, CAI wants to provide legal services to its members. But it cannot because state law forbids corporations from practicing law. Following unsuccessful lobbying efforts to change the law, CAI sued state prosecutors to enjoin the enforcement of state unauthorized practice of law ("UPL") statutes against it. After the North Carolina State Bar intervened to defend the statutes, the defendants obtained summary judgment. On appeal, CAI contends that North Carolina's UPL statutes violate its constitutional rights to free association, free speech, and commercial speech; lack a rational basis; are void for vagueness; and violate the state constitution. For the reasons that follow, we affirm.
 

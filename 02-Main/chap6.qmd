@@ -17,7 +17,7 @@
     -   \(4\) each affected client gives informed consent, confirmed in writing.
 :::
 
-#### @ReDresserIndustriesInc_5thCircuit1992
+#### @ReDresserIndustriesInc_5thCir1992
 
 In this petition for a writ of mandamus, we determine whether a law firm may sue its own client, which it concurrently represents in other matters. In a word, no; and most certainly not here, where the motivation appears only to be the law firm's self-interest. We therefore grant the writ, directing the district judge to disqualify counsel.
 
@@ -372,7 +372,7 @@ The same issues and considerations discussed above would apply if Lawyer wished 
 -   \(k\) While lawyers are associated in a firm, a prohibition in the foregoing paragraphs (a) through (i) that applies to any one of them shall apply to all of them.
 :::
 
-#### @ReMorse_Georgia2013
+#### @ReMorse_Ga2013
 
 ##### Per Curium
 
@@ -442,7 +442,7 @@ Having chosen to enter the transaction without recommending that Miller obtain i
 
 In accordance with the Commission recommendation, we reprimand him for the violation.
 
-#### @SaladiniRighellisGoldstein_Massachusetts1997
+#### @SaladiniRighellisGoldstein_Mass1997
 
 The plaintiff, Lisa Saladini, appeals from the decision of a judge in the Superior Court dismissing her complaint, sua sponte, on the ground that a written agreement she had with the defendant, George P. Righellis, was champertous and unenforceable. Saladini had sought a declaratory judgment establishing her rights under the agreement. We granted Saladini's application for direct appellate review to consider whether we should continue to enforce the doctrine. We rule that the common law doctrines of champerty, barratry, and maintenance no longer shall be recognized in Massachusetts. We reverse the judgment entered in the Superior Court and remand this case for further proceedings.
 
@@ -472,7 +472,7 @@ We also no longer are persuaded that the champerty doctrine is needed to protect
 
 Other States that no longer recognize the doctrine of champerty have continued to scrutinize an agreement to finance a lawsuit with care. We shall do likewise. This means that if an agreement to finance a lawsuit is challenged, we will consider whether the fees charged are excessive or whether any recovery by a prevailing party is vitiated because of some impermissible overreaching by the financier. Judges also retain their inherent power to disapprove an attorney's fee that is unreasonable. We shall be guided in our analysis by a rule of what is fair and reasonable, looking to all of the circumstances at the time the arrangement is made to determine whether the agreement should be set aside or modified. In this case, for example, had the agreement been challenged, relevant factors might have included the respective bargaining position of the parties at the time the agreement was made, whether both parties were aware of the terms and consequences of the agreement, whether Righellis may have been unable to pursue the lawsuit at all without Saladini's funds, and whether the claim by Righellis that he will receive but \$35,000 of the total \$130,000 settlement award if Saladini prevails is unreasonable in the circumstances. We observe that before the judge raised the issue, Righellis had never challenged the validity of his agreement with Saladini. The record before us does not permit any conclusion regarding the reasonableness of the agreement between Righellis and Saladini on the one hand, or Righellis and Potters on the other. We see no reason why Righellis should be the beneficiary of any windfall, or why any adjustment to the financing arrangement---if appropriate at all---should be made solely at Saladini's expense. If pursued, those matters can be decided by the trial judge.
 
-#### @ReStateGrandJury_NewJersey2009
+#### @ReStateGrandJury_NJ2009
 
 Confronted with a grand jury inquiry that commanded the testimony of several of its employees, an employer elected to provide and pay for counsel to those employees for purposes of that investigation. Fearing that having individual employees/grand jury witnesses represented by counsel retained and compensated by the putative target of the grand jury inquiry violated several of the Rules of Professional Conduct, the State moved to disqualify those counsel. The trial court denied that application, limited the amount of information to be transmitted by such counsel to the employer, and, further, imposed restrictions both on the ability of the employer to discontinue paying the fees of counsel for the employees as well as on the ability of those counsel to discontinue representing the subpoenaed employees.
 

@@ -31,7 +31,7 @@ A lawyer shall not seek to avoid appointment by a tribunal to represent a person
 
 :::
 
-#### @TogstadVeselyOttoMiller_Minnesota1980
+#### @TogstadVeselyOttoMiller_Minn1980
 
 This is an appeal by the defendants from a judgment of the Hennepin County District Court involving an action for legal malpractice. The jury found that the defendant attorney Jerre Miller was negligent and that, as a direct result of such negligence, plaintiff John Togstad sustained damages in the amount of $610,500 and his wife, plaintiff Joan Togstad, in the amount of $39,000. Defendants (Miller and his law firm) appeal to this court from the denial of their motion for judgment notwithstanding the verdict or, alternatively, for a new trial. We affirm.
 
@@ -152,7 +152,7 @@ This is not a case in which a layperson might have perceived or reasonably mispe
 
 :::
 
-#### @ClarkCapitalManagementAnnuity_EDPa2001
+#### @ClarkCapitalMgmtAnnuity_EDPa2001
 
 Defendant Annuity Investors Life Insurance Co. moves for the disqualification of Stephen L. Friedman and the firm Dilworth Paxson LLP as co-counsel for plaintiff Clark Capital Management Group. Friedman has submitted an opposition to this motion. I will deny the motion for disqualification.
 
@@ -281,7 +281,7 @@ I am not persuaded by Annuity's argument that disqualification of Dilworth is ne
 
 :::
 
-#### @WhitingLacara_2ndCircuit1999
+#### @WhitingLacara_2dCir1999
 
 Garrett R. Lacara appeals from two orders of Judge Spatt denying Lacara's motions to withdraw as counsel for plaintiff-appellee Joseph M. Whiting. Although the record before Judge Spatt justified denial of the motions, amplification of Whiting's position at oral argument persuades us to reverse.
 
@@ -400,7 +400,7 @@ A lawyer's act is considered to be that of the client in proceedings before a tr
 
 :::
 
-#### @MakinsDistrictColumbia_DCCourtofAppeals2004
+#### @MakinsDistrictColumbia_DCCtApp2004
 
 The United States Court of Appeals for the District of Columbia Circuit has certified the following question to this court:
 
@@ -581,7 +581,7 @@ Accordingly, Timothy Paul Jarvis is suspended from the practice of law in Ohio f
 
 :::
 
-#### @MatterSilva_RhodeIsland1994
+#### @MatterSilva_RI1994
 
 The respondent, Daniel J. Silva, appeared before this court on December 2, 1993, pursuant to an order to show cause why discipline should not be imposed. The Disciplinary Board conducted an evidentiary hearing and received legal memoranda from the respondent and disciplinary counsel. The board has filed with us its decision and a concurring opinion signed by three members of the board.
 
@@ -599,7 +599,7 @@ Silva did not appear to appreciate and understand to whom he owed the duty of co
 
 This court concurs with the findings of the disciplinary board that Silva exercised very poor judgment and that he engaged in serious misconduct. We are constrained however to depart from the board's recommendation for sanction. We believe that Rule 1.6 has created a great deal of confusion among the members of the Rhode Island Bar. We therefore censure Silva for his failure to fulfill his ethical obligations to the parties to these transactions. The court's issuance of this sanction rather than the three-month suspension of Silva's license is due in part to the absence of any motive for personal gain and Silva's ten years at the bar without a disciplinary complaint. The court's position on the appropriate level of sanction, however, would be more severe were it not for the apparent confusion in the mind of this attorney concerning whom he represented and the silence of Rule 1.6 on that question.
 
-#### @ReGrandJurySubpoena_4thCircuit2005
+#### @ReGrandJurySubpoena_4thCir2005
 
 This is an appeal by three former employees of AOL Time Warner from the decision of the district court denying their motions to quash a grand jury subpoena for documents related to an internal investigation by AOL. Appellants in the district court argued that the subpoenaed documents were protected by the attorney-client privilege. Because the district court concluded that the privilege was AOL's alone and because AOL had expressly waived its privilege, the court denied the appellants' motion. We affirm.
 
@@ -797,7 +797,7 @@ Our holding today makes the conduct of trading in special nonrefundable retainer
 
 The Court is also mindful of the arguments of some of the amici curiae concerned about sweeping sequelae from this case in the form of disciplinary complaints or investigations that may seek to unearth or examine into past conduct and to declare all sorts of unobjectionable, settled fee arrangements unethical. We are confident that the Appellate Divisions, in the highest tradition of their regulatory and adjudicatory roles, will exercise their unique disciplinary responsibility with prudence, so as not to overbroadly brand past individualized attorney fee arrangements as unethical, and will, instead, fairly assess the varieties of these practices, if presented, on an individualized basis. Therefore, we decline to render our ruling prospectively, as requested.
 
-#### @MatterFordham_Massachusetts1996
+#### @MatterFordham_Mass1996
 
 On March 4, 1989, the Acton police department arrested Timothy, then twenty-one years old, and charged him with OUI, operating a motor vehicle after suspension, speeding, and operating an unregistered motor vehicle. At the time of the arrest, the police discovered a partially full quart of vodka in the vehicle. After failing a field sobriety test, Timothy was taken to the Acton police station where he submitted to two breathalyzer tests which registered .10 and .12 respectively.
 
@@ -881,7 +881,7 @@ Fordham argues that our imposition of discipline would offend his right to due p
 
 In charging a clearly excessive fee, Fordham departed substantially from the obligation of professional responsibility that he owed to his client. The ABA Model Standards for Imposing Lawyer Sanctions § 7.3 endorses a public reprimand as the appropriate sanction for charging a clearly excessive fee. We deem such a sanction appropriate in this case. Accordingly, a judgment is to be entered in the county court imposing a public censure. The record in this case is to be unimpounded.
 
-#### @CulpepperCarrollPLLCCole_Louisiana2006
+#### @CulpepperCarrollPLLCCole_La2006
 
 Connie Daniel Cole seeks review of a judgment of the court of appeal affirming an award of attorney's fees to his former counsel. For the reasons that follow, we reverse the judgment of the court of appeal.
 

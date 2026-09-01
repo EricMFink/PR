@@ -203,7 +203,7 @@ The rule adopted by the Court of Appeals, which seemingly would require an attor
 
 Whiteside's attorney treated Whiteside's proposed perjury in accord with professional standards, and since Whiteside's truthful testimony could not have prejudiced the result of his trial, the Court of Appeals was in error to direct the issuance of a writ of habeas corpus and must be reversed.
 
-#### @PeopleDePallo_NewYork2001
+#### @PeopleDePallo_NY2001
 
 This case calls upon us to clarify a defense attorney's responsibilities when confronted with the dilemma that a client intends to commit perjury.
 
@@ -293,7 +293,7 @@ This case does not discuss, because the issue is not raised, whether the action 
 
 Counsel who reach the conclusion that a client is about to testify falsely should first attempt to dissuade the client from giving the offending testimony. If unsuccessful, counsel should attempt a quiet withdrawal from the representation. The reasons set forth in the application to withdraw should only identify the existence of an unspecified attorney-client disagreement that might compromise the attorney's ethical responsibilities. At no time should the matter of impending perjury be disclosed. If the attempt to withdraw fails, then counsel should proceed with the case and conduct any questioning of the witness so as not to invite the suspected perjury. If the suspected perjury nonetheless occurs, counsel should make no reference of it in arguing the case to the trier of fact. I believe that if a lawyer proceeds in this manner, he or she may fully satisfy the lawyer's ethical obligation to prevent perjury without the necessity of advising the court as to the client's intent to testify falsely.
 
-#### @USLong_8thCircuit1988
+#### @USLong_8thCir1988
 
 Thaddeus Adonis Long and Edward Larry Jackson appeal from their convictions on a number of counts for their involvement in a check forging and bank fraud scheme. We affirm their convictions on all counts.
 
@@ -727,7 +727,7 @@ It is fair to say that the average jury, in a greater or less degree, has confid
 
 In these circumstances prejudice to the cause of the accused is so highly probable that we are not justified in assuming its non-existence. If the case against Berger had been strong, or, as some courts have said, the evidence of his guilt "overwhelming," a different conclusion might be reached. Moreover, we have not here a case where the misconduct of the prosecuting attorney was slight or confined to a single instance, but one where such misconduct was pronounced and persistent, with a probable cumulative effect upon the jury which cannot be disregarded as inconsequential. A new trial must be awarded.
 
-#### @StateLensegrav_NewMexico2025
+#### @StateLensegrav_NM2025
 
 In this case of severe and pervasive prosecutorial misconduct, exacerbated by a lackluster defense, we hold that an Assistant District Attorney who uses opening statements to expose the jury to incriminating allegations from a non-testifying codefendant, repeatedly accuses a defendant of witchcraft, and relies on inflammatory and inadmissible evidence throughout the case, has knowingly committed misconduct so unfairly prejudicial and with such willful disregard for a reversal on appeal that retrial is barred by double jeopardy under Article II, Section 15 of the New Mexico Constitution.
 
@@ -877,7 +877,7 @@ The rule of law applies equally to prosecutors as well as everyone else. All thr
 
 Defendant did not receive the fair trial to which she was entitled, and we, therefore, vacate her convictions. Because of the outrageous prosecutorial misconduct that pervaded this trial, double jeopardy bars reprosecution.
 
-#### @TaylorKavanagh_2ndCircuit1981
+#### @TaylorKavanagh_2dCir1981
 
 Plaintiff Rodney Taylor, _pro se_, instituted this action against Michael Kavanagh, an Assistant District Attorney for Ulster County, New York. Claiming that Kavanagh lied to him during plea negotiations and violated the terms of the negotiated plea agreement, Taylor seeks to set aside a criminal conviction resulting from his guilty plea. He also requests compensatory and punitive damages amounting to $5.5 million.
 
@@ -919,7 +919,7 @@ Moreover, reference to the type of harm suffered from the alleged misconduct dur
 
 Finally, we note that by extending the doctrine of absolute immunity to a prosecutor's plea bargaining activities, we do not condone Kavanagh's alleged misconduct. Prosecutorial abuses can and should be remedied at the trial and appellate levels, as well as by state and federal post-conviction collateral procedures. Relief for misconduct committed during a plea negotiation includes the setting aside of the plea or ordering specific performance of the agreement. In this case, Taylor raised vigorous objections to Kavanagh's conduct in state court. He also employed the federal habeas corpus procedure, without success. His failure to prevail in both the state and federal forums cannot justify the creation of another remedy, one which would impose a tremendous burden on society by severely undercutting prosecutorial independence and morale.
 
-#### @ReJordan_Louisiana2005
+#### @ReJordan_La2005
 
 ##### Traylor, J.
 
@@ -1043,7 +1043,7 @@ In 1976, the United States Supreme Court held that individual prosecutors have a
 
 In determining whether respondent caused an actual injury pursuant to Louisiana's Supreme Court Rule XIX, § 10(c), our focus should be on the unnecessary and unlawful suffering of the wrongfully convicted as a result of the prosecutorial misconduct, not just the reversal of the wrongfully imposed sentence. Because, in my view, loss of a liberty interest is more valuable than financial loss or injury to one's credit, I would impose an actual period of suspension.
 
-#### @HillmanNuecesCounty_Texas2019
+#### @HillmanNuecesCounty_Tex2019
 
 ##### Jeffrey S. Boyd, Justice.
 

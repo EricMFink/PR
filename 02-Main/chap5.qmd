@@ -61,7 +61,7 @@
 -   \(d\) This rule does not require disclosure if the lawyer knows an appropriate governmental authority, the convicted defendant, or the defendant's lawyer already possesses the information.
 :::
 
-#### @DoughertyPepperHamiltonLLP_PennsylvaniaSuperiorCourt2016
+#### @DoughertyPepperHamiltonLLP_PaSuperCt2016
 
 Appellant, John J. Dougherty, appeals from the order granting summary judgment in favor of Pepper Hamilton LLP and its attorneys Amy B. Ginensky, Michael E. Baughman, Peter M. Smith, and Raphael Cunniff, in this civil action alleging breach of fiduciary duty and breach of contract. For the reasons that follow, we reverse and remand for further proceedings.
 
@@ -117,7 +117,7 @@ Here, the trial court concluded that because the FBI Affidavit was inadvertently
 
 Our review of the record, in the light most favorable to Appellant as the non-moving party, reflects that the trial court erred in granting summary judgment in this case. Indeed, this case presents genuine issues of fact. The record reveals that the FBI Affidavit in question became part of another criminal matter through inadvertence. Even accepting that the FBI Affidavit was publicly available through PACER prior to December 10, 2012, we are left to ponder whether the FBI Affidavit was actually "generally known." All that is acknowledged at this point in the proceedings is that the FBI Affidavit was inadvertently appended to a document in a case that did not involve Appellant as a party. Therefore, it appears that such document was not "indexed" under Appellant's name and that a person interested in the FBI Affidavit "could obtain it only by means of special knowledge." Furthermore, it is unknown exactly how and when the FBI Affidavit came into the possession of the Inquirer and eventually became the subject of an article in the Inquirer during Pepper Hamilton's representation of the Inquirer. Whether Pepper Hamilton committed a breach of its duties to Appellant depends on the answers to these questions. Thus, these questions are sufficient to establish genuine issues of material fact regarding Pepper Hamilton's conduct. Contrary to the trial court's conclusion, in the event that the FBI Affidavit was not generally known information, it appears that Pepper Hamilton breached its duty to Appellant as a former client and such breach was actionable. Accordingly, we reverse the order granting summary judgment.
 
-#### @MatterTennant_Montana2017
+#### @MatterTennant_Mont2017
 
 These consolidated proceedings include two formal disciplinary complaints filed against Montana attorney David G. Tennant. The complaints, which arise from Tennant's debt collection practices against clients and former clients, will be referenced in this Opinion and Order as the Ray complaint and the Harshman complaint.
 
@@ -157,7 +157,7 @@ Finally, ODC argues that the Commission's recommended sanctions are inadequate g
 
 We have concluded that ODC established one ethical violation in addition to those recognized by the Commission. However, that violation ultimately did not harm Tennant's clients---the Harshmans redeemed their property. Further, the additional violation does not undermine the Commission's overall conclusions on the evidence presented, and on this record we are not inclined to deviate from the discipline recommended by the Commission.
 
-#### @McClureThompson_9thCircuit2003
+#### @McClureThompson_9thCir2003
 
 Oregon state prisoner Robert A. McClure appeals the district court's denial of his habeas corpus petition challenging his jury trial conviction for three aggravated murders. McClure's original defense attorney, Christopher Mecca, placed an anonymous telephone call to law enforcement officials directing them to the locations of what turned out to be the bodies of two children whom McClure was ultimately convicted of killing. The district court rejected McClure's arguments that the disclosure constituted ineffective assistance of counsel, holding there was no breach of the duty of confidentiality and no actual conflict of interest. We affirm.
 
@@ -312,7 +312,7 @@ Unless waived (see §§ 78-80) or subject to exception (see §§ 81-85), the att
 -   \(3\) A person invoking a waiver of or exception to the privilege (§§ 78-85) must assert it and, if the assertion is contested, demonstrate each element of the waiver or exception.
 :::
 
-#### @JonesUS_DCCourtofAppeals2003
+#### @JonesUS_DCCtApp2003
 
 After a jury trial, appellant was convicted of first-degree burglary, first-degree sexual abuse, first-degree felony murder, and second-degree murder. On appeal he contends that the trial court erred when it ruled that the attorney-client privilege did not require the exclusion of testimony about a conversation that appellant had with his girlfriend (at the time), who was an attorney employed by the federal government. We affirm on the merits, and remand for the sole purpose of vacating a redundant conviction.
 
@@ -364,7 +364,7 @@ In addition, the court ruled that the questions appellant asked Ms. Ducharme wer
 
 While such concerns about "bad facts" might fall within the privilege if they were expressed in a communication within a clearly established attorney-client relationship, we conclude, like the trial court, that appellant failed to establish that, as a matter of fact, such a relationship existed between him and Ms. Ducharme. We see no reason to upset the court's conclusion, which rested largely on its determination that Ms. Ducharme was credible and that appellant was not. We find no error in that determination.
 
-#### @PeopleBelge_NYCountyCourtOnandagaCounty1975
+#### @PeopleBelge_NYCtyCtOnandagaCty1975
 
 In the summer of 1973 Robert F. Garrow, Jr., stood charged in Hamilton County with the crime of murder. The defendant was assigned two attorneys, Frank H. Armani and Francis R. Belge. A defense of insanity had been interposed by counsel for Mr. Garrow. During the course of the discussions between Garrow and his two counsel, three other murders were admitted by Garrow, one being in Onondaga County. On or about September of 1973 Mr. Belge conducted his own investigation based upon what his client had told him and with the assistance of a friend the location of the body of Alicia Hauck was found in Oakwood Cemetery in Syracuse. Mr. Belge personally inspected the body and was satisfied, presumably, that this was the Alicia Hauck that his client had told him that he murdered.
 
@@ -396,7 +396,7 @@ There must always be a conflict between the obstruction of the administration of
 
 It is the decision of this court that Francis R. Belge conducted himself as an officer of the court with all the zeal at his command to protect the constitutional rights of his client. Both on the grounds of a privileged communication and in the interests of justice the indictment is dismissed.
 
-#### @CorpDoe_EDVirginia1992
+#### @CorpDoe_EDVa1992
 
 Few problems are as vexing as determining what evidence justifies a lawyer's disclosure of a client's confidential information and documents, which the lawyer believes reflect an ongoing or future crime or fraud. This case presents precisely this problem. Plaintiff, X Corp. brings this suit, in part, to prevent defendant, John Doe, X Corp.'s former in-house counsel, from disclosing X Corp.'s confidential information and documents retained by Doe following his discharge from X Corp. X Corp. also seeks return of the documents. In support of the relief sought, X Corp. cites the attorney-client privilege, the parties' confidentiality agreement, and the lawyer's general duty to preserve a client's confidences. For his part, Doe claims that the documents in issue disclose ongoing civil and criminal frauds perpetrated by X Corp. against the federal government. As such, according to Doe, the documents fall within the public policy crime-fraud exception to the attorney-client privilege and to any general or contractual duty of confidentiality.
 
@@ -462,7 +462,7 @@ Given this, in proving its claim that Doe is obligated to maintain its confidenc
 
 There may be circumstances where ongoing or contemplated frauds actually exist, but disclosure is impermissible because the evidence relied on by the attorney falls short of clearly establishing the fraud. This result might permit the fraud to continue. But neither mere suspicion of fraud, nor the mere risk of undiscovered fraud, justify abrogating the duty of attorney confidentiality. A windfall to a wrongdoer may be the price exacted for the benefits conferred on the public and the legal system by vigilantly-maintained attorney confidentiality.
 
-#### @MatterGrandJuryInvestigation_Massachusetts2009
+#### @MatterGrandJuryInvestigation_Mass2009
 
 This case requires us to decide whether the attorney-client privilege applies where a client leaves messages on his counsel's telephone answering machine threatening to harm others and the attorney discloses those communications in order to protect those threatened.
 
@@ -539,7 +539,7 @@ When work product protection is invoked as described in § 90, opinion work prod
             -   \(ii\) a contemporaneous stenographic, mechanical, electrical, or other recording—or a transcription of it—that recites substantially verbatim the person's oral statement.
 :::
 
-#### @USDeloitteLLP_DCCircuit2010
+#### @USDeloitteLLP_DCCir2010
 
 The United States appeals from a district court order denying its motion to compel Dow Chemical Company's independent auditor, Deloitte & Touche USA, LLP, to produce three documents in connection with ongoing tax litigation between Dow and the government. The district court ruled that all three documents were protected from discovery under the work-product doctrine. On appeal, the government contends that one of the documents is not work product because it was prepared by Deloitte during the audit process. In addition, while it concedes that the other two documents are work product, it argues that Dow waived work-product protection when it disclosed them to Deloitte. We vacate the district court's decision that the document prepared by Deloitte is work product and remand for in camera review to determine whether it is entirely work product. With respect to the other two documents, we affirm the district court's decision that Dow did not waive work-product protection when it disclosed them to Deloitte.
 
@@ -785,7 +785,7 @@ Work-product immunity is waived if the client, the client's lawyer, or another a
 Work-product immunity does not apply to materials prepared when a client consults a lawyer for the purpose, later accomplished, of obtaining assistance to engage in a crime or fraud or to aid a third person to do so or uses the materials for such a purpose.
 :::
 
-#### @FederalRulesEvidenceRule502
+#### @FederalRulesEvidence502
 
 ::: legalcode
 ##### Attorney-Client Privilege and Work Product; Limitations on Waiver
@@ -811,11 +811,11 @@ The following provisions apply, in the circumstances set out, to disclosure of a
     -   \(2\) “work-product protection” means the protection that applicable law provides for tangible material (or its intangible equivalent) prepared in anticipation of litigation or for trial.
 :::
 
-#### @ClarkCapitalManagementAnnuity_EDPa2001
+#### @ClarkCapitalMgmtAnnuity_EDPa2001
 
 There is a privilege protecting communications between attorney and client. The privilege takes flight if the relation is abused. A client who consults an attorney for advice that will serve him in the commission of a fraud will have no help from the law. He must let the truth be told. There are early cases apparently to the effect that a mere charge of illegality, not supported by any evidence, will set the confidences free. But this conception of the privilege is without support in later rulings. "It is obvious that it would be absurd to say that the privilege could be got rid of merely by making a charge of fraud." To drive the privilege away, there must be "something to give colour to the charge;" there must be "prima facie evidence that it has some foundation in fact." When that evidence is supplied, the seal of secrecy is broken. Nor does the loss of the privilege depend upon the showing of a conspiracy, upon proof that client and attorney are involved in equal guilt. The attorney may be innocent, and still the guilty client must let the truth come out.
 
-#### @BlumenthalKimberMfgInc_Connecticut2003
+#### @BlumenthalKimberMfgInc_Conn2003
 
 The petitioner, Richard Blumenthal, the attorney general of the state of Connecticut, appeals from the decision of the trial court denying his application for an order requiring the respondents, Kimber Manufacturing, Inc., a firearms manufacturer with its principal place of business in Yonkers, New York, and Leslie Edelman, Kimber's president, to comply with the petitioner's discovery request for a certain document sent from one Kimber employee to an attorney and three other Kimber employees. The petitioner contends that the trial court improperly determined that: (1\) the communication was protected by the attorney-client privilege; and (2\) the communication was not otherwise subject to disclosure under the crime-fraud exception to that privilege. We conclude that the trial court properly determined that the document was protected by the attorney-client privilege and that the petitioner did not meet his burden of establishing that the crime-fraud exception applies to exclude the document from protection under the privilege. Accordingly, we affirm the decision of the trial court.
 
