@@ -534,7 +534,7 @@ In addition to the educational and examination requirements, applicants must als
 
 ::: {.legalcode}
 
-##### § .0601 Burden of Proof
+##### .0601 Burden of Proof
 
 - Every applicant shall have the burden of proving that the applicant possesses the qualifications of character and general fitness requisite for an attorney and counselor-at-law and is possessed of good moral character and is entitled to the high regard and confidence of the public.
 
@@ -548,7 +548,7 @@ In addition to the educational and examination requirements, applicants must als
 	- (1\) who fails to disclose fully to the Board, whether requested to do so or not, the facts relating to any disciplinary proceedings or charges as to the applicant's professional conduct, whether same have been terminated or not, in this or any other state, or any federal court or other jurisdiction, or 
 	- (2\) who fails to disclose fully to the Board, whether requested to do so or not, any and all facts relating to any civil or criminal proceedings, charges or investigations involving the applicant (unless expunged under applicable state law), whether the same have been terminated or not in this or any other state or in any of the federal courts or other jurisdictions. 
 
-##### .0604 BAR CANDIDATE COMMITTEE
+##### .0604 Bar Candidate Committee
 
 - Every General Applicant and UBE Transfer Applicant not licensed in another jurisdiction shall appear before a bar candidate committee, appointed by the Board Chair, in the judicial district in which the applicant resides, or in such other judicial districts as the Board in its sole discretion may designate to the applicant, to be examined about any matter pertaining to the applicant's moral character and general fitness to practice law. An applicant who has appeared before a hearing Panel may, in the Board's discretion, be excused from making a subsequent appearance before a bar candidate committee. The Board Chair may delegate to the Executive Director the authority to exercise such discretion. The applicant shall give such information as may be required on such forms provided by the Board. A bar candidate committee may require the applicant to make more than one appearance before the committee and to furnish to the committee such information and documents as it may reasonably require pertaining to the moral character and general fitness of the applicant to be licensed to practice law in North Carolina. Each applicant will be advised when to appear before the bar candidate committee. There can be no changes once the initial assignment is made.
 
