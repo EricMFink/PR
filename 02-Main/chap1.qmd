@@ -8,7 +8,7 @@ Law in the United States is a heavily regulated industry. Lawyers are licensed i
 
 Nevertheless, courts, commentators, and legal ethics regulators continue to conceptualize law as a "self-regulated profession." ... The preamble to the ... ABA Model Rules of Professional Conduct maintains an emphasis on the importance of self-regulation despite the fact that the Rules are intended to be adopted as enforceable by state supreme courts. 
 
-#### @MRPCPreambleScope
+#### @MRPC_PreambleandScope
 
 ::: {.legalcode}
 
@@ -41,7 +41,7 @@ Nevertheless, courts, commentators, and legal ethics regulators continue to conc
 
 :::
 
-#### @MRPC10
+#### @MRPC_Rule1.0
 
 ::: {.legalcode}
 
@@ -84,7 +84,7 @@ For example, in Section 307 of the Sarbanes-Oxley Act of 2002, Congress directed
 
 ### Discipline by the Bar
 
-#### @DisciplineDisbarment_NCGenStat84-28
+#### @NCGenStat84-28
 
 ::: {.legalcode}
 
@@ -114,7 +114,7 @@ For example, in Section 307 of the Sarbanes-Oxley Act of 2002, Congress directed
 
 :::
 
-#### @MRPC82
+#### @MRPC_Rule8.2
 
 ::: {.legalcode}
 
@@ -125,7 +125,7 @@ For example, in Section 307 of the Sarbanes-Oxley Act of 2002, Congress directed
 
 :::
 
-#### @MRPC83
+#### @MRPC_Rule8.3
 
 ::: {.legalcode}
 
@@ -137,7 +137,7 @@ For example, in Section 307 of the Sarbanes-Oxley Act of 2002, Congress directed
 
 :::
 
-#### @MRPC84
+#### @MRPC_Rule8.4
 
 ::: {.legalcode}
 
@@ -155,7 +155,7 @@ It is professional misconduct for a lawyer to:
 
 :::
 
-#### @MRPC85
+#### @MRPC_Rule8.5
 
 ::: {.legalcode}
 
@@ -530,7 +530,7 @@ The requirements for bar admission vary by state, but typically include graduati
 
 In addition to the educational and examination requirements, applicants must also satisfy a character and fitness standard. 
 
-#### Rules Governing Admission to the Practice of Law in the State of North Carolina, @RulesGoverningAdmission_2727NCAdminCode030600
+#### Rules Governing Admission to the Practice of Law in the State of North Carolina, @27NCAdminCode03.0600
 
 ::: {.legalcode}
 
@@ -558,7 +558,7 @@ In addition to the educational and examination requirements, applicants must als
 
 :::
 
-#### @NCBdLaw_nd
+#### @NCBoardLawExaminers_CharacterFitnessGuidelines
 
 ::: {.legalcode}
 
@@ -638,7 +638,7 @@ In addition to the educational and examination requirements, applicants must als
 
 :::
 
-#### @MRPC81
+#### @MRPC_Rule8.1
 
 ::: {.legalcode}
 
@@ -869,7 +869,7 @@ Applicant has disclosed various student loans with balances now totaling about $
 
 ## Unauthorized Practice of Law
 
-#### @PracticeLawDefined_NCGenStat84-21
+#### @NCGenStat84-2.1
 
 ::: {.legalcode}
 
@@ -883,7 +883,7 @@ Applicant has disclosed various student loans with balances now totaling about $
 
 :::
 
-#### @MRPC55
+#### @MRPC_Rule5.5
 
 ::: {.legalcode}
 
@@ -1157,7 +1157,7 @@ Moreover, the restriction on the provision of legal advice does not prevent plai
 
 ## Law Firms
 
-#### @MRPC117
+#### @MRPC_Rule1.17
 
 ::: {.legalcode}
 
@@ -1175,7 +1175,7 @@ Moreover, the restriction on the provision of legal advice does not prevent plai
 
 :::
 
-#### @MRPC51
+#### @MRPC_Rule5.1
 
 ::: {.legalcode}
 
@@ -1189,7 +1189,7 @@ Moreover, the restriction on the provision of legal advice does not prevent plai
 
 :::
 
-#### @MRPC52
+#### @MRPC_Rule5.2
 
 ::: {.legalcode}
 
@@ -1200,7 +1200,7 @@ Moreover, the restriction on the provision of legal advice does not prevent plai
 
 :::
 
-#### @MRPC53
+#### @MRPC_Rule5.3
 
 ::: {.legalcode}
 
@@ -1215,7 +1215,7 @@ Moreover, the restriction on the provision of legal advice does not prevent plai
 
 :::
 
-#### @MRPC54
+#### @MRPC_Rule5.4
 
 ::: {.legalcode}
 
@@ -1235,7 +1235,7 @@ Moreover, the restriction on the provision of legal advice does not prevent plai
 
 :::
 
-#### @MRPC56
+#### @MRPC_Rule5.6
 
 ::: {.legalcode}
 
@@ -1247,7 +1247,7 @@ Moreover, the restriction on the provision of legal advice does not prevent plai
 
 :::
 
-#### @MRPC57
+#### @MRPC_Rule5.7
 
 ::: {.legalcode}
 

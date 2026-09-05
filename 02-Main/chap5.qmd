@@ -2,7 +2,7 @@
 
 ## Duty of Confidentiality
 
-#### @MRPC16
+#### @MRPC_Rule1.6
 ::: legalcode
 ##### Confidentiality of Information
 
@@ -18,8 +18,10 @@
 -   \(c\) A lawyer shall make reasonable efforts to prevent the inadvertent or unauthorized disclosure of, or unauthorized access to, information relating to the representation of a client.
 :::
 
-#### @MRPC19
+#### @MRPC_Rule1.9
+
 ::: legalcode
+
 ##### Duties to Former Clients
 
 -   \(c\) A lawyer who has formerly represented a client in a matter or whose present or former firm has formerly represented a client in a matter shall not thereafter:
@@ -27,8 +29,10 @@
     -   \(2\) reveal information relating to the representation except as these Rules would permit or require with respect to a client.
 :::
 
-#### @MRPC118
+#### @MRPC_Rule1.18
+
 ::: legalcode
+
 ##### Duties to Prospective Client
 
 -   \(b\) Even when no client-lawyer relationship ensues, a lawyer who has learned information from a prospective client shall not use or reveal that information, except as Rule 1.9 would permit with respect to information of a former client.
@@ -40,16 +44,19 @@
         -   \(ii\) written notice is promptly given to the prospective client.
 :::
 
-#### @MRPC44
+#### @MRPC_Rule4.4
+
 ::: legalcode
+
 ##### Respect for Rights of Third Persons
 
 -   \(b\) A lawyer who receives a document or electronically stored information relating to the representation of the lawyer's client and knows or reasonably should know that the document or electronically stored information was inadvertently sent shall promptly notify the sender.
 :::
 
-#### @NCRulesProfessionalConduct86
+#### @NCRPC_Rule8.6
 
 ::: legalcode
+
 ##### Information About a Possible Wrongful Conviction
 
 -   \(a\) Subject to paragraph (b), when a lawyer knows of credible evidence or information, including evidence or information otherwise protected by Rule 1.6, that creates a reasonable likelihood that a defendant did not commit the offense for which the defendant was convicted, the lawyer shall promptly disclose that evidence or information to the prosecutorial authority for the jurisdiction in which the defendant was convicted and to North Carolina Office of Indigent Defense Services or, if appropriate, the federal public defender for the district of conviction.
@@ -523,7 +530,7 @@ When work product protection is invoked as described in § 90, opinion work prod
 -   \(3\) Once a claim of work product has been adequately supported, a person entitled to invoke a waiver or exception must assert it and, if the assertion is contested, demonstrate each element of the waiver or exception.
 :::
 
-##### @FRCP26
+##### @FedCiv_Rule26
 
 ::: legalcode
 ##### Duty to Disclose; General Provisions Governing Discovery
@@ -785,7 +792,7 @@ Work-product immunity is waived if the client, the client's lawyer, or another a
 Work-product immunity does not apply to materials prepared when a client consults a lawyer for the purpose, later accomplished, of obtaining assistance to engage in a crime or fraud or to aid a third person to do so or uses the materials for such a purpose.
 :::
 
-#### @FederalRulesEvidence502
+#### @FedEvid_Rule502
 
 ::: legalcode
 ##### Attorney-Client Privilege and Work Product; Limitations on Waiver

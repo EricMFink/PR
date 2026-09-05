@@ -2,7 +2,7 @@
 
 ## Truthfulness and Respect
 
-#### @MRPC41
+#### @MRPC_Rule4.1
 ::: {.legalcode}
 
 ##### Truthfulness in Statements to Others
@@ -13,7 +13,7 @@
 
 :::
 
-#### @MRPC44
+#### @MRPC_Rule4.4
 ::: {.legalcode}
 
 ##### Respect for Rights of Third Persons
@@ -25,7 +25,7 @@
 
 ## Represented Persons
 
-#### @MRPC42
+#### @MRPC_Rule4.2
 ::: {.legalcode}
 
 ##### Communication with Person Represented by Counsel
@@ -106,7 +106,7 @@ Here, the matter under discussion was custody of Sally. Louise was represented b
 
 ## Unrepresented Persons
 
-#### @MRPC43
+#### @MRPC_Rule4.3
 ::: {.legalcode}
 
 ##### Dealing with Unrepresented Person

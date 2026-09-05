@@ -2,7 +2,7 @@
 
 ## Competence, Diligence, & Communication
 
-#### @MRPC11
+#### @MRPC_Rule1.1
 ::: {.legalcode}
 
 ##### Competence
@@ -33,7 +33,7 @@ _Maintaining Competence_
 
 :::
 
-#### @MRPC13
+#### @MRPC_Rule1.3
 ::: {.legalcode}
 
 ##### Diligence
@@ -42,7 +42,7 @@ _Maintaining Competence_
 
 :::
 
-#### @MRPC14
+#### @MRPC_Rule1.4
 ::: {.legalcode}
 
 ##### Communication
@@ -57,7 +57,7 @@ _Maintaining Competence_
 
 :::
 
-#### @MRPC21
+#### @MRPC_Rule2.1
 ::: {.legalcode}
 
 ##### Advisor
@@ -66,7 +66,7 @@ _Maintaining Competence_
 
 :::
 
-#### @MRPC23
+#### @MRPC_Rule2.3
 
 ::: {.legalcode}
 
@@ -168,7 +168,7 @@ The term "legal malpractice" is sometimes used generally to refer to any claim a
 
 :::
 
-#### @MRPC18
+#### @MRPC_Rule1.8
 ::: {.legalcode}
 
 ##### Current Clients: Specific Rules
