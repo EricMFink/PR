@@ -1,66 +1,68 @@
-# Professional Responsibility {.unnumbered}
+---
+format:
+  html:
+    css: syllabus.css
+---
 
-[{{< bi download >}}](PRsyllabus.pdf "Download Syllabus")
+# Syllabus {.unnumbered}
 
-::: {.syllabus}
+[{{< bi download >}}](CivProSyllabus.pdf "Download Syllabus")
 
 ::: {.syllabus-header}
 
-## {{< var subject >}} {.unnumbered}
+# {{< var subject >}} {.unnumbered .unlisted}
 
-{{< var institution >}}
+###### {{< var institution >}} {.unnumbered .unlisted}
 
-{{< var term >}}
+###### {{< var term >}} {.unnumbered .unlisted}
 
-{{< var room >}}
+###### {{< var room >}} {.unnumbered .unlisted}
 
-{{< var meets >}}
+###### {{< var meets >}} {.unnumbered .unlisted}
 
-[emfink.net/{{< var repo >}}]({{< var course-url >}})
+##### Professor {.unnumbered .unlisted}
 
-### Professor
+###### {{< var author >}} {.unnumbered .unlisted}
 
-{{< var author >}}
+###### {{< var phone >}} {.unnumbered .unlisted}
 
-{{< var phone >}}
+###### [{{< var email >}}](mailto:{{< var email >}}) {.unnumbered .unlisted}
 
-[{{< var email >}}](mailto:{{< var email >}})
+###### Office hours: [[calendly.com/emfink]({{< var appointments >}})]{.mono-font-smaller} {.unnumbered .unlisted}
 
-Office hours: [[calendly.com/emfink]({{< var appointments >}})]{.mono-font-smaller}
+##### Teaching Assistants {.unnumbered .unlisted}
 
-### Teaching Assistant {.unnumbered}
+###### {{< var ta >}} {.unnumbered .unlisted}
 
-{{< var ta >}}
-
-[{{< var ta-email >}}](mailto:{{< var ta-email >}})
+###### [{{< var ta-email >}}](mailto:{{< var ta-email >}}) {.unnumbered .unlisted}
 
 :::
 
-## Description {.unnumbered}
+# Description {.unnumbered}
 
 This course is intended to acquaint students with the organization and regulation of the legal profession, the nature of the attorney-client relationship, and the duties that attorneys owe to clients and others. Upon successfully completing the course, students should be familiar with the ABA Model Rules of Professional Conduct and other sources of law governing the legal profession, and be able to apply these rules to issues that arise in legal practice. The course will also help prepare students for the [Multistate Professional Responsibility Examination (MPRE)](https://www.ncbex.org/exams/mpre/), but will not cover all of the topics tested on that exam. 
 
-## Materials {.unnumbered}
+# Materials {.unnumbered}
 
-### Required  {.unnumbered}
+## Required  {.unnumbered}
 
 Professional Responsibility: An Open-Source Casebook (v.5.0 2026). Available on the course website: [[emfink.net/PR](https://www.emfink.net/PR/)]{.mono-font}.
 
-### Suggested  {.unnumbered}
+## Suggested  {.unnumbered}
 
-Grace M. Geisel, [Mastering Professional Responsibility](https://cap-press.com/books/isbn/9781611636208/Mastering-Professional-Responsibility-Second-Edition) (2d ed., Carolina Academic Press 2015). 
+Grace M. Geisel, [Mastering Professional Responsibility](https://cap-press.com/books/isbn/9781611636208/Mastering-Professional-Responsibility-Second-Edition) (2d ed., Carolina Academic Press 2015).  The Geisel hornbook readings listed in the Schedule & Assignments section of the syllabus are optional. You may find them helpful to get an overview of the topics covered.
 
 Ray Brescia, [Core Professional Responsibility: Learning Through Multiple-Choice Questions](https://cap-press.com/books/isbn/9781531026097/Core-Professional-Responsibility) (Carolina Academic Press 2024). 
 
-## Policies {.unnumbered}
+# Policies {.unnumbered}
 
-### Grading {.unnumbered}
+## Grading {.unnumbered}
 
 Your grade will be based on a final examination consisting of multiple choice questions, similar in format to the [Multistate Professional Responsibility Examination (MPRE)](https://www.ncbex.org/exams/mpre). You will receive a copy of the Rules of Professional Conduct to use during the exam, which will otherwise be closed-book/closed-notes. The exam will take place during the Fall exam period (date and time TBA)
 
 Consistent with [ABA Standard 310](https://www.americanbar.org/content/dam/aba/administrative/legal_education_and_admissions_to_the_bar/standards/2025-2026/2025-2026-standards-chapter-3.pdf), [Elon Law School policy](https://eloncdn.blob.core.windows.net/eu3/sites/996/2020/01/GSO-Student-Handbook-2025-26.pdf) requires that "Each credit hour of in-class instructional time must also require at least two additional hours of out-of-class student work." Completion of the assigned reading will satisfy this requirement.
 
-### Attendance {.unnumbered}
+## Attendance {.unnumbered}
 
 Elon Law School has adopted the following attendance policy for all courses:
 
@@ -70,23 +72,23 @@ Elon Law School has adopted the following attendance policy for all courses:
 
 You should let me know (in advance if feasible) if you are unable to attend class, will arrive late, or must leave early. I do not require an explanation of the reason, nor do I require a doctor's note or other documentation.
 
-### Disability Accommodations {.unnumbered}
+## Disability Accommodations {.unnumbered}
 
 For disability accommodation requests, contact the [Office of Academic Accommodations and Accessibility](https://www.elon.edu/u/academics/koenigsberger-learning-center/disabilities-resources/homepage/graduate-student-resources/).
 
-### Honor Code {.unnumbered}
+## Honor Code {.unnumbered}
 
 The Law School [honor code](https://www.elon.edu/u/law/students/honor-code/) applies to all activities related to your law school study, including conduct during class and examinations.
 
 \newpage
 
-## Schedule & Reading Assignments {.unnumbered}
+# Schedule & Reading Assignments {.unnumbered}
 
 _Note:_ This class will not meet on Sept. 7 and 21.
 
 ### 1. The Legal Profession & Regulation of Lawyers 
 
-_Geisel_, Chap. 1 & 2[^syllabus2]
+- _Geisel_, Chap. 1 & 2
 
 #### Monday, August 31
 
@@ -98,7 +100,7 @@ _Geisel_, Chap. 1 & 2[^syllabus2]
 
 ### 2. Advertising & Solicitation 
 
-_Geisel_, Chap. 45 & 46 
+- _Geisel_, Chap. 45 & 46 
 
 #### Wednesday, September 9
 
@@ -106,7 +108,7 @@ _Geisel_, Chap. 45 & 46
 
 ### 3. The Attorney-Client Relationship 
 
-_Geisel Chap._ 4 & 8-14 
+- _Geisel Chap._ 4 & 8-14 
 
 #### Monday, September 14
 
@@ -126,7 +128,7 @@ _Geisel Chap._ 4 & 8-14
 
 ### 4. The Duty of Care 
 
-_Geisel_, Chap. 5-7 & 24 
+- _Geisel_, Chap. 5-7 & 24 
 
 #### Wednesday, September 30 & Monday, October 5 
 
@@ -138,7 +140,7 @@ _Geisel_, Chap. 5-7 & 24
 
 ### 5. Confidentiality & Privileges 
 
-_Geisel_, Chap. 15-16 
+- _Geisel_, Chap. 15-16 
 
 #### Monday, October 12 & Wednesday, October 14 
 
@@ -150,7 +152,7 @@ _Geisel_, Chap. 15-16
 
 ### 6. Conflicts of Interest 
 
-_Geisel_, Chap. 17-23 
+- _Geisel_, Chap. 17-23 
 
 #### Monday, October 26
 
@@ -170,7 +172,7 @@ _Geisel_, Chap. 17-23
 
 ### 7. Duties in Litigation 
 
-_Geisel_, Chap. 26-33 
+- _Geisel_, Chap. 26-33 
 
 #### Monday, November 9
 
@@ -186,7 +188,7 @@ _Geisel_, Chap. 26-33
 
 ### 8. Interactions with Non-Clients 
 
-_Geisel_, Chap. 35-37 
+- _Geisel_, Chap. 35-37 
 
 #### Wednesday, November 18
 
@@ -196,6 +198,3 @@ _Geisel_, Chap. 35-37
 
 **Date TBA** Final Exam 
 
-[^syllabus2]: The Geisel hornbook readings are optional. You may find them helpful to get an overview of the topics covered.
-
-:::
