@@ -111,8 +111,6 @@
 
 :::
 
-### Candor Toward the Tribunal
-
 #### @NixWhiteside_US1986
 
 We granted certiorari to decide whether the Sixth Amendment right of a criminal defendant to assistance of counsel is violated when an attorney refuses to cooperate with the defendant in presenting perjured testimony at his trial.
@@ -383,8 +381,6 @@ The determination whether the prejudice was undue must occur at an evidentiary h
 
 We therefore affirm the judgment of the district court but without prejudice to Jackson to claim in a section 2255 proceeding an infringement of his rights to effective assistance of counsel and to testify.
 
-### Trial Publicity
-
 #### @MatterDisciplineLeavitt_Utah2025
 
 [Introduction]{.casesection}
@@ -607,8 +603,6 @@ Preserving the right to a fair trial necessarily entails some curtailment of the
 The parties agree that the appropriate sanction for the misconduct is a public reprimand. Among the factors we consider in assessing the adequacy of that proposed sanction are aggravating and mitigating circumstances. In mitigation, the parties agree that the respondent has not previously been the subject of a disciplinary proceeding, that he cooperated with the Commission, and that he continued to represent the client through the resolution of her case. No factors in aggravation were cited.
 
 We view the respondent's actions as a purposeful attempt to gain an unfair advantage in retrial of his client's case. Although the respondent had no real selfish motive (and instead apparently sought only to advocate zealously his client's cause), he nonetheless was bound to do so only within the bounds of our ethical rules. His public comments were inappropriate because they threatened or in fact impinged the prospect of a fair trial for his client. Whether extrajudicial statements of this sort warrant reprimand or suspension is fact sensitive. Here, we take into account the fact that the respondent's primary motivation appears to have been the welfare of his client. We are also cognizant while assessing the proposed sanction of our policy of encouraging agreed resolution of disciplinary cases. We find that, in this case, the agreed sanction of a public reprimand is appropriate.
-
-### Lawyer as Witness
 
 #### @BroadbentWilliams_DUtah2025
 

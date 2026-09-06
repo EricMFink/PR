@@ -133,16 +133,16 @@
   []
 
 % TOC entries
-\setkomafont{chapterentry}{\Large}
+\setkomafont{chapterentry}{\large}
 %\newcommand*{\sectocentry}[1]{\large #1}
 %\newcommand*{\subsectocentry}[1]{\normalsize #1}
 %\newcommand*{\subsubsectocentry}[1]{\small #1}
 %\RedeclareSectionCommand[beforeskip=\baselineskip,afterskip=\baselineskip,afterindent=false,tocentryformat=\sectocentry]{section}
 %\RedeclareSectionCommand[beforeskip=\baselineskip,afterskip=\baselineskip,afterindent=false,tocentryformat=\subsectocentry]{subsection}
 %\RedeclareSectionCommand[beforeskip=\baselineskip,afterskip=\baselineskip,afterindent=false,tocentryformat=\subsubsectocentry]{subsubsection}
-\DeclareTOCStyleEntry[beforeskip=.5em,entryformat=\large]{tocline}{section}
+\DeclareTOCStyleEntry[beforeskip=.5em,entryformat=\normalsize]{tocline}{section}
 \DeclareTOCStyleEntry[beforeskip=.5em,entryformat=\normalsize]{tocline}{subsection}
-\DeclareTOCStyleEntry[beforeskip=.5em,numwidth=0em,indent=4em,entryformat=\small]{tocline}{subsubsection}
+\DeclareTOCStyleEntry[beforeskip=.5em,numwidth=0em,indent=2em,entryformat=\small]{tocline}{subsubsection}
 
 % Case, etc. first heading
 \newcommand{\casesection}[1]{\needspace{4\baselineskip}\vspace{.5em}\rmfamily{\bfseries{\centering{#1}\par}}}

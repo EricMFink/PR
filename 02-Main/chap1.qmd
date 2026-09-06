@@ -82,8 +82,6 @@ For example, in Section 307 of the Sarbanes-Oxley Act of 2002, Congress directed
 
 ## Misconduct & Discipline
 
-### Discipline by the Bar
-
 #### @NCGenStat84-28
 
 ::: {.legalcode}
@@ -352,8 +350,6 @@ We acknowledge that Blakeslee does not appear to have harbored any animosity tow
 
 Accordingly, Jack Allen Blakeslee is suspended from the practice of law in Ohio for one year with six months stayed on the condition that he engage in no further misconduct. If Blakeslee fails to comply with the condition of the stay, the stay will be lifted and he will serve the entire one-year suspension. Costs are taxed to Blakeslee.
 
-### Discipline by Courts 
-
 #### @MillerRegionsBank_NDAla2026
 
 This case is before the court for ongoing disciplinary proceedings against Attorney H. Gregory Harp, a solo practitioner, following Attorney Harp's misuse of generative artificial intelligence to make false statements to the court. The court previously issued two orders to show cause: one for Attorney Harp to show good cause why he should not be sanctioned for making false statements to the court and the other for Attorney Harp to show good cause why he should not be held in civil contempt for disobeying a court order and sanctioned for bad faith obstruction of the judicial process and spoliation of evidence.
@@ -558,7 +554,7 @@ In addition to the educational and examination requirements, applicants must als
 
 :::
 
-#### @NCBoardLawExaminers_CharacterFitnessGuidelines
+#### @NCBdofLawExaminers_CharacterFitnessGuidelines_nd
 
 ::: {.legalcode}
 
