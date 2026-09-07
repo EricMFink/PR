@@ -850,6 +850,20 @@ header .chapter-title {
 	border-left: 1px solid #800000;
 	color: #800000 !important;
 }
+
+.sidebar .toc-actions h2, .sidebar .toc-actions .h2, .sidebar .quarto-code-links h2, .sidebar .quarto-code-links .h2, .sidebar .quarto-other-links h2, .sidebar .quarto-other-links .h2, .sidebar .quarto-alternate-notebooks h2, .sidebar .quarto-alternate-notebooks .h2, .sidebar .quarto-alternate-formats h2, .sidebar .quarto-alternate-formats .h2, .sidebar nav[role="doc-toc"] > h2, .sidebar nav[role="doc-toc"] > .h2 {
+	font-family: "Adelle-Sans",sans-serif;
+	color: #800000; 
+	font-style: normal;
+	font-weight: 500;
+	margin-bottom: .2rem;
+	margin-top: .3rem;
+	font-family: inherit;
+	border-bottom: 0;
+	padding-bottom: 0;
+	padding-top: 0px;
+}
+
 .sidebar-title {
 	font-family: "Adelle-Sans",sans-serif;
 	color: #800000; 
