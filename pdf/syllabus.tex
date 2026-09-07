@@ -83,37 +83,37 @@
 
 \usepackage[compact]{titlesec}
 % \titlespacing*{<command>}{<left>}{<before-sep>}{<after-sep>}
-\titlespacing*{\section}{0em}{0em}{.5em}
-\titlespacing*{\subsection}{0em}{2em}{.5em}
+\titlespacing*{\section}{0em}{2.5em}{.5em}
+\titlespacing*{\subsection}{0em}{1.5em}{.5em}
 \titlespacing*{\subsubsection}{0em}{1.5em}{.5em}
-\titlespacing*{\paragraph}{0em}{1em}{.5em}
+\titlespacing*{\paragraph}{0em}{.5em}{.5em}
 \titlespacing*{\subparagraph}{0em}{.2em}{0em}
 
 \setcounter{secnumdepth}{0}
 
 % H1
 \titleformat{\section}[block]
-  {\huge\sffamily\color{Maroon}}
+  {\LARGE\sffamily\color{Maroon}}
   {}
   {0em}
   {}
 
 % H2
 \titleformat{\subsection}[block]
-  {\needspace{9\baselineskip}\LARGE\sffamily\color{Maroon}}
+  {\Large\rmfamily}
   {}
   {0em}
   {}
 % H3
 \titleformat{\subsubsection}[block]
-  {\needspace{6\baselineskip}\Large\rmfamily\bfseries}
-  {\thesubsection}
+  {\Large\rmfamily}
+  {}
   {0em}
   {}
 % H4
 \titleformat{\paragraph}[block]
-  {\large\rmfamily\itshape}
-  {\thesubsubsection}
+  {\normalsize\rmfamily\itshape\color{OffBlack}}
+  {}
   {0em}
   {}
 % H5
@@ -192,29 +192,25 @@ $if(notesymbols)$\renewcommand{\thefootnote}{\fnsymbol{footnote}}$endif$
 
 \color{OffBlack}
 
-\section{$title$}
+{\huge\sffamily\color{Maroon}{$title$}}
 
-\begin{footnotesize}
 \subparagraph{$institution$}
 \subparagraph{$term$}
 $if(room)$\subparagraph{$room$}$endif$
 $if(meets)$\subparagraph{$meets$}$endif$
-\subparagraph{\url{emfink.net/$repo$}}
 \vspace{1em}
 
 {\itshape{Professor}}
 \subparagraph{Eric M. Fink} 
 \subparagraph{efink@elon.edu}
 \subparagraph{336.279.9334} 
-\subparagraph{Office Hours: {\url{calendly.com/emfink}}}
+\subparagraph{Office Hours: {\url{calendly.com/emfink/}}}
 $if(ta)$
 \vspace{1em}
-{\itshape{Teaching Assistant}}
+{\subparagraph{Teaching Assistant}}
 \subparagraph{$ta$}
 \subparagraph{$ta-email$}
 $endif$
-\end{footnotesize}
-
 \vspace{1em}
 
 \needspace{1\baselineskip}
