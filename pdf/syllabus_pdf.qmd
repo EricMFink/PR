@@ -24,4 +24,4 @@ format:
 
 ---
 
-{{< include /00-Syllabus/syllabus-body.qmd >}}
+{{< include ../00-Syllabus/syllabus-body.qmd >}}
