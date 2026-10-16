@@ -1,0 +1,1663 @@
+---
+references:
+- id: 27NCAdminCode03.0600
+  citation-key: 27NCAdminCode03.0600
+  container-title: N.C. Admin Code
+  language: en
+  section: '03.0600'
+  title: Rules Governing Admission to the Practice of Law in the State of North Carolina
+  type: legislation
+  volume: '27'
+
+- id: ABACriminalJusticeStandards
+  citation-key: ABACriminalJusticeStandards
+  issued:
+    - year: 2017
+  language: en
+  title: A.B.A. Criminal Justice Standards for the Prosecution Function
+  type: legislation
+
+- id: Abbott1988
+  author:
+    - family: Abbott
+      given: Andrew
+  citation-key: Abbott1988
+  issued:
+    - year: 1988
+  language: en
+  publisher: University of Chicago Press
+  publisher-place: Chicago
+  title: 'The System of Professions: An Essay on the Division of Expert Labor'
+  type: book
+
+- id: AngMartin_Wash2005
+  authority: Wash.
+  citation-key: AngMartin_Wash2005
+  container-title: P.3d
+  container-title-short: P.3d
+  issued:
+    - year: 2005
+  language: en
+  page: '637'
+  title: Ang v. Martin
+  type: legal_case
+  volume: '114'
+
+- id: BatesStateBarAriz_US1977
+  authority: U.S.
+  citation-key: BatesStateBarAriz_US1977
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 1977
+  language: en
+  page: '350'
+  title: Bates v. State Bar of Ariz.
+  type: legal_case
+  volume: '433'
+
+- id: BergerUnitedStates_US1935
+  authority: U.S.
+  citation-key: BergerUnitedStates_US1935
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 1935
+  language: en
+  page: '78'
+  title: Berger v. United States
+  type: legal_case
+  volume: '295'
+
+- id: BlumenthalKimberMfgInc_Conn2003
+  authority: Conn.
+  citation-key: BlumenthalKimberMfgInc_Conn2003
+  container-title: A.2d
+  container-title-short: A.2d
+  issued:
+    - year: 2003
+  language: en
+  page: '1088'
+  title: Blumenthal v. Kimber Mfg., Inc.
+  type: legal_case
+  volume: '826'
+
+- id: BroadbentWilliams_DUtah2025
+  authority: D. Utah
+  citation-key: BroadbentWilliams_DUtah2025
+  issued:
+    - year: 2025
+      month: 7
+      day: 1
+  language: en
+  number: 4:24-cv-00091
+  title: Broadbent v. Williams
+  type: legal_case
+
+- id: CapitalAssocIndusInc_4thCir2019
+  authority: 4th Cir.
+  citation-key: CapitalAssocIndusInc_4thCir2019
+  container-title: F.3d
+  container-title-short: F.3d
+  issued:
+    - year: 2019
+      month: 4
+      day: 19
+  language: en
+  page: '198'
+  title: Capital Assoc. Indus., Inc. v. Stein
+  type: legal_case
+  volume: '922'
+
+- id: Carle2018a
+  author:
+    - family: Carle
+      given: Susan D.
+  citation-key: Carle2018a
+  container-title: Wisconsin Law Review
+  container-title-short: Wis. Law Rev.
+  issued:
+    - year: 2018
+  language: en
+  page: '12'
+  title: Ethics and the History of Social Movement Lawyering
+  type: article-journal
+  URL: https://repository.law.wisc.edu/s/uwlaw/media/300123
+  volume: '2018'
+
+- id: ClarkCapitalMgmtAnnuity_EDPa2001
+  authority: E.D. Pa.
+  citation-key: ClarkCapitalMgmtAnnuity_EDPa2001
+  container-title: F. Supp. 2d
+  issued:
+    - year: 2001
+  language: en
+  page: '193'
+  title: Clark Capital Mgmt v. Annuity Inv'rs Life Ins. Co.
+  type: legal_case
+  volume: '149'
+
+- id: ClarkUnitedStates_US1933
+  authority: U.S.
+  citation-key: ClarkUnitedStates_US1933
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 1933
+  language: en
+  page: '1'
+  title: Clark v. United States
+  type: legal_case
+  volume: '289'
+
+- id: CommitteeProfEthicsEtc_Iowa1982
+  authority: Iowa
+  citation-key: CommitteeProfEthicsEtc_Iowa1982
+  container-title: N.W.2d
+  container-title-short: N.W.2d
+  issued:
+    - year: 1982
+  language: en
+  page: '895'
+  title: Committee on Prof. Ethics, Etc. v. Mershon
+  type: legal_case
+  volume: '316'
+
+- id: ContemporaneousResidentialRealEstate_NCStateBar2021
+  authority: N.C. State Bar
+  citation-key: ContemporaneousResidentialRealEstate_NCStateBar2021
+  container-title: Formal Ethics Op.
+  container-title-short: Form. Ethics Op
+  issued:
+    - year: 2021
+      month: 4
+      day: 16
+  language: en
+  page: '1'
+  title: Contemporaneous Residential Real Estate Closings
+  type: legal_case
+  volume: '2021'
+
+- id: CorpDoe_EDVa1992
+  authority: E.D. Va.
+  citation-key: CorpDoe_EDVa1992
+  container-title: F. Supp.
+  issued:
+    - year: 1992
+  language: en
+  page: '1298'
+  title: X Corp. v. Doe
+  type: legal_case
+  volume: '805'
+
+- id: CulpepperCarrollPLLCCole_La2006
+  authority: La.
+  citation-key: CulpepperCarrollPLLCCole_La2006
+  container-title: So. 2d
+  container-title-short: 2d
+  issued:
+    - year: 2006
+      month: 4
+      day: 4
+  language: en
+  page: '1224'
+  title: Culpepper & Carroll, PLLC v. Cole
+  type: legal_case
+  volume: '929'
+
+- id: DaimlerChryslerCorpKirkhart_NCCtApp2002
+  authority: N.C. Ct. App.
+  citation-key: DaimlerChryslerCorpKirkhart_NCCtApp2002
+  container-title: S.E.2d
+  container-title-short: S.E.2d
+  issued:
+    - year: 2002
+  language: en
+  page: '276'
+  title: DaimlerChrysler Corp. v. Kirkhart
+  type: legal_case
+  volume: '561'
+
+- id: DaughertyRunner_KyCtApp1978
+  authority: Ky. Ct. App.
+  citation-key: DaughertyRunner_KyCtApp1978
+  container-title: S.W.2d
+  container-title-short: S.W.2d
+  issued:
+    - year: 1978
+  language: en
+  page: '12'
+  title: Daugherty v. Runner
+  type: legal_case
+  volume: '581'
+
+- id: DisciplinaryCounselBlakeslee_Ohio2023
+  authority: Ohio
+  citation-key: DisciplinaryCounselBlakeslee_Ohio2023
+  container-title: N.E.3d
+  container-title-short: N.E.3d
+  issued:
+    - year: 2023
+      month: 7
+      day: 18
+  language: en
+  page: '416'
+  title: Disciplinary Counsel v. Blakeslee
+  type: legal_case
+  volume: '235'
+
+- id: DisciplinaryCounselBlakesleeII_Ohio2024
+  authority: Ohio
+  citation-key: DisciplinaryCounselBlakesleeII_Ohio2024
+  container-title: N.E.3d
+  container-title-short: N.E.3d
+  issued:
+    - year: 2024
+      month: 6
+      day: 17
+  language: en
+  page: '235'
+  title: Disciplinary Counsel v. Blakeslee (II)
+  type: legal_case
+  volume: '241'
+
+- id: DisciplinaryCounselJarvis_Ohio2022
+  authority: Ohio
+  citation-key: DisciplinaryCounselJarvis_Ohio2022
+  container-title: N.E.3d
+  container-title-short: N.E.3d
+  issued:
+    - year: 2022
+      month: 5
+      day: 24
+  language: en
+  page: '499'
+  title: Disciplinary Counsel v. Jarvis
+  type: legal_case
+  volume: '205'
+
+- id: DisciplinaryCounselSarver_Ohio2018
+  authority: Ohio
+  citation-key: DisciplinaryCounselSarver_Ohio2018
+  container-title: N.E.3d
+  container-title-short: N.E.3d
+  issued:
+    - year: 2018
+  language: en
+  page: '405'
+  title: Disciplinary Counsel v. Sarver
+  type: legal_case
+  volume: '119'
+
+- id: DisciplinaryCounselSarver_Ohio2020
+  authority: Ohio
+  citation-key: DisciplinaryCounselSarver_Ohio2020
+  container-title: N.E.3d
+  container-title-short: N.E.3d
+  issued:
+    - year: 2020
+  language: en
+  page: '799'
+  title: Disciplinary Counsel v. Sarver
+  type: legal_case
+  volume: '170'
+
+- id: DoughertyPepperHamiltonLLP_PaSuperCt2016
+  authority: Pa. Super. Ct.
+  citation-key: DoughertyPepperHamiltonLLP_PaSuperCt2016
+  container-title: A.3d
+  container-title-short: A.3d
+  issued:
+    - year: 2016
+  language: en
+  page: '792'
+  title: Dougherty v. Pepper Hamilton LLP
+  type: legal_case
+  volume: '133'
+
+- id: FedREvid502
+  citation-key: FedREvid502
+  language: en
+  title: Fed. R. Evid. 502
+  type: legislation
+
+- id: FerrantiInternPLCClark_EDPa1991
+  authority: E.D. Pa.
+  citation-key: FerrantiInternPLCClark_EDPa1991
+  container-title: F. Supp.
+  issued:
+    - year: 1991
+  language: en
+  page: '670'
+  title: Ferranti Intern. PLC v. Clark
+  type: legal_case
+  volume: '767'
+
+- id: FloridaBarPape_Fla2005
+  authority: Fla.
+  citation-key: FloridaBarPape_Fla2005
+  container-title: So. 2d
+  container-title-short: 2d
+  issued:
+    - year: 2005
+      month: 11
+      day: 17
+  language: en
+  page: '240'
+  title: The Florida Bar v. Pape
+  type: legal_case
+  volume: '918'
+
+- id: FloridaBarWentIt_US1995
+  authority: U.S.
+  citation-key: FloridaBarWentIt_US1995
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 1995
+  language: en
+  page: '618'
+  title: Florida Bar v. Went For It, Inc.
+  type: legal_case
+  volume: '515'
+
+- id: Green2022
+  accessed:
+    - year: 2024
+      month: 2
+      day: 8
+  author:
+    - family: Green
+      given: Bruce A.
+  citation-key: Green2022
+  container-title: Connecticut Law Review
+  container-title-short: Conn. Law Rev.
+  issued:
+    - year: 2022
+  language: en
+  page: '151'
+  source: ir.lawnet.fordham.edu
+  title: Selectively Disciplining Advocates
+  type: article-journal
+  URL: https://ir.lawnet.fordham.edu/faculty_scholarship/1200
+  volume: '54'
+
+- id: HillmanNuecesCty_Tex2019
+  authority: Tex.
+  citation-key: HillmanNuecesCty_Tex2019
+  container-title: S.W.3d
+  container-title-short: S.W.3d
+  issued:
+    - year: 2019
+  language: en
+  page: '354'
+  title: Hillman v. Nueces Cty.
+  type: legal_case
+  volume: '579'
+
+- id: HunterVirginiaStateBar_Va2013
+  authority: Va.
+  citation-key: HunterVirginiaStateBar_Va2013
+  container-title: S.E.2d
+  container-title-short: S.E.2d
+  issued:
+    - year: 2013
+  language: en
+  page: '611'
+  title: Hunter v. Virginia State Bar
+  type: legal_case
+  volume: '744'
+
+- id: IshmaelMillington_CalCtApp1966
+  authority: Cal. Ct. App.
+  citation-key: IshmaelMillington_CalCtApp1966
+  container-title: Cal. App. 2d
+  issued:
+    - year: 1966
+  language: en
+  page: '520'
+  title: Ishmael v. Millington
+  type: legal_case
+  volume: '241'
+
+- id: JonesUS_DCCtApp2003
+  authority: D.C. Ct. App.
+  citation-key: JonesUS_DCCtApp2003
+  container-title: A.2d
+  container-title-short: A.2d
+  issued:
+    - year: 2003
+  language: en
+  page: '169'
+  title: Jones v. US
+  type: legal_case
+  volume: '828'
+
+- id: Kirkland2004
+  accessed:
+    - year: 2024
+      month: 2
+      day: 12
+  author:
+    - family: Kirkland
+      given: Kimberly
+  citation-key: Kirkland2004
+  container-title: University of Memphis Law Review
+  container-title-short: Univ. Memphis Law Rev.
+  issue: '4'
+  issued:
+    - year: 2004
+    - year: 2005
+  language: en
+  page: 631–730
+  source: HeinOnline
+  title: 'Ethics in Large Law Firms: The Principle of Pragmatism'
+  title-short: Ethics in Large Law Firms
+  type: article-journal
+  URL: https://heinonline.org/HOL/P?h=hein.journals/umem35&i=641
+  volume: '35'
+
+- id: KnowlesMirzayance_US2009
+  authority: U.S.
+  citation-key: KnowlesMirzayance_US2009
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 2009
+  language: en
+  page: '111'
+  title: Knowles v. Mirzayance
+  type: legal_case
+  volume: '556'
+
+- id: LeeUnitedStates_US2017
+  authority: U.S.
+  citation-key: LeeUnitedStates_US2017
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 2017
+  language: en
+  page: '357'
+  title: Lee v. United States
+  type: legal_case
+  volume: '582'
+
+- id: Levin2004
+  author:
+    - family: Levin
+      given: Leslie
+  citation-key: Levin2004
+  container-title: Faculty Articles and Papers
+  container-title-short: Fac. Artic. Pap.
+  issued:
+    - year: 2004
+      month: 1
+      day: 1
+  language: en
+  page: '309'
+  title: Ethical World of Solo and Small Law Firm Practitioners, The
+  type: article-journal
+  URL: https://digitalcommons.lib.uconn.edu/law_papers/210
+  volume: '41'
+
+- id: Levin2015
+  author:
+    - family: Levin
+      given: Leslie
+    - family: Siegelman
+      given: Peter
+  citation-key: Levin2015
+  container-title: Law & Social Inquiry
+  container-title-short: Law Soc. Inq.
+  issued:
+    - year: 2015
+  language: en
+  page: '70'
+  title: The Questionable Character of the Bar's Character and Fitness Inquiry
+  type: article-journal
+  URL: https://digitalcommons.lib.uconn.edu/law_papers/419
+  volume: '40'
+
+- id: MakinsDistrictColumbia_DCCtApp2004
+  authority: D.C. Ct.  App.
+  citation-key: MakinsDistrictColumbia_DCCtApp2004
+  container-title: A.2d
+  container-title-short: A.2d
+  issued:
+    - year: 2004
+  language: en
+  page: '590'
+  title: Makins v. District of Columbia
+  type: legal_case
+  volume: '861'
+
+- id: MarkerGreenberg_Minn1981
+  authority: Minn.
+  citation-key: MarkerGreenberg_Minn1981
+  container-title: N.W.2d
+  container-title-short: N.W.2d
+  issued:
+    - year: 1981
+  language: en
+  page: '4'
+  title: Marker v. Greenberg
+  type: legal_case
+  volume: '313'
+
+- id: MatterAnonymous_NYAppDiv2009
+  authority: N.Y. App. Div.
+  citation-key: MatterAnonymous_NYAppDiv2009
+  container-title: A.D.2d
+  container-title-short: A.D.2d
+  issued:
+    - year: 2009
+      month: 4
+      day: 16
+  language: en
+  page: '1214'
+  title: Matter of Anonymous
+  type: legal_case
+  volume: '61'
+
+- id: MatterAnonymous_NYAppDiv2023
+  authority: N.Y. App. Div.
+  citation-key: MatterAnonymous_NYAppDiv2023
+  container-title: A.D.2d
+  container-title-short: A.D.2d
+  issued:
+    - year: 2023
+      month: 6
+      day: 1
+  language: en
+  page: '1054'
+  title: Matter of Anonymous
+  type: legal_case
+  volume: '217'
+
+- id: MatterCooperman_NY1994
+  authority: N.Y.
+  citation-key: MatterCooperman_NY1994
+  container-title: N.E.2d
+  container-title-short: N.E.2d
+  issued:
+    - year: 1994
+  language: en
+  page: '1069'
+  title: Matter of Cooperman
+  type: legal_case
+  volume: '633'
+
+- id: MatterDisciplineLeavitt_Utah2025
+  authority: Utah
+  citation-key: MatterDisciplineLeavitt_Utah2025
+  container-title: P.3d
+  container-title-short: P.3d
+  issued:
+    - year: 2025
+      month: 2
+      day: 28
+  language: en
+  page: '343'
+  title: Matter of Discipline of Leavitt
+  type: legal_case
+  volume: '579'
+
+- id: MatterFordham_Mass1996
+  authority: Mass.
+  citation-key: MatterFordham_Mass1996
+  container-title: N.E.2d
+  container-title-short: N.E.2d
+  issued:
+    - year: 1996
+  language: en
+  page: '816'
+  title: Matter of Fordham
+  type: legal_case
+  volume: '668'
+
+- id: MatterSilva_RI1994
+  authority: R.I.
+  citation-key: MatterSilva_RI1994
+  container-title: A.2d
+  container-title-short: A.2d
+  issued:
+    - year: 1994
+  language: en
+  page: '316'
+  title: Matter of Silva
+  type: legal_case
+  volume: '636'
+
+- id: MatterTennant_Mont2017
+  authority: Mont.
+  citation-key: MatterTennant_Mont2017
+  container-title: P.3d
+  container-title-short: P.3d
+  issued:
+    - year: 2017
+      month: 3
+      day: 21
+  language: en
+  page: '143'
+  title: Matter of Tennant
+  type: legal_case
+  volume: '392'
+
+- id: McClureThompson_9thCir2003
+  authority: 9th Cir.
+  citation-key: McClureThompson_9thCir2003
+  container-title: F.3d
+  container-title-short: F.3d
+  issued:
+    - year: 2003
+  language: en
+  page: '1233'
+  title: McClure v. Thompson
+  type: legal_case
+  volume: '323'
+
+- id: MillerRegionsBank_NDAla2026
+  authority: N.D. Ala.
+  citation-key: MillerRegionsBank_NDAla2026
+  issued:
+    - year: 2026
+      month: 5
+      day: 21
+  language: en
+  number: 2:24-CV-1324
+  title: Miller v. Regions Bank
+  type: legal_case
+
+- id: MRPC_Preamble
+  citation-key: MRPC_Preamble
+  language: en
+  title: 'Model R. Prof. Conduct: Preamble & Scope'
+  type: legislation
+
+- id: MRPC1.0
+  citation-key: MRPC1.0
+  language: en
+  title: Model R. Prof. Conduct Rule 1.0
+  type: legislation
+
+- id: MRPC1.1
+  citation-key: MRPC1.1
+  language: en
+  title: Model R. Prof. Conduct Rule 1.1
+  type: legislation
+
+- id: MRPC1.10
+  citation-key: MRPC1.10
+  language: en
+  title: Model R. Prof. Conduct Rule 1.10
+  type: legislation
+
+- id: MRPC1.11
+  citation-key: MRPC1.11
+  language: en
+  title: Model R. Prof. Conduct Rule 1.11
+  type: legislation
+
+- id: MRPC1.12
+  citation-key: MRPC1.12
+  language: en
+  title: Model R. Prof. Conduct Rule 1.12
+  type: legislation
+
+- id: MRPC1.13
+  citation-key: MRPC1.13
+  language: en
+  title: Model R. Prof. Conduct Rule 1.13
+  type: legislation
+
+- id: MRPC1.14
+  citation-key: MRPC1.14
+  language: en
+  title: Model R. Prof. Conduct Rule 1.14
+  type: legislation
+
+- id: MRPC1.15
+  citation-key: MRPC1.15
+  language: en
+  title: Model R. Prof. Conduct Rule 1.15
+  type: legislation
+
+- id: MRPC1.16
+  citation-key: MRPC1.16
+  language: en
+  title: Model R. Prof. Conduct Rule 1.16
+  type: legislation
+
+- id: MRPC1.17
+  citation-key: MRPC1.17
+  language: en
+  title: Model R. Prof. Conduct Rule 1.17
+  type: legislation
+
+- id: MRPC1.18
+  citation-key: MRPC1.18
+  language: en
+  title: Model R. Prof. Conduct Rule 1.18
+  type: legislation
+
+- id: MRPC1.2
+  citation-key: MRPC1.2
+  language: en
+  title: Model R. Prof. Conduct Rule 1.2
+  type: legislation
+
+- id: MRPC1.3
+  citation-key: MRPC1.3
+  language: en
+  title: Model R. Prof. Conduct Rule 1.3
+  type: legislation
+
+- id: MRPC1.4
+  citation-key: MRPC1.4
+  language: en
+  title: Model R. Prof. Conduct Rule 1.4
+  type: legislation
+
+- id: MRPC1.5
+  citation-key: MRPC1.5
+  language: en
+  title: Model R. Prof. Conduct Rule 1.5
+  type: legislation
+
+- id: MRPC1.6
+  citation-key: MRPC1.6
+  language: en
+  title: Model R. Prof. Conduct Rule 1.6
+  type: legislation
+
+- id: MRPC1.7
+  citation-key: MRPC1.7
+  language: en
+  title: Model R. Prof. Conduct Rule 1.7
+  type: legislation
+
+- id: MRPC1.8
+  citation-key: MRPC1.8
+  language: en
+  title: Model R. Prof. Conduct Rule 1.8
+  type: legislation
+
+- id: MRPC1.9
+  citation-key: MRPC1.9
+  language: en
+  title: Model R. Prof. Conduct Rule 1.9
+  type: legislation
+
+- id: MRPC2.1
+  citation-key: MRPC2.1
+  language: en
+  title: Model R. Prof. Conduct Rule 2.1
+  type: legislation
+
+- id: MRPC2.3
+  citation-key: MRPC2.3
+  language: en
+  title: Model R. Prof. Conduct Rule 2.3
+  type: legislation
+
+- id: MRPC2.4
+  citation-key: MRPC2.4
+  language: en
+  title: Model R. Prof. Conduct Rule 2.4
+  type: legislation
+
+- id: MRPC3.1
+  citation-key: MRPC3.1
+  language: en
+  title: Model R. Prof. Conduct Rule 3.1
+  type: legislation
+
+- id: MRPC3.2
+  citation-key: MRPC3.2
+  language: en
+  title: Model R. Prof. Conduct Rule 3.2
+  type: legislation
+
+- id: MRPC3.3
+  citation-key: MRPC3.3
+  language: en
+  title: Model R. Prof. Conduct Rule 3.3
+  type: legislation
+
+- id: MRPC3.4
+  citation-key: MRPC3.4
+  language: en
+  title: Model R. Prof. Conduct Rule 3.4
+  type: legislation
+
+- id: MRPC3.5
+  citation-key: MRPC3.5
+  language: en
+  title: Model R. Prof. Conduct Rule 3.5
+  type: legislation
+
+- id: MRPC3.6
+  citation-key: MRPC3.6
+  language: en
+  title: Model R. Prof. Conduct Rule 3.6
+  type: legislation
+
+- id: MRPC3.7
+  citation-key: MRPC3.7
+  language: en
+  title: Model R. Prof. Conduct Rule 3.7
+  type: legislation
+
+- id: MRPC3.8
+  citation-key: MRPC3.8
+  language: en
+  title: Model R. Prof. Conduct Rule 3.8
+  type: legislation
+
+- id: MRPC3.9
+  citation-key: MRPC3.9
+  language: en
+  title: Model R. Prof. Conduct Rule 3.9
+  type: legislation
+
+- id: MRPC4.1
+  citation-key: MRPC4.1
+  language: en
+  title: Model R. Prof. Conduct Rule 4.1
+  type: legislation
+
+- id: MRPC4.2
+  citation-key: MRPC4.2
+  language: en
+  title: Model R. Prof. Conduct Rule 4.2
+  type: legislation
+
+- id: MRPC4.3
+  citation-key: MRPC4.3
+  language: en
+  title: Model R. Prof. Conduct Rule 4.3
+  type: legislation
+
+- id: MRPC4.4
+  citation-key: MRPC4.4
+  language: en
+  title: Model R. Prof. Conduct Rule 4.4
+  type: legislation
+
+- id: MRPC5.1
+  citation-key: MRPC5.1
+  language: en
+  title: Model R. Prof. Conduct Rule 5.1
+  type: legislation
+
+- id: MRPC5.2
+  citation-key: MRPC5.2
+  language: en
+  title: Model R. Prof. Conduct Rule 5.2
+  type: legislation
+
+- id: MRPC5.3
+  citation-key: MRPC5.3
+  language: en
+  title: Model R. Prof. Conduct Rule 5.3
+  type: legislation
+
+- id: MRPC5.4
+  citation-key: MRPC5.4
+  language: en
+  title: Model R. Prof. Conduct Rule 5.4
+  type: legislation
+
+- id: MRPC5.5
+  citation-key: MRPC5.5
+  language: en
+  title: Model R. Prof. Conduct Rule 5.5
+  type: legislation
+
+- id: MRPC5.6
+  citation-key: MRPC5.6
+  language: en
+  title: Model R. Prof. Conduct Rule 5.6
+  type: legislation
+
+- id: MRPC5.7
+  citation-key: MRPC5.7
+  language: en
+  title: Model R. Prof. Conduct Rule 5.7
+  type: legislation
+
+- id: MRPC6.1
+  citation-key: MRPC6.1
+  language: en
+  title: Model R. Prof. Conduct Rule 6.1
+  type: legislation
+
+- id: MRPC6.2
+  citation-key: MRPC6.2
+  language: en
+  title: Model R. Prof. Conduct Rule 6.2
+  type: legislation
+
+- id: MRPC6.3
+  citation-key: MRPC6.3
+  language: en
+  title: Model R. Prof. Conduct Rule 6.3
+  type: legislation
+
+- id: MRPC6.4
+  citation-key: MRPC6.4
+  language: en
+  title: Model R. Prof. Conduct Rule 6.4
+  type: legislation
+
+- id: MRPC6.5
+  citation-key: MRPC6.5
+  language: en
+  title: Model R. Prof. Conduct Rule 6.5
+  type: legislation
+
+- id: MRPC7.1
+  citation-key: MRPC7.1
+  language: en
+  title: Model R. Prof. Conduct Rule 7.1
+  type: legislation
+
+- id: MRPC7.2
+  citation-key: MRPC7.2
+  language: en
+  title: Model R. Prof. Conduct Rule 7.2
+  type: legislation
+
+- id: MRPC7.3
+  citation-key: MRPC7.3
+  language: en
+  title: Model R. Prof. Conduct Rule 7.3
+  type: legislation
+
+- id: MRPC7.6
+  citation-key: MRPC7.6
+  language: en
+  title: Model R. Prof. Conduct Rule 7.6
+  type: legislation
+
+- id: MRPC8.1
+  citation-key: MRPC8.1
+  language: en
+  title: Model R. Prof. Conduct Rule 8.1
+  type: legislation
+
+- id: MRPC8.2
+  citation-key: MRPC8.2
+  language: en
+  title: Model R. Prof. Conduct Rule 8.2
+  type: legislation
+
+- id: MRPC8.3
+  citation-key: MRPC8.3
+  language: en
+  title: Model R. Prof. Conduct Rule 8.3
+  type: legislation
+
+- id: MRPC8.4
+  citation-key: MRPC8.4
+  language: en
+  title: Model R. Prof. Conduct Rule 8.4
+  type: legislation
+
+- id: MRPC8.5
+  citation-key: MRPC8.5
+  language: en
+  title: Model R. Prof. Conduct Rule 8.5
+  type: legislation
+
+- id: NAACPButton_US1963
+  authority: U.S.
+  citation-key: NAACPButton_US1963
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 1963
+  language: en
+  page: '415'
+  title: NAACP v. Button
+  type: legal_case
+  volume: '371'
+
+- id: NCBdLawExaminersCharacterFitness
+  citation-key: NCBdLawExaminersCharacterFitness
+  language: en
+  title: N.C. Bd. of Law Examiners, Character & Fitness Guidelines
+  title-short: Character & Fitness Guidelines
+  type: legislation
+
+- id: NCGenStat84-2.1
+  citation-key: NCGenStat84-2.1
+  container-title: Gen. Stat.
+  language: en
+  section: 84-2.1
+  title: NCGS 84-21 Practice of law defined
+  type: legislation
+  volume: N.C.
+
+- id: NCGenStat84-28
+  citation-key: NCGenStat84-28
+  container-title: Gen. Stat.
+  language: en
+  section: 84-28
+  title: NCGS 84-28 Discipline and disbarment
+  type: legislation
+  volume: N.C.
+
+- id: NCRPC8.6
+  citation-key: NCRPC8.6
+  language: en
+  title: N.C. Rules of Professional Conduct 8.6
+  type: legislation
+
+- id: NegotiatingPrivateEmploymentOpposing_NCStateBar2017
+  authority: N.C. State Bar
+  citation-key: NegotiatingPrivateEmploymentOpposing_NCStateBar2017
+  container-title: Formal Ethics Op.
+  container-title-short: Form. Ethics Op
+  issued:
+    - year: 2017
+      month: 1
+      day: 27
+  language: en
+  page: '3'
+  title: Negotiating Private Employment with Opposing Counsel
+  type: legal_case
+  volume: '2016'
+
+- id: NiesigTeam_NYAppDiv1989
+  authority: N.Y. App. Div.
+  citation-key: NiesigTeam_NYAppDiv1989
+  container-title: A.D.2d
+  container-title-short: A.D.2d
+  issued:
+    - year: 1989
+  language: en
+  page: '94'
+  title: Niesig v. Team I
+  type: legal_case
+  volume: '149'
+
+- id: NixWhiteside_US1986
+  authority: U.S.
+  citation-key: NixWhiteside_US1986
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 1986
+  language: en
+  page: '157'
+  title: Nix v. Whiteside
+  type: legal_case
+  volume: '475'
+
+- id: NorthCarolinaStateBar_NCCtApp2019
+  authority: N.C. Ct. App.
+  citation-key: NorthCarolinaStateBar_NCCtApp2019
+  issued:
+    - year: 2019
+      month: 6
+      day: 4
+  language: en
+  number: No. COA18-866
+  title: North Carolina State Bar v. Weckworth
+  type: legal_case
+
+- id: NuStarFarmsLLCZylstra_Iowa2016
+  authority: Iowa
+  citation-key: NuStarFarmsLLCZylstra_Iowa2016
+  container-title: N.W.2d
+  container-title-short: N.W.2d
+  issued:
+    - year: 2016
+      month: 5
+      day: 13
+  language: en
+  page: '478'
+  title: NuStar Farms, LLC v. Zylstra
+  type: legal_case
+  volume: '880'
+
+- id: OhralikOhioStateBar_US1978
+  authority: U.S.
+  citation-key: OhralikOhioStateBar_US1978
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 1978
+  language: en
+  page: '447'
+  title: Ohralik v. Ohio State Bar Assn.
+  type: legal_case
+  volume: '436'
+
+- id: PeopleAlfani_NY1919
+  authority: N.Y.
+  citation-key: PeopleAlfani_NY1919
+  container-title: A.
+  container-title-short: A.
+  issued:
+    - year: 1919
+  language: en
+  page: '671'
+  title: People v. Alfani
+  type: legal_case
+
+- id: PeopleBelge_NYCtyCtOnandagaCty1975
+  authority: N.Y. Cty. Ct., Onandaga Cty.
+  citation-key: PeopleBelge_NYCtyCtOnandagaCty1975
+  container-title: Misc. 2d
+  issued:
+    - year: 1975
+  language: en
+  page: '186'
+  title: People v. Belge
+  type: legal_case
+  volume: '83'
+
+- id: PeopleDePallo_NY2001
+  authority: N.Y.
+  citation-key: PeopleDePallo_NY2001
+  container-title: N.E.2d
+  container-title-short: N.E.2d
+  issued:
+    - year: 2001
+  language: en
+  page: '751'
+  title: People v. DePallo
+  type: legal_case
+  volume: '754'
+
+- id: PolaskiLee_EDNC2024
+  authority: E.D.N.C.
+  citation-key: PolaskiLee_EDNC2024
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2024
+      month: 12
+      day: 13
+  language: en
+  page: '683'
+  title: Polaski v. Lee
+  type: legal_case
+  volume: '759'
+
+- id: ReConverse_Neb1999
+  authority: Neb.
+  citation-key: ReConverse_Neb1999
+  container-title: N.W.2d
+  container-title-short: N.W.2d
+  issued:
+    - year: 1999
+  language: en
+  page: '500'
+  title: In re Converse
+  type: legal_case
+  volume: '602'
+
+- id: ReDisciplinaryProcHaley_Wash2006
+  authority: Wash.
+  citation-key: ReDisciplinaryProcHaley_Wash2006
+  container-title: P.3d
+  container-title-short: P.3d
+  issued:
+    - year: 2006
+  language: en
+  page: '1262'
+  title: In re Disciplinary Proc. Against Haley
+  type: legal_case
+  volume: '126'
+
+- id: ReDresserIndusInc_5thCir1992
+  authority: 5th Cir.
+  citation-key: ReDresserIndusInc_5thCir1992
+  container-title: F.2d
+  container-title-short: F.2d
+  issued:
+    - year: 1992
+  language: en
+  page: '540'
+  title: In re Dresser Indus., Inc.
+  type: legal_case
+  volume: '972'
+
+- id: ReGrandJuryInvestigation_Mass2009
+  authority: Mass.
+  citation-key: ReGrandJuryInvestigation_Mass2009
+  container-title: N.E.2d
+  container-title-short: N.E.2d
+  issued:
+    - year: 2009
+  language: en
+  page: '929'
+  title: In re Grand Jury Investigation
+  type: legal_case
+  volume: '902'
+
+- id: ReGrandJurySubpoena_4thCir2005
+  authority: 4th Cir.
+  citation-key: ReGrandJurySubpoena_4thCir2005
+  container-title: F.3d
+  container-title-short: F.3d
+  issued:
+    - year: 2005
+      month: 3
+      day: 17
+  language: en
+  page: '334'
+  title: 'In re Grand Jury Subpoena: Under Seal'
+  title-short: In re Grand Jury Subpoena
+  type: legal_case
+  volume: '415'
+
+- id: ReJordan_La2005
+  authority: La.
+  citation-key: ReJordan_La2005
+  container-title: So. 2d
+  container-title-short: 2d
+  issued:
+    - year: 2005
+      month: 6
+      day: 29
+  language: en
+  page: '775'
+  title: In re Jordan
+  type: legal_case
+  volume: '913'
+
+- id: ReLitz_Ind1999
+  authority: Ind.
+  citation-key: ReLitz_Ind1999
+  container-title: N.E.2d
+  container-title-short: N.E.2d
+  issued:
+    - year: 1999
+  language: en
+  page: '258'
+  title: In re Litz
+  type: legal_case
+  volume: '721'
+
+- id: ReMorse_Ga2013
+  authority: Ga.
+  citation-key: ReMorse_Ga2013
+  container-title: S.E.2d
+  container-title-short: S.E.2d
+  issued:
+    - year: 2013
+  language: en
+  page: '921'
+  title: In re Morse
+  type: legal_case
+  volume: '748'
+
+- id: RepresentationPartiesCommercialReal_NCStateBar2015
+  authority: N.C. State Bar
+  citation-key: RepresentationPartiesCommercialReal_NCStateBar2015
+  container-title: Formal Ethics Op.
+  container-title-short: Form. Ethics Op
+  issued:
+    - year: 2015
+      month: 1
+      day: 23
+  language: en
+  page: '14'
+  title: Representation of Parties to a Commercial Real Estate Loan Closing
+  type: legal_case
+  volume: '2013'
+
+- id: RepresentationPurchaseForeclosedProperty_NCStateBar2013
+  authority: N.C. State Bar
+  citation-key: RepresentationPurchaseForeclosedProperty_NCStateBar2013
+  container-title: Formal Ethics Op.
+  container-title-short: Form. Ethics Op
+  issued:
+    - year: 2013
+      month: 7
+      day: 19
+  language: en
+  page: '4'
+  title: Representation in Purchase of Foreclosed Property
+  type: legal_case
+  volume: '2013'
+
+- id: RePrimus_US1978
+  authority: U.S.
+  citation-key: RePrimus_US1978
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 1978
+  language: en
+  page: '412'
+  title: In re Primus
+  type: legal_case
+  volume: '436'
+
+- id: ReRiehlmann_La2005
+  authority: La
+  citation-key: ReRiehlmann_La2005
+  container-title: So. 2d
+  container-title-short: 2d
+  issued:
+    - year: 2005
+      month: 1
+      day: 19
+  language: en
+  page: '1239'
+  title: In re Riehlmann
+  type: legal_case
+  volume: '891'
+
+- id: ReRoots_RI2000
+  authority: R.I.
+  citation-key: ReRoots_RI2000
+  container-title: A.2d
+  container-title-short: A.2d
+  issued:
+    - year: 2000
+  language: en
+  page: '1161'
+  title: In re Roots
+  type: legal_case
+  volume: '762'
+
+- id: Rest2dLawGoverningLawyers
+  citation-key: Rest2dLawGoverningLawyers
+  language: en
+  title: Rest. (2d) of the Law Governing Lawyers
+  type: legislation
+
+- id: ReStateGrandJury_NJ2009
+  authority: N.J.
+  citation-key: ReStateGrandJury_NJ2009
+  container-title: A.2d
+  container-title-short: A.2d
+  issued:
+    - year: 2009
+  language: en
+  page: '1097'
+  title: In re State Grand Jury Investigation
+  type: legal_case
+  volume: '983'
+
+- id: Rozema2023
+  accessed:
+    - year: 2024
+      month: 2
+      day: 12
+  author:
+    - family: Rozema
+      given: Kyle
+  citation-key: Rozema2023
+  DOI: 10.2139/ssrn.4381417
+  genre: SSRN Scholarly Paper
+  issued:
+    - year: 2023
+      month: 9
+      day: 1
+  language: en
+  number: '4381417'
+  publisher-place: Rochester, NY
+  source: Social Science Research Network
+  title: 'Professional Discipline and the Labor Market: Evidence from Lawyers'
+  title-short: Professional Discipline and the Labor Market
+  type: article
+  URL: https://papers.ssrn.com/abstract=4381417
+
+- id: SaladiniRighellis_Mass1997
+  authority: Mass.
+  citation-key: SaladiniRighellis_Mass1997
+  container-title: N.E.2d
+  container-title-short: N.E.2d
+  issued:
+    - year: 1997
+  language: en
+  page: '1224'
+  title: Saladini v. Righellis
+  type: legal_case
+  volume: '687'
+
+- id: ScreeningLateralHireWho_NCStateBar2013
+  authority: N.C. State Bar
+  citation-key: ScreeningLateralHireWho_NCStateBar2013
+  container-title: Formal Ethics Op.
+  container-title-short: Form. Ethics Op
+  issued:
+    - year: 2013
+      month: 1
+      day: 25
+  language: en
+  page: '4'
+  title: Screening Lateral Hire Who Formerly Represented Adverse Organization
+  type: legal_case
+  volume: '2012'
+
+- id: Seymore2021
+  accessed:
+    - year: 2024
+      month: 2
+      day: 8
+  author:
+    - family: Seymore
+      given: Malinda L.
+  citation-key: Seymore2021
+  container-title: Notre Dame Journal of Law, Ethics, & Public Policy
+  container-title-short: Notre Dame J. Law Ethics Public Policy
+  issued:
+    - year: 2021
+  language: en
+  page: '49'
+  title: 'Specialty Bar Associations and the Marketing of Ethics: The Example of the Academy of Adoption Attorneys'
+  type: article-journal
+  URL: https://scholarship.law.tamu.edu/facscholar/1474/
+  volume: '35'
+
+- id: Sklar2019
+  accessed:
+    - year: 2024
+      month: 2
+      day: 12
+  author:
+    - family: Sklar
+      given: Tara
+    - family: Taouk
+      given: Yamna
+    - family: Studdert
+      given: David
+    - family: Spittal
+      given: Matthew
+    - family: Paterson
+      given: Ron
+    - family: Bismark
+      given: Marie
+  citation-key: Sklar2019
+  container-title: Journal of Empirical Legal Studies
+  container-title-short: J. Empir. Leg. Stud.
+  DOI: 10.1111/jels.12216
+  ISSN: 1740-1461
+  issue: '2'
+  issued:
+    - year: 2019
+  language: en
+  license: © 2019 Cornell Law School and Wiley Periodicals, Inc.
+  page: 318–342
+  source: Wiley Online Library
+  title: Characteristics of Lawyers Who Are Subject to Complaints and Misconduct Findings
+  type: article-journal
+  URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/jels.12216
+  volume: '16'
+
+- id: StateHischke_Iowa2002
+  authority: Iowa
+  citation-key: StateHischke_Iowa2002
+  container-title: N.W.2d
+  container-title-short: N.W.2d
+  issued:
+    - year: 2002
+  language: en
+  page: '6'
+  title: State v. Hischke
+  type: legal_case
+  volume: '639'
+
+- id: StateLensegrav_NM2025
+  authority: N.M.
+  citation-key: StateLensegrav_NM2025
+  container-title: P.3d
+  container-title-short: P.3d
+  issued:
+    - year: 2025
+  language: en
+  page: '924'
+  title: State v. Lensegrav
+  type: legal_case
+  volume: '572'
+
+- id: StricklandWashington_US1984
+  authority: U.S.
+  citation-key: StricklandWashington_US1984
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 1984
+  language: en
+  page: '668'
+  title: Strickland v. Washington
+  type: legal_case
+  volume: '466'
+
+- id: TaylorKavanagh_2dCir1981
+  authority: 2d Cir.
+  citation-key: TaylorKavanagh_2dCir1981
+  container-title: F.2d
+  container-title-short: F.2d
+  issued:
+    - year: 1981
+  language: en
+  page: '450'
+  title: Taylor v. Kavanagh
+  type: legal_case
+  volume: '640'
+
+- id: TogstadVeselyOttoMiller_Minn1980
+  authority: Minn.
+  citation-key: TogstadVeselyOttoMiller_Minn1980
+  container-title: N.W.2d
+  container-title-short: N.W.2d
+  issued:
+    - year: 1980
+  language: en
+  page: '686'
+  title: Togstad v. Vesely, Otto, Miller & Keefe
+  type: legal_case
+  volume: '291'
+
+- id: UpjohnCoUnitedStates_US1981
+  authority: U.S.
+  citation-key: UpjohnCoUnitedStates_US1981
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 1981
+  language: en
+  page: '383'
+  title: Upjohn Co. v. United States
+  type: legal_case
+  volume: '449'
+
+- id: USDeloitteLLP_DCCir2010
+  authority: D.C. Cir.
+  citation-key: USDeloitteLLP_DCCir2010
+  container-title: F.3d
+  container-title-short: F.3d
+  issued:
+    - year: 2010
+  language: en
+  page: '129'
+  title: US v. Deloitte LLP
+  type: legal_case
+  volume: '610'
+
+- id: USLong_8thCir1988
+  authority: 8th Cir.
+  citation-key: USLong_8thCir1988
+  container-title: F.2d
+  container-title-short: F.2d
+  issued:
+    - year: 1988
+  language: en
+  page: '436'
+  title: US v. Long
+  type: legal_case
+  volume: '857'
+
+- id: USStein_SDNY2006
+  authority: S.D.N.Y.
+  citation-key: USStein_SDNY2006
+  container-title: F. Supp. 2d
+  issued:
+    - year: 2006
+      month: 12
+      day: 4
+  language: en
+  page: '459'
+  title: US v. Stein
+  type: legal_case
+  volume: '463'
+
+- id: WhitingLacara_2dCir1999
+  authority: 2d Cir.
+  citation-key: WhitingLacara_2dCir1999
+  container-title: F.3d
+  container-title-short: F.3d
+  issued:
+    - year: 1999
+  language: en
+  page: '317'
+  title: Whiting v. Lacara
+  type: legal_case
+  volume: '187'
+
+- id: Zacharias2001
+  author:
+    - family: Zacharias
+      given: Fred
+  citation-key: Zacharias2001
+  container-title: North Carolina Law Review
+  container-title-short: N. C. Law Rev.
+  issue: '3'
+  issued:
+    - year: 2001
+      month: 3
+      day: 1
+  language: en
+  page: '721'
+  title: The Professional Discipline of Prosecutors
+  type: article-journal
+  URL: https://scholarship.law.unc.edu/nclr/vol79/iss3/4
+  volume: '79'
+
+- id: Zacharias2009
+  author:
+    - family: Zacharias
+      given: Fred
+  citation-key: Zacharias2009
+  container-title: Minnesota Law Review
+  container-title-short: Minn. Law Rev.
+  issue: '4'
+  issued:
+    - year: 2009
+      month: 1
+      day: 1
+  language: en
+  page: '1147'
+  title: The Myth of Self-Regulation
+  type: article-journal
+  volume: '93'
+...
