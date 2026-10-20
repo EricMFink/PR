@@ -2,7 +2,7 @@
 
 ## Fairness & Impartiality
 
-#### @MRPC_Rule3.1
+#### @MRPC3.1
 
 ::: {.legalcode}
 
@@ -12,7 +12,7 @@
 
 :::
 
-#### @MRPC_Rule3.2
+#### @MRPC3.2
 
 ::: {.legalcode}
 
@@ -22,7 +22,7 @@
 
 :::
 
-#### @MRPC_Rule3.3
+#### @MRPC3.3
 
 ::: {.legalcode}
 
@@ -38,7 +38,7 @@
 
 :::
 
-#### @MRPC_Rule3.4
+#### @MRPC3.4
 
 ::: {.legalcode}
 
@@ -56,7 +56,7 @@
 
 :::
 
-#### @MRPC_Rule3.5
+#### @MRPC3.5
 
 ::: {.legalcode}
 
@@ -73,7 +73,7 @@
 
 :::
 
-#### @MRPC_Rule3.6
+#### @MRPC3.6
 
 ::: {.legalcode}
 
@@ -97,7 +97,7 @@
 
 :::
 
-#### @MRPC_Rule3.7
+#### @MRPC3.7
 
 ::: {.legalcode}
 
@@ -630,7 +630,7 @@ Here, none of the five factors weigh in favor of disqualification. As discussed 
 
 ## Prosecutorial Misconduct
 
-#### @MRPC_Rule3.8
+#### @MRPC3.8
 
 ::: {.legalcode}
 

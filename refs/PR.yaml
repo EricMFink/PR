@@ -674,14 +674,6 @@ references:
   title: Miller v. Regions Bank
   type: legal_case
 
-- id: MRPC_Preamble
-  citation-key: MRPC_Preamble
-  container-title: M.R.P.C.
-  container-title-short: M.R.P.C.
-  language: en
-  title: 'Model R. Prof. Conduct: Preamble & Scope'
-  type: legislation
-
 - id: MRPC1.0
   citation-key: MRPC1.0
   container-title: M.R.P.C.
@@ -1186,6 +1178,14 @@ references:
   title: Model R. Prof. Conduct Rule  8.5
   type: legislation
 
+- id: MRPCPreambleScope
+  citation-key: MRPCPreambleScope
+  container-title: M.R.P.C. Preamble & Scope
+  container-title-short: MRPC Preamble Scope
+  language: en
+  title: 'Model R. Prof. Conduct: Preamble & Scope'
+  type: legislation
+
 - id: NAACPButton_US1963
   authority: U.S.
   citation-key: NAACPButton_US1963
@@ -1213,7 +1213,7 @@ references:
   container-title: N.C. Gen. Stat.
   language: en
   section: 84-2.1
-  title: NCGS 84-21 Practice of law defined
+  title: NCGS 84-2.1 Practice of law defined
   type: legislation
 
 - id: NCGenStat84-2.8

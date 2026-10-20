@@ -8,7 +8,7 @@ Law in the United States is a heavily regulated industry. Lawyers are licensed i
 
 Nevertheless, courts, commentators, and legal ethics regulators continue to conceptualize law as a "self-regulated profession." ... The preamble to the ... ABA Model Rules of Professional Conduct maintains an emphasis on the importance of self-regulation despite the fact that the Rules are intended to be adopted as enforceable by state supreme courts. 
 
-#### @MRPC_PreambleandScope
+#### @MRPCPreambleScope
 
 ::: {.legalcode}
 
@@ -41,7 +41,7 @@ Nevertheless, courts, commentators, and legal ethics regulators continue to conc
 
 :::
 
-#### @MRPC_Rule1.0
+#### @MRPC1.0
 
 ::: {.legalcode}
 
@@ -82,7 +82,7 @@ For example, in Section 307 of the Sarbanes-Oxley Act of 2002, Congress directed
 
 ## Misconduct & Discipline
 
-#### @NCGenStat84-28
+#### @NCGenStat84-2.8
 
 ::: {.legalcode}
 
@@ -112,7 +112,7 @@ For example, in Section 307 of the Sarbanes-Oxley Act of 2002, Congress directed
 
 :::
 
-#### @MRPC_Rule8.2
+#### @MRPC8.2
 
 ::: {.legalcode}
 
@@ -123,7 +123,7 @@ For example, in Section 307 of the Sarbanes-Oxley Act of 2002, Congress directed
 
 :::
 
-#### @MRPC_Rule8.3
+#### @MRPC8.3
 
 ::: {.legalcode}
 
@@ -135,7 +135,7 @@ For example, in Section 307 of the Sarbanes-Oxley Act of 2002, Congress directed
 
 :::
 
-#### @MRPC_Rule8.4
+#### @MRPC8.4
 
 ::: {.legalcode}
 
@@ -153,7 +153,7 @@ It is professional misconduct for a lawyer to:
 
 :::
 
-#### @MRPC_Rule8.5
+#### @MRPC8.5
 
 ::: {.legalcode}
 
@@ -554,7 +554,7 @@ In addition to the educational and examination requirements, applicants must als
 
 :::
 
-#### @NCBdofLawExaminers_CharacterFitnessGuidelines_nd
+#### @NCBdLawExaminersCharacterFitness
 
 ::: {.legalcode}
 
@@ -634,7 +634,7 @@ In addition to the educational and examination requirements, applicants must als
 
 :::
 
-#### @MRPC_Rule8.1
+#### @MRPC8.1
 
 ::: {.legalcode}
 
@@ -879,7 +879,7 @@ Applicant has disclosed various student loans with balances now totaling about $
 
 :::
 
-#### @MRPC_Rule5.5
+#### @MRPC5.5
 
 ::: {.legalcode}
 
@@ -1153,7 +1153,7 @@ Moreover, the restriction on the provision of legal advice does not prevent plai
 
 ## Law Firms
 
-#### @MRPC_Rule1.17
+#### @MRPC1.17
 
 ::: {.legalcode}
 
@@ -1171,7 +1171,7 @@ Moreover, the restriction on the provision of legal advice does not prevent plai
 
 :::
 
-#### @MRPC_Rule5.1
+#### @MRPC5.1
 
 ::: {.legalcode}
 
@@ -1185,7 +1185,7 @@ Moreover, the restriction on the provision of legal advice does not prevent plai
 
 :::
 
-#### @MRPC_Rule5.2
+#### @MRPC5.2
 
 ::: {.legalcode}
 
@@ -1196,7 +1196,7 @@ Moreover, the restriction on the provision of legal advice does not prevent plai
 
 :::
 
-#### @MRPC_Rule5.3
+#### @MRPC5.3
 
 ::: {.legalcode}
 
@@ -1211,7 +1211,7 @@ Moreover, the restriction on the provision of legal advice does not prevent plai
 
 :::
 
-#### @MRPC_Rule5.4
+#### @MRPC5.4
 
 ::: {.legalcode}
 
@@ -1231,7 +1231,7 @@ Moreover, the restriction on the provision of legal advice does not prevent plai
 
 :::
 
-#### @MRPC_Rule5.6
+#### @MRPC5.6
 
 ::: {.legalcode}
 
@@ -1243,7 +1243,7 @@ Moreover, the restriction on the provision of legal advice does not prevent plai
 
 :::
 
-#### @MRPC_Rule5.7
+#### @MRPC5.7
 
 ::: {.legalcode}
 

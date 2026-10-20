@@ -2,7 +2,7 @@
 
 ## Duty of Confidentiality
 
-#### @MRPC_Rule1.6
+#### @MRPC1.6
 ::: legalcode
 ##### Confidentiality of Information
 
@@ -18,7 +18,7 @@
 -   \(c\) A lawyer shall make reasonable efforts to prevent the inadvertent or unauthorized disclosure of, or unauthorized access to, information relating to the representation of a client.
 :::
 
-#### @MRPC_Rule1.9
+#### @MRPC1.9
 
 ::: legalcode
 
@@ -29,7 +29,7 @@
     -   \(2\) reveal information relating to the representation except as these Rules would permit or require with respect to a client.
 :::
 
-#### @MRPC_Rule1.18
+#### @MRPC1.18
 
 ::: legalcode
 
@@ -44,7 +44,7 @@
         -   \(ii\) written notice is promptly given to the prospective client.
 :::
 
-#### @MRPC_Rule4.4
+#### @MRPC4.4
 
 ::: legalcode
 
@@ -53,7 +53,7 @@
 -   \(b\) A lawyer who receives a document or electronically stored information relating to the representation of the lawyer's client and knows or reasonably should know that the document or electronically stored information was inadvertently sent shall promptly notify the sender.
 :::
 
-#### @NCRPC_Rule8.6
+#### @NCRPC8.6
 
 ::: legalcode
 
@@ -530,7 +530,7 @@ When work product protection is invoked as described in § 90, opinion work prod
 -   \(3\) Once a claim of work product has been adequately supported, a person entitled to invoke a waiver or exception must assert it and, if the assertion is contested, demonstrate each element of the waiver or exception.
 :::
 
-##### @FedCiv_Rule26
+##### @FedRCivP26
 
 ::: legalcode
 ##### Duty to Disclose; General Provisions Governing Discovery
@@ -792,7 +792,7 @@ Work-product immunity is waived if the client, the client's lawyer, or another a
 Work-product immunity does not apply to materials prepared when a client consults a lawyer for the purpose, later accomplished, of obtaining assistance to engage in a crime or fraud or to aid a third person to do so or uses the materials for such a purpose.
 :::
 
-#### @FedEvid_Rule502
+#### @FedREvid502
 
 ::: legalcode
 ##### Attorney-Client Privilege and Work Product; Limitations on Waiver
