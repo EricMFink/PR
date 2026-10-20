@@ -2,17 +2,23 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.10.19">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>License – Professional Responsibility</title>
 <style>
-code{white-space: pre-wrap;}
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -38,10 +44,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-1e20ad44f75e5f149600bdbb7c6c02b9.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-148fa80bc94dc6f5b8c45ecb8136845e.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="../site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
 <link href="../site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -75,7 +81,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
 <link href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,200..900;1,7..72,200..900&amp;family=Noto+Sans+JP:wght@100..900&amp;display=swap" rel="stylesheet">
-<link rel="shortcut icon" href="https://www.emfink.net/assets/img/favicon.ico">
+<link rel="shortcut icon" href="https://www.emfink.net/img/favicon.ico">
 <meta name="robots" content="noarchive">
 
 
@@ -427,11 +433,11 @@ ul.task-list li input[type="checkbox"] {
 <h4 class="anchored" data-anchor-id="emfink.netelonlaw"><a href="https://www.emfink.net/ElonLaw/">emfink.net/ElonLaw</a></h4>
 </section>
 </section>
-<section id="source-code-github.comericmfink" class="level3">
-<h3 class="anchored" data-anchor-id="source-code-github.comericmfink">Source Code: <a href="https://github.com/EricMFink/PR"><span class="mono-font-smaller">github.com/EricMFink/PR</span></a></h3>
+<section id="source-code-github.comericmfinkb58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20766172207265706f203e7d7d" class="level3">
+<h3 class="anchored" data-anchor-id="source-code-github.comericmfinkb58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20766172207265706f203e7d7d">Source Code: <a href="https://github.com/EricMFink/PR"><span class="mono-font-smaller">github.com/EricMFink/PR</span></a></h3>
 </section>
-<section id="version" class="level3">
-<h3 class="anchored" data-anchor-id="version">Version 5.4, September 2026</h3>
+<section id="version-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c207661722076657273696f6e203e7d7d-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206e6f77206d6f6e7468203e7d7d-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206e6f772079656172203e7d7d" class="level3">
+<h3 class="anchored" data-anchor-id="version-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c207661722076657273696f6e203e7d7d-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206e6f77206d6f6e7468203e7d7d-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206e6f772079656172203e7d7d">Version 5.4, October 2026</h3>
 </section>
 </section>
 </div>
@@ -490,13 +496,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
@@ -859,7 +866,7 @@ ul.task-list li input[type="checkbox"] {
     <div class="nav-footer-center">
       <ul class="footer-items list-unstyled">
     <li class="nav-item">
- Last updated: 2026-09-07 15:34:58
+ Last updated: 2026-10-20 12:33:09
   </li>  
 </ul>
     </div>
