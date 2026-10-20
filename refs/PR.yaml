@@ -2,7 +2,7 @@
 references:
 - id: 27NCAdminCode03.0600
   citation-key: 27NCAdminCode03.0600
-  container-title: N.C. Admin Code
+  container-title: N.C. Admin. Code
   language: en
   section: '03.0600'
   title: Rules Governing Admission to the Practice of Law in the State of North Carolina
@@ -11,11 +11,14 @@ references:
 
 - id: ABACriminalJusticeStandards
   citation-key: ABACriminalJusticeStandards
+  edition: 4th
+  genre: Criminal Justice Standards for the Prosecution Function
   issued:
     - year: 2017
   language: en
-  title: A.B.A. Criminal Justice Standards for the Prosecution Function
-  type: legislation
+  publisher: A.B.A.
+  title: Criminal Justice Standards for the Prosecution Function
+  type: standard
 
 - id: Abbott1988
   author:
@@ -317,7 +320,9 @@ references:
 
 - id: FedREvid502
   citation-key: FedREvid502
+  container-title: Fed. R. Evid.
   language: en
+  note: '502'
   title: Fed. R. Evid. 502
   type: legislation
 
@@ -671,344 +676,514 @@ references:
 
 - id: MRPC_Preamble
   citation-key: MRPC_Preamble
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
   title: 'Model R. Prof. Conduct: Preamble & Scope'
   type: legislation
 
 - id: MRPC1.0
   citation-key: MRPC1.0
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 1.0
+  note: '1'
+  title: Model R. Prof. Conduct Rule  1.0
   type: legislation
 
 - id: MRPC1.1
   citation-key: MRPC1.1
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 1.1
+  note: '1.1'
+  title: Model R. Prof. Conduct Rule  1.1
   type: legislation
 
 - id: MRPC1.10
   citation-key: MRPC1.10
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 1.10
+  note: '1.1'
+  title: Model R. Prof. Conduct Rule  1.10
   type: legislation
 
 - id: MRPC1.11
   citation-key: MRPC1.11
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 1.11
+  note: '1.11'
+  title: Model R. Prof. Conduct Rule  1.11
   type: legislation
 
 - id: MRPC1.12
   citation-key: MRPC1.12
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 1.12
+  note: '1.12'
+  title: Model R. Prof. Conduct Rule  1.12
   type: legislation
 
 - id: MRPC1.13
   citation-key: MRPC1.13
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 1.13
+  note: '1.13'
+  title: Model R. Prof. Conduct Rule  1.13
   type: legislation
 
 - id: MRPC1.14
   citation-key: MRPC1.14
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 1.14
+  note: '1.14'
+  title: Model R. Prof. Conduct Rule  1.14
   type: legislation
 
 - id: MRPC1.15
   citation-key: MRPC1.15
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 1.15
+  note: '1.15'
+  title: Model R. Prof. Conduct Rule  1.15
   type: legislation
 
 - id: MRPC1.16
   citation-key: MRPC1.16
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 1.16
+  note: '1.16'
+  title: Model R. Prof. Conduct Rule  1.16
   type: legislation
 
 - id: MRPC1.17
   citation-key: MRPC1.17
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 1.17
+  note: '1.17'
+  title: Model R. Prof. Conduct Rule  1.17
   type: legislation
 
 - id: MRPC1.18
   citation-key: MRPC1.18
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 1.18
+  note: '1.18'
+  title: Model R. Prof. Conduct Rule  1.18
   type: legislation
 
 - id: MRPC1.2
   citation-key: MRPC1.2
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 1.2
+  note: '1.2'
+  title: Model R. Prof. Conduct Rule  1.2
   type: legislation
 
 - id: MRPC1.3
   citation-key: MRPC1.3
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 1.3
+  note: '1.3'
+  title: Model R. Prof. Conduct Rule  1.3
   type: legislation
 
 - id: MRPC1.4
   citation-key: MRPC1.4
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 1.4
+  note: '1.4'
+  title: Model R. Prof. Conduct Rule  1.4
   type: legislation
 
 - id: MRPC1.5
   citation-key: MRPC1.5
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 1.5
+  note: '1.5'
+  title: Model R. Prof. Conduct Rule  1.5
   type: legislation
 
 - id: MRPC1.6
   citation-key: MRPC1.6
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 1.6
+  note: '1.6'
+  title: Model R. Prof. Conduct Rule  1.6
   type: legislation
 
 - id: MRPC1.7
   citation-key: MRPC1.7
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 1.7
+  note: '1.7'
+  title: Model R. Prof. Conduct Rule  1.7
   type: legislation
 
 - id: MRPC1.8
   citation-key: MRPC1.8
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 1.8
+  note: '1.8'
+  title: Model R. Prof. Conduct Rule  1.8
   type: legislation
 
 - id: MRPC1.9
   citation-key: MRPC1.9
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 1.9
+  note: '1.9'
+  title: Model R. Prof. Conduct Rule  1.9
   type: legislation
 
 - id: MRPC2.1
   citation-key: MRPC2.1
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 2.1
+  note: '2.1'
+  title: Model R. Prof. Conduct Rule  2.1
   type: legislation
 
 - id: MRPC2.3
   citation-key: MRPC2.3
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 2.3
+  note: '2.3'
+  title: Model R. Prof. Conduct Rule  2.3
   type: legislation
 
 - id: MRPC2.4
   citation-key: MRPC2.4
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 2.4
+  note: '2.4'
+  title: Model R. Prof. Conduct Rule  2.4
   type: legislation
 
 - id: MRPC3.1
   citation-key: MRPC3.1
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 3.1
+  note: '3.1'
+  title: Model R. Prof. Conduct Rule  3.1
   type: legislation
 
 - id: MRPC3.2
   citation-key: MRPC3.2
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 3.2
+  note: '3.2'
+  title: Model R. Prof. Conduct Rule  3.2
   type: legislation
 
 - id: MRPC3.3
   citation-key: MRPC3.3
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 3.3
+  note: '3.3'
+  title: Model R. Prof. Conduct Rule  3.3
   type: legislation
 
 - id: MRPC3.4
   citation-key: MRPC3.4
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 3.4
+  note: '3.4'
+  title: Model R. Prof. Conduct Rule  3.4
   type: legislation
 
 - id: MRPC3.5
   citation-key: MRPC3.5
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 3.5
+  note: '3.5'
+  title: Model R. Prof. Conduct Rule  3.5
   type: legislation
 
 - id: MRPC3.6
   citation-key: MRPC3.6
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 3.6
+  note: '3.6'
+  title: Model R. Prof. Conduct Rule  3.6
   type: legislation
 
 - id: MRPC3.7
   citation-key: MRPC3.7
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 3.7
+  note: '3.7'
+  title: Model R. Prof. Conduct Rule  3.7
   type: legislation
 
 - id: MRPC3.8
   citation-key: MRPC3.8
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 3.8
+  note: '3.8'
+  title: Model R. Prof. Conduct Rule  3.8
   type: legislation
 
 - id: MRPC3.9
   citation-key: MRPC3.9
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 3.9
+  note: '3.9'
+  title: Model R. Prof. Conduct Rule  3.9
   type: legislation
 
 - id: MRPC4.1
   citation-key: MRPC4.1
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 4.1
+  note: '4.1'
+  title: Model R. Prof. Conduct Rule  4.1
   type: legislation
 
 - id: MRPC4.2
   citation-key: MRPC4.2
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 4.2
+  note: '4.2'
+  title: Model R. Prof. Conduct Rule  4.2
   type: legislation
 
 - id: MRPC4.3
   citation-key: MRPC4.3
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 4.3
+  note: '4.3'
+  title: Model R. Prof. Conduct Rule  4.3
   type: legislation
 
 - id: MRPC4.4
   citation-key: MRPC4.4
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 4.4
+  note: '4.4'
+  title: Model R. Prof. Conduct Rule  4.4
   type: legislation
 
 - id: MRPC5.1
   citation-key: MRPC5.1
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 5.1
+  note: '5.1'
+  title: Model R. Prof. Conduct Rule  5.1
   type: legislation
 
 - id: MRPC5.2
   citation-key: MRPC5.2
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 5.2
+  note: '5.2'
+  title: Model R. Prof. Conduct Rule  5.2
   type: legislation
 
 - id: MRPC5.3
   citation-key: MRPC5.3
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 5.3
+  note: '5.3'
+  title: Model R. Prof. Conduct Rule  5.3
   type: legislation
 
 - id: MRPC5.4
   citation-key: MRPC5.4
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 5.4
+  note: '5.4'
+  title: Model R. Prof. Conduct Rule  5.4
   type: legislation
 
 - id: MRPC5.5
   citation-key: MRPC5.5
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 5.5
+  note: '5.5'
+  title: Model R. Prof. Conduct Rule  5.5
   type: legislation
 
 - id: MRPC5.6
   citation-key: MRPC5.6
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 5.6
+  note: '5.6'
+  title: Model R. Prof. Conduct Rule  5.6
   type: legislation
 
 - id: MRPC5.7
   citation-key: MRPC5.7
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 5.7
+  note: '5.7'
+  title: Model R. Prof. Conduct Rule  5.7
   type: legislation
 
 - id: MRPC6.1
   citation-key: MRPC6.1
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 6.1
+  note: '6.1'
+  title: Model R. Prof. Conduct Rule  6.1
   type: legislation
 
 - id: MRPC6.2
   citation-key: MRPC6.2
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 6.2
+  note: '6.2'
+  title: Model R. Prof. Conduct Rule  6.2
   type: legislation
 
 - id: MRPC6.3
   citation-key: MRPC6.3
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 6.3
+  note: '6.3'
+  title: Model R. Prof. Conduct Rule  6.3
   type: legislation
 
 - id: MRPC6.4
   citation-key: MRPC6.4
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 6.4
+  note: '6.4'
+  title: Model R. Prof. Conduct Rule  6.4
   type: legislation
 
 - id: MRPC6.5
   citation-key: MRPC6.5
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 6.5
+  note: '6.5'
+  title: Model R. Prof. Conduct Rule  6.5
   type: legislation
 
 - id: MRPC7.1
   citation-key: MRPC7.1
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 7.1
+  note: '7.1'
+  title: Model R. Prof. Conduct Rule  7.1
   type: legislation
 
 - id: MRPC7.2
   citation-key: MRPC7.2
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 7.2
+  note: '7.2'
+  title: Model R. Prof. Conduct Rule  7.2
   type: legislation
 
 - id: MRPC7.3
   citation-key: MRPC7.3
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 7.3
+  note: '7.3'
+  title: Model R. Prof. Conduct Rule  7.3
   type: legislation
 
 - id: MRPC7.6
   citation-key: MRPC7.6
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 7.6
+  note: '7.6'
+  title: Model R. Prof. Conduct Rule  7.6
   type: legislation
 
 - id: MRPC8.1
   citation-key: MRPC8.1
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 8.1
+  note: '8.1'
+  title: Model R. Prof. Conduct Rule  8.1
   type: legislation
 
 - id: MRPC8.2
   citation-key: MRPC8.2
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 8.2
+  note: '8.2'
+  title: Model R. Prof. Conduct Rule  8.2
   type: legislation
 
 - id: MRPC8.3
   citation-key: MRPC8.3
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 8.3
+  note: '8.3'
+  title: Model R. Prof. Conduct Rule  8.3
   type: legislation
 
 - id: MRPC8.4
   citation-key: MRPC8.4
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 8.4
+  note: '8.4'
+  title: Model R. Prof. Conduct Rule  8.4
   type: legislation
 
 - id: MRPC8.5
   citation-key: MRPC8.5
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 8.5
+  note: '8.5'
+  title: Model R. Prof. Conduct Rule  8.5
   type: legislation
 
 - id: NAACPButton_US1963
@@ -1025,34 +1200,36 @@ references:
   volume: '371'
 
 - id: NCBdLawExaminersCharacterFitness
+  authority: N.C. Bd. of Law Examiners
   citation-key: NCBdLawExaminersCharacterFitness
+  genre: Character & Fitness Guidelines
   language: en
   title: N.C. Bd. of Law Examiners, Character & Fitness Guidelines
   title-short: Character & Fitness Guidelines
-  type: legislation
+  type: standard
 
 - id: NCGenStat84-2.1
   citation-key: NCGenStat84-2.1
-  container-title: Gen. Stat.
+  container-title: N.C. Gen. Stat.
   language: en
   section: 84-2.1
   title: NCGS 84-21 Practice of law defined
   type: legislation
-  volume: N.C.
 
-- id: NCGenStat84-28
-  citation-key: NCGenStat84-28
-  container-title: Gen. Stat.
+- id: NCGenStat84-2.8
+  citation-key: NCGenStat84-2.8
+  container-title: N.C. Gen. Stat.
   language: en
-  section: 84-28
-  title: NCGS 84-28 Discipline and disbarment
+  section: 84-2.8
+  title: NCGS 84-2.8 Discipline and disbarment
   type: legislation
-  volume: N.C.
 
 - id: NCRPC8.6
   citation-key: NCRPC8.6
+  container-title: N.C. R.P.C.
   language: en
-  title: N.C. Rules of Professional Conduct 8.6
+  note: '8.6'
+  title: N.C. RPC 8.6
   type: legislation
 
 - id: NegotiatingPrivateEmploymentOpposing_NCStateBar2017
@@ -1369,9 +1546,13 @@ references:
 
 - id: Rest2dLawGoverningLawyers
   citation-key: Rest2dLawGoverningLawyers
+  genre: Restatement (Second) of the Law Governing Lawyers
+  issued:
+    - year: 2000
   language: en
-  title: Rest. (2d) of the Law Governing Lawyers
-  type: legislation
+  publisher: Am. Law Inst.
+  title: Restatement (Second) of the Law Governing Lawyers
+  type: standard
 
 - id: ReStateGrandJury_NJ2009
   authority: N.J.
