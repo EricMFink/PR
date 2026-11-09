@@ -4,6 +4,8 @@
 
 #### Model Rules of Professional Conduct 
 
+::: {.legalcode}
+
 ##### Rule 7.1 -- Communications Concerning a Lawyer's Services
 
 - A lawyer shall not make a false or misleading communication about the lawyer or the lawyer's services. A communication is false or misleading if it contains a material misrepresentation of fact or law, or omits a fact necessary to make the statement considered as a whole not materially misleading.

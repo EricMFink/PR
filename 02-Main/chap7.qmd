@@ -596,6 +596,8 @@ Here, none of the five factors weigh in favor of disqualification. As discussed 
 
 #### Model Rules of Professional Conduct
 
+::: {.legalcode}
+
 ##### Rule 3.8 -- Special Responsibilities of a Prosecutor
 
 The prosecutor in a criminal case shall:

@@ -765,6 +765,8 @@ We find that the district court did not abuse its discretion in concluding that 
 
 #### Model Rules of Professional Conduct
 
+::: {.legalcode}
+
 ##### Rule 1.10 -- Imputation of Conflicts of Interest: General Rule
 
 -   \(a\) While lawyers are associated in a firm, none of them shall knowingly represent a client when any one of them practicing alone would be prohibited from doing so by Rules 1.7 or 1.9, unless
