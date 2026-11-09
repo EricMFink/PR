@@ -2,11 +2,11 @@
 
 ## Conflicts Between Current Clients
 
-#### @MRPC1.7
+#### Model Rules of Professional Conduct 
 
 ::: legalcode
 
-##### Conflict of Interest: Current Clients
+##### Rule 1.7 -- Conflict of Interest: Current Clients
 
 -   \(a\) Except as provided in paragraph (b), a lawyer shall not represent a client if the representation involves a concurrent conflict of interest. A concurrent conflict of interest exists if:
     -   \(1\) the representation of one client will be directly adverse to another client; or
@@ -339,11 +339,11 @@ The same issues and considerations discussed above would apply if Lawyer wished 
 
 ## Conflicts Involving the Lawyer's Business & Personal Interests
 
-#### @MRPC1.8
+#### Model Rules of Professional Conduct
 
 ::: legalcode
 
-##### Current Clients -- Specific Rules
+##### Rule 1.8 -- Current Clients: Specific Rules
 
 -   \(a\) A lawyer shall not enter into a business transaction with a client or knowingly acquire an ownership, possessory, security or other pecuniary interest adverse to a client unless:
     -   \(1\) the transaction and terms on which the lawyer acquires the interest are fair and reasonable to the client and are fully disclosed and transmitted in writing in a manner that can be reasonably understood by the client;
@@ -397,84 +397,6 @@ This understanding not only is required by the plain terms of the Rule, but it a
 [^chap6-2]: (n.4 in opinion) At common law, barratry was "the offence of frequently exciting and stirring up suits and quarrels between his majesty's subjects, either at law or otherwise." Maintenance was "an officious intermeddling in a suit that in no way belongs to one, by maintaining or assisting either party with money or otherwise, to prosecute or defend it." Champerty was a particular species of maintenance, namely "a bargain with a plaintiff or defendant to divide the land or other matter sued for between them, if they prevail at law; whereupon the champertor is to carry on the party's suit at his own expense."
 
 This case is a little troubling to me because it appears from the record that Morse has been a friend of his client for a long time, such that he might have provided financial assistance to his client independent of the attorney-client relationship or the litigation, and indeed, even in the absence of an attorney-client relationship or litigation. Lawyers can be generous, and it is not uncommon for lawyers to help out their kin, their friends, and their neighbors. Nevertheless, Morse has unequivocally admitted a violation of Rule 1.8(e), and as such, he has implicitly admitted a connection between the financial assistance he provided and the litigation in which he represented his client. For that reason, I am content to join the Court in accepting his petition for voluntary discipline, and I am satisfied with the discipline that the Court has seen fit to impose. I am authorized to state that Justice Hunstein joins in this concurrence.
-
-#### @CommitteeProfEthicsEtc_Iowa1982
-
-This case involves review of a Grievance Commission report recommending that respondent be reprimanded for alleged ethical violations arising from a business transaction with a client. We adopt the recommendation.
-
-From our de novo review of the record, we find the facts as follows. Respondent is a Cedar Falls attorney. He began to do tax and property work for Leonard O. Miller, a farmer, in 1951. Miller owned 100 acres of farmland adjacent to a country club near the city. In 1969, when he was 68, Miller became interested in developing the land for residential purposes. He employed a landscape architect and R. O. Schenk, of Schenk Engineering Company, to prepare a preliminary plat and market study.
-
-When the preliminary work was completed, Miller brought Schenk to meet with respondent to discuss the project. Miller wished to proceed with the development but did not have sufficient funds to pay engineering costs. Schenk suggested that the three men form a corporation to which Miller would contribute the land, Schenk would contribute engineering services, and respondent would contribute legal services. They agreed the land was worth approximately \$400 an acre. Schenk estimated engineering costs at \$400 an acre, and he said legal costs were usually one half that amount.
-
-After several conferences in early 1970, the three men formed a corporation, Union Township Development, Inc. Subsequently Miller conveyed the farmland to the corporation at a capitalized value of \$12,500 and received 400 shares of stock. Schenk gave the corporation a \$12,500 promissory note and also received 400 shares of stock. Respondent gave the corporation a \$6,250 promissory note and received 200 shares of stock. The promissory notes were interest free and due at the discretion of the corporation. They were to represent the services to be rendered by Schenk and respondent.
-
-Development plans were premised on the corporation's ability to obtain financing on the security of the farmland. As it turned out, the corporation was unable to borrow money unless the three individuals would guarantee the obligation personally. They refused to do so, and financing was never obtained.
-
-The trio met at least annually to discuss the development, but when Miller died on December 31, 1978, at the age of 77, the project was still at a stalemate. Respondent believed the parties had an oral agreement that if development did not occur he and Schenk would relinquish their interests in the corporation to Miller. Three days after Miller's death, he transferred his stock to the corporation. He asked Schenk to do the same thing, but Schenk refused, denying any obligation to do so.
-
-Respondent was nominated in Miller's will as executor of his estate. He served in that capacity until Miller's two daughters expressed dissatisfaction with his role in Miller's conveyance of the farmland to the corporation. He then resigned as executor. Consistent with his view, he showed Miller as owner of all corporate stock in the preliminary probate inventory. The farmland was appraised at \$4,000 an acre.
-
-Although respondent had expended \$900 in out-of-pocket expenses for the corporation and performed legal services worth more than \$6,000, he did not intend to seek payment. Schenk, however, maintained at the time of the grievance hearing that he still owned one half of the outstanding stock of the corporation.
-
-The determinative question in our review is whether this evidence establishes a violation of the principle in DR5-104(A), which provides:
-
-> A lawyer shall not enter into a business transaction with a client if they have differing interests therein and if the client expects the lawyer to exercise his professional judgment therein for the protection of the client, unless the client has consented after full disclosure.
-
-In order to establish a violation of DR5-104(A) it is necessary to show that the lawyer and client had differing interests in the transaction, that the client expected the lawyer to exercise his professional judgment for the protection of the client, and that the client consented to the transaction without full disclosure.
-
-The definitions section of the code of professional responsibility defines "differing interests":
-
-> "Differing interests" include every interest that will adversely affect either the judgment or loyalty of a lawyer to a client, whether it be a conflicting, inconsistent, diverse, or other interest.
-
-Miller and Mershon plainly had differing interests in at least two aspects of the transaction. One was the issue of giving respondent a present interest in the corporation in anticipation of future legal services. The fee agreement was made during the existence of the attorney-client relationship and thus was subject to the general principles governing attorney-client transactions. Because respondent's fee was tied to the amount of his stock in the corporation, he and Miller had differing interests concerning the extent of respondent's stock ownership. Another differing interest involved making respondent a debtor of the corporation to assure that the services would be performed. Because Miller's interest was aligned wholly with the corporation, he and respondent had differing interests with respect to respondent's promissory note.
-
-No dispute exists that Miller relied on respondent to exercise his professional judgment to protect him. One respect in which respondent did so was in preparing a written agreement to assure that Miller was reimbursed from the first profits of the corporation for the preincorporation expenses of preliminary studies. This, however, was the only agreement of the parties that was reduced to writing.
-
-The fighting issue before the Commission was whether respondent made full disclosure to Miller within the meaning of the Canon before Miller entered the transaction. If full disclosure means only that respondent made Miller fully aware of the nature and terms of the transaction, this requirement was satisfied. Nothing was hidden from Miller, and he was an active participant in the transaction. Full disclosure, however, means more than this.
-
-Because of the fiduciary relationship which exists, the attorney
-
-> has the burden of showing that the transaction was in all respects fairly and equitably conducted; that he fully and faithfully discharged all his duties to his client, not only by refraining from any misrepresentation or concealment of any material fact, but by active diligence to see that his client was fully informed of the nature and effect of the transaction proposed and of his own rights and interests in the subject matter involved, and by seeing to it that his client either has independent advice in the matter or else receives from the attorney such advice as the latter would have been expected to give had the transaction been one between his client and a stranger.
-
-Respondent acknowledges he did not suggest to Miller that he obtain independent advice. The record does not show he otherwise gave Miller the kind of advice Miller should have had if the transaction were with a stranger. Respondent let Schenk estimate the value of his legal services and thus the extent of respondent's stock ownership without any investigation to determine whether the estimate was accurate. Nor did he suggest to Miller that he make such investigation. If Schenk's estimate was generous, the effect may have been to chill respondent's scrutiny of the benchmark for the valuation, which was Schenk's valuation of his own services. Furthermore there was no discussion or investigation concerning the reasonableness or wisdom of tying respondent's fee for future services to a present twenty percent interest in the corporation. Respondent acknowledges that the arrangement was at least a technical violation.
-
-Nothing was done to assure that Miller would get his farm back if either Schenk or respondent did not perform or if the development should not be undertaken. Nothing was done to protect Miller or his estate in the event of the death of any of the parties. The promissory notes could hardly have been on more favorable terms to the debtors. The record does not show whether Miller was informed of the difficulty the corporation might have in enforcing respondent's obligation. So far as the record shows, Miller was not told of any possible effect of respondent's differing interests on the exercise of his professional judgment.
-
-The Commission found respondent is forthright and honest and gained no profit from the transaction. The record confirms this finding. As the Commission also found, however, a violation of DR5-104(A) was nevertheless established. Respondent had three alternatives when the Schenk proposal was first made. The safest and perhaps best course would have been to refuse to participate personally in the transaction. Alternatively, he could have recommended that Miller obtain independent advice. Finally, if Miller refused to seek independent advice or respondent did not recommend he do so, he could have made the least desirable choice. He could have attempted to meet the high standard of disclosure outlined in this opinion.
-
-Having chosen to enter the transaction without recommending that Miller obtain independent advice, respondent was obliged to make full disclosure. Because the record does not show full disclosure was made before Miller consented to the transaction, a violation of DR5-104(A) has been established. This is true even though respondent did not act dishonestly or make a profit on the transaction.
-
-In accordance with the Commission recommendation, we reprimand him for the violation.
-
-#### @SaladiniRighellis_Mass1997
-
-The plaintiff, Lisa Saladini, appeals from the decision of a judge in the Superior Court dismissing her complaint, sua sponte, on the ground that a written agreement she had with the defendant, George P. Righellis, was champertous and unenforceable. Saladini had sought a declaratory judgment establishing her rights under the agreement. We granted Saladini's application for direct appellate review to consider whether we should continue to enforce the doctrine. We rule that the common law doctrines of champerty, barratry, and maintenance no longer shall be recognized in Massachusetts. We reverse the judgment entered in the Superior Court and remand this case for further proceedings.
-
-On September 23, 1992, Saladini and Righellis entered into a written agreement pursuant to which Saladini agreed to advance funds to Righellis to allow him to pursue potential legal claims he had arising out of his interest in real estate in Cambridge, known as Putnam Manor. In return, Righellis agreed that, if pursuit of his claims yielded any recovery, the first amount recovered would be used to reimburse Saladini, and that Saladini would, in addition, receive 50% of any net recovery remaining after payment of attorney's fees. Saladini, herself, had no interest in Putnam Manor.
-
-Saladini thereafter advanced funds to Righellis that he used to retain an attorney under a contingent fee agreement to bring a lawsuit and to pursue his legal claims. At some point Righellis became dissatisfied with that attorney's representation and, with the concurrence of Saladini, hired a new lawyer, Robert Potters, to replace him. Righellis signed a new contingent fee agreement with Potters.
-
-The original agreement between Saladini and Righellis did not anticipate retaining a second attorney to represent Righellis in the Putnam Manor lawsuit. Saladini maintains that to deal with this circumstance, she and Righellis agreed that each would pay one-half of the retainer required by Potters, each would pay one-half of the litigation disbursements, and that in all other respects the terms of their original agreement would remain in effect. No new or amended agreement was executed, but Saladini did pay one-half of the retainer to Potters and one-half of the litigation disbursements. All told, Saladini advanced a total of \$19,229 to Righellis.
-
-At some point Righellis settled the Putnam Manor lawsuit, with the defendants in that case agreeing to pay him \$130,000. The first payment of \$10,000 was paid on or about November 2, 1994, with the balance due on January 11, 1995. Neither Potters nor Righellis informed Saladini that a settlement had been reached, or that the first settlement funds had been received.
-
-When Saladini became aware of the settlement, she filed suit, seeking to establish her rights under the agreement. She also sought, and a judge in the Superior Court granted, injunctive relief, enjoining Righellis and Potters from disbursing any of the settlement funds until her claims had been adjudicated.
-
-In November, 1995, Righellis filed a motion for summary judgment that Saladini opposed. After reviewing the submissions of the parties, a judge in the Superior Court, sua sponte, invited both parties to submit memoranda on the issue whether the agreement between Saladini and Righellis was champertous. A hearing followed and, in September, 1996, another judge ruled that the agreement was champertous and unenforceable as against public policy. She ordered that Saladini's complaint be dismissed in its entirety. A judgment to that effect was entered on September 24, 1996. Saladini appealed. A judge granted Saladini's motion to continue the preliminary injunction pending her appeal.
-
-Champerty has been described as the unlawful maintenance of a suit, where a person without an interest in it agrees to finance the suit, in whole or in part, in consideration for receiving a portion of the proceeds of the litigation. We described the doctrine as a "narrow and somewhat technical concept," a type of maintenance that occurs when a person engages in "officious intermeddling in a suit that no way belongs to one, by maintaining or assisting either party with money or otherwise, to prosecute or defend it."
-
-The doctrine has a long and, in this country, checkered history. The ancient prohibition against champerty arose in feudal England. More recently the doctrine has been viewed as a check on frivolous or unnecessary litigation, or a mechanism to encourage the settlement of disputes without recourse to litigation. The extent to which courts, here, accepted the doctrine has varied. In some States, champerty was never adopted, or has been abandoned. In others, the doctrine was given narrow application. Massachusetts followed the common law prohibition against champerty, although we have never enforced the doctrine to the same extent as English courts.[^chap6-3] Nevertheless, under our own development of the doctrine we have little doubt that the agreement between Saladini and Righellis would be champertous were we to continue to recognize the offense. We no longer are inclined to do so.
-
-[^chap6-3]: (n.4 in opinion) For example, we consistently have held that it is not unlawful "to engage in the business of buying choses in action and enforcing them by suit if necessary," although under English common law assignments of choses in action are within the scope of champerty. We have not prohibited agreements otherwise champertous where the party has an independent interest in the suit. We also have recognized the validity of contingent fee arrangements with attorneys, which otherwise would be champertous.
-
-We have long abandoned the view that litigation is suspect, and have recognized that agreements to purchase an interest in an action may actually foster resolution of a dispute. In more recent cases we have questioned whether the doctrine continues to serve any useful purpose. In *McInerney*, we noted that "the decline of champerty, maintenance, and barratry as offences is symptomatic of a fundamental change in society's view of litigation---from ‘a social ill, which, like other disputes and quarrels, should be minimized' to ‘a socially useful way to resolve disputes.'" In *Christian v. Mooney*, we declined to consider whether an agreement between a "bounty hunter in troubled titles" and other plaintiffs in a suit was champertous because that issue was not contested by the parties to the agreement---even though that plaintiff's repeated instigation of litigation regarding troubled real estate titles was the very conduct traditionally condemned as violative of the prohibition against champerty. Most recently, in *Berman v. Linnane*, we declined to strike down a contingent fee agreement that did not satisfy the requirements of S.J.C. Rule 3:05 as champertous, relying rather on "the public policy against the recovery of excessive fees" to limit the financial recovery by an attorney. We observed in that case that "at least as to lawyers, other principles fulfill whatever purpose champerty once had." These decisions all reflect the change in our attitude toward the financing of litigation.
-
-We also no longer are persuaded that the champerty doctrine is needed to protect against the evils once feared: speculation in lawsuits, the bringing of frivolous lawsuits, or financial overreaching by a party of superior bargaining position. There are now other devices that more effectively accomplish these ends. Our rule governing contingent fees between attorneys and clients is based on the principle that an attorney's fee must be reasonable. We also recognize a public policy against the recovery of excessive fees. Additional devices include Mass. R. Civ. P. 11, providing sanctions for misconduct, and G. L. C. 231, § 6F, regulating the bringing of frivolous lawsuits. General Laws c. 93A, and the doctrines of unconscionability, duress, and good faith, establish standards of fair dealing between opposing parties. To the extent that we continue to have the concerns that the doctrine of champerty was thought to address, we conclude that it is better to do so directly, rather than attempting to mold an ancient doctrine to modern circumstances.[^chap6-4] As Justice Holmes, then a member of this court, said a century ago: "It is revolting to have no better reason for a rule of law than that so it was laid down in the time of Henry IV. It is still more revolting if the grounds upon which it was laid down have vanished long since, and the rule simply persists from blind imitation of the past."
-
-[^chap6-4]: (n.6 in opinion) The doctrine of champerty may also be unworkable or have harsh results. Rather than punishing the owner of the legal claim who has entered into a champertous agreement, the doctrine bestows on him a windfall. In this case, for example, Righellis would be permitted to retain the full benefit of the positive result achieved in the Putnam Manor lawsuit, while he would not have to honor his obligations to Saladini, the person whose support made pursuit of the lawsuit possible. A defendant sued in a champerty-supported litigation may not assert the champerty as a defense, but a court may refuse to enforce a champertous agreement even where the defense of champerty has not been asserted.
-
-Other States that no longer recognize the doctrine of champerty have continued to scrutinize an agreement to finance a lawsuit with care. We shall do likewise. This means that if an agreement to finance a lawsuit is challenged, we will consider whether the fees charged are excessive or whether any recovery by a prevailing party is vitiated because of some impermissible overreaching by the financier. Judges also retain their inherent power to disapprove an attorney's fee that is unreasonable. We shall be guided in our analysis by a rule of what is fair and reasonable, looking to all of the circumstances at the time the arrangement is made to determine whether the agreement should be set aside or modified. In this case, for example, had the agreement been challenged, relevant factors might have included the respective bargaining position of the parties at the time the agreement was made, whether both parties were aware of the terms and consequences of the agreement, whether Righellis may have been unable to pursue the lawsuit at all without Saladini's funds, and whether the claim by Righellis that he will receive but \$35,000 of the total \$130,000 settlement award if Saladini prevails is unreasonable in the circumstances. We observe that before the judge raised the issue, Righellis had never challenged the validity of his agreement with Saladini. The record before us does not permit any conclusion regarding the reasonableness of the agreement between Righellis and Saladini on the one hand, or Righellis and Potters on the other. We see no reason why Righellis should be the beneficiary of any windfall, or why any adjustment to the financing arrangement---if appropriate at all---should be made solely at Saladini's expense. If pursued, those matters can be decided by the trial judge.
 
 #### @ReStateGrandJury_NJ2009
 
@@ -708,11 +630,11 @@ Accordingly, Jason Allan Sarver is suspended from the practice of law in Ohio fo
 
 ## Conflicts Involving Former Clients
 
-#### @MRPC1.9
+#### Model Rules of Professional Conduct
 
 ::: legalcode
 
-##### Duties to Former Clients
+##### Rule 1.9 -- Duties to Former Clients
 
 -   \(a\) A lawyer who has formerly represented a client in a matter shall not thereafter represent another person in the same or a substantially related matter in which that person's interests are materially adverse to the interests of the former client unless the former client gives informed consent, confirmed in writing.
 -   \(b\) A lawyer shall not knowingly represent a person in the same or a substantially related matter in which a firm with which the lawyer formerly was associated had previously represented a client
@@ -722,13 +644,7 @@ Accordingly, Jason Allan Sarver is suspended from the practice of law in Ohio fo
     -   \(1\) use information relating to the representation to the disadvantage of the former client except as these Rules would permit or require with respect to a client, or when the information has become generally known; or
     -   \(2\) reveal information relating to the representation except as these Rules would permit or require with respect to a client.
 
-:::
-
-#### @MRPC1.11
-
-::: legalcode
-
-##### Special Conflicts of Interest for Former & Current Government Officers & Employees
+##### Rule 1.11 -- Special Conflicts of Interest for Former & Current Government Officers & Employees
 
 -   \(a\) Except as law may otherwise expressly permit, a lawyer who has formerly served as a public officer or employee of the government:
     -   \(1\) is subject to Rule 1.9(c); and
@@ -746,13 +662,7 @@ Accordingly, Jason Allan Sarver is suspended from the practice of law in Ohio fo
     -   \(1\) any judicial or other proceeding, application, request for a ruling or other determination, contract, claim, controversy, investigation, charge, accusation, arrest or other particular matter involving a specific party or parties, and
     -   \(2\) any other matter covered by the conflict of interest rules of the appropriate government agency.
 
-:::
-
-#### @MRPC1.12
-
-::: legalcode
-
-##### Former Judge, Arbitrator, Mediator or Other Third-Party Neutral
+##### Rule 1.12 -- Former Judge, Arbitrator, Mediator or Other Third-Party Neutral
 
 -   \(a\) Except as stated in paragraph (d), a lawyer shall not represent anyone in connection with a matter in which the lawyer participated personally and substantially as a judge or other adjudicative officer or law clerk to such a person or as an arbitrator, mediator or other third-party neutral, unless all parties to the proceeding give informed consent, confirmed in writing.
 -   \(b\) A lawyer shall not negotiate for employment with any person who is involved as a party or as lawyer for a party in a matter in which the lawyer is participating personally and substantially as a judge or other adjudicative officer or as an arbitrator, mediator or other third-party neutral. A lawyer serving as a law clerk to a judge or other adjudicative officer may negotiate for employment with a party or lawyer involved in a matter in which the clerk is participating personally and substantially, but only after the lawyer has notified the judge or other adjudicative officer.
@@ -853,11 +763,9 @@ We find that the district court did not abuse its discretion in concluding that 
 
 ## Imputed Conflicts
 
-#### @MRPC1.10
+#### Model Rules of Professional Conduct
 
-::: legalcode
-
-##### Imputation of Conflicts of Interest: General Rule
+##### Rule 1.10 -- Imputation of Conflicts of Interest: General Rule
 
 -   \(a\) While lawyers are associated in a firm, none of them shall knowingly represent a client when any one of them practicing alone would be prohibited from doing so by Rules 1.7 or 1.9, unless
     -   \(1\) the prohibition is based on a personal interest of the disqualified lawyer and does not present a significant risk of materially limiting the representation of the client by the remaining lawyers in the firm; or

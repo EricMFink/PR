@@ -2,10 +2,11 @@
 
 ## Competence, Diligence, & Communication
 
-#### @MRPC1.1
+#### Model Rules of Professional Conduct 
+
 ::: {.legalcode}
 
-##### Competence
+##### Rule 1.1 -- Competence
 
 - A lawyer shall provide competent representation to a client. Competent representation requires the legal knowledge, skill, thoroughness and preparation reasonably necessary for the representation.
 
@@ -31,21 +32,11 @@ _Maintaining Competence_
 
 - 8\. To maintain the requisite knowledge and skill, a lawyer should keep abreast of changes in the law and its practice, including the benefits and risks associated with relevant technology, engage in continuing study and education and comply with all continuing legal education requirements to which the lawyer is subject.
 
-:::
-
-#### @MRPC1.3
-::: {.legalcode}
-
-##### Diligence
+##### Rule 1.3 -- Diligence
 
 - A lawyer shall act with reasonable diligence and promptness in representing a client.
 
-:::
-
-#### @MRPC1.4
-::: {.legalcode}
-
-##### Communication
+##### Rule 1.4 -- Communication
 
 - (a\) A lawyer shall:
 	- (1\) promptly inform the client of any decision or circumstance with respect to which the client's informed consent, as defined in Rule 1.0(e), is required by these Rules;
@@ -55,22 +46,11 @@ _Maintaining Competence_
 	- (5\) consult with the client about any relevant limitation on the lawyer's conduct when the lawyer knows that the client expects assistance not permitted by the Rules of Professional Conduct or other law.
 - (b\) A lawyer shall explain a matter to the extent reasonably necessary to permit the client to make informed decisions regarding the representation.
 
-:::
-
-#### @MRPC2.1
-::: {.legalcode}
-
-##### Advisor
+##### Rule 2.1 -- Advisor
 
 - In representing a client, a lawyer shall exercise independent professional judgment and render candid advice. In rendering advice, a lawyer may refer not only to law but to other considerations such as moral, economic, social and political factors, that may be relevant to the client's situation.
 
-:::
-
-#### @MRPC2.3
-
-::: {.legalcode}
-
-##### Evaluation for Use by Third Persons
+##### Rule 2.3 -- Evaluation for Use by Third Persons
 
 - (a\) A lawyer may provide an evaluation of a matter affecting a client for the use of someone other than the client if the lawyer reasonably believes that making the evaluation is compatible with other aspects of the lawyer's relationship with the client.
 - (b\) When the lawyer knows or reasonably should know that the evaluation is likely to affect the client's interests materially and adversely, the lawyer shall not provide the evaluation unless the client gives informed consent.
@@ -168,10 +148,11 @@ The term "legal malpractice" is sometimes used generally to refer to any claim a
 
 :::
 
-#### @MRPC1.8
+#### Model Rules of Professional Conduct
+
 ::: {.legalcode}
 
-##### Current Clients: Specific Rules
+##### Rule 1.8 -- Current Clients: Specific Rules
 
 - (h\) A lawyer shall not:
 	- (1\) make an agreement prospectively limiting the lawyer's liability to a client for malpractice unless the client is independently represented in making the agreement; or
@@ -185,9 +166,9 @@ This is an appeal from an order of the Hennepin County District Court in a legal
 
 For purposes of this appeal, the facts are uncontested. Appellant's father, Theodore Marker, retained respondent, an attorney, for estate planning services. In December 1972 respondent prepared a will for appellant's father. In August 1973, on behalf of appellant's father, respondent drafted deeds which conveyed certain real estate to appellant's father and appellant as joint tenants.
 
-Appellant's father died on December 24, 1977. Because the real estate in question was held by appellant and his father as joint tenants, its entire value, $120,000, was included in the decedent's gross estate for tax purposes.
+Appellant's father died on December 24, 1977. Because the real estate in question was held by appellant and his father as joint tenants, its entire value, \$120,000, was included in the decedent's gross estate for tax purposes.
 
-Appellant asserts that, if he and his father had held the real estate as tenants in common, $20,858.18 in federal and state taxes would have been saved. Appellant commenced this action to recover the amount of the additional estate taxes, claiming the loss resulted from respondent's negligence in not having the real estate conveyed into tenancy in common.
+Appellant asserts that, if he and his father had held the real estate as tenants in common, \$20,858.18 in federal and state taxes would have been saved. Appellant commenced this action to recover the amount of the additional estate taxes, claiming the loss resulted from respondent's negligence in not having the real estate conveyed into tenancy in common.
 
 Appellant was never a client of respondent. Appellant does not allege that he was a beneficiary of his father's estate with respect to this property, but that he was a surviving joint tenant.
 
@@ -225,7 +206,7 @@ Mr. Anders called upon defendant Robert Millington, a Gridley attorney who had f
 
 In her deposition the former Mrs. Anders testified that in signing the complaint and property settlement agreement she relied solely on her husband and did not rely on the attorney. Later, when so instructed, she traveled to the courthouse at Oroville, where she and her corroborating witness met Mr. Millington. He escorted her through a routine ex parte hearing which resulted in an interlocutory divorce decree and judicial approval of the property settlement.
 
-According to her complaint, the former Mrs. Anders discovered that in return for a settlement of $8,807 she had surrendered her right to community assets totaling $82,500. Ascribing her loss to the attorney's negligent failure to make inquiries as to the true worth of the community property, she seeks damages equivalent to the difference between what she received and onehalf the asserted value of the community.
+According to her complaint, the former Mrs. Anders discovered that in return for a settlement of \$8,807 she had surrendered her right to community assets totaling \$82,500. Ascribing her loss to the attorney's negligent failure to make inquiries as to the true worth of the community property, she seeks damages equivalent to the difference between what she received and onehalf the asserted value of the community.
 
 By the very act of undertaking to represent Mrs. Anders in an uncontested divorce suit, Mr. Millington assumed a duty of care toward her, whatever its degree. Described in terms traditionally applicable to the attorney-client relationship, the degree of care exacted by that duty was that of a figurative lawyer of ordinary skill and capacity in the performance of like tasks.
 
@@ -243,11 +224,11 @@ Legal malpractice may consist of a negligent failure to act. The attorney's negl
 
 This appeal is from a judgment entered pursuant to a jury verdict which exonerated the appellee, an attorney, from the charges of legal malpractice. The charges of the legal malpractice claim arose from a medical malpractice cause of action on behalf of the deceased, Lula Daugherty Roach. This type of action is commonly referred to as a "suit within a suit." The basis for the legal malpractice claim is that appellee Runner, while representing the deceased Roach for injuries sustained in an automobile accident, failed to pursue a medical malpractice claim by the estate of Roach against the hospital where Roach was treated for her injuries after her accident and against the doctors who treated her, until her claim was barred by the statute of limitations.
 
-The jury found for Runner on the legal malpractice claim and additionally found that the appellant would have recovered on the medical malpractice case, if suit had been timely filed, in the amount of $146,123.75. Both parties appealed.
+The jury found for Runner on the legal malpractice claim and additionally found that the appellant would have recovered on the medical malpractice case, if suit had been timely filed, in the amount of \$146,123.75. Both parties appealed.
 
 The appellant contends that the trial court erred in submitting the issue of Runner's negligence to the jury and in failing to instruct the jury properly.
 
-Appellee's cross-appeal is of a protective nature wherein it is contended that if we reverse the trial court based on appellant's assignments of error, then appellee believes the jury verdict awarding appellant $146,123.75 on his medical malpractice claim is erroneous because of improperly admitted evidence.
+Appellee's cross-appeal is of a protective nature wherein it is contended that if we reverse the trial court based on appellant's assignments of error, then appellee believes the jury verdict awarding appellant \$146,123.75 on his medical malpractice claim is erroneous because of improperly admitted evidence.
 
 We will not reach the claim of appellee on cross-appeal since we affirm the judgment of the lower court.
 
@@ -331,9 +312,9 @@ We are asked to determine whether plaintiffs in a malpractice action against the
 
 Psychiatrist Jessy Ang and his wife Editha jointly owned Evergreen Medical Panel, Inc., a company that provided the Washington State Department of Labor and Industries with independent medical examinations of injured workers. As a result of Dr. Ang's contact with a target of a governmental task force investigating social security fraud, Dr. Ang himself became a person of interest. In February 1994, the task force executed a search warrant on Dr. Ang's office and seized copies of two sets of signed tax returns that reported conflicting amounts of income. The Angs were arrested in April 1996, following the execution of a search warrant at their residence. A year later, the Angs were indicted on 18 criminal counts, including conspiracy to defraud the United States, bank and tax fraud, and filing false statements.
 
-The Angs retained defendants Richard Hansen and Michael G. Martin for flat fees of $225,000 and $100,000, respectively. Attorneys Hansen and Martin engaged in a round of plea negotiations prior to trial, but the Angs rejected the plea bargain. The case proceeded to a jury trial before Judge Tanner in federal district court in December 1997. On the fifth day of trial, just prior to the conclusion of the government's case, Hansen and Martin recommended that the Angs accept another proffered plea, one that the Angs viewed as the least attractive of any agreement previously presented. After Dr. Ang was allegedly told that Mrs. Ang could face sexual assault in prison, the Angs agreed to plead guilty to two of the 18 counts.
+The Angs retained defendants Richard Hansen and Michael G. Martin for flat fees of \$225,000 and \$100,000, respectively. Attorneys Hansen and Martin engaged in a round of plea negotiations prior to trial, but the Angs rejected the plea bargain. The case proceeded to a jury trial before Judge Tanner in federal district court in December 1997. On the fifth day of trial, just prior to the conclusion of the government's case, Hansen and Martin recommended that the Angs accept another proffered plea, one that the Angs viewed as the least attractive of any agreement previously presented. After Dr. Ang was allegedly told that Mrs. Ang could face sexual assault in prison, the Angs agreed to plead guilty to two of the 18 counts.
 
-The Angs then engaged attorney Monte Hester to review the plea discussions and provide a second opinion. Hester concluded that the government had not met its burden of proof and that the plea agreement provided the Angs with no material benefit. Retaining Hester and Keith A. MacFie to represent them, the Angs successfully moved to withdraw the pleas, which Judge Tanner had never formally accepted. In September 1999, the matter again proceeded to trial before Judge Tanner, with the Angs waiving their right to a jury. Although the government offered another plea bargain prior to trial, one requiring no plea on Dr. Ang's part, a misdemeanor or felony for Mrs. Ang, and a $500,000 fine, the Angs rejected the plea and were acquitted on all 18 counts.
+The Angs then engaged attorney Monte Hester to review the plea discussions and provide a second opinion. Hester concluded that the government had not met its burden of proof and that the plea agreement provided the Angs with no material benefit. Retaining Hester and Keith A. MacFie to represent them, the Angs successfully moved to withdraw the pleas, which Judge Tanner had never formally accepted. In September 1999, the matter again proceeded to trial before Judge Tanner, with the Angs waiving their right to a jury. Although the government offered another plea bargain prior to trial, one requiring no plea on Dr. Ang's part, a misdemeanor or felony for Mrs. Ang, and a \$500,000 fine, the Angs rejected the plea and were acquitted on all 18 counts.
 
 The Angs, along with Evergreen Medical, filed the present legal malpractice action against Hansen and Martin in May 2000 in Pierce County Superior Court. The complaint stated claims for legal malpractice and for violations of the Washington Consumer Protection Act. The trial court denied the defendants' motion for summary judgment, and a jury trial began in November 2001. The trial court instructed the jury that the Angs had to prove by a preponderance of the evidence that they were innocent of the underlying criminal charges. On January 11, 2002, responding to the initial two questions on a special verdict form, the jury found that the Angs had not "proven by a preponderance of the evidence they were innocent of all the criminal charges against them." As to the verdict form's third question, asking whether "any of the defendants had been negligent," the jury made a finding of negligence against Martin only.
 
@@ -613,7 +594,7 @@ Lee's attorney was wrong: The conviction meant that Lee was subject to mandatory
 
 Jae Lee moved to the United States from South Korea in 1982. He was 13 at the time. His parents settled the family in New York City, where they opened a small coffee shop. After graduating from a business high school in Manhattan, Lee set out on his own to Memphis, Tennessee, where he started working at a restaurant. After three years, Lee decided to try his hand at running a business. With some assistance from his family, Lee opened the Mandarin Palace Chinese Restaurant in a Memphis suburb. The Mandarin was a success, and Lee eventually opened a second restaurant nearby. In the 35 years he has spent in the country, Lee has never returned to South Korea. He did not become a United States citizen, living instead as a lawful permanent resident.
 
-At the same time he was running his lawful businesses, Lee also engaged in some illegitimate activity. In 2008, a confidential informant told federal officials that Lee had sold the informant approximately 200 ecstasy pills and two ounces of hydroponic marijuana over the course of eight years. The officials obtained a search warrant for Lee's house, where they found 88 ecstasy pills, three Valium tablets, $32,432 in cash, and a loaded rifle. Lee admitted that the drugs were his and that he had given ecstasy to his friends.
+At the same time he was running his lawful businesses, Lee also engaged in some illegitimate activity. In 2008, a confidential informant told federal officials that Lee had sold the informant approximately 200 ecstasy pills and two ounces of hydroponic marijuana over the course of eight years. The officials obtained a search warrant for Lee's house, where they found 88 ecstasy pills, three Valium tablets, \$32,432 in cash, and a loaded rifle. Lee admitted that the drugs were his and that he had given ecstasy to his friends.
 
 A grand jury indicted Lee on one count of possessing ecstasy with intent to distribute. Lee retained an attorney and entered into plea discussions with the Government. The attorney advised Lee that going to trial was "very risky" and that, if he pleaded guilty, he would receive a lighter sentence than he would if convicted at trial. Lee informed his attorney of his noncitizen status and repeatedly asked him whether he would face deportation as a result of the criminal proceedings. The attorney told Lee that he would not be deported as a result of pleading guilty. Based on that assurance, Lee accepted the plea and the District Court sentenced him to a year and a day in prison, though it deferred commencement of Lee's sentence for two months so that Lee could manage his restaurants over the holiday season.
 

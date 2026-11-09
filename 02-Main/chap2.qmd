@@ -2,21 +2,13 @@
 
 ## Advertising
 
-#### @MRPC7.1
+#### Model Rules of Professional Conduct 
 
-::: {.legalcode}
-
-##### Communications Concerning a Lawyer's Services
+##### Rule 7.1 -- Communications Concerning a Lawyer's Services
 
 - A lawyer shall not make a false or misleading communication about the lawyer or the lawyer's services. A communication is false or misleading if it contains a material misrepresentation of fact or law, or omits a fact necessary to make the statement considered as a whole not materially misleading.
 
-:::
-
-#### @MRPC7.2
-
-::: {.legalcode}
-
-##### Communications Concerning a Lawyer's Services: Specific Rules
+##### Rule 7.2 -- Communications Concerning a Lawyer's Services: Specific Rules
 
 - (a\) A lawyer may communicate information regarding the lawyer’s services through any media.
 - (b\) A lawyer shall not compensate, give or promise anything of value to a person for recommending the lawyer’s services except that a lawyer may:
@@ -380,11 +372,11 @@ Accordingly, I would hold that Hunter's speech is political, is entitled to the 
 
 ## Solicitation
 
-#### @MRPC7.3
+#### Model Rules of Professional Conduct 
 
 ::: {.legalcode}
 
-##### Solicitation of Clients
+##### Rule 7.3 -- Solicitation of Clients
 
 - (a\) “Solicitation” or “solicit” denotes a communication initiated by or on behalf of a lawyer or law firm that is directed to a specific person the lawyer knows or reasonably should know needs legal services in a particular matter and that offers to provide, or reasonably can be understood as offering to provide, legal services for that matter.
 - (b\) A lawyer shall not solicit professional employment by live person-to-person contact when a significant motive for the lawyer’s doing so is the lawyer’s or law firm’s pecuniary gain, unless the contact is with a:
@@ -397,13 +389,7 @@ Accordingly, I would hold that Hunter's speech is political, is entitled to the 
 - (d\) This Rule does not prohibit communications authorized by law or ordered by a court or other tribunal.
 - (e\) Notwithstanding the prohibitions in this Rule, a lawyer may participate with a prepaid or group legal service plan operated by an organization not owned or directed by the lawyer that uses live person-to-person contact to enroll members or sell subscriptions for the plan from persons who are not known to need legal services in a particular matter covered by the plan.
 
-:::
-
-#### @MRPC7.6
-
-::: {.legalcode}
-
-##### Political Contributions to Obtain Legal Engagements or Appointments by Judges
+##### RUle 7.6 -- Political Contributions to Obtain Legal Engagements or Appointments by Judges
 
 - A lawyer or law firm shall not accept a government legal engagement or an appointment by a judge if the lawyer or law firm makes a political contribution or solicits political contributions for the purpose of obtaining or being considered for that type of legal engagement or appointment.
 
@@ -421,7 +407,7 @@ The NAACP was formed in 1909 and incorporated under New York law as a nonprofit 
 
 The basic aims and purposes of NAACP are to secure the elimination of all racial barriers which deprive Negro citizens of the privileges and burdens of equal citizenship rights in the United States. To this end the Association engages in extensive educational and lobbying activities. It also devotes much of its funds and energies to an extensive program of assisting certain kinds of litigation on behalf of its declared purposes. For more than 10 years, the Virginia Conference has concentrated upon financing litigation aimed at ending racial segregation in the public schools of the Commonwealth.
 
-The Conference ordinarily will finance only cases in which the assisted litigant retains an NAACP staff lawyer to represent him. The Conference maintains a legal staff of 15 attorneys, all of whom are Negroes and members of the NAACP. The staff is elected at the Conference's annual convention. Each legal staff member must agree to abide by the policies of the NAACP, which, insofar as they pertain to professional services, limit the kinds of litigation which the NAACP will assist. Thus the NAACP will not underwrite ordinary damages actions, criminal actions in which the defendant raises no question of possible racial discrimination, or suits in which the plaintiff seeks separate but equal rather than fully desegregated public school facilities. The staff decides whether a litigant, who may or may not be an NAACP member, is entitled to NAACP assistance. The Conference defrays all expenses of litigation in an assisted case, and usually, although not always, pays each lawyer on the case a per diem fee not to exceed $60, plus out-of-pocket expenses. The assisted litigant receives no money from the Conference or the staff lawyers. The staff member may not accept, from the litigant or any other source, any other compensation for his services in an NAACP-assisted case. None of the staff receives a salary or retainer from the NAACP; the per diem fee is paid only for professional services in a particular case. This per diem payment is smaller than the compensation ordinarily received for equivalent private professional work. The actual conduct of assisted litigation is under the control of the attorney, although the NAACP continues to be concerned that the outcome of the lawsuit should be consistent with NAACP's policies already described. A client is free at any time to withdraw from an action.
+The Conference ordinarily will finance only cases in which the assisted litigant retains an NAACP staff lawyer to represent him. The Conference maintains a legal staff of 15 attorneys, all of whom are Negroes and members of the NAACP. The staff is elected at the Conference's annual convention. Each legal staff member must agree to abide by the policies of the NAACP, which, insofar as they pertain to professional services, limit the kinds of litigation which the NAACP will assist. Thus the NAACP will not underwrite ordinary damages actions, criminal actions in which the defendant raises no question of possible racial discrimination, or suits in which the plaintiff seeks separate but equal rather than fully desegregated public school facilities. The staff decides whether a litigant, who may or may not be an NAACP member, is entitled to NAACP assistance. The Conference defrays all expenses of litigation in an assisted case, and usually, although not always, pays each lawyer on the case a per diem fee not to exceed \$60, plus out-of-pocket expenses. The assisted litigant receives no money from the Conference or the staff lawyers. The staff member may not accept, from the litigant or any other source, any other compensation for his services in an NAACP-assisted case. None of the staff receives a salary or retainer from the NAACP; the per diem fee is paid only for professional services in a particular case. This per diem payment is smaller than the compensation ordinarily received for equivalent private professional work. The actual conduct of assisted litigation is under the control of the attorney, although the NAACP continues to be concerned that the outcome of the lawsuit should be consistent with NAACP's policies already described. A client is free at any time to withdraw from an action.
 
 The members of the legal staff of the Virginia Conference and other NAACP or Defense Fund lawyers called in by the staff to assist are drawn into litigation in various ways. One is for an aggrieved Negro to apply directly to the Conference or the legal staff for assistance. His application is referred to the Chairman of the legal staff. The Chairman, with the concurrence of the President of the Conference, is authorized to agree to give legal assistance in an appropriate case. In litigation involving public school segregation, the procedure tends to be different. Typically, a local NAACP branch will invite a member of the legal staff to explain to a meeting of parents and children the legal steps necessary to achieve desegregation. The staff member will bring printed forms to the meeting authorizing him, and other NAACP or Defense Fund attorneys of his designation, to represent the signers in legal proceedings to achieve desegregation. On occasion, blank forms have been signed by litigants, upon the understanding that a member or members of the legal staff, with or without assistance from other NAACP lawyers, or from the Defense Fund, would handle the case. It is usual, after obtaining authorizations, for the staff lawyer to bring into the case the other staff members in the area where suit is to be brought, and sometimes to bring in lawyers from the national organization or the Defense Fund. In effect, then, the prospective litigant retains not so much a particular attorney as the "firm" of NAACP and Defense Fund lawyers, which has a corporate reputation for expertness in presenting and arguing the difficult questions of law that frequently arise in civil rights litigation.
 
@@ -497,9 +483,9 @@ During appellant's visit with the McClintocks, they explained that their daughte
 
 Appellant proceeded to the hospital, where he found Carol lying in traction in her room. After a brief conversation about her condition, appellant told Carol he would represent her and asked her to sign an agreement. Carol said she would have to discuss the matter with her parents. She did not sign the agreement, but asked appellant to have her parents come to see her. Appellant also attempted to see Wanda Lou Holbert, but learned that she had just been released from the hospital. He then departed for another visit with the McClintocks.
 
-On his way appellant detoured to the scene of the accident, where he took a set of photographs. He also picked up a tape recorder, which he concealed under his raincoat before arriving at the McClintocks' residence. Once there, he re-examined their automobile insurance policy, discussed with them the law applicable to passengers, and explained the consequences of the fact that the driver who struck Carol's car was an uninsured motorist. Appellant discovered that the McClintocks' insurance policy would provide benefits of up to $12,500 each for Carol and Wanda Lou under an uninsured-motorist clause. Mrs. McClintock acknowledged that both Carol and Wanda Lou could sue for their injuries, but recounted to appellant that "Wanda swore up and down she would not do it." The McClintocks also told appellant that Carol had phoned to say that appellant could "go ahead" with her representation. Two days later appellant returned to Carol's hospital room to have her sign a contract, which provided that he would receive one-third of her recovery.
+On his way appellant detoured to the scene of the accident, where he took a set of photographs. He also picked up a tape recorder, which he concealed under his raincoat before arriving at the McClintocks' residence. Once there, he re-examined their automobile insurance policy, discussed with them the law applicable to passengers, and explained the consequences of the fact that the driver who struck Carol's car was an uninsured motorist. Appellant discovered that the McClintocks' insurance policy would provide benefits of up to \$12,500 each for Carol and Wanda Lou under an uninsured-motorist clause. Mrs. McClintock acknowledged that both Carol and Wanda Lou could sue for their injuries, but recounted to appellant that "Wanda swore up and down she would not do it." The McClintocks also told appellant that Carol had phoned to say that appellant could "go ahead" with her representation. Two days later appellant returned to Carol's hospital room to have her sign a contract, which provided that he would receive one-third of her recovery.
 
-In the meantime, appellant obtained Wanda Lou's name and address from the McClintocks after telling them he wanted to ask her some questions about the accident. He then visited Wanda Lou at her home, without having been invited. He again concealed his tape recorder and recorded most of the conversation with Wanda Lou. After a brief, unproductive inquiry about the facts of the accident, appellant told Wanda Lou that he was representing Carol and that he had a "little tip" for Wanda Lou: the McClintocks' insurance policy contained an uninsured-motorist clause which might provide her with a recovery of up to $12,500. The young woman, who was 18 years of age and not a high school graduate at the time, replied to appellant's query about whether she was going to file a claim by stating that she really did not understand what was going on. Appellant offered to represent her, also, for a contingent fee of one-third of any recovery, and Wanda Lou stated "O. K."
+In the meantime, appellant obtained Wanda Lou's name and address from the McClintocks after telling them he wanted to ask her some questions about the accident. He then visited Wanda Lou at her home, without having been invited. He again concealed his tape recorder and recorded most of the conversation with Wanda Lou. After a brief, unproductive inquiry about the facts of the accident, appellant told Wanda Lou that he was representing Carol and that he had a "little tip" for Wanda Lou: the McClintocks' insurance policy contained an uninsured-motorist clause which might provide her with a recovery of up to \$12,500. The young woman, who was 18 years of age and not a high school graduate at the time, replied to appellant's query about whether she was going to file a claim by stating that she really did not understand what was going on. Appellant offered to represent her, also, for a contingent fee of one-third of any recovery, and Wanda Lou stated "O. K."
 
 Wanda's mother attempted to repudiate her daughter's oral assent the following day, when appellant called on the telephone to speak to Wanda. Mrs. Holbert informed appellant that she and her daughter did not want to sue anyone or to have appellant represent them, and that if they decided to sue they would consult their own lawyer. Appellant insisted that Wanda had entered into a binding agreement. A month later Wanda confirmed in writing that she wanted neither to sue nor to be represented by appellant. She requested that appellant notify the insurance company that he was not her lawyer, as the company would not release a check to her until he did so. Carol also eventually discharged appellant. Although another lawyer represented her in concluding a settlement with the insurance company, she paid appellant one-third of her recovery in settlement of his lawsuit against her for breach of contract.
 

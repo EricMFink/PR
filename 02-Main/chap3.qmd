@@ -17,11 +17,11 @@ A relationship of client and lawyer arises when:
 
 :::
 
-#### @MRPC6.2
+#### Model Rules of Professional Conduct 
 
 ::: {.legalcode}
 
-##### Accepting Appointments
+##### Rule 6.2 -- Accepting Appointments
 
 A lawyer shall not seek to avoid appointment by a tribunal to represent a person except for good cause, such as:
 
@@ -29,11 +29,22 @@ A lawyer shall not seek to avoid appointment by a tribunal to represent a person
 - (b\) representing the client is likely to result in an unreasonable financial burden on the lawyer; or
 - (c\) the client or the cause is so repugnant to the lawyer as to be likely to impair the client-lawyer relationship or the lawyer's ability to represent the client.
 
+##### Rule 1.18 -- Duties to Prospective Client
+
+- (a\) A person who consults with a lawyer about the possibility of forming a client-lawyer relationship with respect to a matter is a prospective client.
+- (b\) Even when no client-lawyer relationship ensues, a lawyer who has learned information from a prospective client shall not use or reveal that information, except as Rule 1.9 would permit with respect to information of a former client.
+- (c\) A lawyer subject to paragraph (b) shall not represent a client with interests materially adverse to those of a prospective client in the same or a substantially related matter if the lawyer received information from the prospective client that could be significantly harmful to that person in the matter, except as provided in paragraph (d). If a lawyer is disqualified from representation under this paragraph, no lawyer in a firm with which that lawyer is associated may knowingly undertake or continue representation in such a matter, except as provided in paragraph (d).
+- (d\) When the lawyer has received disqualifying information as defined in paragraph (c), representation is permissible if:
+	- (1\) both the affected client and the prospective client have given informed consent, confirmed in writing, or:
+	- (2\) the lawyer who received the information took reasonable measures to avoid exposure to more disqualifying information than was reasonably necessary to determine whether to represent the prospective client; and
+		- (i\) the disqualified lawyer is timely screened from any participation in the matter and is apportioned no part of the fee therefrom; and
+		- (ii\) written notice is promptly given to the prospective client.
+
 :::
 
 #### @TogstadVeselyOttoMiller_Minn1980
 
-This is an appeal by the defendants from a judgment of the Hennepin County District Court involving an action for legal malpractice. The jury found that the defendant attorney Jerre Miller was negligent and that, as a direct result of such negligence, plaintiff John Togstad sustained damages in the amount of $610,500 and his wife, plaintiff Joan Togstad, in the amount of $39,000. Defendants (Miller and his law firm) appeal to this court from the denial of their motion for judgment notwithstanding the verdict or, alternatively, for a new trial. We affirm.
+This is an appeal by the defendants from a judgment of the Hennepin County District Court involving an action for legal malpractice. The jury found that the defendant attorney Jerre Miller was negligent and that, as a direct result of such negligence, plaintiff John Togstad sustained damages in the amount of \$610,500 and his wife, plaintiff Joan Togstad, in the amount of \$39,000. Defendants (Miller and his law firm) appeal to this court from the denial of their motion for judgment notwithstanding the verdict or, alternatively, for a new trial. We affirm.
 
 In August 1971, John Togstad began to experience severe headaches and on August 16, 1971, was admitted to Methodist Hospital where tests disclosed that the headaches were caused by a large aneurysm on the left internal carotid artery. The attending physician, Dr. Paul Blake, a neurological surgeon, treated the problem by applying a Selverstone clamp to the left common carotid artery. The clamp was surgically implanted on August 27, 1971, in Togstad's neck to allow the gradual closure of the artery over a period of days.
 
@@ -99,7 +110,7 @@ Hvass stated that he had no recollection of Miller's calling him in October 1972
 
 Hvass stated, however, that he would never render a "categorical" opinion. In addition, Hvass acknowledged that if he were consulted for a "legal opinion" regarding medical malpractice and 14 months had expired since the incident in question, "ordinary care and diligence" would require him to inform the party of the two-year statute of limitations applicable to that type of action.
 
-This case was submitted to the jury by way of a special verdict form. The jury found that Dr. Blake and the hospital were negligent and that Dr. Blake's negligence (but not the hospital's) was a direct cause of the injuries sustained by John Togstad; that there was an attorney-client contractual relationship between Mrs. Togstad and Miller; that Miller was negligent in rendering advice regarding the possible claims of Mr. and Mrs. Togstad; that, but for Miller's negligence, plaintiffs would have been successful in the prosecution of a legal action against Dr. Blake; and that neither Mr. nor Mrs. Togstad was negligent in pursuing their claims against Dr. Blake. The jury awarded damages to Mr. Togstad of $610,500 and to Mrs. Togstad of $39,000.
+This case was submitted to the jury by way of a special verdict form. The jury found that Dr. Blake and the hospital were negligent and that Dr. Blake's negligence (but not the hospital's) was a direct cause of the injuries sustained by John Togstad; that there was an attorney-client contractual relationship between Mrs. Togstad and Miller; that Miller was negligent in rendering advice regarding the possible claims of Mr. and Mrs. Togstad; that, but for Miller's negligence, plaintiffs would have been successful in the prosecution of a legal action against Dr. Blake; and that neither Mr. nor Mrs. Togstad was negligent in pursuing their claims against Dr. Blake. The jury awarded damages to Mr. Togstad of \$610,500 and to Mrs. Togstad of \$39,000.
 
 In a legal malpractice action of the type involved here, four elements must be shown: (1\) that an attorney-client relationship existed; (2\) that defendant acted negligently or in breach of contract; (3\) that such acts were the proximate cause of the plaintiffs' damages; (4\) that but for defendant's conduct the plaintiffs would have been successful in the prosecution of their medical malpractice claim.
 
@@ -113,7 +124,7 @@ Based on the foregoing, we hold that the jury's findings are adequately supporte
 
 #### @FerrantiInternPLCClark_EDPa1991
 
-Plaintiff sues for breach of fiduciary duty and professional malpractice and to rescind a $2.75 million employee "settlement and release" agreement, which the complaint alleges was obtained by extortion. Defendant William A. Clark's motion to disqualify the firm of Hogan & Hartson from representing plaintiff Ferranti International plc in this action will be denied for the following reasons:
+Plaintiff sues for breach of fiduciary duty and professional malpractice and to rescind a \$2.75 million employee "settlement and release" agreement, which the complaint alleges was obtained by extortion. Defendant William A. Clark's motion to disqualify the firm of Hogan & Hartson from representing plaintiff Ferranti International plc in this action will be denied for the following reasons:
 
 1\. An attorney-client relationship, express or implied, did not exist between Hogan & Hartson and William A. Clark when he was Ferranti International, Inc.'s vice president and general counsel.
 
@@ -132,25 +143,6 @@ Plaintiff sues for breach of fiduciary duty and professional malpractice and to 
 This is not a case in which a layperson might have perceived or reasonably misperceived that his corporate employer's attorney was also representing him. As a general counsel, defendant must have keenly appreciated the distinction between the corporation and its employees as well as the employees' need for separate counsel. Defendant's assertion that the personal comments and observations exchanged between him and Hogan & Hartson attorneys were in contemplation of, or resulted in, a personal attorney-client relationship is factitious and unconvincing.
 
 8\. Although it became a Hogan & Hartson client through defendant, plaintiff has a cognizable interest in being permitted to continue to be represented by this firm. Moreover, disqualification—which is an increasingly frequent issue in the courts— may be the subject of tactical abuse. A party's choice of counsel should be set aside only where the circumstances legally require doing so.
-
-## Prospective Clients
-
-#### @MRPC1.18
-
-::: {.legalcode}
-
-##### Duties to Prospective Client
-
-- (a\) A person who consults with a lawyer about the possibility of forming a client-lawyer relationship with respect to a matter is a prospective client.
-- (b\) Even when no client-lawyer relationship ensues, a lawyer who has learned information from a prospective client shall not use or reveal that information, except as Rule 1.9 would permit with respect to information of a former client.
-- (c\) A lawyer subject to paragraph (b) shall not represent a client with interests materially adverse to those of a prospective client in the same or a substantially related matter if the lawyer received information from the prospective client that could be significantly harmful to that person in the matter, except as provided in paragraph (d). If a lawyer is disqualified from representation under this paragraph, no lawyer in a firm with which that lawyer is associated may knowingly undertake or continue representation in such a matter, except as provided in paragraph (d).
-- (d\) When the lawyer has received disqualifying information as defined in paragraph (c), representation is permissible if:
-	- (1\) both the affected client and the prospective client have given informed consent, confirmed in writing, or:
-	- (2\) the lawyer who received the information took reasonable measures to avoid exposure to more disqualifying information than was reasonably necessary to determine whether to represent the prospective client; and
-		- (i\) the disqualified lawyer is timely screened from any participation in the matter and is apportioned no part of the fee therefrom; and
-		- (ii\) written notice is promptly given to the prospective client.
-
-:::
 
 #### @ClarkCapitalMgmtAnnuity_EDPa2001
 
@@ -212,11 +204,11 @@ I am not persuaded by Annuity's argument that disqualification of Dilworth is ne
 
 ## Declining and Terminating Representation
 
-#### @MRPC1.16
+#### Model Rules of Professional Conduct
 
 ::: {.legalcode}
 
-##### Declining or Terminating Representation
+##### Rule 1.16 -- Declining or Terminating Representation
 
 - (a\) Except as stated in paragraph (c), a lawyer shall not represent a client or, where representation has commenced, shall withdraw from the representation of a client if:
 	- (1\) the representation will result in violation of the rules of professional conduct or other law;
@@ -285,7 +277,7 @@ I am not persuaded by Annuity's argument that disqualification of Dilworth is ne
 
 Garrett R. Lacara appeals from two orders of Judge Spatt denying Lacara's motions to withdraw as counsel for plaintiff-appellee Joseph M. Whiting. Although the record before Judge Spatt justified denial of the motions, amplification of Whiting's position at oral argument persuades us to reverse.
 
-In July 1996, appellee, a former police officer, filed a civil rights action against Nassau County, the Incorporated Village of Old Brooksville, the Old Brooksville Police Department, other villages, and various individual defendants. The action was based on the termination of his employment as an officer. He sought $9,999,000 in damages.
+In July 1996, appellee, a former police officer, filed a civil rights action against Nassau County, the Incorporated Village of Old Brooksville, the Old Brooksville Police Department, other villages, and various individual defendants. The action was based on the termination of his employment as an officer. He sought \$9,999,000 in damages.
 
 Appellee's initial counsel was Jeffrey T. Schwartz. In October 1996, Robert P. Biancavilla replaced Schwartz. A jury was selected in October 1997 but was discharged when Biancavilla withdrew from the case with appellee's consent.
 
@@ -333,11 +325,11 @@ We therefore reverse and order the district court to grant appellant's motion to
 
 ## Scope of Representation & Allocation of Authority
 
-#### @MRPC1.2
+#### Model Rules of Professional Conduct
 
 ::: {.legalcode}
 
-##### Scope of Representation & Allocation of Authority Between Client & Lawyer
+##### Rule 1.2 -- Scope of Representation & Allocation of Authority Between Client & Lawyer
 
 - (a\) Subject to paragraphs (c) and (d), a lawyer shall abide by a client's decisions concerning the objectives of representation and, as required by Rule 1.4, shall consult with the client as to the means by which they are to be pursued. A lawyer may take such action on behalf of the client as is impliedly authorized to carry out the representation. A lawyer shall abide by a client's decision whether to settle a matter. In a criminal case, the lawyer shall abide by the client's decision, after consultation with the lawyer, as to a plea to be entered, whether to waive jury trial and whether the client will testify.
 - (b\) A lawyer's representation of a client, including representation by appointment, does not constitute an endorsement of the client's political, economic, social or moral views or activities.
@@ -346,11 +338,7 @@ We therefore reverse and order the district court to grant appellant's motion to
 
 :::
 
-#### @MRPC1.8
-
-::: {.legalcode}
-
-##### Current Clients: Specific Rules
+##### Rule 1.8 -- Current Clients: Specific Rules
 
 - (g\) A lawyer who represents two or more clients shall not participate in making an aggregate settlement of the claims of or against the clients, or in a criminal case an aggregated agreement as to guilty or nolo contendere pleas, unless each client gives informed consent, in a writing signed by the client. The lawyer's disclosure shall include the existence and nature of all the claims or pleas involved and of the participation of each person in the settlement.
 
@@ -412,7 +400,7 @@ In November 1998, Brenda Makins, represented by John Harrison, Esquire, brought 
 
 In the summer of 2000, at a pre-trial conference, the district judge referred Makins' case to a magistrate judge "for settlement purposes only" and ordered the District to "have present at all settlement meetings an individual with full settlement authority." A similar admonition was absent as to Ms. Makins. A few days later, the magistrate ordered the "lead attorney(s) for the parties" to appear before him for a settlement conference; the order required that the "parties shall either attend the settlement conference or be available by telephone for the duration of the settlement conference."
 
-When the conference took place, Makins was not present. After two and a half hours of negotiations, Harrison and the attorneys for the District reached an agreement. Makins would receive $99,000 and have her personnel records amended from "discharged" to "resigned" (to preserve her retirement benefits if she were able to obtain other creditable employment). In return, Makins would dismiss her claims against the District. Mr. Harrison left the hearing room with cell phone in hand, apparently to call Ms. Makins. When he returned, the attorneys "shook hands" on the deal and later reduced it to writing. A few days later, when Harrison presented Makins with a copy for her signature, she refused to sign it. The District then filed a Motion to Enforce Settlement. Makins retained another attorney, and the court held an evidentiary hearing in which Harrison, Makins, and the lead attorney for the District testified.
+When the conference took place, Makins was not present. After two and a half hours of negotiations, Harrison and the attorneys for the District reached an agreement. Makins would receive \$99,000 and have her personnel records amended from "discharged" to "resigned" (to preserve her retirement benefits if she were able to obtain other creditable employment). In return, Makins would dismiss her claims against the District. Mr. Harrison left the hearing room with cell phone in hand, apparently to call Ms. Makins. When he returned, the attorneys "shook hands" on the deal and later reduced it to writing. A few days later, when Harrison presented Makins with a copy for her signature, she refused to sign it. The District then filed a Motion to Enforce Settlement. Makins retained another attorney, and the court held an evidentiary hearing in which Harrison, Makins, and the lead attorney for the District testified.
 
 The testimony of Makins and Harrison was at odds respecting whether Harrison had been given authority to settle absent a provision for her reinstatement to her job. The District Court, observing this "sharp conflict" in testimony, declined to resolve it. Instead, the court assumed arguendo that Harrison did not have actual authority to settle the case short of reinstatement. The court granted the District's motion to enforce the settlement on the alternative ground that Harrison had apparent authority to bind Makins to the agreement. The court saw "no justification for the District of Columbia not to reasonably believe that Mr. Harrison had the full confidence and authority of his client."
 
@@ -438,11 +426,11 @@ Since Ms. Makins, as principal, did not make any manifestation of authority to t
 
 ## Client with Decision-Making Limitations
 
-#### @MRPC1.14
+#### Model Rules of Professional Conduct
 
 ::: {.legalcode}
 
-##### Client with Decision-Making Limitations
+##### Rule 1.14 -- Client with Decision-Making Limitations
 
 - (a\)  A lawyer shall, as far as reasonably possible, maintain an ordinary client-lawyer relationship with a client with decision-making limitations, including when the client’s decision-making limitations impact the client’s ability to provide direction to the lawyer or make reasoned, informed choices. A person has decision-making limitations if the person has substantial difficulty receiving and understanding information, evaluating information, or making or communicating decisions even with appropriate supports or accommodations.
 - (b\) When the lawyer reasonably believes that the client: (1\) has decision-making limitations, (2\) is at risk of substantial physical, financial or other harm unless action is taken, and (3\) cannot adequately act in the client’s own interest to address the risk, the lawyer may take reasonably necessary protective action to address the risk.
@@ -469,7 +457,7 @@ Since Ms. Makins, as principal, did not make any manifestation of authority to t
 
 Respondent, Timothy Paul Jarvis, was admitted to the practice of law in Ohio in 2003. In an August 2021 complaint, disciplinary counsel charged Jarvis with seven ethical violations arising from the representation of a married couple and their trustee in an estate-planning matter. Discipinary counsel alleged that Jarvis had neglected his clients' legal matter, failed to communicate with his clients about their wishes, and failed to assess one client's testamentary capacity, falsely notarized various estate-planning documents, instructed his employee to falsely indicate that she had witnessed documents, and failed to promptly deliver their file upon the termination of his representation.
 
-The parties entered into stipulations of fact, misconduct, and aggravating and mitigating factors. After a hearing conducted by a three-member panel of the Board of Professional Conduct, the board issued a report finding that Jarvis committed six stipulated rule violations and unanimously dismissing a seventh alleged violation. The board adopted the parties' stipulated aggravating and mitigating factors and recommended that Jarvis be suspended from the practice of law for one year, stayed in its entirety on the conditions that he commit no further misconduct and make restitution of $7,500 within 30 days of the date of our final order. No objections have been filed.
+The parties entered into stipulations of fact, misconduct, and aggravating and mitigating factors. After a hearing conducted by a three-member panel of the Board of Professional Conduct, the board issued a report finding that Jarvis committed six stipulated rule violations and unanimously dismissing a seventh alleged violation. The board adopted the parties' stipulated aggravating and mitigating factors and recommended that Jarvis be suspended from the practice of law for one year, stayed in its entirety on the conditions that he commit no further misconduct and make restitution of \$7,500 within 30 days of the date of our final order. No objections have been filed.
 
 We adopt the board's findings of misconduct, but for the reasons that follow, we find that a greater sanction is warranted. We therefore suspend Jarvis from the practice of law for 18 months with the entire suspension stayed on the conditions recommended by the board.
 
@@ -479,11 +467,11 @@ Frank A. and Lenor W. Balcar (jointly, "the Balcars"), were married in 1941. The
 
 Frank suffered a massive and debilitating stroke in February 2010 and subsequently lived in a nursing home. In May of that year, Lenor and Karen contacted Jarvis's law firm, Jarvis Law Office, about preserving and protecting the Balcars' assets from being depleted by the costs of Frank's care. They met with Melissa Evick, a nonattorney who, at that time, served as Jarvis's office manager. Lenor and Karen gave Evick basic information regarding the Balcars and their assets. They also informed her that Frank was 94 years old and in poor health. Evick conveyed the information to Jarvis by email later that day.
 
-On May 28, Jarvis met with Lenor and Karen. He told them that he could create an irrevocable trust that would protect the Balcars' assets and that he would then apply for Medicaid on Frank's behalf. Jarvis told Lenor and Karen that he could save them between $95,000 and $110,000 if they retained him. Jarvis was aware that even if Frank qualified for Medicaid, his family would still have to pay for at least 16 months of his care due to a Medicaid "lookback" or "penalty" period. But Jarvis has stipulated that if Karen were called to testify, she would state that he did not advise them about the lookback period other than to tell them that it was "very short."
+On May 28, Jarvis met with Lenor and Karen. He told them that he could create an irrevocable trust that would protect the Balcars' assets and that he would then apply for Medicaid on Frank's behalf. Jarvis told Lenor and Karen that he could save them between \$95,000 and \$110,000 if they retained him. Jarvis was aware that even if Frank qualified for Medicaid, his family would still have to pay for at least 16 months of his care due to a Medicaid "lookback" or "penalty" period. But Jarvis has stipulated that if Karen were called to testify, she would state that he did not advise them about the lookback period other than to tell them that it was "very short."
 
 After advising Jarvis about Frank's health conditions—including a diagnosis of Alzheimer's disease—Lenor and Karen specifically asked if Frank was competent to sign legal documents. Jarvis has stipulated that Karen would testify that he advised her and Lenor that (1\) Frank's capacity would not be an issue and (2\) Frank only needed to be able to place an "X" on the appropriate lines of the documents. Although Karen emailed additional questions to Jarvis, he refused to respond, claiming, "I've learned the hard way that if I 'give away' all of my secrets prior to being retained, I run the risk of someone thinking that they can do this themselves."
 
-In June, Karen paid Jarvis $7,500 to represent them. Although Jarvis did not enter into a written fee agreement detailing the scope of the representation, based on their communications, Karen believed that he would draft updated estate documents for the Balcars, transfer the Balcars' nonmonetary assets into an irrevocable trust, and if necessary, probate the Balcars' estates. Karen and Barbara provided Evick with documentation regarding the Balcars' assets to facilitate the transfer of those assets into the irrevocable trust.
+In June, Karen paid Jarvis \$7,500 to represent them. Although Jarvis did not enter into a written fee agreement detailing the scope of the representation, based on their communications, Karen believed that he would draft updated estate documents for the Balcars, transfer the Balcars' nonmonetary assets into an irrevocable trust, and if necessary, probate the Balcars' estates. Karen and Barbara provided Evick with documentation regarding the Balcars' assets to facilitate the transfer of those assets into the irrevocable trust.
 
 [Drafting of Estate-Planning Documents]{.casesubsection}
 
@@ -537,15 +525,13 @@ We adopt these findings of misconduct.
 
 [Conclusion]{.casesection}
 
-Accordingly, Timothy Paul Jarvis is suspended from the practice of law in Ohio for 18 months with the suspension stayed in its entirety on the conditions that he commit no further misconduct and make restitution of $7,500 to Karen Balcar McGraw, as trustee of the Lenor W. Balcar Revocable Living Trust, within 30 days of the date of our final order. If Jarvis fails to comply with any condition of the stay, the stay will be lifted and he will serve the full 18-month suspension. 
+Accordingly, Timothy Paul Jarvis is suspended from the practice of law in Ohio for 18 months with the suspension stayed in its entirety on the conditions that he commit no further misconduct and make restitution of \$7,500 to Karen Balcar McGraw, as trustee of the Lenor W. Balcar Revocable Living Trust, within 30 days of the date of our final order. If Jarvis fails to comply with any condition of the stay, the stay will be lifted and he will serve the full 18-month suspension. 
 
 ## Organizational Clients 
 
-#### @MRPC1.13
+#### Model Rules of Professional Conduct
 
-::: {.legalcode}
-
-##### Organization as Client
+##### Rule 1.13 -- Organization as Client
 
 - (a\) A lawyer employed or retained by an organization represents the organization acting through its duly authorized constituents.
 - (b\) If a lawyer for an organization knows that an officer, employee or other person associated with the organization is engaged in action, intends to act or refuses to act in a matter related to the representation that is a violation of a legal obligation to the organization, or a violation of law that reasonably might be imputed to the organization, and that is likely to result in substantial injury to the organization, then the lawyer shall proceed as is reasonably necessary in the best interest of the organization. Unless the lawyer reasonably believes that it is not necessary in the best interest of the organization to do so, the lawyer shall refer the matter to higher authority in the organization, including, if warranted by the circumstances to the highest authority that can act on behalf of the organization as determined by applicable law.
@@ -587,7 +573,7 @@ The respondent, Daniel J. Silva, appeared before this court on December 2, 1993,
 
 The board found that Silva violated several provisions of the Rules of Professional Conduct when he failed to report a diversion of mortgage funds by his long-time friend Edward Medeiros. Silva served as counsel to Medeiros's mortgage company, Medcon Mortgage Corporation (MEDCON), and Suncoast Savings and Loan of Hollywood, Florida. In his capacity as closing attorney for Suncoast, Silva received wire transfers of mortgage proceeds in his client account. Upon receipt of the wire transfers from Suncoast, Silva simply turned the proceeds over to Medeiros and/or MEDCON for disbursement. In the fall of 1990 Silva learned that Medeiros had diverted funds from a closing funded by Suncoast in which Silva acted as closing attorney. The diverted funds were designated to pay off a preexisting mortgage on the property. Silva advised Medeiros that his conduct was criminal. Silva did not notify Suncoast of the diversion of funds, nor did he inform the title insurance company, which had issued a title policy that did not except the prior mortgage from coverage, that the prior mortgage had not been discharged. Silva testified that Medeiros forbade him to do so on the basis of Medeiros's assertion of the attorney/client privilege on behalf of both MEDCON and himself personally.
 
-In December 1990 Silva received a wire transfer from Suncoast for another closing with MEDCON. Notwithstanding his knowledge of the previous diversion of funds by Medeiros, Silva did not disburse the funds in accordance with the terms listed on the closing sheet; instead, he turned the proceeds over to MEDCON. Silva kept $100 of the proceeds as his fee for serving as a conduit of the funds. Medeiros converted those funds to his own use, and was subsequently convicted and imprisoned. The respondent was never charged with committing a criminal act.
+In December 1990 Silva received a wire transfer from Suncoast for another closing with MEDCON. Notwithstanding his knowledge of the previous diversion of funds by Medeiros, Silva did not disburse the funds in accordance with the terms listed on the closing sheet; instead, he turned the proceeds over to MEDCON. Silva kept \$100 of the proceeds as his fee for serving as a conduit of the funds. Medeiros converted those funds to his own use, and was subsequently convicted and imprisoned. The respondent was never charged with committing a criminal act.
 
 The respondent's position before the board and this court is that he was prohibited from disclosing Medeiros's defalcation by the provisions of Rule 1.6 of the Rules of Professional Conduct. Respondent also took the position that he had no obligation to protect Suncoast's interests. We do not agree with either of his contentions.
 
@@ -703,11 +689,11 @@ In the end, Warley's showings amount merely to a claim of her subjective belief 
 
 ## Attorney Fees 
 
-#### @MRPC1.5
+#### Model Rules of Professional Conduct 
 
 ::: {.legalcode}
 
-##### Fees
+##### Rule 1.5 -- Fees
 
 - (a\) A lawyer shall not make an agreement for, charge, or collect an unreasonable fee or an unreasonable amount for expenses. The factors to be considered in determining the reasonableness of a fee include the following:
 	- (1\) the time and labor required, the novelty and difficulty of the questions involved, and the skill requisite to perform the legal service properly;
@@ -728,13 +714,7 @@ In the end, Warley's showings amount merely to a claim of her subjective belief 
 	- (2\) the client agrees to the arrangement, including the share each lawyer will receive, and the agreement is confirmed in writing; and
 	- (3\) the total fee is reasonable.
 
-:::
-
-#### @MRPC1.8
-
-::: {.legalcode}
-
-##### Current Clients: Specific Rules
+##### Rule 1.8 -- Current Clients: Specific Rules
 
 - (f\) A lawyer shall not accept compensation for representing a client from one other than the client unless:
 	- (1\) the client gives informed consent;
@@ -801,7 +781,7 @@ The Court is also mindful of the arguments of some of the amici curiae concerned
 
 On March 4, 1989, the Acton police department arrested Timothy, then twenty-one years old, and charged him with OUI, operating a motor vehicle after suspension, speeding, and operating an unregistered motor vehicle. At the time of the arrest, the police discovered a partially full quart of vodka in the vehicle. After failing a field sobriety test, Timothy was taken to the Acton police station where he submitted to two breathalyzer tests which registered .10 and .12 respectively.
 
-Subsequent to Timothy's arraignment, he and his father, Laurence Clark consulted with three lawyers, who offered to represent Timothy for fees between $3,000 and $10,000. Shortly after the arrest, Clark went to Fordham's home to service an alarm system which he had installed several years before. While there, Clark discussed Timothy's arrest with Fordham's wife who invited Clark to discuss the case with Fordham. Fordham then met with Clark and Timothy.
+Subsequent to Timothy's arraignment, he and his father, Laurence Clark consulted with three lawyers, who offered to represent Timothy for fees between \$3,000 and \$10,000. Shortly after the arrest, Clark went to Fordham's home to service an alarm system which he had installed several years before. While there, Clark discussed Timothy's arrest with Fordham's wife who invited Clark to discuss the case with Fordham. Fordham then met with Clark and Timothy.
 
 At this meeting, Timothy described the incidents leading to his arrest and the charges against him. Fordham, whom the hearing committee described as a "very experienced senior trial attorney with impressive credentials," told Clark and Timothy that he had never represented a client in a driving while under the influence case or in any criminal matter, and he had never tried a case in the District Court. The hearing committee found that "Fordham explained that although he lacked experience in this area, he was a knowledgeable and hard-working attorney and that he believed he could competently represent Timothy. Fordham described himself as ‘efficient and economic in the use of his time.'"
 
@@ -811,19 +791,19 @@ According to the hearing committee's findings, Fordham filed four pretrial motio
 
 Fordham sent the following bills to Clark:
 
-1. April 19, 1989, $3,250 for services rendered in March, 1989.
+1. April 19, 1989, \$3,250 for services rendered in March, 1989.
 
-2. May 15, 1989, $9,850 for services rendered in April, 1989.
+2. May 15, 1989, \$9,850 for services rendered in April, 1989.
 
-3. June 19, 1989, $3,950 for services rendered in May, 1989.
+3. June 19, 1989, \$3,950 for services rendered in May, 1989.
 
-4. July 13, 1989, $13,300 for services rendered in June, 1989.
+4. July 13, 1989, \$13,300 for services rendered in June, 1989.
 
-5. October 13, 1989, $35,022.25 revised bill for services rendered from March 19 to June 30, 1989.
+5. October 13, 1989, \$35,022.25 revised bill for services rendered from March 19 to June 30, 1989.
 
-6. November 7, 1989, $15,000 for services rendered from July 1, 1989 to October 19, 1989.
+6. November 7, 1989, \$15,000 for services rendered from July 1, 1989 to October 19, 1989.
 
-The bills totaled $50,022.25, reflecting 227 hours of billed time, 153 hours of which were expended by Fordham and seventy-four of which were his associates' time. Clark did not pay the first two bills when they became due and expressed to Fordham his concern about their amount. Clark paid Fordham $10,000 on June 20, 1989. At that time, Fordham assured Clark that most of the work had been completed "other than taking the case to trial." Clark did not make any subsequent payments. Fordham requested Clark to sign a promissory note evidencing his debt to Fordham and, on October 7, 1989, Clark did so. In the October 13, 1989, bill, Fordham added a charge of $5,000 as a "retroactive increase" in fees. On November 7, 1989, after the case was completed, Fordham sent Clark a bill for $15,000.
+The bills totaled \$50,022.25, reflecting 227 hours of billed time, 153 hours of which were expended by Fordham and seventy-four of which were his associates' time. Clark did not pay the first two bills when they became due and expressed to Fordham his concern about their amount. Clark paid Fordham \$10,000 on June 20, 1989. At that time, Fordham assured Clark that most of the work had been completed "other than taking the case to trial." Clark did not make any subsequent payments. Fordham requested Clark to sign a promissory note evidencing his debt to Fordham and, on October 7, 1989, Clark did so. In the October 13, 1989, bill, Fordham added a charge of \$5,000 as a "retroactive increase" in fees. On November 7, 1989, after the case was completed, Fordham sent Clark a bill for \$15,000.
 
 Bar counsel and Fordham have stipulated that all the work billed by Fordham was actually done and that Fordham and his associates spent the time they claim to have spent. They also have stipulated that Fordham acted conscientiously, diligently, and in good faith in representing Timothy and in his billing in this case.
 
@@ -845,7 +825,7 @@ The board dismissed bar counsel's petition for discipline against Fordham becaus
 
 8. Whether the fee is fixed or contingent.
 
-In concluding that Fordham did not charge a clearly excessive fee, the board adopted, with limited exception, the hearing committee's report. The board's and the hearing committee's reasons for dismissing the petition are as follows: Bar counsel and Fordham stipulated that Fordham acted conscientiously, diligently, and in good faith in his representation of the client and his billing on the case. Although Fordham lacked experience in criminal law, he is a "seasoned and well-respected civil lawyer." The more than 200 hours spent preparing the OUI case were necessary, "in part to educate Fordham in the relevant substantive law and court procedures," because he had never tried an OUI case or appeared in the District Court. The board noted that "although none of the experts who testified at the disciplinary hearing had ever heard of a fee in excess of $15,000 for a first-offense OUI case, the hearing committee found that Clark had entered into the transaction with open eyes after interviewing other lawyers with more experience in such matters." The board also thought significant that Clark "later acquiesced, despite mild expressions of concern, in Fordham's billing practices." Moreover, the Clarks specifically instructed Fordham that they would not consider a guilty plea by Timothy. Rather they were interested only in pursuing the case to trial. Finally, Timothy obtained the result he sought: an acquittal.
+In concluding that Fordham did not charge a clearly excessive fee, the board adopted, with limited exception, the hearing committee's report. The board's and the hearing committee's reasons for dismissing the petition are as follows: Bar counsel and Fordham stipulated that Fordham acted conscientiously, diligently, and in good faith in his representation of the client and his billing on the case. Although Fordham lacked experience in criminal law, he is a "seasoned and well-respected civil lawyer." The more than 200 hours spent preparing the OUI case were necessary, "in part to educate Fordham in the relevant substantive law and court procedures," because he had never tried an OUI case or appeared in the District Court. The board noted that "although none of the experts who testified at the disciplinary hearing had ever heard of a fee in excess of \$15,000 for a first-offense OUI case, the hearing committee found that Clark had entered into the transaction with open eyes after interviewing other lawyers with more experience in such matters." The board also thought significant that Clark "later acquiesced, despite mild expressions of concern, in Fordham's billing practices." Moreover, the Clarks specifically instructed Fordham that they would not consider a guilty plea by Timothy. Rather they were interested only in pursuing the case to trial. Finally, Timothy obtained the result he sought: an acquittal.
 
 Bar counsel contends that the board's decision to dismiss the petition for discipline is erroneous on three grounds: First, "the hearing committee and the Board committed error by analyzing only three of the factors set out in DR 2-106 (B) (1\)-(8), and their findings with regard to these criteria do not support their conclusion that the fee in this case was not clearly excessive"; second, the board "misinterpreted DR 2-106's prohibition against charging a clearly excessive fee by reading into the rule a ‘safe harbor' provision"; and third, "by allowing client acquiescence as a complete defense."
 
@@ -859,17 +839,17 @@ A second expert, testifying on behalf of bar counsel, expressed his belief that 
 
 An expert called by Fordham testified that the facts of Timothy's case presented a challenge and that without the suppression of the breathalyzer test results it would have been "an almost impossible situation in terms of prevailing on the trier of fact." He further stated that, based on the particulars in Timothy's case, he believed that Fordham's hours were not excessive and, in fact, he, the witness, would have spent a comparable amount of time. The witness later admitted, however, that within the past five years, the OUI cases which he had brought to trial required no more than a total of forty billed hours, which encompassed all preparation and court appearances. He explained that, although he had not charged more than forty hours to prepare an OUI case, in comparison to Fordham's more than 200 expended hours, Fordham nonetheless had spent a reasonable number of hours on the case in light of the continuance and the subsequent need to reprepare, as well as the "very ingenious" breathalyzer suppression argument, and the Clarks' insistence on trial. In addition, the witness testified that, although the field sobriety test, breathalyzer tests, and the presence of a half-empty liquor bottle in the car placed Fordham at a serious disadvantage in being able to prevail on the OUI charge, those circumstances were not unusual and in fact agreed that they were "normal circumstances."
 
-The fourth expert witness, called by Fordham, testified that she believed the case was "extremely tough" and that the breathalyzer suppression theory was novel. She testified that, although the time and labor consumed on the case was more than usual in defending an OUI charge, the hours were not excessive. They were not excessive, she explained, because the case was particularly difficult due to the "stakes and the evidence." She conceded, however, that legal issues in defending OUI charges are "pretty standard" and that the issues presented in this case were not unusual. Furthermore, the witness testified that challenging the breathalyzer test due to the .02 discrepancy was not unusual, but the theory on which Fordham proceeded was novel. Finally, she stated that she thought she may have known of one person who might have spent close to one hundred hours on a difficult OUI case; she was not sure; but she had never heard of a fee in excess of $10,000 for a bench trial.
+The fourth expert witness, called by Fordham, testified that she believed the case was "extremely tough" and that the breathalyzer suppression theory was novel. She testified that, although the time and labor consumed on the case was more than usual in defending an OUI charge, the hours were not excessive. They were not excessive, she explained, because the case was particularly difficult due to the "stakes and the evidence." She conceded, however, that legal issues in defending OUI charges are "pretty standard" and that the issues presented in this case were not unusual. Furthermore, the witness testified that challenging the breathalyzer test due to the .02 discrepancy was not unusual, but the theory on which Fordham proceeded was novel. Finally, she stated that she thought she may have known of one person who might have spent close to one hundred hours on a difficult OUI case; she was not sure; but she had never heard of a fee in excess of \$10,000 for a bench trial.
 
-In considering whether a fee is "clearly excessive," the first factor to be considered pursuant to that rule is "the novelty and difficulty of the questions involved, and the skill requisite to perform the legal service properly." That standard is similar to the familiar standard of reasonableness traditionally applied in civil fee disputes. Based on the testimony of the four experts, the number of hours devoted to Timothy's OUI case by Fordham and his associates was substantially in excess of the hours that a prudent experienced lawyer would have spent. According to the evidence, the number of hours spent was several times the amount of time any of the witnesses had ever spent on a similar case. We are not unmindful of the novel and successful motion to suppress the breathalyzer test results, but that effort cannot justify a $50,000 fee in a type of case in which the usual fee is less than one-third of that amount.
+In considering whether a fee is "clearly excessive," the first factor to be considered pursuant to that rule is "the novelty and difficulty of the questions involved, and the skill requisite to perform the legal service properly." That standard is similar to the familiar standard of reasonableness traditionally applied in civil fee disputes. Based on the testimony of the four experts, the number of hours devoted to Timothy's OUI case by Fordham and his associates was substantially in excess of the hours that a prudent experienced lawyer would have spent. According to the evidence, the number of hours spent was several times the amount of time any of the witnesses had ever spent on a similar case. We are not unmindful of the novel and successful motion to suppress the breathalyzer test results, but that effort cannot justify a \$50,000 fee in a type of case in which the usual fee is less than one-third of that amount.
 
 The board determined that "because Fordham had never tried an OUI case or appeared in the district court, Fordham spent over 200 hours preparing the case, in part to educate himself in the relevant substantive law and court procedures." Fordham's inexperience in criminal defense work and OUI cases in particular cannot justify the extraordinarily high fee. It cannot be that an inexperienced lawyer is entitled to charge three or four times as much as an experienced lawyer for the same service. A client "should not be expected to pay for the education of a lawyer when he spends excessive amounts of time on tasks which, with reasonable experience, become matters of routine." "While the licensing of a lawyer is evidence that he has met the standards then prevailing for admission to the bar, a lawyer generally should not accept employment in any area of the law in which he is not qualified. However, he may accept such employment if in good faith he expects to become qualified through study and investigation, as long as such preparation would not result in unreasonable delay or expense to his client." Although the ethical considerations set forth in the ABA Code of Professional Responsibility and Canons of Judicial Ethics are not binding, they nonetheless serve as a guiding principle.
 
-The third factor to be considered in ascertaining the reasonableness of a fee is its comparability to "the fee customarily charged in the locality for similar legal services." The hearing committee made no finding as to the comparability of Fordham's fee with the fees customarily charged in the locality for similar services. However, one of bar counsel's expert witnesses testified that he had never heard of a fee in excess of $15,000 to defend a first OUI charge, and the customary flat fee in an OUI case, including trial, "runs from $1,000 to $7,500." Bar counsel's other expert testified that he had never heard of a fee in excess of $10,000 for a bench trial. In his view, the customary charge for a case similar to Timothy's would vary between $1,500 and $5,000. One of Fordham's experts testified that she considered a $40,000 or $50,000 fee for defending an OUI charge "unusual and certainly higher by far than any I've ever seen before." The witness had never charged a fee of more than $3,500 for representing a client at a bench trial to defend a first offense OUI charge. She further testified that she believed an "average OUI in the bench session is two thousand dollars and sometimes less." Finally, that witness testified that she had "heard a rumor" that one attorney charged $10,000 for a bench trial involving an OUI charge; this fee represented the highest fee of which she was aware. The other expert witness called by Fordham testified that he had heard of a $35,000 fee for defending OUI charges, but he had never charged more than $12,000 (less than twenty-five per cent of Fordham's fee).
+The third factor to be considered in ascertaining the reasonableness of a fee is its comparability to "the fee customarily charged in the locality for similar legal services." The hearing committee made no finding as to the comparability of Fordham's fee with the fees customarily charged in the locality for similar services. However, one of bar counsel's expert witnesses testified that he had never heard of a fee in excess of \$15,000 to defend a first OUI charge, and the customary flat fee in an OUI case, including trial, "runs from \$1,000 to \$7,500." Bar counsel's other expert testified that he had never heard of a fee in excess of \$10,000 for a bench trial. In his view, the customary charge for a case similar to Timothy's would vary between \$1,500 and \$5,000. One of Fordham's experts testified that she considered a \$40,000 or \$50,000 fee for defending an OUI charge "unusual and certainly higher by far than any I've ever seen before." The witness had never charged a fee of more than \$3,500 for representing a client at a bench trial to defend a first offense OUI charge. She further testified that she believed an "average OUI in the bench session is two thousand dollars and sometimes less." Finally, that witness testified that she had "heard a rumor" that one attorney charged \$10,000 for a bench trial involving an OUI charge; this fee represented the highest fee of which she was aware. The other expert witness called by Fordham testified that he had heard of a \$35,000 fee for defending OUI charges, but he had never charged more than \$12,000 (less than twenty-five per cent of Fordham's fee).
 
 Although finding that Fordham's fee was "much higher than the fee charged by many attorneys with more experience litigating driving under the influence cases," the hearing committee nevertheless determined that the fee charged by Fordham was not clearly excessive because Clark "went into the relationship with Fordham with open eyes," Fordham's fee fell within a "safe harbor," and Clark acquiesced in Fordham's fee by not strenuously objecting to his bills. The board accepted the hearing committee's analysis apart from the committee's reliance on the "safe harbor" rule.
 
-The finding that Clark had entered into the fee agreement "with open eyes" was based on the finding that Clark hired Fordham after being fully apprised that he lacked any type of experience in defending an OUI charge and after interviewing other lawyers who were experts in defending OUI charges. Furthermore, the hearing committee and the board relied on testimony which revealed that the fee arrangement had been fully disclosed to Clark including the fact that Fordham "would have to become familiar with the law in that area." It is also significant, however, that the hearing committee found that "despite Fordham's disclaimers concerning his experience, Clark did not appear to have understood in any real sense the implications of choosing Fordham to represent Timothy. Fordham did not give Clark any estimate of the total expected fee or the number of $200 hours that would be required." The express finding of the hearing committee that Clark "did not appear to have understood in any real sense the implications of choosing Fordham to represent Timothy" directly militates against the finding that Clark entered into the agreement "with open eyes."
+The finding that Clark had entered into the fee agreement "with open eyes" was based on the finding that Clark hired Fordham after being fully apprised that he lacked any type of experience in defending an OUI charge and after interviewing other lawyers who were experts in defending OUI charges. Furthermore, the hearing committee and the board relied on testimony which revealed that the fee arrangement had been fully disclosed to Clark including the fact that Fordham "would have to become familiar with the law in that area." It is also significant, however, that the hearing committee found that "despite Fordham's disclaimers concerning his experience, Clark did not appear to have understood in any real sense the implications of choosing Fordham to represent Timothy. Fordham did not give Clark any estimate of the total expected fee or the number of \$200 hours that would be required." The express finding of the hearing committee that Clark "did not appear to have understood in any real sense the implications of choosing Fordham to represent Timothy" directly militates against the finding that Clark entered into the agreement "with open eyes."
 
 That brings us to the hearing committee's finding that Fordham's fee fell within a "safe harbor." The hearing committee reasoned that as long as an agreement existed between a client and an attorney to bill a reasonable rate multiplied by the number of hours actually worked, the attorney's fee was within a "safe harbor" and thus protected from a challenge that the fee was clearly excessive. The board, however, in reviewing the hearing committee's decision, correctly rejected the notion "that a lawyer may always escape discipline with billings based on accurate time charges for work honestly performed."
 
@@ -889,15 +869,15 @@ Connie Daniel Cole seeks review of a judgment of the court of appeal affirming a
 
 Connie Daniel Cole retained attorney Bobby Culpepper of the law firm of Culpepper & Carroll, PLLC to represent him in a contest of his mother's will. Mr. Cole requested that the firm handle the matter on a one-third contingent fee basis, and Mr. Culpepper agreed to do so. On September 20, 2000, Mr. Culpepper sent Mr. Cole a letter in which he confirmed that he would accept the representation on a contingent fee basis of one-third "of whatever additional property or money we can get for you."
 
-After negotiation between Mr. Culpepper and counsel for the estate of Mr. Cole's mother, Mr. Cole was offered property worth $21,600.03 over and above what he would have received under the terms of the decedent's will. Mr. Culpepper thought the compromise was reasonable and recommended to Mr. Cole that he accept the offer.["_In propria persona_ is a Latin phrase meaning 'for one's self.' The phrase is used for a person who appears before a court or represents themself in absence of a lawyer. It is synonymous with the term _pro se_." [Wex Legal Dictionary](https://www.law.cornell.edu/wex/in_propria_persona)]{.aside} However, Mr. Cole refused to settle his claim for that amount, believing he was entitled to a larger share of his mother's succession as a forced heir. When Mr. Culpepper refused to file suit in the matter, Mr. Cole terminated his representation. Mr. Cole then proceeded in propria persona to challenge his mother's will, but he was unsuccessful and recovered nothing. 
+After negotiation between Mr. Culpepper and counsel for the estate of Mr. Cole's mother, Mr. Cole was offered property worth \$21,600.03 over and above what he would have received under the terms of the decedent's will. Mr. Culpepper thought the compromise was reasonable and recommended to Mr. Cole that he accept the offer.["_In propria persona_ is a Latin phrase meaning 'for one's self.' The phrase is used for a person who appears before a court or represents themself in absence of a lawyer. It is synonymous with the term _pro se_." [Wex Legal Dictionary](https://www.law.cornell.edu/wex/in_propria_persona)]{.aside} However, Mr. Cole refused to settle his claim for that amount, believing he was entitled to a larger share of his mother's succession as a forced heir. When Mr. Culpepper refused to file suit in the matter, Mr. Cole terminated his representation. Mr. Cole then proceeded in propria persona to challenge his mother's will, but he was unsuccessful and recovered nothing. 
 
-On April 12, 2004, Mr. Culpepper filed a "Petition on Open Account" on behalf of the Culpepper law firm. The suit was filed in Ruston City Court against Mr. Cole, seeking the sum of $6,950.01, plus legal interest, together with 25% on the principal and interest as additional attorney's fees. Attached to the petition were Mr. Culpepper's invoice for attorney's fees and a demand letter to Mr. Cole seeking the payment of "the entire balance of $6,950.01 that you owe Culpepper & Carroll, PLLC."
+On April 12, 2004, Mr. Culpepper filed a "Petition on Open Account" on behalf of the Culpepper law firm. The suit was filed in Ruston City Court against Mr. Cole, seeking the sum of \$6,950.01, plus legal interest, together with 25% on the principal and interest as additional attorney's fees. Attached to the petition were Mr. Culpepper's invoice for attorney's fees and a demand letter to Mr. Cole seeking the payment of "the entire balance of \$6,950.01 that you owe Culpepper & Carroll, PLLC."
 
 Mr. Cole, appearing in proper person, answered the law firm's petition and denied that he owed any money. Mr. Cole explained in his answer that "Mr. Culpepper did this on a contingency fee basis," that Mr. Culpepper "quit the case," and that Mr. Cole paid court costs but Mr. Culpepper "would not go to court."
 
-Following a trial on the merits, at which both parties testified, the city court rendered judgment in favor of the law firm, awarding the sum of $6,950.01, plus legal interest from the date of judicial demand until paid, together with 25% on the principal and interest as additional attorney's fees, and costs. In oral reasons for judgment, the city court judge stated that a "contingency fee was present" based on the record, including the testimony in open court and the written admission in Mr. Cole's answer that there was a contingent fee arrangement. The court noted that "work was accomplished" by Mr. Culpepper and further noted that, according to the testimony, the settlement would have produced a better result than if the case had gone to trial on the issue of forced heirship. Thus, the court was satisfied that the law firm met its burden of proof.
+Following a trial on the merits, at which both parties testified, the city court rendered judgment in favor of the law firm, awarding the sum of \$6,950.01, plus legal interest from the date of judicial demand until paid, together with 25% on the principal and interest as additional attorney's fees, and costs. In oral reasons for judgment, the city court judge stated that a "contingency fee was present" based on the record, including the testimony in open court and the written admission in Mr. Cole's answer that there was a contingent fee arrangement. The court noted that "work was accomplished" by Mr. Culpepper and further noted that, according to the testimony, the settlement would have produced a better result than if the case had gone to trial on the issue of forced heirship. Thus, the court was satisfied that the law firm met its burden of proof.
 
-Mr. Cole appealed the city court's judgment, and in a 2-1 ruling, the court of appeal amended the judgment and affirmed. The majority agreed that a valid contingent fee contract existed between Mr. Cole and Mr. Culpepper, and found that by refusing to sign the "favorable settlement" negotiated by Mr. Culpepper before he was discharged, Mr. Cole was in effect depriving Mr. Culpepper of the contingent fee he had already earned. Accordingly, the court of appeal affirmed the award to Mr. Culpepper of $6,950.01 in attorney's fees, plus legal interest. However, the court of appeal found that the money owing in this case does not derive from an open account, but rather from a contractual obligation in the form of a contingent fee agreement. Based on this reasoning, the court of appeal amended the trial court's judgment to delete the award to the law firm of 25% additional attorney's fees plus costs under the open account statute.
+Mr. Cole appealed the city court's judgment, and in a 2-1 ruling, the court of appeal amended the judgment and affirmed. The majority agreed that a valid contingent fee contract existed between Mr. Cole and Mr. Culpepper, and found that by refusing to sign the "favorable settlement" negotiated by Mr. Culpepper before he was discharged, Mr. Cole was in effect depriving Mr. Culpepper of the contingent fee he had already earned. Accordingly, the court of appeal affirmed the award to Mr. Culpepper of \$6,950.01 in attorney's fees, plus legal interest. However, the court of appeal found that the money owing in this case does not derive from an open account, but rather from a contractual obligation in the form of a contingent fee agreement. Based on this reasoning, the court of appeal amended the trial court's judgment to delete the award to the law firm of 25% additional attorney's fees plus costs under the open account statute.
 
 Judge Caraway dissented. He recognized that a contingent fee contract existed in this case, but found that because there was ultimately no recovery in the case, no fee was due to Mr. Culpepper. Judge Caraway further observed that to allow an attorney to collect a fee when the client rejects a settlement offer and later recovers nothing "ignores multiple and serious concerns embodied in the rules of professional conduct."
 
@@ -919,11 +899,11 @@ In summary, we find that Mr. Culpepper did not obtain any recovery on behalf of 
 
 ## Client Property
 
-#### @MRPC1.15
+#### Model Rules of Professional Conduct
 
 ::: {.legalcode}
 
-##### Safekeeping property
+##### Rule 1.15 -- Safekeeping property
 
 - (a\) A lawyer shall hold property of clients or third persons that is in a lawyer's possession in connection with a representation separate from the lawyer's own property. Funds shall be kept in a separate account maintained in the state where the lawyer's office is situated, or elsewhere with the consent of the client or third person. Other property shall be identified as such and appropriately safeguarded. Complete records of such account funds and other property shall be kept by the lawyer and shall be preserved for a period of [five years] after termination of the representation.
 - (b\) A lawyer may deposit the lawyer's own funds in a client trust account for the sole purpose of paying bank service charges on that account, but only in an amount necessary for that purpose.
