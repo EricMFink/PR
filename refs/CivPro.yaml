@@ -1,0 +1,1794 @@
+---
+references:
+- id: 28USC1331
+  citation-key: 28USC1331
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  license: '3'
+  section: '1331'
+  title: Federal Question
+  type: legislation
+  volume: '28'
+
+- id: 28USC1332
+  citation-key: 28USC1332
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  license: '3'
+  section: '1332'
+  title: Diversity of Citizenship
+  type: legislation
+  volume: '28'
+
+- id: 28USC1367
+  citation-key: 28USC1367
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  license: '3'
+  section: '1367'
+  title: Supplemental Jurisdiction
+  type: legislation
+  volume: '28'
+
+- id: 28USC1441
+  citation-key: 28USC1441
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  license: '3'
+  section: '1441'
+  title: Removal of Civil Actions
+  type: legislation
+  volume: '28'
+
+- id: 28USC1445
+  citation-key: 28USC1445
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  license: '3'
+  section: '1445'
+  title: Nonremovable Actions
+  type: legislation
+  volume: '28'
+
+- id: 28USC1446
+  citation-key: 28USC1446
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  license: '3'
+  section: '1446'
+  title: Procedure for Removal
+  type: legislation
+  volume: '28'
+
+- id: 28USC1447
+  citation-key: 28USC1447
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  license: '3'
+  section: '1447'
+  title: Procedure after Removal
+  type: legislation
+  volume: '28'
+
+- id: 28USC1652
+  citation-key: 28USC1652
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  license: '3'
+  section: '1652'
+  title: State Laws as Rules of Decision
+  type: legislation
+  volume: '28'
+
+- id: 28USC1738
+  citation-key: 28USC1738
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  license: '3'
+  section: '1738'
+  title: Full Faith & Credit
+  type: legislation
+  volume: '28'
+
+- id: 28USC2071
+  citation-key: 28USC2071
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  license: '3'
+  section: '2071'
+  title: Rules Enabling Act -- Rule-Making Power Generally
+  type: legislation
+  volume: '28'
+
+- id: 28USC2072
+  citation-key: 28USC2072
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  license: '3'
+  section: '2072'
+  title: 'Rules Enabling Act -- Rules of Procedure and Evidence: Power to Prescribe'
+  type: legislation
+  volume: '28'
+
+- id: 28USC2073
+  citation-key: 28USC2073
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  license: '3'
+  section: '2073'
+  title: 'Rules Enabling Act -- Rules of Procedure and Evidence: Method of Prescribing'
+  type: legislation
+  volume: '28'
+
+- id: 28USC2074
+  citation-key: 28USC2074
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  license: '3'
+  section: '2074'
+  title: 'Rules Enabling Act -- Rules of Procedure and Evidence: Submission to Congress'
+  type: legislation
+  volume: '28'
+
+- id: AdministrativeOfficeoftheUSCourts_nd
+  author:
+    - family: Administrative Office of the U.S. Courts
+      given: ''
+  citation-key: AdministrativeOfficeoftheUSCourts_nd
+  language: en
+  title: Understanding the Federal Courts
+  title-short: Understanding the Federal Courts
+  type: document
+  URL: https://www.uscourts.gov/sites/default/files/understanding-federal-courts.pdf
+
+- id: AmadorCountyCalUs_DCCir2014
+  authority: D.C. Cir.
+  citation-key: AmadorCountyCalUs_DCCir2014
+  container-title: F.3d
+  container-title-short: F.3d
+  issued:
+    - year: 2014
+  language: en
+  page: '901'
+  title: Amador County, Cal. v. U.S. Dept. of the Interior
+  type: legal_case
+  volume: '772'
+
+- id: AmmelSinema_MDNC2026
+  authority: M.D.N.C.
+  citation-key: AmmelSinema_MDNC2026
+  issued:
+    - year: 2026
+      month: 9
+      day: 4
+  language: en
+  number: 1:26-CV-38
+  title: Ammel v. Sinema
+  type: legal_case
+
+- id: AshcroftIqbal_US2009
+  authority: U.S.
+  citation-key: AshcroftIqbal_US2009
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 2009
+  language: en
+  page: '662'
+  title: Ashcroft v. Iqbal
+  type: legal_case
+  volume: '556'
+
+- id: BellAtlanticCorpTwombly_US2007
+  authority: U.S.
+  citation-key: BellAtlanticCorpTwombly_US2007
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 2007
+  language: en
+  page: '544'
+  title: Bell Atlantic Corp. v. Twombly
+  type: legal_case
+  volume: '550'
+
+- id: BerkChoy_US2026
+  authority: U.S.
+  citation-key: BerkChoy_US2026
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 2026
+      month: 1
+      day: 20
+  language: en
+  page: '187'
+  title: Berk v. Choy
+  type: legal_case
+  volume: '607'
+
+- id: BivensSixUnknownFed_US1971
+  authority: U.S.
+  citation-key: BivensSixUnknownFed_US1971
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 1971
+  page: '388'
+  title: Bivens v. Six Unknown Fed. Narcotics Agents
+  type: legal_case
+  volume: '403'
+
+- id: BlackWhiteTaxiCo_US1928
+  authority: U.S.
+  citation-key: BlackWhiteTaxiCo_US1928
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 1928
+  language: en
+  page: '518'
+  title: Black & White Taxi Co. v. Brown & Yellow Taxi Co.
+  type: legal_case
+  volume: '276'
+
+- id: BurdineMetropolitanDirectProp_EDKy2018
+  authority: E.D. Ky.
+  citation-key: BurdineMetropolitanDirectProp_EDKy2018
+  issued:
+    - year: 2018
+      month: 11
+      day: 1
+  language: en
+  number: 3:17-CV-00093
+  title: Burdine v. Metropolitan Direct Prop. & Cas. Ins. Co.
+  type: legal_case
+
+- id: Butterick2015
+  author:
+    - family: Butterick
+      given: Matthew
+  citation-key: Butterick2015
+  ISBN: 978-1-59839-262-3
+  issued:
+    - year: 2015
+  language: en
+  number-of-pages: '240'
+  publisher: Thomson Reuters
+  publisher-place: Houston, TX
+  title: Typography for Lawyers 2nd
+  type: book
+  URL: https://typographyforlawyers.com
+
+- id: ByrdBlueRidgeRural_US1958
+  authority: U.S.
+  citation-key: ByrdBlueRidgeRural_US1958
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 1958
+  language: en
+  page: '525'
+  title: Byrd v. Blue Ridge Rural Elec. Coop.
+  type: legal_case
+  volume: '356'
+
+- id: CalCodeCivProc410.10
+  citation-key: CalCodeCivProc410.10
+  container-title: Cal. Code Civ. Proc.
+  language: en
+  license: '6'
+  section: '410.10'
+  title: Cal. Code Civ. Proc. sec. 410.10
+  type: legislation
+
+- id: CamachoMajorLeagueBaseball_SDCal2013
+  authority: S.D. Cal.
+  citation-key: CamachoMajorLeagueBaseball_SDCal2013
+  issued:
+    - year: 2013
+      month: 12
+      day: 19
+  language: en
+  number: 12-CV-2859
+  title: Camacho v. Major League Baseball
+  type: legal_case
+
+- id: CarnivalCruiseLinesShute_US1991
+  authority: U.S.
+  citation-key: CarnivalCruiseLinesShute_US1991
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 1991
+  language: en
+  page: '585'
+  title: Carnival Cruise Lines v. Shute
+  type: legal_case
+  volume: '499'
+
+- id: Casto1987
+  author:
+    - family: Casto
+      given: William R
+  citation-key: Casto1987
+  container-title: Tulane Law Review
+  container-title-short: Tulane Law Rev.
+  issued:
+    - year: 1987
+  language: en
+  page: '907'
+  publisher: HeinOnline
+  title: The Erie Doctrine and the Structure of Constitutional Revolutions
+  type: article-journal
+  URL: https://www.tulanelawreview.org/pub/volume62/issue5/the-erie-doctrine-and-the-structure-of-constitutional-revolutions-2
+  volume: '62'
+
+- id: CitingSlaveryProject_nd
+  accessed:
+    - year: 2026
+      month: 8
+      day: 7
+  citation-key: CitingSlaveryProject_nd
+  language: en
+  title: Citing Slavery Project
+  type: webpage
+  URL: https://www.citingslavery.org/
+
+- id: CohenBeneficialIndusLoan_US1949
+  authority: U.S.
+  citation-key: CohenBeneficialIndusLoan_US1949
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 1949
+  language: en
+  page: '541'
+  title: Cohen v. Beneficial Indus. Loan Corp.
+  type: legal_case
+  volume: '337'
+
+- id: ColbornForestGoodEats_EDNC2020
+  authority: E.D.N.C.
+  citation-key: ColbornForestGoodEats_EDNC2020
+  issued:
+    - year: 2020
+      month: 9
+      day: 18
+  language: en
+  number: 5:19-CV-431
+  title: Colborn v. Forest Good Eats, Llc
+  type: legal_case
+
+- id: CompleteBusSolGrp_EDPa2020
+  authority: E.D. Pa.
+  citation-key: CompleteBusSolGrp_EDPa2020
+  issued:
+    - year: 2020
+      month: 7
+      day: 18
+  language: en
+  number: 20-CV-724
+  title: Complete Bus. Sol. Grp. v. Annie's Pooch Pops
+  type: legal_case
+
+- id: CorpWorldFederationAdvertisers_NDTex2026
+  authority: N.D. Tex.
+  citation-key: CorpWorldFederationAdvertisers_NDTex2026
+  issued:
+    - year: 2026
+      month: 3
+      day: 26
+  language: en
+  number: 7:24-CV-0114
+  title: X Corp. v. World Federation of Advertisers
+  type: legal_case
+
+- id: CraneCityArlingtonTexas_5thCir2022
+  authority: 5th Cir.
+  citation-key: CraneCityArlingtonTexas_5thCir2022
+  container-title: F.4th
+  container-title-short: F.4th
+  issued:
+    - year: 2022
+      month: 9
+      day: 30
+  language: en
+  page: '453'
+  title: Crane v. City of Arlington, Texas
+  type: legal_case
+  volume: '50'
+
+- id: DaimlerAGBauman_US2014
+  authority: U.S.
+  citation-key: DaimlerAGBauman_US2014
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 2014
+  language: en
+  page: '117'
+  title: Daimler A.G. v. Bauman
+  type: legal_case
+  volume: '571'
+
+- id: DoeClintonCty_WDMich2025
+  authority: W.D. Mich.
+  citation-key: DoeClintonCty_WDMich2025
+  issued:
+    - year: 2025
+      month: 4
+      day: 28
+  language: en
+  number: 1:25-CV-368
+  title: Doe v. Clinton Cty.
+  type: legal_case
+
+- id: DolphinKickboxingCoFranchoice_DMinn2020
+  authority: D. Minn.
+  citation-key: DolphinKickboxingCoFranchoice_DMinn2020
+  container-title: F.R.D.
+  container-title-short: F.R.D.
+  issued:
+    - year: 2020
+      month: 5
+      day: 6
+  language: en
+  page: '393'
+  title: Dolphin Kickboxing Co. v. Franchoice, Inc.
+  type: legal_case
+  volume: '335'
+
+- id: EldenNirvanaLLC_CDCal2025
+  authority: C.D. Cal.
+  citation-key: EldenNirvanaLLC_CDCal2025
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2025
+      month: 9
+      day: 30
+  language: en
+  page: '1211'
+  title: Elden v. Nirvana, LLC
+  type: legal_case
+  volume: '802'
+
+- id: ErieRailroadCoTompkins_US1938
+  authority: U.S.
+  citation-key: ErieRailroadCoTompkins_US1938
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 1938
+  language: en
+  page: '64'
+  title: Erie Railroad Co. v. Tompkins
+  type: legal_case
+  volume: '304'
+
+- id: ExxonMobilCorpAllapattah_US2005
+  authority: U.S.
+  citation-key: ExxonMobilCorpAllapattah_US2005
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 2005
+  language: en
+  page: '546'
+  title: Exxon Mobil Corp. v. Allapattah Serv.
+  type: legal_case
+  volume: '545'
+
+- id: FedRCivP
+  citation-key: FedRCivP
+  language: en
+  license: '4'
+  page: '0'
+  title: Fed. R. Civ. P.
+  type: legislation
+
+- id: FedRCivP1
+  citation-key: FedRCivP1
+  language: en
+  license: '4'
+  note: Rule
+  page: '101'
+  title: Fed. R. Civ. P. Rule 1
+  type: legislation
+
+- id: FedRCivP10
+  citation-key: FedRCivP10
+  language: en
+  license: '4'
+  note: Rule
+  page: '110'
+  title: Fed. R. Civ. P. Rule 10
+  type: legislation
+
+- id: FedRCivP11
+  citation-key: FedRCivP11
+  language: en
+  license: '4'
+  note: Rule
+  page: '111'
+  title: Fed. R. Civ. P. Rule 11
+  type: legislation
+
+- id: FedRCivP12
+  citation-key: FedRCivP12
+  language: en
+  license: '4'
+  note: Rule
+  page: '112'
+  title: Fed. R. Civ. P. Rule 12
+  type: legislation
+
+- id: FedRCivP13
+  citation-key: FedRCivP13
+  language: en
+  license: '4'
+  note: Rule
+  page: '113'
+  title: Fed. R. Civ. P. Rule 13
+  type: legislation
+
+- id: FedRCivP14
+  citation-key: FedRCivP14
+  language: en
+  license: '4'
+  note: Rule
+  page: '114'
+  title: Fed. R. Civ. P. Rule 14
+  type: legislation
+
+- id: FedRCivP15
+  citation-key: FedRCivP15
+  language: en
+  license: '4'
+  note: Rule
+  page: '115'
+  title: Fed. R. Civ. P. Rule 15
+  type: legislation
+
+- id: FedRCivP16
+  citation-key: FedRCivP16
+  language: en
+  license: '4'
+  note: Rule
+  page: '116'
+  title: Fed. R. Civ. P. Rule 16
+  type: legislation
+
+- id: FedRCivP17
+  citation-key: FedRCivP17
+  language: en
+  license: '4'
+  note: Rule
+  page: '117'
+  title: Fed. R. Civ. P. Rule 17
+  type: legislation
+
+- id: FedRCivP18
+  citation-key: FedRCivP18
+  language: en
+  license: '4'
+  note: Rule
+  page: '118'
+  title: Fed. R. Civ. P. Rule 18
+  type: legislation
+
+- id: FedRCivP19
+  citation-key: FedRCivP19
+  language: en
+  license: '4'
+  note: Rule
+  page: '119'
+  title: Fed. R. Civ. P. Rule 19
+  type: legislation
+
+- id: FedRCivP2
+  citation-key: FedRCivP2
+  language: en
+  license: '4'
+  note: Rule
+  page: '102'
+  title: Fed. R. Civ. P. Rule 2
+  type: legislation
+
+- id: FedRCivP20
+  citation-key: FedRCivP20
+  language: en
+  license: '4'
+  note: Rule
+  page: '120'
+  title: Fed. R. Civ. P. Rule 20
+  type: legislation
+
+- id: FedRCivP21
+  citation-key: FedRCivP21
+  language: en
+  license: '4'
+  note: Rule
+  page: '121'
+  section: '21'
+  title: Fed. R. Civ. P. Rule 21
+  type: legislation
+
+- id: FedRCivP22
+  citation-key: FedRCivP22
+  language: en
+  license: '4'
+  note: Rule
+  page: '122'
+  section: '22'
+  title: Fed. R. Civ. P. Rule 22
+  type: legislation
+
+- id: FedRCivP23
+  citation-key: FedRCivP23
+  language: en
+  license: '4'
+  note: Rule
+  page: '123'
+  section: '23'
+  title: Fed. R. Civ. P. Rule 23
+  type: legislation
+
+- id: FedRCivP24
+  citation-key: FedRCivP24
+  language: en
+  license: '4'
+  note: Rule
+  page: '124'
+  section: '24'
+  title: Fed. R. Civ. P. Rule 24
+  type: legislation
+
+- id: FedRCivP25
+  citation-key: FedRCivP25
+  language: en
+  license: '4'
+  note: Rule
+  page: '125'
+  section: '25'
+  title: Fed. R. Civ. P. Rule 25
+  type: legislation
+
+- id: FedRCivP26
+  citation-key: FedRCivP26
+  language: en
+  license: '4'
+  note: Rule
+  page: '126'
+  section: '26'
+  title: Fed. R. Civ. P. Rule 26
+  type: legislation
+
+- id: FedRCivP3
+  citation-key: FedRCivP3
+  language: en
+  license: '4'
+  note: Rule
+  page: '103'
+  title: Fed. R. Civ. P. Rule 3
+  type: legislation
+
+- id: FedRCivP4
+  citation-key: FedRCivP4
+  language: en
+  license: '4'
+  note: Rule
+  page: '104'
+  title: Fed. R. Civ. P. Rule 4
+  type: legislation
+
+- id: FedRCivP42
+  citation-key: FedRCivP42
+  language: en
+  license: '4'
+  note: Rule
+  page: '142'
+  section: '42'
+  title: Fed. R. Civ. P. Rule 42
+  type: legislation
+
+- id: FedRCivP5
+  citation-key: FedRCivP5
+  language: en
+  license: '4'
+  note: Rule
+  page: '105'
+  title: Fed. R. Civ. P. Rule 5
+  type: legislation
+
+- id: FedRCivP55
+  citation-key: FedRCivP55
+  language: en
+  license: '4'
+  note: Rule
+  page: '155'
+  section: '55'
+  title: Fed. R. Civ. P. Rule 55
+  type: legislation
+
+- id: FedRCivP56
+  citation-key: FedRCivP56
+  language: en
+  license: '4'
+  note: Rule
+  page: '156'
+  section: '56'
+  title: Fed. R. Civ. P. Rule 56
+  type: legislation
+
+- id: FedRCivP6
+  citation-key: FedRCivP6
+  language: en
+  license: '4'
+  note: Rule
+  page: '106'
+  title: Fed. R. Civ. P. Rule 6
+  type: legislation
+
+- id: FedRCivP7
+  citation-key: FedRCivP7
+  language: en
+  license: '4'
+  note: Rule
+  page: '107'
+  title: Fed. R. Civ. P. Rule 7
+  type: legislation
+
+- id: FedRCivP8
+  citation-key: FedRCivP8
+  language: en
+  license: '4'
+  note: Rule
+  page: '108'
+  title: Fed. R. Civ. P. Rule 8
+  type: legislation
+
+- id: FedRCivP9
+  citation-key: FedRCivP9
+  language: en
+  license: '4'
+  note: Rule
+  page: '109'
+  title: Fed. R. Civ. P. Rule 9
+  type: legislation
+
+- id: Felstiner1980
+  author:
+    - family: Felstiner
+      given: William
+    - family: Abel
+      given: Richard
+    - family: Sarat
+      given: Austin
+  citation-key: Felstiner1980
+  container-title: Law & Society Review
+  container-title-short: Law Soc. Rev.
+  issued:
+    - year: 1980
+  language: en
+  page: '631'
+  title: 'The Emergence and Transformation of Disputes: Naming, Blaming, Claiming…'
+  title-short: The Emergence and Transformation of Disputes
+  type: article-journal
+  URL: https://www.jstor.org/stable/3053505
+  volume: '15'
+
+- id: FordMotorCoMontana_US2021
+  authority: U.S.
+  citation-key: FordMotorCoMontana_US2021
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 2021
+  language: en
+  page: '351'
+  title: Ford Motor Co. v. Montana Eighth Jud. Dist. Ct.
+  type: legal_case
+  volume: '592'
+
+- id: Frye2018
+  author:
+    - family: Frye
+      given: Brian L
+  citation-key: Frye2018
+  container-title: Akron Law Review
+  container-title-short: Akron Law Rev.
+  issued:
+    - year: 2018
+  language: en
+  page: '531'
+  publisher: HeinOnline
+  title: The Ballad of Harry James Tompkins
+  type: article-journal
+  URL: https://uknowledge.uky.edu/law_facpub/639/
+  volume: '52'
+
+- id: GinwrightExeterFinCorp_DMd2017
+  authority: D. Md.
+  citation-key: GinwrightExeterFinCorp_DMd2017
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2017
+      month: 11
+      day: 28
+  language: en
+  page: '674'
+  title: Ginwright v. Exeter Fin. Corp.
+  type: legal_case
+  volume: '280'
+
+- id: GrableSonsMetalProd_US2005
+  authority: U.S.
+  citation-key: GrableSonsMetalProd_US2005
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 2005
+  language: en
+  page: '308'
+  title: Grable & Sons Metal Prod. v. Darue Eng'g & Mfg.
+  type: legal_case
+  volume: '545'
+
+- id: GuarantyTrustCoYork_US1945
+  authority: U.S.
+  citation-key: GuarantyTrustCoYork_US1945
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 1945
+  language: en
+  page: '99'
+  title: Guaranty Trust Co. v. York
+  type: legal_case
+  volume: '326'
+
+- id: HanksCoan_MDNC1999
+  authority: M.D.N.C.
+  citation-key: HanksCoan_MDNC1999
+  issued:
+    - year: 1999
+      month: 8
+      day: 17
+  language: en
+  number: 1:99-CV-00119
+  title: Hanks v Coan
+  type: legal_case
+
+- id: HannaPlumer_US1967
+  authority: U.S.
+  citation-key: HannaPlumer_US1967
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 1967
+  language: en
+  page: '460'
+  title: Hanna v. Plumer
+  type: legal_case
+  volume: '380'
+
+- id: HernandezAssetAcceptance_DColo2013
+  authority: D. Colo.
+  citation-key: HernandezAssetAcceptance_DColo2013
+  container-title: F. Supp. 2d
+  issued:
+    - year: 2013
+      month: 9
+      day: 10
+  language: en
+  page: '1194'
+  title: Hernandez v. Asset Acceptance
+  type: legal_case
+  volume: '970'
+
+- id: Holmes2020
+  author:
+    - family: Holmes
+      given: Oliver Wendell
+  citation-key: Holmes2020
+  DOI: 10.4324/9780429338908
+  ISBN: 978-0-429-33890-8
+  issued:
+    - year: 2020
+      month: 2
+      day: 18
+  language: en
+  number-of-pages: '365'
+  publisher: Routledge
+  publisher-place: New York
+  title: The Common Law
+  type: book
+
+- id: HunterEarthgrainsCoBakery_4thCir2001
+  authority: 4th Cir.
+  citation-key: HunterEarthgrainsCoBakery_4thCir2001
+  container-title: F.3d
+  container-title-short: F.3d
+  issued:
+    - year: 2001
+  language: en
+  page: '144'
+  title: Hunter v. Earthgrains Co. Bakery
+  type: legal_case
+  volume: '281'
+
+- id: InternationalShoeCoWashington_US1945
+  authority: U.S.
+  citation-key: InternationalShoeCoWashington_US1945
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 1945
+  language: en
+  page: '310'
+  title: International Shoe Co. v. Washington
+  type: legal_case
+  volume: '326'
+
+- id: JanjuaNeufeld_9thCir2019
+  authority: 9th Cir.
+  citation-key: JanjuaNeufeld_9thCir2019
+  container-title: F.3d
+  container-title-short: F.3d
+  issued:
+    - year: 2019
+      month: 8
+      day: 9
+  language: en
+  page: '1061'
+  title: Janjua v. Neufeld
+  type: legal_case
+  volume: '933'
+
+- id: JarrusGovernorMichigan_EDMich2025
+  authority: E.D. Mich.
+  citation-key: JarrusGovernorMichigan_EDMich2025
+  issued:
+    - year: 2025
+      month: 12
+      day: 2
+  language: en
+  number: 25-CV-11168
+  title: Jarrus v. Governor of Michigan
+  type: legal_case
+
+- id: Johnson1912
+  author:
+    - family: Johnson
+      given: E. Polk
+  citation-key: Johnson1912
+  issued:
+    - year: 1912
+  language: en
+  number-of-pages: '854'
+  publisher: Lewis Publishing Company
+  source: Google Books
+  title: 'A History of Kentucky and Kentuckians: The Leaders and Representative Men in Commerce, Industry and Modern Activities'
+  title-short: A history of kentucky and kentuckians
+  type: book
+  URL: https://play.google.com/books/reader?id=FXQUAAAAYAAJ&pg=GBS.PA1144.w.2.1.0_421
+
+- id: JohnsonCricketCouncilUSA_EDNC2023
+  authority: E.D.N.C.
+  citation-key: JohnsonCricketCouncilUSA_EDNC2023
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2023
+      month: 8
+      day: 24
+  language: en
+  page: '276'
+  title: Johnson v. Cricket Council USA
+  type: legal_case
+  volume: '658'
+
+- id: JohnsonGriffin_6thCir2023
+  authority: 6th Cir.
+  citation-key: JohnsonGriffin_6thCir2023
+  container-title: F.4th
+  container-title-short: F.4th
+  issued:
+    - year: 2023
+  language: en
+  page: '429'
+  title: Johnson v. Griffin
+  type: legal_case
+  volume: '85'
+
+- id: JohnsonSpencer_10thCir2020
+  authority: 10th Cir.
+  citation-key: JohnsonSpencer_10thCir2020
+  container-title: F.3d
+  container-title-short: F.3d
+  issued:
+    - year: 2020
+      month: 2
+      day: 13
+  language: en
+  page: '680'
+  title: Johnson v. Spencer
+  type: legal_case
+  volume: '950'
+
+- id: JonesFordMotorCredit_2dCir2004
+  authority: 2d Cir.
+  citation-key: JonesFordMotorCredit_2dCir2004
+  container-title: F.3d
+  container-title-short: F.3d
+  issued:
+    - year: 2004
+      month: 2
+      day: 5
+  language: en
+  page: '205'
+  title: Jones v. Ford Motor Credit Co.
+  type: legal_case
+  volume: '358'
+
+- id: Kafka1915
+  author:
+    - family: Kafka
+      given: Franz
+  citation-key: Kafka1915
+  issued:
+    - year: 1915
+  language: en
+  title: Before the Law
+  title-short: Before the Law
+  translator:
+    - family: Johnston
+      given: Ian
+  type: webpage
+  URL: https://www.kafka-online.info/before-the-law.html
+
+- id: KirkcaldyRichmondCtyBd_MDNC2002
+  authority: M.D.N.C.
+  citation-key: KirkcaldyRichmondCtyBd_MDNC2002
+  container-title: F.R.D.
+  container-title-short: F.R.D.
+  issued:
+    - year: 2002
+  language: en
+  page: '289'
+  title: Kirkcaldy v. Richmond Cty. Bd. of Ed.
+  type: legal_case
+  volume: '212'
+
+- id: Kuhn2012
+  author:
+    - family: Kuhn
+      given: Thomas S.
+    - family: Hacking
+      given: Ian
+  citation-key: Kuhn2012
+  ISBN: 978-0-226-45812-0
+  issued:
+    - year: 2012
+  language: en
+  number-of-pages: '264'
+  publisher: University of Chicago Press
+  publisher-place: Chicago ; London
+  source: Amazon
+  title: 'The Structure of Scientific Revolutions: 50th Anniversary Edition'
+  title-short: The structure of scientific revolutions
+  type: book
+  URL: https://www.google.com/books/edition/_/3eP5Y_OOuzwC?hl=en
+
+- id: LaPiana1986
+  accessed:
+    - year: 2025
+      month: 8
+      day: 12
+  author:
+    - family: LaPiana
+      given: William P.
+  citation-key: LaPiana1986
+  container-title: Suffolk University Law Review
+  container-title-short: Suffolk Univ. Law Rev.
+  issue: '4'
+  issued:
+    - year: 1986
+  language: en
+  page: 771–832
+  source: HeinOnline
+  title: 'Swift v. Tyson and the Brooding Omnipresence in the Sky: An Investigation of the Idea of Law in Antebellum America'
+  title-short: Swift v. Tyson and the Brooding Omnipresence in the Sky
+  type: article-journal
+  URL: https://heinonline.org/HOL/P?h=hein.journals/sufflr20&i=801
+  volume: '20'
+
+- id: LeePOWEntertainment_CDCal2020
+  authority: C.D. Cal.
+  citation-key: LeePOWEntertainment_CDCal2020
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2020
+      month: 6
+      day: 25
+  language: en
+  page: '1220'
+  title: Lee v. POW! Entertainment
+  type: legal_case
+  volume: '468'
+
+- id: LehmanRevolutionPortfolioLLC_1stCir1999
+  authority: 1st Cir.
+  citation-key: LehmanRevolutionPortfolioLLC_1stCir1999
+  container-title: F.3d
+  container-title-short: F.3d
+  issued:
+    - year: 1999
+      month: 1
+      day: 27
+  language: en
+  page: '389'
+  title: Lehman v. Revolution Portfolio LLC
+  type: legal_case
+  volume: '166'
+
+- id: LouisvilleNashvilleCoMottley_US1908
+  authority: U.S.
+  citation-key: LouisvilleNashvilleCoMottley_US1908
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 1908
+  language: en
+  page: '149'
+  title: Louisville & Nashville R. Co. v. Mottley
+  type: legal_case
+  volume: '211'
+
+- id: MalloryNorfolkSouthernRy_US2023
+  authority: U.S.
+  citation-key: MalloryNorfolkSouthernRy_US2023
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 2023
+  language: en
+  page: '122'
+  title: Mallory v. Norfolk Southern Ry. Co.
+  type: legal_case
+  volume: '600'
+
+- id: Marcus2009
+  author:
+    - family: Marcus
+      given: David
+  citation-key: Marcus2009
+  container-title: Georgia Law Review
+  container-title-short: Ga. Law Rev.
+  issued:
+    - year: 2009
+  language: en
+  page: '433'
+  publisher: HeinOnline
+  title: The Federal Rules of Civil Procedure and Legal Realism as a Jurisprudence of Law Reform
+  type: article-journal
+  URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1583102
+  volume: '44'
+
+- id: Metzler2017
+  author:
+    - family: Metzler
+      given: Jack
+  citation-key: Metzler2017
+  container-title: The Journal of Appellate Practice and Process
+  container-title-short: J. Appell. Pract. Process
+  issue: '2'
+  issued:
+    - year: 2017
+      month: 10
+      day: 1
+  language: en
+  page: '143'
+  source: COinS
+  title: Cleaning Up Quotations
+  type: article-journal
+  URL: https://lawrepository.ualr.edu/appellatepracticeprocess/vol18/iss2/3
+  volume: '18'
+
+- id: MineWorkersGibbs_US1966
+  authority: U.S.
+  citation-key: MineWorkersGibbs_US1966
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 1966
+  language: en
+  page: '715'
+  title: Mine Workers v. Gibbs
+  type: legal_case
+  volume: '383'
+
+- id: MosleyGeneralMotorsCorp_EDMo1980
+  authority: E.D. Mo.
+  citation-key: MosleyGeneralMotorsCorp_EDMo1980
+  container-title: F. Supp.
+  issued:
+    - year: 1980
+      month: 9
+      day: 30
+  language: en
+  page: '583'
+  title: Mosley v. General Motors Corp.
+  type: legal_case
+  volume: '497'
+
+- id: NationalSatelliteSportsEliadis_6thCir2001
+  authority: 6th Cir.
+  citation-key: NationalSatelliteSportsEliadis_6thCir2001
+  container-title: F.3d
+  container-title-short: F.3d
+  issued:
+    - year: 2001
+  language: en
+  page: '900'
+  title: National Satellite Sports v. Eliadis
+  type: legal_case
+  volume: '253'
+
+- id: NBAPropertiesHanwjh_7thCir2022
+  authority: 7th Cir.
+  citation-key: NBAPropertiesHanwjh_7thCir2022
+  container-title: F.4th
+  container-title-short: F.4th
+  issued:
+    - year: 2022
+  language: en
+  page: '614'
+  title: NBA Properties v. Hanwjh
+  type: legal_case
+  volume: '46'
+
+- id: NYCPLR302
+  citation-key: NYCPLR302
+  container-title: N.Y.C.P.L.R.
+  container-title-short: N.Y.C.P.L.R.
+  language: en
+  license: '6'
+  section: '302'
+  title: N.Y.C.P.L.R. sec. 302
+  type: legislation
+
+- id: OttawaTwpNewPar_NDOhio2017
+  authority: N.D. Ohio
+  citation-key: OttawaTwpNewPar_NDOhio2017
+  issued:
+    - year: 2017
+      month: 7
+      day: 10
+  language: en
+  number: 3:17-CV-228
+  title: Ottawa Twp. v. New Par (I)
+  type: legal_case
+
+- id: OttawaTwpNewPar_NDOhio2017a
+  authority: N.D. Ohio
+  citation-key: OttawaTwpNewPar_NDOhio2017a
+  issued:
+    - year: 2017
+      month: 10
+      day: 10
+  language: en
+  number: 3:17-CV-228
+  title: Ottawa Twp. v. New Par (II)
+  type: legal_case
+
+- id: PaceTimmermannsRanchSaddle_7thCir2014
+  authority: 7th Cir.
+  citation-key: PaceTimmermannsRanchSaddle_7thCir2014
+  container-title: F.3d
+  container-title-short: F.3d
+  issued:
+    - year: 2014
+  language: en
+  page: '748'
+  title: Pace v. Timmermann's Ranch & Saddle Shop
+  type: legal_case
+  volume: '795'
+
+- id: PalacioCitySpringfield_DMass2014
+  authority: D. Mass.
+  citation-key: PalacioCitySpringfield_DMass2014
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2014
+      month: 6
+      day: 9
+  language: en
+  page: '163'
+  title: Palacio v. City of Springfield
+  type: legal_case
+  volume: '25'
+
+- id: ParklaneHosieryCoShore_US1978
+  authority: U.S.
+  citation-key: ParklaneHosieryCoShore_US1978
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 1978
+  language: en
+  page: '322'
+  title: Parklane Hosiery Co. v. Shore
+  type: legal_case
+  volume: '439'
+
+- id: PassaroVirginia_4thCir2019
+  authority: 4th Cir.
+  citation-key: PassaroVirginia_4thCir2019
+  container-title: F.3d
+  container-title-short: F.3d
+  issued:
+    - year: 2019
+      month: 8
+      day: 16
+  language: en
+  page: '243'
+  title: Passaro v. Virginia
+  type: legal_case
+  volume: '935'
+
+- id: PatelStewartson_DNev2026
+  authority: D. Nev.
+  citation-key: PatelStewartson_DNev2026
+  issued:
+    - year: 2026
+      month: 7
+      day: 25
+  language: en
+  number: 2:23-CV-00873
+  title: Patel v. Stewartson
+  type: legal_case
+
+- id: PennoyerNeff_US1878
+  authority: U.S.
+  citation-key: PennoyerNeff_US1878
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 1878
+  language: en
+  page: '714'
+  title: Pennoyer v. Neff
+  type: legal_case
+  volume: '95'
+
+- id: Perdue1987
+  author:
+    - family: Perdue
+      given: Wendy
+  citation-key: Perdue1987
+  container-title: Washington Law Review
+  container-title-short: Wash. Law Rev.
+  issue: '3'
+  issued:
+    - year: 1987
+      month: 7
+      day: 1
+  language: en
+  page: '479'
+  source: COinS
+  title: 'Sin, Scandal, and Substantive Due Process: Personal Jurisdiction and Pennoyer Reconsidered'
+  title-short: Sin, Scandal, and Substantive Due Process
+  type: article-journal
+  URL: https://digitalcommons.law.uw.edu/wlr/vol62/iss3/8
+  volume: '62'
+
+- id: Perdue2024
+  author:
+    - family: Perdue
+      given: Wendy
+  citation-key: Perdue2024
+  container-title: University of Pittsburgh Law Review
+  container-title-short: Univ. Pittsburgh Law Rev.
+  issued:
+    - year: 2024
+      month: 1
+      day: 1
+  language: en
+  page: 1–29
+  source: COinS
+  title: 'Supplemental Jurisdiction and § 1367: The Good, The Bad, and the Ugly'
+  title-short: Supplemental Jurisdiction and § 1367
+  type: article-journal
+  URL: https://scholarship.richmond.edu/law-faculty-publications/1723
+  volume: '85'
+
+- id: RaganMerchantsTransferWarehouse_US1949
+  authority: U.S.
+  citation-key: RaganMerchantsTransferWarehouse_US1949
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 1949
+  language: en
+  page: '530'
+  title: Ragan v. Merchants Transfer & Warehouse Co.
+  type: legal_case
+  volume: '337'
+
+- id: ReisRoboticsUSAConcept_NDIll2006
+  authority: N.D. Ill.
+  citation-key: ReisRoboticsUSAConcept_NDIll2006
+  container-title: F. Supp. 2d
+  issued:
+    - year: 2006
+      month: 11
+      day: 6
+  language: en
+  page: '897'
+  title: Reis Robotics USA v. Concept Indus.
+  type: legal_case
+  volume: '462'
+
+- id: ReNageleisen_EDKyBankr2014
+  authority: E.D. Ky., Bankr.
+  citation-key: ReNageleisen_EDKyBankr2014
+  container-title: B.R.
+  container-title-short: B.R.
+  issued:
+    - year: 2014
+      month: 12
+      day: 30
+  language: en
+  page: '522'
+  title: In re Nageleisen
+  type: legal_case
+  volume: '523'
+
+- id: Rest2dofJudgments
+  citation-key: Rest2dofJudgments
+  genre: Restatement (Second) of Judgments
+  issued:
+    - year: 1982
+  language: en
+  license: '7'
+  publisher: Am. Law Inst.
+  title: Restatement (Second) of Judgments
+  type: standard
+
+- id: Rutherglen2001
+  accessed:
+    - year: 2025
+      month: 8
+      day: 12
+  author:
+    - family: Rutherglen
+      given: George
+  citation-key: Rutherglen2001
+  container-title: The Supreme Court Review
+  container-title-short: Supreme Court Rev.
+  DOI: 10.1086/scr.2001.3109692
+  ISSN: 0081-9557
+  issued:
+    - year: 2001
+  language: en
+  page: 347–374
+  source: www-journals-uchicago-edu.elon.idm.oclc.org (Atypon)
+  title: International Shoe and the Legacy of Legal Realism
+  type: article-journal
+  URL: https://www.journals.uchicago.edu/doi/abs/10.1086/scr.2001.3109692
+  volume: '2001'
+
+- id: SawyerIII2001
+  accessed:
+    - year: 2025
+      month: 8
+      day: 12
+  author:
+    - family: Sawyer III
+      given: Logan Everett
+  citation-key: SawyerIII2001
+  container-title: George Mason Law Review
+  container-title-short: George Mason Law Rev.
+  issue: '1'
+  issued:
+    - year: 2001
+    - year: 2002
+  language: en
+  page: 59–96
+  source: HeinOnline
+  title: 'Jurisdiction, Jurisprudence, and Legal Change: Sociological Jurisprudence and the Road to International Shoe'
+  title-short: Jurisdiction, Jurisprudence, and Legal Change
+  type: article-journal
+  URL: https://heinonline.org/HOL/P?h=hein.journals/gmlr10&i=69
+  volume: '10'
+
+- id: SmithSafemarineCorp_MDLa2024
+  authority: M.D. La.
+  citation-key: SmithSafemarineCorp_MDLa2024
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2024
+      month: 9
+      day: 18
+  language: en
+  page: '687'
+  title: Smith v. Safemarine Corp.
+  type: legal_case
+  volume: '749'
+
+- id: SmithWessonBrandsEstados_US2025
+  authority: U.S.
+  citation-key: SmithWessonBrandsEstados_US2025
+  container-title: S. Ct.
+  container-title-short: Ct
+  issued:
+    - year: 2025
+  language: en
+  page: '1556'
+  title: Smith & Wesson Brands v. Estados Unidos Mexicanos
+  type: legal_case
+  volume: '145'
+
+- id: SouthernPacificCoJensen_US1917
+  authority: U.S.
+  citation-key: SouthernPacificCoJensen_US1917
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 1917
+  language: en
+  page: '205'
+  title: Southern Pacific Co. v. Jensen
+  type: legal_case
+  volume: '244'
+
+- id: StoutVincent_5thCir2018
+  authority: 5th Cir.
+  citation-key: StoutVincent_5thCir2018
+  container-title: Fed. App'x.
+  container-title-short: Fed Appx
+  issued:
+    - year: 2018
+  language: en
+  page: '468'
+  title: Stout v. Vincent
+  type: legal_case
+  volume: '717'
+
+- id: SullivanBlakeFedexGroundPackage_WDPa2020
+  authority: W.D. Pa.
+  citation-key: SullivanBlakeFedexGroundPackage_WDPa2020
+  issued:
+    - year: 2020
+      month: 1
+      day: 31
+  language: en
+  number: 18-1698
+  title: Sullivan-Blake v. Fedex Ground Package Sys.
+  type: legal_case
+
+- id: SwiftTyson_US1842
+  authority: U.S.
+  citation-key: SwiftTyson_US1842
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 1842
+  language: en
+  page: '1'
+  title: Swift v. Tyson
+  type: legal_case
+  volume: '41'
+
+- id: TaylorSturgell_US2008
+  authority: U.S.
+  citation-key: TaylorSturgell_US2008
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 2008
+  language: en
+  page: '880'
+  title: Taylor v. Sturgell
+  type: legal_case
+  volume: '553'
+
+- id: Teton1940
+  author:
+    - family: Teton
+      given: Alfred B.
+  citation-key: Teton1940
+  container-title: Illinois Law Review
+  container-title-short: Ill. Law Rev.
+  issued:
+    - year: 1940
+  language: en
+  page: '519'
+  title: The Story of Swift v. Tyson
+  type: article-journal
+  volume: '35'
+
+- id: TrumpInternalRevenueServ_SDFla2026
+  authority: S.D. Fla.
+  citation-key: TrumpInternalRevenueServ_SDFla2026
+  issued:
+    - year: 2026
+      month: 7
+      day: 13
+  language: en
+  number: 26-CV-20609
+  title: Trump v. Internal Revenue Serv.
+  type: legal_case
+
+- id: TrumpNewYorkTimes_MDFla2025
+  authority: M.D. Fla.
+  citation-key: TrumpNewYorkTimes_MDFla2025
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2025
+      month: 9
+      day: 19
+  language: en
+  page: '1297'
+  title: Trump v. New York Times Co.
+  type: legal_case
+  volume: '800'
+
+- id: TurtonVirginiaDepartmentEducation_EDVa2015
+  authority: E.D. Va.
+  citation-key: TurtonVirginiaDepartmentEducation_EDVa2015
+  issued:
+    - year: 2015
+      month: 1
+      day: 15
+  language: en
+  number: 3:14-CV-446
+  title: Turton v. Virginia Department of Education
+  type: legal_case
+
+- id: USConstamendV
+  citation-key: USConstamendV
+  language: en
+  license: '2'
+  title: U.S. Const. amend. V
+  type: legislation
+
+- id: USConstamendXIV
+  citation-key: USConstamendXIV
+  language: en
+  license: '2'
+  title: U.S. Const. amend. XIV
+  type: legislation
+
+- id: USConstartIII
+  citation-key: USConstartIII
+  language: en
+  license: '1'
+  title: U.S. Const. art. III
+  type: legislation
+
+- id: USConstartIV
+  citation-key: USConstartIV
+  language: en
+  license: '1'
+  title: U.S. Const. art. IV
+  type: legislation
+
+- id: Warren1923
+  accessed:
+    - year: 2025
+      month: 8
+      day: 12
+  archive: JSTOR
+  author:
+    - family: Warren
+      given: Charles
+  citation-key: Warren1923
+  container-title: Harvard Law Review
+  container-title-short: Harv. Law Rev.
+  DOI: 10.2307/1328407
+  ISSN: 0017811X
+  issue: '1'
+  issued:
+    - year: 1923
+  language: en
+  page: 49–132
+  publisher: The Harvard Law Review Association
+  title: New Light on the History of the Federal Judiciary Act of 1789
+  type: article-journal
+  URL: http://www.jstor.org.elon.idm.oclc.org/stable/1328407
+  volume: '37'
+
+- id: WilliamsEstatesLLC_MDNC2023
+  authority: M.D.N.C.
+  citation-key: WilliamsEstatesLLC_MDNC2023
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2023
+      month: 3
+      day: 23
+  language: en
+  page: '466'
+  title: Williams v. The Estates LLC
+  type: legal_case
+  volume: '663'
+
+- id: WilliamsMitchell_4thCir2024
+  authority: 4th Cir.
+  citation-key: WilliamsMitchell_4thCir2024
+  container-title: F.4th
+  container-title-short: F.4th
+  issued:
+    - year: 2024
+      month: 11
+      day: 26
+  language: en
+  page: '85'
+  title: Williams v. Mitchell
+  type: legal_case
+  volume: '122'
+
+- id: WithersCityAberdeen_NDMiss2026
+  authority: N.D. Miss.
+  citation-key: WithersCityAberdeen_NDMiss2026
+  issued:
+    - year: 2026
+      month: 6
+      day: 8
+  language: en
+  number: 1:24-CV-00218
+  title: Withers v. City of Aberdeen
+  type: legal_case
+
+- id: WoodsInterstateRealtyCo_US1949
+  authority: U.S.
+  citation-key: WoodsInterstateRealtyCo_US1949
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 1949
+  language: en
+  page: '535'
+  title: Woods v. Interstate Realty Co.
+  type: legal_case
+  volume: '337'
+
+- id: WoodWard_SDOhio1879
+  authority: S.D. Ohio
+  citation-key: WoodWard_SDOhio1879
+  container-title: F. Cas.
+  issued:
+    - year: 1879
+  language: en
+  page: '479'
+  title: Wood v. Ward
+  type: legal_case
+  volume: '30'
+
+- id: WorldWideVolkswagenCorpWoodson_US1979
+  authority: U.S.
+  citation-key: WorldWideVolkswagenCorpWoodson_US1979
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 1979
+  language: en
+  page: '286'
+  title: World-Wide Volkswagen Corp. v. Woodson
+  type: legal_case
+  volume: '444'
+...

@@ -1,0 +1,19 @@
+---
+title: "404"
+sidebar: false
+toc: false
+---
+
+::: {.gevalt}
+
+## Page Not Found
+
+[![Nur um der Hoffnungslosen willen ist uns die Hoffnung gegeben](/img/benjamin.jpg)](https://walter-benjamin.online/)
+
+::: {.gevalt-link}
+
+[{{< bi arrow-counterclockwise >}}](/ "Return")
+
+::: 
+
+:::
