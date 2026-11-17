@@ -726,27 +726,64 @@ hr {
 
 /* 404 PAGE */
 .gevalt {
-	margin: 0 0 0 0;
-	padding: 0 0 0 0;
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
 }
-.gevalt-img {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	padding: 0;
-	width: 33%;
+
+.gevalt .quarto-figure {
+	position: relative;
+	max-width: 100%;
+	margin: 1.5rem auto 1.5rem auto;
 }
-.gevalt-caption {
-	font-family: "Literata",serif;
-	color: #800000;
-	font-weight: 300;
-	font-size: .9rem;
-	font-style: italic;
-	text-align: center;
-	margin: 1rem 0 0 0;
-	width: 100%;
-	display: block;
+
+.gevalt .img-fluid {
+  display: block;
+  padding: 0;
+  width: 33%;
 }
+
+.gevalt figcaption, caption {
+  font-family: "Literata",serif;
+  color: #800000;
+  font-weight: 300;
+  font-size: .9rem;
+  font-style: italic;
+  text-align: center;
+  margin: 1rem 0 0 0;
+  max-width: 33%;
+  display: block;
+}
+
+.gevalt-links {
+  display: block;
+  color: #fffff8;
+  text-decoration: none;
+  padding: .5rem 0 0 0;
+}
+
+.gevalt-link {
+  font-family: "LFT-Etica Mono",monospace;
+  margin: 3rem auto 0 auto;
+  padding: 0;
+  border: none;
+}
+
+ .gevalt i {
+  font-size: 1.2rem;
+  color: #800000;
+    &:hover {
+    color:#4b9cd3;
+    }
+}
+
+.gevalt a {
+  color: #800000;
+  text-decoration: none;
+    &:hover {
+    color:#4b9cd3;
+    }
+}
+
 
 /* PAGE LAYOUT */
 /*.quarto-container {
