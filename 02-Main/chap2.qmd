@@ -20,7 +20,7 @@
 	- (4\) refer clients to another lawyer or a nonlawyer professional pursuant to an agreement not otherwise prohibited under these Rules that provides for the other person to refer clients or customers to the lawyer, if:
 		- (i\) the reciprocal referral agreement is not exclusive; and
 		- (ii\) the client is informed of the existence and nature of the agreement; and
-- (5\) give nominal gifts as an expression of appreciation that are neither intended nor reasonably expected to be a form of compensation for recommending a lawyer’s services.
+	- (5\) give nominal gifts as an expression of appreciation that are neither intended nor reasonably expected to be a form of compensation for recommending a lawyer’s services.
 - (c\) A lawyer shall not state or imply that a lawyer is certified as a specialist in a particular field of law, unless:
 	- (1\) the lawyer has been certified as a specialist by an organization that has been approved by an appropriate authority of the state or the District of Columbia or a U.S. Territory or that has been accredited by the American Bar Association; and
 	- (2\) the name of the certifying organization is clearly identified in the communication.
@@ -391,7 +391,7 @@ Accordingly, I would hold that Hunter's speech is political, is entitled to the 
 - (d\) This Rule does not prohibit communications authorized by law or ordered by a court or other tribunal.
 - (e\) Notwithstanding the prohibitions in this Rule, a lawyer may participate with a prepaid or group legal service plan operated by an organization not owned or directed by the lawyer that uses live person-to-person contact to enroll members or sell subscriptions for the plan from persons who are not known to need legal services in a particular matter covered by the plan.
 
-##### RUle 7.6 -- Political Contributions to Obtain Legal Engagements or Appointments by Judges
+##### Rule 7.6 -- Political Contributions to Obtain Legal Engagements or Appointments by Judges
 
 - A lawyer or law firm shall not accept a government legal engagement or an appointment by a judge if the lawyer or law firm makes a political contribution or solicits political contributions for the purpose of obtaining or being considered for that type of legal engagement or appointment.
 

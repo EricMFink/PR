@@ -65,7 +65,7 @@
 - (c\) Notwithstanding paragraph (a), a lawyer may make a statement that a reasonable lawyer would believe is required to protect a client from the substantial undue prejudicial effect of recent publicity not initiated by the lawyer or the lawyer's client. A statement made pursuant to this paragraph shall be limited to such information as is necessary to mitigate the recent adverse publicity.
 - (d\) No lawyer associated in a firm or government agency with a lawyer subject to paragraph (a) shall make a statement prohibited by paragraph (a).
 
-##### RUle 3.7 -- Lawyer as Witness
+##### Rule 3.7 -- Lawyer as Witness
 
 - (a\) A lawyer shall not act as advocate at a trial in which the lawyer is likely to be a necessary witness unless:
 	- (1\) the testimony relates to an uncontested issue;
