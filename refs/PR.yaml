@@ -1208,20 +1208,20 @@ references:
   title-short: Character & Fitness Guidelines
   type: standard
 
-- id: NCGenStat84-2.1
-  citation-key: NCGenStat84-2.1
+- id: NCGenStat84-21
+  citation-key: NCGenStat84-21
   container-title: N.C. Gen. Stat.
   language: en
-  section: 84-2.1
-  title: NCGS 84-2.1 Practice of law defined
+  section: 84-21
+  title: NCGS 84-21 Practice of law defined
   type: legislation
 
-- id: NCGenStat84-2.8
-  citation-key: NCGenStat84-2.8
+- id: NCGenStat84-28
+  citation-key: NCGenStat84-28
   container-title: N.C. Gen. Stat.
   language: en
-  section: 84-2.8
-  title: NCGS 84-2.8 Discipline and disbarment
+  section: 84-28
+  title: NCGS 84-28 Discipline and disbarment
   type: legislation
 
 - id: NCRPC8.6
